@@ -34,7 +34,7 @@ public class Notif {
         String titre;
         if (offres.isEmpty()) {
             titre = "Mes gratuits fonctionne ✅";
-        } else if (meilleure.rarete.equals("leg")) {
+        } else if (meilleure.rarete.equals("leg") && "direct".equals(meilleure.acces)) {
             titre = "⭐ Légendaire : " + meilleure.titre;
         } else {
             titre = (test ? "Test : " : "") + offres.size() + " nouveaux gratuits aujourd'hui";
@@ -50,7 +50,7 @@ public class Notif {
         tri.sort((a, b) -> score(b) - score(a));
         for (int i = 0; i < Math.min(5, tri.size()); i++) {
             Verif.Offre o = tri.get(i);
-            detail.append("\n• ").append(o.titre).append(o.gratuit ? " — 100 % gratuit" : "");
+            detail.append("\n• ").append(o.titre).append("direct".equals(o.acces) ? (o.gratuit ? " — sûr et gratuit" : " — sûr") : "port".equals(o.acces) ? " — juste le port" : "");
         }
 
         Intent ouvrir = new Intent(c, MainActivity.class);
@@ -75,6 +75,7 @@ public class Notif {
     }
 
     private static int score(Verif.Offre o) {
-        return Verif.rang(o.rarete) * 2 + (o.gratuit ? 1 : 0);
+        int sur = o.acces == null ? 0 : o.acces.equals("direct") ? 3 : o.acces.equals("port") ? 2 : o.acces.equals("rembourse") ? 1 : 0;
+        return sur * 10 + Verif.rang(o.rarete) * 2 + (o.gratuit ? 1 : 0);
     }
 }

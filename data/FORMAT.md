@@ -2,7 +2,19 @@
 
 L'appli a deux grandes catégories : **Jeux vidéo** (data/jeux.json) et **Offres** (data/produits.json).
 Les deux fichiers sont réécrits EN ENTIER à chaque recherche (UTF-8, JSON valide, sans commentaires).
-Mets TOUTES les offres actives, triées : rareté (leg → com), puis 100 % gratuit d'abord, puis nouveautés, puis fin la plus proche.
+Mets TOUTES les offres actives, triées : d'abord par `acces` (direct → port → rembourse → condition → selection → tirage), puis rareté (leg → com), puis 100 % gratuit, puis nouveautés, puis fin la plus proche.
+
+## Le champ `acces` (OBLIGATOIRE, demande de Hugo du 21 nov.) : est-ce qu'on est SÛR de l'avoir ?
+
+L'appli range tout par ce champ, en grands groupes séparés. Choisis-le avec soin, pour chaque offre :
+- `direct` : SÛR à 100 %. Tu cliques / tu commandes, tu l'as, sans tirage, sans candidature, sans rien avancer, sans abonnement. (Jeu à garder, échantillon livré à 0 €, code qui marche pour tout le monde…)
+- `port` : le produit est offert, tu paies SEULEMENT les frais de port / de livraison (indique-les dans `cout` et `coutNum`).
+- `rembourse` : tu avances l'argent, puis tu es remboursé (offres « 100 % remboursé », ODR).
+- `condition` : tu l'as sûrement, mais avec une condition : abonnement ou essai à résilier, achat minimum, Prime / Game Pass, points ou missions à faire, déplacement en magasin, box payante, réduction.
+- `selection` : sur candidature / sélection : tu postules (test produit, panel, bêta fermée sur inscription, playtest « demander l'accès » non garanti) et ce n'est PAS sûr d'être choisi.
+- `tirage` : à gagner, tirage au sort, concours, giveaway au hasard : juste une chance.
+
+`gratuit: true` uniquement si `acces` vaut `direct` ET que ça coûte 0 € tout compris.
 
 ## data/jeux.json — tout ce qui touche aux jeux vidéo
 
@@ -18,6 +30,7 @@ Mets TOUTES les offres actives, triées : rareté (leg → com), puis 100 % grat
       "via": "",
       "genre": "Metroidvania pirate",
       "tags": ["Solo"],
+      "acces": "direct",
       "rarete": "epi",
       "gratuit": true,
       "prix": "24,99 €",

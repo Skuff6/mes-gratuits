@@ -25,7 +25,7 @@ public class Verif {
     static final String BASE = "https://raw.githubusercontent.com/Skuff6/mes-gratuits/main/data/";
 
     static class Offre {
-        String id, titre, onglet, rarete;
+        String id, titre, onglet, rarete, acces;
         boolean gratuit, nouveau;
     }
 
@@ -59,6 +59,7 @@ public class Verif {
                     x.gratuit = o.optBoolean("gratuit", false);
                     x.onglet = f.startsWith("produits") ? "offres" : "jeux";
                     x.nouveau = o.optBoolean("nouveau", false);
+                    x.acces = o.optString("acces", x.gratuit ? "direct" : "condition");
                     toutes.add(x);
                 }
             } catch (Exception ignored) {
@@ -75,6 +76,7 @@ public class Verif {
             if (connus.contains(o.id)) continue;
             if (!filtres.optBoolean(o.onglet, true)) continue;
             if (rang(o.rarete) < min) continue;
+            if (filtres.optBoolean("sur", true) && (o.acces.equals("selection") || o.acces.equals("tirage"))) continue;
             nouvelles.add(o);
         }
         p.edit().putStringSet("connus", ids).apply();
