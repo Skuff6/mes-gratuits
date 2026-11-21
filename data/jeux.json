@@ -13,7 +13,7 @@
    "fin": "2026-12-16T23:59:00+01:00",
    "finTxt": "Jusqu'au 16 déc.",
    "nouveau": false,
-   "desc": "Gestion de parc · horreur — Construis et gère ton propre Jurassic Park avec dinosaures, plus Radiolight (petit jeu d'horreur). Codes à activer sur Epic.",
+   "desc": "Construis et gère ton propre Jurassic Park avec dinosaures, plus Radiolight (petit jeu d'horreur). Codes à activer sur Epic.",
    "conditions": "Prime",
    "pieges": [],
    "etapes": [
@@ -24,7 +24,12 @@
    "fiabilite": "Officiel",
    "lien": "https://luna.amazon.com/claims",
    "avis": "Gros jeu payant à garder à vie : la meilleure prise Prime de la semaine.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Gestion de parc · horreur",
+   "tags": [
+    "Prime",
+    "Officiel"
+   ]
   },
   {
    "id": "alienisolation",
@@ -38,7 +43,7 @@
    "fin": null,
    "finTxt": "Retiré juste avant 17h le 19 nov. · retour non annoncé",
    "nouveau": false,
-   "desc": "Survival horror · FPS — Alien: Isolation devait être offert avec Mark of the Deep jusqu'au 26 nov., mais Epic l'a retiré de la page des jeux gratuits quelques heures avant, sans explication (big-n, Newsy Today). Seul Mark of the Deep est gratuit cette semaine.",
+   "desc": "Alien: Isolation devait être offert avec Mark of the Deep jusqu'au 26 nov., mais Epic l'a retiré de la page des jeux gratuits quelques heures avant, sans explication (big-n, Newsy Today). Seul Mark of the Deep est gratuit cette semaine.",
    "conditions": "Incertain",
    "pieges": [],
    "etapes": [
@@ -47,7 +52,12 @@
    "fiabilite": "",
    "lien": "https://big-n.fr/actualites/65668-epic-games-store-bread-and-fred-offert-26-novembre-alien-isolation-retire/",
    "avis": "Gros FPS d'horreur : si Epic le remet en ligne, il faudra foncer. Je surveille.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Survival horror · FPS",
+   "tags": [
+    "Incertain",
+    "FPS"
+   ]
   },
   {
    "id": "falloutnv",
@@ -61,7 +71,7 @@
    "fin": null,
    "finTxt": "Le 2 déc. 18h · stock limité",
    "nouveau": false,
-   "desc": "RPG / FPS culte — Clé Steam gratuite à garder via les Game Key Drops Lenovo Legion (file d'attente, premier arrivé premier servi).",
+   "desc": "Clé Steam gratuite à garder via les Game Key Drops Lenovo Legion (file d'attente, premier arrivé premier servi).",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -72,7 +82,12 @@
    "fiabilite": "Officiel",
    "lien": "https://www.ggrecon.com/articles/fallout-new-vegas-free-steam-lenovo/",
    "avis": "Un classique RPG-FPS. Crée ton compte Lenovo Legion + Twitch vérifié avant le jour J.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "RPG / FPS culte",
+   "tags": [
+    "Officiel",
+    "Stock limité"
+   ]
   },
   {
    "id": "markofthedeep",
@@ -86,7 +101,7 @@
    "fin": "2026-11-26T17:00:00+01:00",
    "finTxt": "Jusqu'au 26 nov. 17h",
    "nouveau": false,
-   "desc": "Action-aventure pirate · metroidvania 3D — Le jeu gratuit de la semaine sur Epic (PC + appli mobile) : action-aventure metroidvania en 3D façon pirate, à garder à vie.",
+   "desc": "Le jeu gratuit de la semaine sur Epic (PC + appli mobile) : action-aventure metroidvania en 3D façon pirate, à garder à vie.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -96,7 +111,11 @@
    "fiabilite": "Officiel",
    "lien": "https://store.epicgames.com/free-games/?lang=fr",
    "avis": "Disponible maintenant : ajoute-le à ta bibliothèque Epic.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Action-aventure pirate · metroidvania 3D",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "gigabash",
@@ -110,7 +129,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "Combat de kaijus · 4 joueurs — Baston de monstres géants dans des arènes destructibles.",
+   "desc": "Baston de monstres géants dans des arènes destructibles.",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -120,7 +139,12 @@
    "fiabilite": "",
    "lien": "https://nerdzap.com/free-games/",
    "avis": "Party-game multijoueur. Lanceur STOVE, pas Steam.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Combat de kaijus · 4 joueurs",
+   "tags": [
+    "Stock limité",
+    "Multijoueur"
+   ]
   },
   {
    "id": "witcher3dlc",
@@ -134,7 +158,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Extensions RPG — Avec la mise à jour gratuite The Witcher 3 Remastered (29 sept.), les deux grosses extensions sont offertes à tous les possesseurs du jeu de base sur Steam, GOG et Epic.",
+   "desc": "Avec la mise à jour gratuite The Witcher 3 Remastered (29 sept.), les deux grosses extensions sont offertes à tous les possesseurs du jeu de base sur Steam, GOG et Epic.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -144,7 +168,11 @@
    "fiabilite": "Officiel",
    "lien": "https://www.notebookcheck.net/The-Witcher-3-is-getting-another-major-overhaul-and-existing-owners-get-both-expansions-free.1378409.0.html",
    "avis": "Si tu as The Witcher 3 sans les extensions : plus de 40 h de contenu en plus, gratuitement.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Extensions RPG",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "mistfallweekend",
@@ -158,7 +186,7 @@
    "fin": "2026-11-23T23:59:00+01:00",
    "finTxt": "Jusqu'au 23 nov. (vers 19h)",
    "nouveau": false,
-   "desc": "Extraction PvPvE · dark fantasy · souls-like — Le jeu complet est jouable gratuitement sur Steam ce week-end : action-RPG d'extraction en vue à la 3e personne, tu explores des terres maudites, tu combats monstres et joueurs, puis tu dois t'extraire avec ton butin. -20 % pendant l'essai.",
+   "desc": "Le jeu complet est jouable gratuitement sur Steam ce week-end : action-RPG d'extraction en vue à la 3e personne, tu explores des terres maudites, tu combats monstres et joueurs, puis tu dois t'extraire avec ton butin. -20 % pendant l'essai.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -169,7 +197,12 @@
    "fiabilite": "Officiel",
    "lien": "https://store.steampowered.com/app/3282300/Mistfall_Hunter/",
    "avis": "Nouveau concept multijoueur PvPvE très proche des extraction shooters que tu aimes : teste-le avant d'acheter.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Extraction PvPvE · dark fantasy · souls-like",
+   "tags": [
+    "Officiel",
+    "Multijoueur"
+   ]
   },
   {
    "id": "starcitizen",
@@ -183,7 +216,7 @@
    "fin": "2026-11-27T21:00:00+01:00",
    "finTxt": "En cours → 27 nov. 21h",
    "nouveau": false,
-   "desc": "Simu spatiale · FPS · MMO — Le jeu spatial est jouable gratuitement pendant le salon IAE : vaisseaux à tester, combats spatiaux et FPS.",
+   "desc": "Le jeu spatial est jouable gratuitement pendant le salon IAE : vaisseaux à tester, combats spatiaux et FPS.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -194,7 +227,12 @@
    "fiabilite": "",
    "lien": "https://timesaver.gg/blog/star-citizen-iae-2956-schedule-free-fly-guide",
    "avis": "Gros jeu multijoueur, idéal pour voir s'il vaut le coup avant le Black Friday. Prévois ~100 Go et un bon PC.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Simu spatiale · FPS · MMO",
+   "tags": [
+    "Multijoueur",
+    "FPS"
+   ]
   },
   {
    "id": "cindercity",
@@ -208,7 +246,7 @@
    "fin": "2026-11-30T23:59:00+01:00",
    "finTxt": "Inscriptions → 30 nov. · alpha 4–6 déc.",
    "nouveau": false,
-   "desc": "Shooter open world sci-fi · multijoueur — Inscriptions ouvertes pour la grande alpha fermée Steam de Cinder City (BigFire Games / NCSoft) : shooter à la troisième personne dans un Séoul futuriste en ruines, en Europe aussi.",
+   "desc": "Inscriptions ouvertes pour la grande alpha fermée Steam de Cinder City (BigFire Games / NCSoft) : shooter à la troisième personne dans un Séoul futuriste en ruines, en Europe aussi.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -219,7 +257,13 @@
    "fiabilite": "Inscription",
    "lien": "https://www.gamestic.net/2026/11/12/open-world-sci-fi-shooter-cinder-city-opens-steam-closed-alpha-sign-ups/",
    "avis": "Gros shooter multijoueur attendu : inscris-toi avant le 30 nov. pour avoir une chance de jouer du 4 au 6 déc.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Shooter open world sci-fi · multijoueur",
+   "tags": [
+    "Inscription",
+    "FPS",
+    "Multijoueur"
+   ]
   },
   {
    "id": "primeautres",
@@ -233,7 +277,7 @@
    "fin": "2027-01-08T23:59:00+01:00",
    "finTxt": "25 nov. → 8 janv.",
    "nouveau": false,
-   "desc": "Divers — Ad Infinitum, Time Travel, Trash Goblin, KIBORG, WRC Generations, Squirrel with a Gun, Caravan SandWitch, WarBreeds.",
+   "desc": "Ad Infinitum, Time Travel, Trash Goblin, KIBORG, WRC Generations, Squirrel with a Gun, Caravan SandWitch, WarBreeds.",
    "conditions": "Prime",
    "pieges": [],
    "etapes": [
@@ -243,7 +287,12 @@
    "fiabilite": "",
    "lien": "https://luna.amazon.com/claims",
    "avis": "KIBORG (action) et Ad Infinitum (horreur FPS) pour toi.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Divers",
+   "tags": [
+    "Prime",
+    "FPS"
+   ]
   },
   {
    "id": "werewolfprime",
@@ -257,7 +306,7 @@
    "fin": null,
    "finTxt": "Depuis le 19 nov. (fin non affichée)",
    "nouveau": false,
-   "desc": "Action brutale · aventure — Incarne un loup-garou guerrier qui alterne infiltration et carnage, plus Clem (petite aventure). Codes Prime à activer sur Epic.",
+   "desc": "Incarne un loup-garou guerrier qui alterne infiltration et carnage, plus Clem (petite aventure). Codes Prime à activer sur Epic.",
    "conditions": "Prime",
    "pieges": [],
    "etapes": [
@@ -268,7 +317,12 @@
    "fiabilite": "Officiel",
    "lien": "https://luna.amazon.com/claims",
    "avis": "Jeu d'action payant à garder à vie, inclus dans Prime.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Action brutale · aventure",
+   "tags": [
+    "Prime",
+    "Officiel"
+   ]
   },
   {
    "id": "soulframe",
@@ -282,7 +336,7 @@
    "fin": null,
    "finTxt": "En cours (depuis le 6 nov.)",
    "nouveau": false,
-   "desc": "Action-RPG en ligne — Le nouveau jeu des créateurs de Warframe est ouvert à tous en alpha PC, sans invitation ni Founder's Pack.",
+   "desc": "Le nouveau jeu des créateurs de Warframe est ouvert à tous en alpha PC, sans invitation ni Founder's Pack.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -292,7 +346,12 @@
    "fiabilite": "Officiel, Accès direct",
    "lien": "https://godisageek.com/2026/11/soulframe-open-preludes-november/",
    "avis": "Gros jeu attendu, jouable maintenant en avant-première.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Action-RPG en ligne",
+   "tags": [
+    "Officiel",
+    "Accès direct"
+   ]
   },
   {
    "id": "poe2",
@@ -306,7 +365,7 @@
    "fin": null,
    "finTxt": "Le 11 déc.",
    "nouveau": false,
-   "desc": "Action-RPG en ligne — Sortie 1.0 avec la classe Duelist : le jeu devient entièrement gratuit sur Steam et le lanceur officiel.",
+   "desc": "Sortie 1.0 avec la classe Duelist : le jeu devient entièrement gratuit sur Steam et le lanceur officiel.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -316,7 +375,11 @@
    "fiabilite": "Officiel",
    "lien": "https://www.gamingonlinux.com/2026/11/path-of-exile-2-releases-december-11-with-a-huge-update-it-goes-free-to-play/",
    "avis": "Un gros action-RPG multijoueur qui sera jouable sans payer : inutile de l'acheter maintenant.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Action-RPG en ligne",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "itchbundle",
@@ -330,7 +393,7 @@
    "fin": "2026-11-22T23:59:00+01:00",
    "finTxt": "Fin 22 nov.",
    "nouveau": false,
-   "desc": "Indés variés — 116 jeux indés à 0 €, repéré par GamerPower et Nerdzap.",
+   "desc": "116 jeux indés à 0 €, repéré par GamerPower et Nerdzap.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -340,7 +403,11 @@
    "fiabilite": "Site connu",
    "lien": "https://www.gamerpower.com/giveaways/pc",
    "avis": "Pour dénicher des concepts originaux.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Indés variés",
+   "tags": [
+    "Site connu"
+   ]
   },
   {
    "id": "tarkovdrops",
@@ -354,7 +421,7 @@
    "fin": "2026-11-23T16:00:00+01:00",
    "finTxt": "Jusqu'au 23 nov. 16h",
    "nouveau": false,
-   "desc": "FPS extraction — Campagne de Twitch Drops Tarkov City : chaque jour, un t-shirt à gagner en regardant des streams Tarkov avec Drops activés (USEC Hangover Avenger les 18, 20 et 22 nov., BEAR Cocktail Criminal les 19 et 21).",
+   "desc": "Campagne de Twitch Drops Tarkov City : chaque jour, un t-shirt à gagner en regardant des streams Tarkov avec Drops activés (USEC Hangover Avenger les 18, 20 et 22 nov., BEAR Cocktail Criminal les 19 et 21).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -365,7 +432,12 @@
    "fiabilite": "Officiel",
    "lien": "https://www.gameleap.com/articles/escape-from-tarkov-tarkov-city-drops-campaign",
    "avis": "Si tu joues à Escape from Tarkov : cosmétiques gratuits pour tes deux factions, laisse tourner un stream en fond.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS extraction",
+   "tags": [
+    "FPS",
+    "Officiel"
+   ]
   },
   {
    "id": "contractor2",
@@ -379,7 +451,7 @@
    "fin": "2026-12-02T23:59:00+01:00",
    "finTxt": "Jusqu'au ~2 déc.",
    "nouveau": false,
-   "desc": "Simulation de chantier — Petit jeu de simulation offert sur l'Epic Games Store : tu pilotes une chargeuse pour déblayer gravats, béton cassé et débris sur des chantiers. À garder à vie.",
+   "desc": "Petit jeu de simulation offert sur l'Epic Games Store : tu pilotes une chargeuse pour déblayer gravats, béton cassé et débris sur des chantiers. À garder à vie.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -389,7 +461,11 @@
    "fiabilite": "Site connu",
    "lien": "https://store.epicgames.com/p/contractor-the-clean-up-part-ii-1b1b57",
    "avis": "Pas un FPS, mais gratuit et sans effort : ajoute-le à ta bibliothèque Epic.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Simulation de chantier",
+   "tags": [
+    "Site connu"
+   ]
   },
   {
    "id": "davediver",
@@ -403,7 +479,7 @@
    "fin": "2026-12-31T23:59:00+01:00",
    "finTxt": "Fin 31 déc.",
    "nouveau": false,
-   "desc": "DLC aventure — Contenu Godzilla gratuit jusqu'au 31 déc., plus le pack Guilty Gear -Strive- (GGST) aussi offert, sur Steam et Epic.",
+   "desc": "Contenu Godzilla gratuit jusqu'au 31 déc., plus le pack Guilty Gear -Strive- (GGST) aussi offert, sur Steam et Epic.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -413,7 +489,11 @@
    "fiabilite": "Officiel",
    "lien": "https://www.pcgamer.com/games/adventure/dave-the-diver-in-the-jungle-dlc-is-delayed-but-the-free-godzilla-content-pack-is-back-and-ichiban-kasuga-has-extended-his-vacation-until-the-end-of-2026",
    "avis": "Si tu as Dave the Diver, à prendre avant la fin d'année.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "DLC aventure",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "halo25",
@@ -427,7 +507,7 @@
    "fin": "2026-12-31T23:59:00+01:00",
    "finTxt": "Jusqu'au 31 déc.",
    "nouveau": false,
-   "desc": "FPS en ligne · F2P — Il suffit de te connecter à Halo Infinite (gratuit sur Steam et l'appli Xbox) pour débloquer 7 objets : plaques 25th Anniversary, Zeta Emissary et Zeta Trailblazer, revêtement de véhicule GEN XII, revêtement d'armure Access Denied, revêtement d'arme Lifegivers Hex et charme Ring Breaker. Halo fête ses 25 ans aujourd'hui.",
+   "desc": "Il suffit de te connecter à Halo Infinite (gratuit sur Steam et l'appli Xbox) pour débloquer 7 objets : plaques 25th Anniversary, Zeta Emissary et Zeta Trailblazer, revêtement de véhicule GEN XII, revêtement d'armure Access Denied, revêtement d'arme Lifegivers Hex et charme Ring Breaker. Halo fête ses 25 ans aujourd'hui.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -437,7 +517,12 @@
    "fiabilite": "Officiel",
    "lien": "https://www.halowaypoint.com/news/25th-anniversary-log-in-unlock",
    "avis": "Un FPS gratuit : lance-le une fois avant la fin de l'année pour garder les objets.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS en ligne · F2P",
+   "tags": [
+    "Officiel",
+    "FPS"
+   ]
   },
   {
    "id": "twitchfps",
@@ -451,7 +536,7 @@
    "fin": null,
    "finTxt": "Variable (R6 < 24 h, BF6 ~6 j, Delta Force ~14 j)",
    "nouveau": false,
-   "desc": "Objets en jeu — Delta Force (SG552, packs), Battlefield 6 (Red Ghost Saboteur), CoD Warzone/MW4 S1, Marvel Rivals (Cyclops), Overwatch 2, Apex (Godzilla), The Division 2, Borderlands 4, R6 Siege (Osaka, finit vite).",
+   "desc": "Delta Force (SG552, packs), Battlefield 6 (Red Ghost Saboteur), CoD Warzone/MW4 S1, Marvel Rivals (Cyclops), Overwatch 2, Apex (Godzilla), The Division 2, Borderlands 4, R6 Siege (Osaka, finit vite).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -462,7 +547,12 @@
    "fiabilite": "Site connu",
    "lien": "https://drophunter.app/drops",
    "avis": "Lie ton compte de jeu à Twitch et laisse tourner un stream : skins gratuits pour tes FPS.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Objets en jeu",
+   "tags": [
+    "FPS",
+    "Site connu"
+   ]
   },
   {
    "id": "gunsdragons",
@@ -476,7 +566,7 @@
    "fin": "2026-11-23T09:00:00+01:00",
    "finTxt": "Jusqu'au 23 nov. 9h",
    "nouveau": false,
-   "desc": "FPS roguelite coop · 4 joueurs — FPS roguelite solo ou coop jusqu'à 4 dans un monde fantasy magitech : 45+ armes et arcs, runes et artefacts, nouveau chapitre forêt maudite. Aussi sur Epic.",
+   "desc": "FPS roguelite solo ou coop jusqu'à 4 dans un monde fantasy magitech : 45+ armes et arcs, runes et artefacts, nouveau chapitre forêt maudite. Aussi sur Epic.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -486,7 +576,13 @@
    "fiabilite": "Accès direct",
    "lien": "https://pressreleases.triplepointpr.com/2026/11/09/co-op-fps-roguelite-guns-dragons-opens-free-playtest-on-steam-and-the-epic-games-store-debuting-a-new-cursed-forest-chapter/",
    "avis": "Un FPS coop à tester avec des potes, accès direct.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS roguelite coop · 4 joueurs",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Accès direct"
+   ]
   },
   {
    "id": "ck3weekend",
@@ -500,7 +596,7 @@
    "fin": "2026-11-23T23:59:00+01:00",
    "finTxt": "Jusqu'au 23 nov. (vers 19h)",
    "nouveau": false,
-   "desc": "Grande stratégie médiévale — Le jeu de stratégie dynastique de Paradox est jouable gratuitement sur Steam ce week-end : gère ta lignée, tes alliances et tes intrigues sur plusieurs générations.",
+   "desc": "Le jeu de stratégie dynastique de Paradox est jouable gratuitement sur Steam ce week-end : gère ta lignée, tes alliances et tes intrigues sur plusieurs générations.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -510,7 +606,12 @@
    "fiabilite": "Officiel, Mods",
    "lien": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/",
    "avis": "Pas un FPS, mais un gros jeu payant à tester sans risque, avec une grosse communauté de modding.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Grande stratégie médiévale",
+   "tags": [
+    "Officiel",
+    "Mods"
+   ]
   },
   {
    "id": "hunger",
@@ -524,7 +625,7 @@
    "fin": "2026-11-29T23:59:00+01:00",
    "finTxt": "27 → 29 nov. (bêta ouverte)",
    "nouveau": false,
-   "desc": "Extraction shooter · mousquets & mêlée — Extraction shooter PvPvE dans une Europe napoléonienne sombre : mousquets lents à recharger, épées et haches, hub social, quêtes, boss et donjons. Bêta ouverte gratuite sur Steam avant l'accès anticipé du 3 déc.",
+   "desc": "Extraction shooter PvPvE dans une Europe napoléonienne sombre : mousquets lents à recharger, épées et haches, hub social, quêtes, boss et donjons. Bêta ouverte gratuite sur Steam avant l'accès anticipé du 3 déc.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -535,7 +636,13 @@
    "fiabilite": "",
    "lien": "https://www.gamespress.com/HUNGER-Announces-Open-Beta-for-27-November-Ahead-of-Early-Access-Launc",
    "avis": "Un des shooters multijoueur les plus attendus de la fin d'année : à tester gratuitement le week-end du 27.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Extraction shooter · mousquets & mêlée",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Nouveau concept"
+   ]
   },
   {
    "id": "arkheron",
@@ -549,7 +656,7 @@
    "fin": "2026-11-29T23:59:00+01:00",
    "finTxt": "27 → 29 nov. (jeu complet gratuit)",
    "nouveau": false,
-   "desc": "Battle royale PvP · tour à gravir en équipe — Nouveau concept multijoueur de Bonfire (ex-Blizzard) : des équipes s'affrontent en grimpant une tour, mélange battle royale et action-RPG façon Diablo. Accès anticipé le 27 nov. ; tout le monde peut jouer au jeu complet gratuitement du 27 au 29 nov. Ensuite, le « Friend Pass » gratuit permet de jouer avec un ami qui possède le jeu.",
+   "desc": "Nouveau concept multijoueur de Bonfire (ex-Blizzard) : des équipes s'affrontent en grimpant une tour, mélange battle royale et action-RPG façon Diablo. Accès anticipé le 27 nov. ; tout le monde peut jouer au jeu complet gratuitement du 27 au 29 nov. Ensuite, le « Friend Pass » gratuit permet de jouer avec un ami qui possède le jeu.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -560,7 +667,13 @@
    "fiabilite": "Officiel, Nouveau",
    "lien": "https://worthplaying.com/article/2026/11/9/news/151392-arkheron-reveals-its-pricing-supporter-edition-and-friend-pass/",
    "avis": "Nouveau concept multijoueur très original : teste-le gratuitement le week-end du 27, puis avec le Friend Pass si un pote l'achète.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Battle royale PvP · tour à gravir en équipe",
+   "tags": [
+    "Officiel",
+    "Multijoueur",
+    "Nouveau"
+   ]
   },
   {
    "id": "breadfred",
@@ -574,7 +687,7 @@
    "fin": "2026-12-03T17:00:00+01:00",
    "finTxt": "26 nov. 17h → 3 déc. 17h",
    "nouveau": false,
-   "desc": "Plateforme coop à 2 · pingouins encordés — Prochain jeu gratuit d'Epic : plateforme en coop (local ou en ligne) où deux pingouins attachés par une corde doivent grimper ensemble une montagne. À garder à vie.",
+   "desc": "Prochain jeu gratuit d'Epic : plateforme en coop (local ou en ligne) où deux pingouins attachés par une corde doivent grimper ensemble une montagne. À garder à vie.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -584,7 +697,12 @@
    "fiabilite": "Officiel",
    "lien": "https://worthplaying.com/article/2026/11/19/news/151480-mark-of-the-deep-free-on-epic-games-store-bread-fred-and-firestone-idle-clicker-online-rpg-next-week/",
    "avis": "Nouveau concept multijoueur à deux, parfait avec un pote.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Plateforme coop à 2 · pingouins encordés",
+   "tags": [
+    "Officiel",
+    "Coop"
+   ]
   },
   {
    "id": "bethesda",
@@ -598,7 +716,7 @@
    "fin": "2026-12-09T23:59:00+01:00",
    "finTxt": "Jusqu'au 9 déc.",
    "nouveau": false,
-   "desc": "Objets en jeu — Objets gratuits pour Fallout 76 et Starfield.",
+   "desc": "Objets gratuits pour Fallout 76 et Starfield.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -608,7 +726,9 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/all/free-dlc",
    "avis": "Si tu as l'un des deux jeux.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Objets en jeu",
+   "tags": []
   },
   {
    "id": "wotamd",
@@ -622,7 +742,7 @@
    "fin": "2028-09-02T23:59:00+01:00",
    "finTxt": "Jusqu'au 2 sept. 2028 ou fin des codes",
    "nouveau": false,
-   "desc": "Chars en ligne · F2P — Prêt de 7 jours du char premium Chrysler MTC 2TC (Tier VIII) avec équipage, 7 jours de compte Premium et kits de réparation. Pour les comptes WoT existants, 1 code par compte.",
+   "desc": "Prêt de 7 jours du char premium Chrysler MTC 2TC (Tier VIII) avec équipage, 7 jours de compte Premium et kits de réparation. Pour les comptes WoT existants, 1 code par compte.",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -633,7 +753,12 @@
    "fiabilite": "Officiel",
    "lien": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/world-of-tanks-bonus-code-gratis/1616342",
    "avis": "Si tu joues à World of Tanks : grosse accélération gratuite pendant une semaine.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Chars en ligne · F2P",
+   "tags": [
+    "Officiel",
+    "Stock limité"
+   ]
   },
   {
    "id": "dwarven",
@@ -647,7 +772,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "Action-RPG — Diablo-like avec des nains, du loot et des hordes.",
+   "desc": "Diablo-like avec des nains, du loot et des hordes.",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -658,7 +783,11 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
    "avis": "Les clés partent vite (10 ARP).",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Action-RPG",
+   "tags": [
+    "Stock limité"
+   ]
   },
   {
    "id": "playtrackerquest",
@@ -672,7 +801,7 @@
    "fin": null,
    "finTxt": "Stock limité (pas de date)",
    "nouveau": false,
-   "desc": "Divers · gros catalogue — Site de récompenses connu : tu gagnes des points en jouant à tes propres jeux (missions), puis tu les échanges contre des clés Steam. Catalogue du moment : Call of Juarez, Syberia II et 3, Cook, Serve, Delicious!, Nova Lands, Move or Die, Hammerwatch, Epistory, FAR: Lone Sails, Roguebook, ISLANDERS…",
+   "desc": "Site de récompenses connu : tu gagnes des points en jouant à tes propres jeux (missions), puis tu les échanges contre des clés Steam. Catalogue du moment : Call of Juarez, Syberia II et 3, Cook, Serve, Delicious!, Nova Lands, Move or Die, Hammerwatch, Epistory, FAR: Lone Sails, Roguebook, ISLANDERS…",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -683,7 +812,12 @@
    "fiabilite": "Site connu",
    "lien": "https://playtracker.net/quest/giveaways/",
    "avis": "Pas instantané (il faut accumuler des points), mais aucune dépense et plein de vrais jeux payants.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Divers · gros catalogue",
+   "tags": [
+    "Site connu",
+    "Stock limité"
+   ]
   },
   {
    "id": "pt-keys",
@@ -697,7 +831,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "Playtests — Clés de playtest Steam via Alienware Arena / GamerPower (RUNZ est terminé).",
+   "desc": "Clés de playtest Steam via Alienware Arena / GamerPower (RUNZ est terminé).",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -707,7 +841,11 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/giveaways/steam",
    "avis": "Pour jouer avant tout le monde.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Playtests",
+   "tags": [
+    "Stock limité"
+   ]
   },
   {
    "id": "primesoon",
@@ -721,7 +859,7 @@
    "fin": null,
    "finTxt": "Le 24 nov.",
    "nouveau": false,
-   "desc": "RPG narratif fantasy — Dernier ajout Prime de novembre : RPG narratif avec choix et romances, à réclamer dans l'appli Amazon Games.",
+   "desc": "Dernier ajout Prime de novembre : RPG narratif avec choix et romances, à réclamer dans l'appli Amazon Games.",
    "conditions": "Prime",
    "pieges": [],
    "etapes": [
@@ -731,7 +869,11 @@
    "fiabilite": "",
    "lien": "https://luna.amazon.com/claims",
    "avis": "Petit RPG payant à garder, à prendre le 24.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "RPG narratif fantasy",
+   "tags": [
+    "Prime"
+   ]
   },
   {
    "id": "cojgunslinger",
@@ -745,7 +887,7 @@
    "fin": null,
    "finTxt": "Décembre (non confirmé)",
    "nouveau": false,
-   "desc": "FPS western — SteamDB liste ce FPS western culte dans les promos « gratuit à garder » probables pour décembre. Rien d'officiel pour l'instant.",
+   "desc": "SteamDB liste ce FPS western culte dans les promos « gratuit à garder » probables pour décembre. Rien d'officiel pour l'instant.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -755,7 +897,12 @@
    "fiabilite": "",
    "lien": "https://steamdb.info/upcoming/free/",
    "avis": "Si ça se confirme, c'est un excellent FPS à garder : je te préviens dès que la date tombe.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS western",
+   "tags": [
+    "FPS",
+    "À vérifier"
+   ]
   },
   {
    "id": "sod3",
@@ -769,7 +916,7 @@
    "fin": null,
    "finTxt": "Inscriptions ouvertes · bêta avant fin 2026",
    "nouveau": false,
-   "desc": "Survie zombies · coop en ligne — Undead Labs (Xbox) recrute des testeurs PC pour la première bêta fermée de State of Decay 3, prévue avant la fin de l'année. Sélection sur dossier, invitation non garantie.",
+   "desc": "Undead Labs (Xbox) recrute des testeurs PC pour la première bêta fermée de State of Decay 3, prévue avant la fin de l'année. Sélection sur dossier, invitation non garantie.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -780,7 +927,13 @@
    "fiabilite": "Inscription, Officiel",
    "lien": "https://finalboss.io/state-of-decay-3-how-to-join-the-closed-pc-beta-free-sign-up",
    "avis": "Gros jeu Xbox très attendu : inscris-toi maintenant pour avoir une chance d'y jouer avant tout le monde.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Survie zombies · coop en ligne",
+   "tags": [
+    "Inscription",
+    "Officiel",
+    "Multijoueur"
+   ]
   },
   {
    "id": "sbox",
@@ -794,7 +947,7 @@
    "fin": null,
    "finTxt": "Annoncé pour le 10 déc. (à confirmer)",
    "nouveau": false,
-   "desc": "Bac à sable · création · mods — Le successeur de Garry's Mod par Facepunch (Rust) : une plateforme où tu crées et joues à des modes faits par la communauté. Facepunch a annoncé qu'il devient gratuit fin d'année ; Dealabs donne le 10 déc.",
+   "desc": "Le successeur de Garry's Mod par Facepunch (Rust) : une plateforme où tu crées et joues à des modes faits par la communauté. Facepunch a annoncé qu'il devient gratuit fin d'année ; Dealabs donne le 10 déc.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -804,7 +957,12 @@
    "fiabilite": "Modding",
    "lien": "https://www.gaming.net/facepunch-to-make-s-and-box-free-to-play-in-shift-to-curated-discovery/",
    "avis": "Parfait pour toi si tu aimes le modding et la 3D : outils de création intégrés, jeux de la communauté. Attends le passage gratuit plutôt que de payer.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Bac à sable · création · mods",
+   "tags": [
+    "Modding",
+    "Multijoueur"
+   ]
   },
   {
    "id": "hllredsteel",
@@ -818,7 +976,7 @@
    "fin": null,
    "finTxt": "Tant qu'il y a des clés",
    "nouveau": false,
-   "desc": "FPS militaire 50v50 — Pack cosmétique soviétique pour le FPS Hell Let Loose, offert via l'appli SteelSeries GG (onglet Giveaways).",
+   "desc": "Pack cosmétique soviétique pour le FPS Hell Let Loose, offert via l'appli SteelSeries GG (onglet Giveaways).",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -829,7 +987,12 @@
    "fiabilite": "",
    "lien": "https://www.mydealz.de/deals/steam-hell-let-loose-red-steel-dlc-gratis-uber-steelseries-gg-2867003",
    "avis": "Si tu joues à Hell Let Loose, c'est gratuit.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS militaire 50v50",
+   "tags": [
+    "FPS",
+    "À vérifier"
+   ]
   },
   {
    "id": "deadswitch",
@@ -843,7 +1006,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "FPS tactique — Trois packs pour le FPS tactique Deadswitch Combat.",
+   "desc": "Trois packs pour le FPS tactique Deadswitch Combat.",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -854,7 +1017,12 @@
    "fiabilite": "",
    "lien": "https://na.alienwarearena.com/ucf/show/2174365/boards/contest-and-giveaways-global/Giveaway/deadswitch-combat-soldier-bundle-key-giveaway",
    "avis": "Si tu joues à ce FPS. Clés limitées (5–10 ARP).",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS tactique",
+   "tags": [
+    "FPS",
+    "Stock limité"
+   ]
   },
   {
    "id": "arenabreakout",
@@ -868,7 +1036,7 @@
    "fin": null,
    "finTxt": "Tant qu'il y a des clés",
    "nouveau": false,
-   "desc": "FPS extraction — Pack d'objets pour le FPS d'extraction gratuit Arena Breakout: Infinite.",
+   "desc": "Pack d'objets pour le FPS d'extraction gratuit Arena Breakout: Infinite.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -878,7 +1046,11 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/all/free-dlc",
    "avis": "Bonus utile si tu joues aux extraction shooters.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS extraction",
+   "tags": [
+    "FPS"
+   ]
   },
   {
    "id": "witcher3armor",
@@ -892,7 +1064,7 @@
    "fin": null,
    "finTxt": "Tant qu'il y a des clés",
    "nouveau": false,
-   "desc": "Objet RPG — Armure cosmétique pour The Witcher 3 (version remasterisée), à lier à ton compte CD PROJEKT RED.",
+   "desc": "Armure cosmétique pour The Witcher 3 (version remasterisée), à lier à ton compte CD PROJEKT RED.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -903,7 +1075,11 @@
    "fiabilite": "Site connu",
    "lien": "https://www.gamerpower.com/all/free-dlc",
    "avis": "Si tu as The Witcher 3 : petit bonus classe.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Objet RPG",
+   "tags": [
+    "Site connu"
+   ]
   },
   {
    "id": "wowsblackfriday",
@@ -917,7 +1093,7 @@
    "fin": null,
    "finTxt": "Environ 14 jours (début déc.)",
    "nouveau": false,
-   "desc": "Batailles navales · F2P — Giveaway listé par GamerPower pour World of Warships pendant le Black Friday Wargaming. Ces offres donnent en général navires premium, jours Premium et ressources, surtout aux nouveaux comptes.",
+   "desc": "Giveaway listé par GamerPower pour World of Warships pendant le Black Friday Wargaming. Ces offres donnent en général navires premium, jours Premium et ressources, surtout aux nouveaux comptes.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -928,7 +1104,12 @@
    "fiabilite": "Site connu",
    "lien": "https://www.gamerpower.com/giveaways/pc",
    "avis": "Si tu veux tester World of Warships, commence avec ce bonus ; vérifie les conditions (nouveau compte ou non).",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Batailles navales · F2P",
+   "tags": [
+    "À vérifier",
+    "Site connu"
+   ]
   },
   {
    "id": "firestonepack",
@@ -942,7 +1123,7 @@
    "fin": "2026-12-03T17:00:00+01:00",
    "finTxt": "26 nov. 17h → 3 déc. 17h",
    "nouveau": false,
-   "desc": "Idle RPG · F2P — Epic offrira un pack d'objets pour Firestone (idle RPG gratuit) en même temps que Bread & Fred. Pas encore réclamable.",
+   "desc": "Epic offrira un pack d'objets pour Firestone (idle RPG gratuit) en même temps que Bread & Fred. Pas encore réclamable.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -952,7 +1133,11 @@
    "fiabilite": "Officiel",
    "lien": "https://worthplaying.com/article/2026/11/19/news/151480-mark-of-the-deep-free-on-epic-games-store-bread-fred-and-firestone-idle-clicker-online-rpg-next-week/",
    "avis": "Petit bonus si tu joues à Firestone ; sinon tu peux passer.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Idle RPG · F2P",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "wowsblue",
@@ -966,7 +1151,7 @@
    "fin": "2026-12-03T23:59:00+01:00",
    "finTxt": "Fin 3 déc.",
    "nouveau": false,
-   "desc": "Cosmétique · F2P — Camouflage offert sur Steam pour le jeu de batailles navales gratuit.",
+   "desc": "Camouflage offert sur Steam pour le jeu de batailles navales gratuit.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -976,7 +1161,11 @@
    "fiabilite": "Officiel",
    "lien": "https://www.chollometro.com/temas/gratis-world-of-warships-x-blue-archive-camuflaje-complementario-steam-2028498",
    "avis": "Si tu joues à World of Warships.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Cosmétique · F2P",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "bl4mint",
@@ -990,7 +1179,7 @@
    "fin": "2026-12-31T23:59:00+01:00",
    "finTxt": "Jusqu'au 31 déc. (à vérifier)",
    "nouveau": false,
-   "desc": "Looter-shooter — Code SHiFT 3SX3J-3XZ55-CR33C-JBBJT-XH395 : skin de Vault Hunter pour Loveless.",
+   "desc": "Code SHiFT 3SX3J-3XZ55-CR33C-JBBJT-XH395 : skin de Vault Hunter pour Loveless.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1000,7 +1189,12 @@
    "fiabilite": "",
    "lien": "https://www.hotukdeals.com/deals/loveless-mint-chipset-skin-for-borderlands-4-4990930",
    "avis": "Petit bonus cosmétique si tu joues à Borderlands 4.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Looter-shooter",
+   "tags": [
+    "FPS",
+    "À vérifier"
+   ]
   },
   {
    "id": "dualchroma",
@@ -1014,7 +1208,7 @@
    "fin": null,
    "finTxt": "Tant que l'offre dure",
    "nouveau": false,
-   "desc": "Petit jeu indé — Petit jeu indé offert à 100 % sur itch.io, repéré par Nerdzap.",
+   "desc": "Petit jeu indé offert à 100 % sur itch.io, repéré par Nerdzap.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1024,7 +1218,11 @@
    "fiabilite": "Site connu",
    "lien": "https://nerdzap.com/free-games/",
    "avis": "Petit bonus pour ta bibliothèque itch.io.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Petit jeu indé",
+   "tags": [
+    "Site connu"
+   ]
   },
   {
    "id": "dieyoung",
@@ -1038,7 +1236,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Survie / action — Prologue du jeu de survie Die Young, dans les freebies IndieGala (aussi gratuit sur Steam).",
+   "desc": "Prologue du jeu de survie Die Young, dans les freebies IndieGala (aussi gratuit sur Steam).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1048,7 +1246,9 @@
    "fiabilite": "",
    "lien": "https://freebies.indiegala.com",
    "avis": "Pour tester la série sans payer.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Survie / action",
+   "tags": []
   },
   {
    "id": "gala",
@@ -1062,7 +1262,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "Indés — Last Room, Best Plumber, Sausage Hunter, Battle Ram, My Darkest Witch, Ancient Evil, Leaper.",
+   "desc": "Last Room, Best Plumber, Sausage Hunter, Battle Ram, My Darkest Witch, Ancient Evil, Leaper.",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -1072,7 +1272,11 @@
    "fiabilite": "",
    "lien": "https://freebies.indiegala.com",
    "avis": "Petits jeux, prix affichés gonflés.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Indés",
+   "tags": [
+    "Stock limité"
+   ]
   },
   {
    "id": "witchcraft",
@@ -1086,7 +1290,7 @@
    "fin": null,
    "finTxt": "Tant qu'il reste sur Steam",
    "nouveau": false,
-   "desc": "Shooter old-school — Petit shooter pixel-art à l'ancienne, rendu gratuit avant son retrait annoncé du store.",
+   "desc": "Petit shooter pixel-art à l'ancienne, rendu gratuit avant son retrait annoncé du store.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1096,7 +1300,12 @@
    "fiabilite": "",
    "lien": "https://store.steampowered.com/app/2373360",
    "avis": "Ajoute-le vite à ta bibliothèque avant qu'il disparaisse.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Shooter old-school",
+   "tags": [
+    "FPS",
+    "À vérifier"
+   ]
   },
   {
    "id": "saintkotar",
@@ -1110,7 +1319,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Point & click horreur — Prologue d'environ 3 h du jeu d'horreur psychologique Saint Kotar, devenu gratuit sur Steam et GOG.",
+   "desc": "Prologue d'environ 3 h du jeu d'horreur psychologique Saint Kotar, devenu gratuit sur Steam et GOG.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1120,7 +1329,11 @@
    "fiabilite": "Officiel",
    "lien": "https://store.steampowered.com/app/868770",
    "avis": "Pour une petite soirée flippante en solo.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Point & click horreur",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "mysticdepths",
@@ -1134,7 +1347,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "RPG old-school — RPG au tour par tour d'environ 30 h inspiré des vieux Final Fantasy, rendu gratuit pour toujours par son développeur.",
+   "desc": "RPG au tour par tour d'environ 30 h inspiré des vieux Final Fantasy, rendu gratuit pour toujours par son développeur.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1144,7 +1357,11 @@
    "fiabilite": "Officiel",
    "lien": "https://www.gamepro.de/artikel/steam-gratis-dauerhaft-mystic-depths-the-corrupted-king,3457245.html",
    "avis": "Pour une longue aventure solo sans rien payer.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "RPG old-school",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "cyberfrags",
@@ -1158,7 +1375,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "FPS rétro ultra-rapide — Boomer shooter nerveux avec 98 % d'avis positifs, passé gratuit pour toujours sur Steam (il était payant avant).",
+   "desc": "Boomer shooter nerveux avec 98 % d'avis positifs, passé gratuit pour toujours sur Steam (il était payant avant).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1168,7 +1385,12 @@
    "fiabilite": "Officiel",
    "lien": "https://store.steampowered.com/app/1674270",
    "avis": "Un vrai FPS pour toi : ajoute-le à ta bibliothèque, il est à toi pour de bon.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS rétro ultra-rapide",
+   "tags": [
+    "FPS",
+    "Officiel"
+   ]
   },
   {
    "id": "sadball",
@@ -1182,7 +1404,7 @@
    "fin": null,
    "finTxt": "Avant retrait de Steam (date non annoncée)",
    "nouveau": false,
-   "desc": "Plateforme 3D · démineur-combat — Sadball (boule de bowling qui chasse les quilles, 90 % positif) et Battle Sweeper (démineur avec combats de monstres) sont gratuits et annoncés comme bientôt retirés du store : ajoutés = gardés.",
+   "desc": "Sadball (boule de bowling qui chasse les quilles, 90 % positif) et Battle Sweeper (démineur avec combats de monstres) sont gratuits et annoncés comme bientôt retirés du store : ajoutés = gardés.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1192,7 +1414,11 @@
    "fiabilite": "",
    "lien": "https://gaminghq.eu/2026/11/12/steam-free-games-november-2026-delisting/",
    "avis": "Petits bonus à mettre dans ta bibliothèque avant qu'ils disparaissent.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Plateforme 3D · démineur-combat",
+   "tags": [
+    "À vérifier"
+   ]
   },
   {
    "id": "soundkilla",
@@ -1206,7 +1432,7 @@
    "fin": null,
    "finTxt": "Retiré de Steam après le 11 janv.",
    "nouveau": false,
-   "desc": "Clash sonore multijoueur — Jeu multijoueur de « soundclash » devenu gratuit avant son retrait du store : ajouté à ta bibliothèque = gardé.",
+   "desc": "Jeu multijoueur de « soundclash » devenu gratuit avant son retrait du store : ajouté à ta bibliothèque = gardé.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1216,7 +1442,12 @@
    "fiabilite": "",
    "lien": "https://store.steampowered.com/app/2888190/SoundKilla",
    "avis": "Petit concept multijoueur original, à ajouter avant qu'il disparaisse.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Clash sonore multijoueur",
+   "tags": [
+    "Multijoueur",
+    "À vérifier"
+   ]
   },
   {
    "id": "gogwelcome",
@@ -1230,7 +1461,7 @@
    "fin": null,
    "finTxt": "Sans date de fin annoncée",
    "nouveau": false,
-   "desc": "FPS horreur · RPG rétro — Le code GOG WELCOMEGIFT ajoute 4 jeux à ton compte : Betrayer (FPS d'horreur à l'arc et au mousquet en noir et blanc), Lure of the Temptress, Worlds of Ultima: The Savage Empire et Martian Dreams. Marche aussi sur un compte existant s'il ne l'a jamais utilisé.",
+   "desc": "Le code GOG WELCOMEGIFT ajoute 4 jeux à ton compte : Betrayer (FPS d'horreur à l'arc et au mousquet en noir et blanc), Lure of the Temptress, Worlds of Ultima: The Savage Empire et Martian Dreams. Marche aussi sur un compte existant s'il ne l'a jamais utilisé.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1241,7 +1472,12 @@
    "fiabilite": "Officiel",
    "lien": "https://en.generacionxbox.com/gog-is-giving-away-4-pc-games-for-a-limited-time-by-following-these-steps",
    "avis": "Betrayer est un FPS original et atmosphérique : 30 secondes pour l'ajouter à ta bibliothèque GOG.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS horreur · RPG rétro",
+   "tags": [
+    "Officiel",
+    "FPS"
+   ]
   },
   {
    "id": "terrorcorn",
@@ -1255,7 +1491,7 @@
    "fin": null,
    "finTxt": "Permanent (à vérifier)",
    "nouveau": false,
-   "desc": "Action horreur — Petit jeu d'action-horreur dans un champ de maïs, passé free-to-play sur Steam et itch.io (signalé par mydealz et Dealabs).",
+   "desc": "Petit jeu d'action-horreur dans un champ de maïs, passé free-to-play sur Steam et itch.io (signalé par mydealz et Dealabs).",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1265,7 +1501,11 @@
    "fiabilite": "",
    "lien": "https://store.steampowered.com/app/3252900",
    "avis": "Petit bonus flippant à ajouter à ta bibliothèque.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Action horreur",
+   "tags": [
+    "À vérifier"
+   ]
   },
   {
    "id": "helena",
@@ -1279,7 +1519,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Exploration surréaliste · photo · horreur — Petit jeu d'exploration à la première personne sorti gratuit sur Steam : tu parcours une mégastructure en ruine et tu photographies des plantes étranges. Très bien noté.",
+   "desc": "Petit jeu d'exploration à la première personne sorti gratuit sur Steam : tu parcours une mégastructure en ruine et tu photographies des plantes étranges. Très bien noté.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1289,7 +1529,11 @@
    "fiabilite": "Nouveau F2P",
    "lien": "https://80.lv/articles/explore-a-decaying-megastructure-photograph-strange-plants-in-this-free-surreal-game",
    "avis": "Pour une petite session atmosphérique, et l'ambiance 3D vaut le détour si tu aimes la modélisation.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Exploration surréaliste · photo · horreur",
+   "tags": [
+    "Nouveau F2P"
+   ]
   },
   {
    "id": "fear2reborn",
@@ -1303,7 +1547,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "DLC FPS horreur — Mini-extension du FPS d'horreur F.E.A.R. 2, devenue gratuite pour toujours (jeu de base requis).",
+   "desc": "Mini-extension du FPS d'horreur F.E.A.R. 2, devenue gratuite pour toujours (jeu de base requis).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1313,7 +1557,12 @@
    "fiabilite": "Officiel",
    "lien": "https://www.mydealz.de/gruppe/kostenlose-spiele",
    "avis": "Si tu as F.E.A.R. 2 : une heure de FPS flippant en plus.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "DLC FPS horreur",
+   "tags": [
+    "FPS",
+    "Officiel"
+   ]
   },
   {
    "id": "betas21",
@@ -1327,7 +1576,7 @@
    "fin": null,
    "finTxt": "Ouvertes (fin non annoncée)",
    "nouveau": true,
-   "desc": "Bêtas ouvertes & inscriptions — Trois nouvelles bêtas repérées par Alpha Beta Gamer le 20 nov. : inscription à la bêta de No Gasoline, bêtas ouvertes de Fish Fights Back et d'Abyssal Maw.",
+   "desc": "Trois nouvelles bêtas repérées par Alpha Beta Gamer le 20 nov. : inscription à la bêta de No Gasoline, bêtas ouvertes de Fish Fights Back et d'Abyssal Maw.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1338,7 +1587,11 @@
    "fiabilite": "Nouveau",
    "lien": "https://www.alphabetagamer.com/",
    "avis": "Petits jeux indés à tester gratuitement avant leur sortie.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Bêtas ouvertes & inscriptions",
+   "tags": [
+    "Nouveau"
+   ]
   },
   {
    "id": "dealabsf2p40",
@@ -1352,7 +1605,7 @@
    "fin": null,
    "finTxt": "Permanent (liste à vérifier)",
    "nouveau": true,
-   "desc": "Jeux variés — Dealabs regroupe 40 jeux Steam récemment passés en free-to-play, dont The Bazaar (auto-battler de cartes) et Home Design 3D. Je n'ai pas pu vérifier chaque jeu un par un.",
+   "desc": "Dealabs regroupe 40 jeux Steam récemment passés en free-to-play, dont The Bazaar (auto-battler de cartes) et Home Design 3D. Je n'ai pas pu vérifier chaque jeu un par un.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1363,7 +1616,11 @@
    "fiabilite": "",
    "lien": "https://www.dealabs.com/bons-plans/selection-de-40-jeux-passes-en-free-to-play-sur-pc-ex-the-bazaar-home-design-3d-grim-siege-dematerialise-steam-3453087",
    "avis": "Pour piocher des jeux gratuits à ajouter à ta bibliothèque.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Jeux variés",
+   "tags": [
+    "À vérifier"
+   ]
   },
   {
    "id": "steamf2p20",
@@ -1377,7 +1634,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": true,
-   "desc": "Indés variés · VR — BallBound Beetle (action), Legacy – Reawakening (aventure avec un ancien robot), How to Wait for the Bus (petit jeu narratif) et Fighting Moore (combat en VR, casque requis), passés gratuits pour toujours sur Steam le 20 nov.",
+   "desc": "BallBound Beetle (action), Legacy – Reawakening (aventure avec un ancien robot), How to Wait for the Bus (petit jeu narratif) et Fighting Moore (combat en VR, casque requis), passés gratuits pour toujours sur Steam le 20 nov.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1387,7 +1644,11 @@
    "fiabilite": "Nouveau F2P",
    "lien": "https://vgtimes.com/gaming-news/175256-four-games-have-just-become-permanently-free-on-steam-including-an-action-game-and-an-adventure-featuring-an-ancient-robot.html",
    "avis": "Petits bonus à ajouter à ta bibliothèque ; Fighting Moore seulement si tu as un casque VR.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Indés variés · VR",
+   "tags": [
+    "Nouveau F2P"
+   ]
   },
   {
    "id": "xboxfpd1119",
@@ -1401,7 +1662,7 @@
    "fin": "2026-11-22T23:59:00+01:00",
    "finTxt": "19 → 22 nov.",
    "nouveau": false,
-   "desc": "FPS roguelite · party-game · boomer shooter — Week-end d'essai Xbox : Deadlink (FPS cyberpunk roguelite), Polterguys: Possession Party (party-game multijoueur) et Slayers X (boomer shooter rétro). Abonnement Game Pass requis, surtout sur console (vérifie la version PC dans l'appli Xbox).",
+   "desc": "Week-end d'essai Xbox : Deadlink (FPS cyberpunk roguelite), Polterguys: Possession Party (party-game multijoueur) et Slayers X (boomer shooter rétro). Abonnement Game Pass requis, surtout sur console (vérifie la version PC dans l'appli Xbox).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1412,7 +1673,12 @@
    "fiabilite": "Officiel",
    "lien": "https://news.xbox.com/en-us/2026/11/19/free-play-days-11-19-2026/",
    "avis": "Deadlink est un FPS nerveux qui vaut l'essai si tu as le Game Pass.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS roguelite · party-game · boomer shooter",
+   "tags": [
+    "Officiel",
+    "FPS"
+   ]
   },
   {
    "id": "wolcen2",
@@ -1426,7 +1692,7 @@
    "fin": "2026-11-30T23:59:00+01:00",
    "finTxt": "Alpha 26 → 30 nov.",
    "nouveau": false,
-   "desc": "Action-RPG — Deuxième alpha fermée de Wolcen 2 avec une nouvelle compétence au pistolet et un nouvel ennemi. Inscription via le programme de playtest du studio (contributors.wolcenstudio.com).",
+   "desc": "Deuxième alpha fermée de Wolcen 2 avec une nouvelle compétence au pistolet et un nouvel ennemi. Inscription via le programme de playtest du studio (contributors.wolcenstudio.com).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1437,7 +1703,11 @@
    "fiabilite": "Inscription",
    "lien": "https://gamingtrend.com/news/wolcen-2-opens-closed-alpha-2-on-november-26-with-a-new-pistol-skill-and-parasitic-shadows",
    "avis": "Pour tester un hack'n'slash avant tout le monde, si tu es pris.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Action-RPG",
+   "tags": [
+    "Inscription"
+   ]
   },
   {
    "id": "embersuncrowned",
@@ -1451,7 +1721,7 @@
    "fin": "2026-12-11T23:59:00+01:00",
    "finTxt": "Inscriptions ouvertes · test 4 → ~11 déc.",
    "nouveau": false,
-   "desc": "MMORPG dark fantasy — Inscriptions ouvertes depuis le 12 nov. pour le playtest Steam de ce MMORPG dark fantasy ; préchargement le 3 déc., test du 4 au ~11 déc.",
+   "desc": "Inscriptions ouvertes depuis le 12 nov. pour le playtest Steam de ce MMORPG dark fantasy ; préchargement le 3 déc., test du 4 au ~11 déc.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1461,7 +1731,12 @@
    "fiabilite": "Inscription",
    "lien": "https://gamespace.com/all-articles/news/embers-of-the-uncrowned-steam-playtest-schedule/",
    "avis": "Pour tester un nouveau MMO avant tout le monde.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "MMORPG dark fantasy",
+   "tags": [
+    "Inscription",
+    "Multijoueur"
+   ]
   },
   {
    "id": "intelsweeps",
@@ -1475,7 +1750,7 @@
    "fin": null,
    "finTxt": "~14 jours (Empyreal ~2 mois)",
    "nouveau": false,
-   "desc": "Tirage au sort · jeux payants — Intel Gaming fait gagner des clés de jeux payants par tirage au sort : Deliver At All Costs (chaos en camion de livraison), Among the Trolls (aventure dans une forêt finlandaise) et Empyreal. Ce n'est pas garanti : il faut gagner.",
+   "desc": "Intel Gaming fait gagner des clés de jeux payants par tirage au sort : Deliver At All Costs (chaos en camion de livraison), Among the Trolls (aventure dans une forêt finlandaise) et Empyreal. Ce n'est pas garanti : il faut gagner.",
    "conditions": "Tirage au sort",
    "pieges": [],
    "etapes": [
@@ -1486,7 +1761,12 @@
    "fiabilite": "Officiel",
    "lien": "https://game.intel.com/ww/giveaways",
    "avis": "Inscription gratuite en 1 minute, ça ne coûte rien de tenter.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Tirage au sort · jeux payants",
+   "tags": [
+    "Officiel",
+    "Tirage au sort"
+   ]
   },
   {
    "id": "betakeys2",
@@ -1500,7 +1780,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "Bêtas — Deux accès bêta Steam listés par GamerPower.",
+   "desc": "Deux accès bêta Steam listés par GamerPower.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1510,7 +1790,11 @@
    "fiabilite": "Site connu",
    "lien": "https://www.gamerpower.com/giveaways/steam",
    "avis": "Petits jeux à tester en avant-première.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Bêtas",
+   "tags": [
+    "Site connu"
+   ]
   },
   {
    "id": "grimsiege",
@@ -1524,7 +1808,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Jeu de cartes · 1v1 / 2v2 — Jeu de cartes dark fantasy devenu gratuit pour toujours (avant ~6 $), avec du 2v2, du classé et du PvE roguelike.",
+   "desc": "Jeu de cartes dark fantasy devenu gratuit pour toujours (avant ~6 $), avec du 2v2, du classé et du PvE roguelike.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1534,7 +1818,12 @@
    "fiabilite": "Nouveau F2P",
    "lien": "https://gaminghq.eu/2026/11/03/steam-free-games-november-2026-grim-siege/",
    "avis": "Petit jeu multijoueur original, à tester entre deux parties.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Jeu de cartes · 1v1 / 2v2",
+   "tags": [
+    "Multijoueur",
+    "Nouveau F2P"
+   ]
   },
   {
    "id": "fallgate",
@@ -1548,7 +1837,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "FPS d'arène · F2P — FPS d'arène PvP à l'ancienne : mouvement avancé, parkour, armes à projectiles et tirs à travers les murs (accès anticipé).",
+   "desc": "FPS d'arène PvP à l'ancienne : mouvement avancé, parkour, armes à projectiles et tirs à travers les murs (accès anticipé).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1558,7 +1847,12 @@
    "fiabilite": "Nouveau F2P",
    "lien": "https://store.steampowered.com/app/4991930/Fallgate/",
    "avis": "Pour les fans de Quake-like nerveux.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS d'arène · F2P",
+   "tags": [
+    "FPS",
+    "Nouveau F2P"
+   ]
   },
   {
    "id": "kingslayers",
@@ -1572,7 +1866,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Roguelike PvPvE · F2P — Roguelike PvPvE gratuit en accès anticipé, sortie complète prévue dans quelques mois.",
+   "desc": "Roguelike PvPvE gratuit en accès anticipé, sortie complète prévue dans quelques mois.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1582,7 +1876,11 @@
    "fiabilite": "",
    "lien": "https://store.steampowered.com/app/1742040/Kingslayers/",
    "avis": "Nouveau concept multijoueur à tester.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Roguelike PvPvE · F2P",
+   "tags": [
+    "Multijoueur"
+   ]
   },
   {
    "id": "voltgate",
@@ -1596,7 +1894,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Shooter de mechs · F2P — Robots nerveux en PvP 2–4 joueurs et coop par vagues.",
+   "desc": "Robots nerveux en PvP 2–4 joueurs et coop par vagues.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1605,7 +1903,11 @@
    "fiabilite": "",
    "lien": "https://screenrant.com/steam-free-games-november-7-2026/",
    "avis": "Nouveau F2P multijoueur.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Shooter de mechs · F2P",
+   "tags": [
+    "FPS"
+   ]
   },
   {
    "id": "mab",
@@ -1619,7 +1921,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Batailles géantes · F2P — Grandes batailles d'armées dessinées à la main.",
+   "desc": "Grandes batailles d'armées dessinées à la main.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1628,7 +1930,9 @@
    "fiabilite": "",
    "lien": "https://screenrant.com/steam-free-games-november-7-2026/",
    "avis": "Pour les fans de batailles géantes.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Batailles géantes · F2P",
+   "tags": []
   },
   {
    "id": "neighbors",
@@ -1642,7 +1946,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "PvP comique en équipe · F2P — Guerre de voisins en ligne : pièges, farces et combats en équipe dans un lotissement. Ancien jeu payant devenu gratuit pour toujours.",
+   "desc": "Guerre de voisins en ligne : pièges, farces et combats en équipe dans un lotissement. Ancien jeu payant devenu gratuit pour toujours.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1652,7 +1956,12 @@
    "fiabilite": "Nouveau F2P",
    "lien": "https://vgtimes.com/gaming-news/169302-a-game-about-all-out-neighbor-wars-has-gone-free-to-play-it-previously-cost-999-on-steam.html",
    "avis": "Multijoueur fun et décalé à tester entre potes.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "PvP comique en équipe · F2P",
+   "tags": [
+    "Multijoueur",
+    "Nouveau F2P"
+   ]
   },
   {
    "id": "missileinput",
@@ -1666,7 +1975,7 @@
    "fin": null,
    "finTxt": "Retiré de Steam fin nov.",
    "nouveau": false,
-   "desc": "Shooter de frappe au clavier — Tu pilotes des missiles anti-aériens contre une invasion alien en tapant vite au clavier. Le dev retire le jeu fin novembre : ajouté avant = gardé.",
+   "desc": "Tu pilotes des missiles anti-aériens contre une invasion alien en tapant vite au clavier. Le dev retire le jeu fin novembre : ajouté avant = gardé.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1676,7 +1985,11 @@
    "fiabilite": "",
    "lien": "https://webtekno.com/bu-oyun-cok-yakinda-steam-kaldirilacak-h228517.html",
    "avis": "Petit concept original, ajoute-le avant qu'il disparaisse.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Shooter de frappe au clavier",
+   "tags": [
+    "À vérifier"
+   ]
   },
   {
    "id": "codenamecure",
@@ -1690,7 +2003,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "FPS coop zombies · 5 joueurs — Shooter coopératif contre des hordes de zombies jusqu'à 5 joueurs, jeu de base entièrement gratuit (seul un pack d'armes optionnel est payant).",
+   "desc": "Shooter coopératif contre des hordes de zombies jusqu'à 5 joueurs, jeu de base entièrement gratuit (seul un pack d'armes optionnel est payant).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1700,7 +2013,12 @@
    "fiabilite": "",
    "lien": "https://store.steampowered.com/app/2810210/Codename_CURE_II/",
    "avis": "FPS coop gratuit à lancer avec des potes.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS coop zombies · 5 joueurs",
+   "tags": [
+    "FPS",
+    "Multijoueur"
+   ]
   },
   {
    "id": "flycowboy",
@@ -1714,7 +2032,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Combat aérien en ligne · F2P — Combats aériens multijoueur dans un monde post-apocalyptique, nouveau free-to-play sur Steam.",
+   "desc": "Combats aériens multijoueur dans un monde post-apocalyptique, nouveau free-to-play sur Steam.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1724,7 +2042,12 @@
    "fiabilite": "Nouveau F2P",
    "lien": "https://store.steampowered.com/app/3620040/Fly_Cowboy_Online/",
    "avis": "Nouveau concept multijoueur à tester entre deux FPS.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Combat aérien en ligne · F2P",
+   "tags": [
+    "Multijoueur",
+    "Nouveau F2P"
+   ]
   },
   {
    "id": "hellbent",
@@ -1738,7 +2061,7 @@
    "fin": null,
    "finTxt": "Permanent (à vérifier)",
    "nouveau": false,
-   "desc": "Soulslike action-RPG — Action-RPG soulslike à la troisième personne, listé gratuit sur Steam par Screen Rant (11 nov.).",
+   "desc": "Action-RPG soulslike à la troisième personne, listé gratuit sur Steam par Screen Rant (11 nov.).",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1748,7 +2071,11 @@
    "fiabilite": "",
    "lien": "https://store.steampowered.com/app/4694770/HELLBENT/",
    "avis": "Pour une session solo exigeante sans payer.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Soulslike action-RPG",
+   "tags": [
+    "À vérifier"
+   ]
   },
   {
    "id": "steamf2p11",
@@ -1762,7 +2089,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Indés variés — Vahnora (MMORPG fantasy), Tall Orders (plateforme coop), Beyond Dawn (exploration FPS), Lestvitsa (enquête), Love, Death & My Daughter (narratif).",
+   "desc": "Vahnora (MMORPG fantasy), Tall Orders (plateforme coop), Beyond Dawn (exploration FPS), Lestvitsa (enquête), Love, Death & My Daughter (narratif).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1772,7 +2099,11 @@
    "fiabilite": "",
    "lien": "https://screenrant.com/steam-8-free-games-november-11-2026/",
    "avis": "Tall Orders en coop et Vahnora pour le multijoueur.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Indés variés",
+   "tags": [
+    "Multijoueur"
+   ]
   },
   {
    "id": "betasindes13",
@@ -1786,7 +2117,7 @@
    "fin": null,
    "finTxt": "Inscriptions ouvertes",
    "nouveau": false,
-   "desc": "Bêtas indés — Tales of Shadowland (RPG multijoueur open world, inscription bêta), Foodgitives (coop arcade, bêta ouverte), Police Stories 2 (shooter tactique coop vue de dessus, inscription).",
+   "desc": "Tales of Shadowland (RPG multijoueur open world, inscription bêta), Foodgitives (coop arcade, bêta ouverte), Police Stories 2 (shooter tactique coop vue de dessus, inscription).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1796,7 +2127,11 @@
    "fiabilite": "Site connu",
    "lien": "https://www.alphabetagamer.com/category/multiplayer/",
    "avis": "Police Stories 2 pour le tactique en coop.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Bêtas indés",
+   "tags": [
+    "Site connu"
+   ]
   },
   {
    "id": "steamf2p13",
@@ -1810,7 +2145,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Indés — Neon Knight: Vengeance From The Grave, Mushroots, Greenhouse: Schism (aussi sur itch.io) et Nomad Defender, listés gratuits par mydealz.",
+   "desc": "Neon Knight: Vengeance From The Grave, Mushroots, Greenhouse: Schism (aussi sur itch.io) et Nomad Defender, listés gratuits par mydealz.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -1820,7 +2155,11 @@
    "fiabilite": "",
    "lien": "https://www.mydealz.de/gruppe/steam",
    "avis": "Petits bonus à ajouter à ta bibliothèque.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Indés",
+   "tags": [
+    "À vérifier"
+   ]
   },
   {
    "id": "overheatprotocol",
@@ -1834,7 +2173,7 @@
    "fin": null,
    "finTxt": "Playtest ouvert (fin non annoncée)",
    "nouveau": false,
-   "desc": "FPS d'arène roguelite — FPS d'arène nerveux : tu affrontes des vagues de machines et tu transformes ton fusil à chaque niveau en combinant effets Foudre, Explosion et Éclat.",
+   "desc": "FPS d'arène nerveux : tu affrontes des vagues de machines et tu transformes ton fusil à chaque niveau en combinant effets Foudre, Explosion et Éclat.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1844,7 +2183,12 @@
    "fiabilite": "Accès direct",
    "lien": "https://store.steampowered.com/app/4882560/OVERHEAT_PROTOCOL/",
    "avis": "Petit FPS indé à tester en avant-première, accès direct.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS d'arène roguelite",
+   "tags": [
+    "FPS",
+    "Accès direct"
+   ]
   },
   {
    "id": "dustorigins",
@@ -1858,7 +2202,7 @@
    "fin": null,
    "finTxt": "En cours (depuis le 13 nov., jusqu'à la semaine prochaine)",
    "nouveau": false,
-   "desc": "Shooter action-horreur isométrique — Playtest PC d'un shooter d'action-horreur en vue isométrique. Inscription par e-mail, Discord ou Steam ; 300 XP de quêtes communautaires garantissent l'accès.",
+   "desc": "Playtest PC d'un shooter d'action-horreur en vue isométrique. Inscription par e-mail, Discord ou Steam ; 300 XP de quêtes communautaires garantissent l'accès.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1868,7 +2212,12 @@
    "fiabilite": "Inscription",
    "lien": "https://www.gamestic.net/2026/11/13/dust-origins-launches-playtest-on-steam/",
    "avis": "Petit shooter à tester en avant-première, avec des invitations pour tes potes.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Shooter action-horreur isométrique",
+   "tags": [
+    "Inscription",
+    "FPS"
+   ]
   },
   {
    "id": "betasindes15",
@@ -1882,7 +2231,7 @@
    "fin": null,
    "finTxt": "Inscriptions ouvertes",
    "nouveau": false,
-   "desc": "Bêtas multijoueur — SHADOW WAR (action tactique 5v5 à la troisième personne, inscription), Noclip: Entity (horreur asymétrique 1 contre 7, inscription), Vegelypse (beat'em up roguelite, bêta ouverte), Alisa: The Parting (démo bêta d'un survival horror style PS1, depuis le 14 nov.).",
+   "desc": "SHADOW WAR (action tactique 5v5 à la troisième personne, inscription), Noclip: Entity (horreur asymétrique 1 contre 7, inscription), Vegelypse (beat'em up roguelite, bêta ouverte), Alisa: The Parting (démo bêta d'un survival horror style PS1, depuis le 14 nov.).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1892,7 +2241,12 @@
    "fiabilite": "Inscription",
    "lien": "https://www.alphabetagamer.com/category/multiplayer/",
    "avis": "SHADOW WAR pour le tactique en équipe, Noclip pour un nouveau concept multijoueur entre potes.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Bêtas multijoueur",
+   "tags": [
+    "Multijoueur",
+    "Inscription"
+   ]
   },
   {
    "id": "slowlyducks",
@@ -1906,7 +2260,7 @@
    "fin": null,
    "finTxt": "Le 16 déc. · stock limité (à vérifier)",
    "nouveau": false,
-   "desc": "Petit jeu indé — Pepper.pl et Dealabs annoncent une clé Steam offerte via les Game Key Drops Lenovo Legion, après Fallout: New Vegas.",
+   "desc": "Pepper.pl et Dealabs annoncent une clé Steam offerte via les Game Key Drops Lenovo Legion, après Fallout: New Vegas.",
    "conditions": "À vérifier · Stock limité",
    "pieges": [],
    "etapes": [
@@ -1916,7 +2270,12 @@
    "fiabilite": "",
    "lien": "https://www.pepper.pl/grupa/gry-za-darmo",
    "avis": "Petit bonus : même compte Lenovo Legion que pour Fallout: New Vegas.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Petit jeu indé",
+   "tags": [
+    "À vérifier",
+    "Stock limité"
+   ]
   },
   {
    "id": "steamf2p14",
@@ -1930,7 +2289,7 @@
    "fin": null,
    "finTxt": "Permanent",
    "nouveau": false,
-   "desc": "Indés variés — Temporal Strike (shooter de défense en boucle temporelle, en escouade), Property Inspection (horreur psychologique), Vanakatu (aventure surréaliste musicale), Townlet (village sur ton bureau), Grandma Left Me A Building (prologue gestion).",
+   "desc": "Temporal Strike (shooter de défense en boucle temporelle, en escouade), Property Inspection (horreur psychologique), Vanakatu (aventure surréaliste musicale), Townlet (village sur ton bureau), Grandma Left Me A Building (prologue gestion).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1940,7 +2299,11 @@
    "fiabilite": "",
    "lien": "https://screenrant.com/steam-6-free-games-november-14-2026/",
    "avis": "Temporal Strike pour le shooter, Property Inspection pour une soirée flippante.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Indés variés",
+   "tags": [
+    "FPS"
+   ]
   },
   {
    "id": "seaofremnants",
@@ -1954,7 +2317,7 @@
    "fin": null,
    "finTxt": "Bêta à partir du 3 déc. · places limitées",
    "nouveau": false,
-   "desc": "RPG d'aventure en mer · F2P — Bêta fermée « Dawnbreaker » du RPG pirate free-to-play de NetEase sur PC (lanceur dédié), consoles et mobile : 21 personnages jouables, nouveaux navires et mini-jeux multijoueur. Préchargement le 1er déc.",
+   "desc": "Bêta fermée « Dawnbreaker » du RPG pirate free-to-play de NetEase sur PC (lanceur dédié), consoles et mobile : 21 personnages jouables, nouveaux navires et mini-jeux multijoueur. Préchargement le 1er déc.",
    "conditions": "Places limitées",
    "pieges": [],
    "etapes": [
@@ -1964,7 +2327,12 @@
    "fiabilite": "Officiel",
    "lien": "https://www.gematsu.com/2026/11/sea-of-remnants-dawnbreaker-closed-beta-test-begins-december-3",
    "avis": "Combats au tour par tour, donc loin des FPS : à tester seulement si l'univers pirate te tente.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "RPG d'aventure en mer · F2P",
+   "tags": [
+    "Officiel",
+    "Places limitées"
+   ]
   },
   {
    "id": "betademos16",
@@ -1978,7 +2346,7 @@
    "fin": null,
    "finTxt": "Inscriptions / démos ouvertes",
    "nouveau": false,
-   "desc": "Horreur · puzzle · narratif — Unseal (horreur cosmique à la troisième personne, inscription bêta), Adopt Me Please (refuge pour animaux où certains sont des Mimics, démo bêta), Goodbye Seoul (plateforme narratif dans un Séoul en ruines, démo bêta).",
+   "desc": "Unseal (horreur cosmique à la troisième personne, inscription bêta), Adopt Me Please (refuge pour animaux où certains sont des Mimics, démo bêta), Goodbye Seoul (plateforme narratif dans un Séoul en ruines, démo bêta).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -1988,7 +2356,11 @@
    "fiabilite": "Site connu",
    "lien": "https://www.alphabetagamer.com/",
    "avis": "Petites curiosités solo à tester entre deux parties de FPS.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Horreur · puzzle · narratif",
+   "tags": [
+    "Site connu"
+   ]
   },
   {
    "id": "betademos17",
@@ -2002,7 +2374,7 @@
    "fin": null,
    "finTxt": "Inscriptions / démos ouvertes",
    "nouveau": false,
-   "desc": "Coop · puzzle · plateforme — In the Same Boat (navigation en coop à 2, démo bêta), The Exhibition (« knowledge-vania » avec énigmes façon bullet hell, bêta ouverte), Super Money Ring (plateforme physique de speedrun façon Monkey Ball, démo bêta).",
+   "desc": "In the Same Boat (navigation en coop à 2, démo bêta), The Exhibition (« knowledge-vania » avec énigmes façon bullet hell, bêta ouverte), Super Money Ring (plateforme physique de speedrun façon Monkey Ball, démo bêta).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2012,7 +2384,12 @@
    "fiabilite": "Site connu",
    "lien": "https://www.alphabetagamer.com/",
    "avis": "In the Same Boat pour une soirée coop avec un pote.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Coop · puzzle · plateforme",
+   "tags": [
+    "Multijoueur",
+    "Site connu"
+   ]
   },
   {
    "id": "demosfps20",
@@ -2026,7 +2403,7 @@
    "fin": null,
    "finTxt": "Démos disponibles",
    "nouveau": false,
-   "desc": "Shooters multijoueur indés — I Can't See You (shooter jusqu'à 8 joueurs où on traque les ennemis au son), Duck Your Friends (party shooter en ligne 2–8 joueurs), BokoBoko Strike (shooter d'arène 3D avec terrain destructible). Démos gratuites ajoutées sur Steam le 19 nov.",
+   "desc": "I Can't See You (shooter jusqu'à 8 joueurs où on traque les ennemis au son), Duck Your Friends (party shooter en ligne 2–8 joueurs), BokoBoko Strike (shooter d'arène 3D avec terrain destructible). Démos gratuites ajoutées sur Steam le 19 nov.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2036,7 +2413,13 @@
    "fiabilite": "",
    "lien": "https://playtestgames.net/new-this-week",
    "avis": "Nouveaux concepts multijoueur à tester avec des potes, surtout I Can't See You.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Shooters multijoueur indés",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Nouveau concept"
+   ]
   },
   {
    "id": "warthunder",
@@ -2050,7 +2433,7 @@
    "fin": null,
    "finTxt": "Peuvent expirer sans prévenir",
    "nouveau": false,
-   "desc": "Simu militaire · F2P — Codes actifs (liste mise à jour le 9 nov.) : PRINCEOFDARKNESS (décal escargot Ozzy Osbourne) et 52MONKEYS (emblème escadron Wukong). WTBUTCHER n'est plus listé partout.",
+   "desc": "Codes actifs (liste mise à jour le 9 nov.) : PRINCEOFDARKNESS (décal escargot Ozzy Osbourne) et 52MONKEYS (emblème escadron Wukong). WTBUTCHER n'est plus listé partout.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -2060,7 +2443,11 @@
    "fiabilite": "",
    "lien": "https://levvvel.com/war-thunder-codes/",
    "avis": "Petits bonus cosmétiques si tu joues à War Thunder.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Simu militaire · F2P",
+   "tags": [
+    "À vérifier"
+   ]
   },
   {
    "id": "kettlebell",
@@ -2074,7 +2461,7 @@
    "fin": null,
    "finTxt": "Tant qu'il y a des clés",
    "nouveau": false,
-   "desc": "Cosmétique — Effet visuel exclusif pour Kettlebell: Inferno Hotel (10 ARP).",
+   "desc": "Effet visuel exclusif pour Kettlebell: Inferno Hotel (10 ARP).",
    "conditions": "Stock limité",
    "pieges": [],
    "etapes": [
@@ -2084,7 +2471,11 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/all/free-dlc",
    "avis": "Seulement si tu joues au jeu.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Cosmétique",
+   "tags": [
+    "Stock limité"
+   ]
   },
   {
    "id": "superanimal",
@@ -2098,7 +2489,7 @@
    "fin": null,
    "finTxt": "Tant qu'il y a des clés",
    "nouveau": false,
-   "desc": "Battle royale — Bundle cosmétique pour le battle royale gratuit Super Animal Royale.",
+   "desc": "Bundle cosmétique pour le battle royale gratuit Super Animal Royale.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2108,7 +2499,11 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/all/free-dlc",
    "avis": "Multijoueur fun et gratuit.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Battle royale",
+   "tags": [
+    "Multijoueur"
+   ]
   },
   {
    "id": "endless",
@@ -2122,7 +2517,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "DLC 4X — Extension narrative, toujours offerte (source officielle).",
+   "desc": "Extension narrative, toujours offerte (source officielle).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2132,7 +2527,11 @@
    "fiabilite": "Officiel",
    "lien": "https://www.freesteamkeys.com/giveaways",
    "avis": "Si tu as Endless Space 2.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "DLC 4X",
+   "tags": [
+    "Officiel"
+   ]
   },
   {
    "id": "everwind",
@@ -2146,7 +2545,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "DLC — Pack exclusif pour Everwind (10 ARP).",
+   "desc": "Pack exclusif pour Everwind (10 ARP).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2156,7 +2555,9 @@
    "fiabilite": "",
    "lien": "https://na.alienwarearena.com/ucf/show/2176307/boards/contest-and-giveaways-global/Giveaway/everwind-exclusive-aw-51-game-pack-key-giveaway",
    "avis": "Si tu joues à Everwind.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "DLC",
+   "tags": []
   },
   {
    "id": "steampacks",
@@ -2170,7 +2571,7 @@
    "fin": null,
    "finTxt": "Stock limité",
    "nouveau": false,
-   "desc": "Cosmétiques — Décals Everspace 2 et Exoprimal, casque Age of Wonders 4, emblème Destiny 2, objets Two Point Hospital et Payday 2, starter kit 3on3 FreeStyle, points Thunder League Online, skins Crown et Overstep, Super Circuit Breakers, Dream of Mirror Online.",
+   "desc": "Décals Everspace 2 et Exoprimal, casque Age of Wonders 4, emblème Destiny 2, objets Two Point Hospital et Payday 2, starter kit 3on3 FreeStyle, points Thunder League Online, skins Crown et Overstep, Super Circuit Breakers, Dream of Mirror Online.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2180,7 +2581,9 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/giveaways/steam",
    "avis": "Prends ceux des jeux que tu possèdes.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Cosmétiques",
+   "tags": []
   },
   {
    "id": "007ops",
@@ -2194,7 +2597,7 @@
    "fin": null,
    "finTxt": "Tant qu'il y a des clés",
    "nouveau": false,
-   "desc": "Cosmétique — Tenue gratuite pour le nouveau jeu James Bond. Le Free Starter Pack (début du jeu) est aussi gratuit sur Steam.",
+   "desc": "Tenue gratuite pour le nouveau jeu James Bond. Le Free Starter Pack (début du jeu) est aussi gratuit sur Steam.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2204,7 +2607,9 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/all/free-dlc",
    "avis": "Si tu joues ou testes 007 First Light.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Cosmétique",
+   "tags": []
   },
   {
    "id": "autresdlc",
@@ -2218,7 +2623,7 @@
    "fin": null,
    "finTxt": "Variable",
    "nouveau": false,
-   "desc": "Packs en jeu — Warframe Igaro Syandana, Dead by Daylight 100k points de sang, RIDE 6 Welcome Bikes, Fantasy Grounds dés, GOALS kit AMD, World of Tanks Blitz, Reverse: 1999, Aniimo, Neverwinter cape…",
+   "desc": "Warframe Igaro Syandana, Dead by Daylight 100k points de sang, RIDE 6 Welcome Bikes, Fantasy Grounds dés, GOALS kit AMD, World of Tanks Blitz, Reverse: 1999, Aniimo, Neverwinter cape…",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2228,7 +2633,9 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/all/free-dlc",
    "avis": "Prends ceux des jeux auxquels tu joues.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Packs en jeu",
+   "tags": []
   },
   {
    "id": "packsplus",
@@ -2242,7 +2649,7 @@
    "fin": null,
    "finTxt": "Variable",
    "nouveau": false,
-   "desc": "Packs en jeu — Causa Game Packs (~14 $), Deadswitch 3 Delta Force Supply Cache, Dead Frontier 2 Starter Pack, Death or Glory Champion Pack, Dinogen Online, Collective skin de héros, DarkStory Online, Doomtrooper CCG, DRAG event, SMITE Account Booster, Homeworld 3 emblème, ESO (console).",
+   "desc": "Causa Game Packs (~14 $), Deadswitch 3 Delta Force Supply Cache, Dead Frontier 2 Starter Pack, Death or Glory Champion Pack, Dinogen Online, Collective skin de héros, DarkStory Online, Doomtrooper CCG, DRAG event, SMITE Account Booster, Homeworld 3 emblème, ESO (console).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2252,7 +2659,11 @@
    "fiabilite": "Site connu",
    "lien": "https://www.gamebrief.net/giveaways",
    "avis": "Prends ceux des jeux auxquels tu joues.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Packs en jeu",
+   "tags": [
+    "Site connu"
+   ]
   },
   {
    "id": "packsmmo",
@@ -2266,7 +2677,7 @@
    "fin": null,
    "finTxt": "Variable",
    "nouveau": false,
-   "desc": "Packs en jeu — KARDS Special Bundle, Untrusted 10K crédits, Tomb Raider Legacy of Atlantis tenue, Star Trek Online, Blade & Soul NEO skin d'arme, MTG Arena, Idle Champions Lae'zel, Genshin Impact, Arknights: Endfield, Crystal Saga Nova, Without a Hitch, ScreenPlay CCG, Dominion Synergy, Vampire Master.",
+   "desc": "KARDS Special Bundle, Untrusted 10K crédits, Tomb Raider Legacy of Atlantis tenue, Star Trek Online, Blade & Soul NEO skin d'arme, MTG Arena, Idle Champions Lae'zel, Genshin Impact, Arknights: Endfield, Crystal Saga Nova, Without a Hitch, ScreenPlay CCG, Dominion Synergy, Vampire Master.",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2276,7 +2687,9 @@
    "fiabilite": "",
    "lien": "https://www.gamerpower.com/all/free-dlc",
    "avis": "Prends ceux des jeux auxquels tu joues.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Packs en jeu",
+   "tags": []
   },
   {
    "id": "wowsishizuchi",
@@ -2290,7 +2703,7 @@
    "fin": null,
    "finTxt": "Décembre (non confirmé)",
    "nouveau": false,
-   "desc": "Pack navire · F2P — SteamDB liste ce pack de départ (cuirassé premium Ishizuchi) parmi les DLC probablement offerts en décembre.",
+   "desc": "SteamDB liste ce pack de départ (cuirassé premium Ishizuchi) parmi les DLC probablement offerts en décembre.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -2300,7 +2713,11 @@
    "fiabilite": "",
    "lien": "https://steamdb.info/upcoming/free/",
    "avis": "Si tu joues à World of Warships : un navire premium gratuit à prendre le jour venu.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "Pack navire · F2P",
+   "tags": [
+    "À vérifier"
+   ]
   },
   {
    "id": "fragpunkcodes",
@@ -2314,7 +2731,7 @@
    "fin": null,
    "finTxt": "Peuvent expirer sans prévenir",
    "nouveau": false,
-   "desc": "FPS en équipe · F2P — NIJIFRAGPUNK : 1 500 Or + 10 canettes + pack d'autocollants. FRAGPUNKFPS (1 500 Or + 100 clés de skin Lancer) et FRAGPUNK2025 sont peut-être expirés.",
+   "desc": "NIJIFRAGPUNK : 1 500 Or + 10 canettes + pack d'autocollants. FRAGPUNKFPS (1 500 Or + 100 clés de skin Lancer) et FRAGPUNK2025 sont peut-être expirés.",
    "conditions": "À vérifier",
    "pieges": [],
    "etapes": [
@@ -2325,7 +2742,12 @@
    "fiabilite": "",
    "lien": "https://www.altchar.com/guides/fragpunk-all-promo-codes-november-2026-aBkOJ8I6tyRJ",
    "avis": "Si tu testes le nouveau mode Farlands de FragPunk : de l'Or gratuit en 10 secondes.",
-   "emoji": ""
+   "emoji": "",
+   "genre": "FPS en équipe · F2P",
+   "tags": [
+    "FPS",
+    "À vérifier"
+   ]
   }
  ]
 }

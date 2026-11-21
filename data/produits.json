@@ -31,7 +31,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-opinagora-projecteur-wifi-bluetooth-novembre-2026",
    "avis": "Grosse valeur pour un test gratuit (soirées films sur un mur). Seulement 20 places et marque non précisée. Fais-le en même temps que le thé glacé Opinagora (même compte).",
    "emoji": "📽️",
-   "fiabilite": "Opinagora"
+   "fiabilite": "Opinagora",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "entremont",
@@ -64,7 +67,10 @@
    "lien": "https://jeuautrementbon.entremont.com/",
    "avis": "Du fromage gratuit après remboursement, 1 par foyer, 10 000 remboursements max. Il faut avancer l'argent et donner un motif d'insatisfaction. Demande possible jusqu'au 31 déc.",
    "emoji": "🧀",
-   "fiabilite": "Entremont"
+   "fiabilite": "Entremont",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "vahine",
@@ -95,7 +101,10 @@
    "lien": "https://api2.sampleo.com/fr/campaign/vahine",
    "avis": "Livré chez toi, et c'est de la bouffe premium (la vanille coûte cher). Ouverture confirmée, 500 places.",
    "emoji": "🍮",
-   "fiabilite": "Sampleo"
+   "fiabilite": "Sampleo",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "bioil",
@@ -125,7 +134,10 @@
    "lien": "https://www.mesechantillonsgratuits.fr/tests-de-produits/testez-gratuitement-le-lait-hydratant-bi-oil/",
    "avis": "Livré à domicile, pas d'obligation de post sur les réseaux annoncée.",
    "emoji": "🧴",
-   "fiabilite": "Sampleo"
+   "fiabilite": "Sampleo",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "coslys",
@@ -162,7 +174,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-coslys-deodorant-soin-fraicheur-48h-novembre-2026",
    "avis": "Des produits du quotidien qui servent à tout le monde (homme ou femme), 90 places en tout et rien à poster sur les réseaux : juste des avis. Un seul compte pour les 4 tests.",
    "emoji": "🦷",
-   "fiabilite": "Coslys · Trustt"
+   "fiabilite": "Coslys · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "fdlo",
@@ -193,7 +208,10 @@
    "lien": "https://bonsplansmania.fr/article/test-gratuit-les-filles-de-l-ouest-420-boissons-2026",
    "avis": "Livré chez toi, gratuit, beaucoup de produits donc plus de chances. Les engagements exacts s'affichent quand tu postules.",
    "emoji": "🥤",
-   "fiabilite": "Try and Review"
+   "fiabilite": "Try and Review",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "coslys2",
@@ -229,7 +247,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-coslys-gel-lavant-mains-lavande-citron",
    "avis": "Un gel mains de 1 L, ça dure des mois, et rien à poster sur les réseaux : juste des avis. Même compte que les 4 autres tests Coslys : si tu l'as déjà, c'est 3 minutes pour les deux.",
    "emoji": "🧼",
-   "fiabilite": "Coslys · Trustt"
+   "fiabilite": "Coslys · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "peggysage",
@@ -264,7 +285,10 @@
    "lien": "https://bonsplansmania.fr/article/test-gratuit-peggy-sage-pearl-blossom-novembre-2026",
    "avis": "Marque de beauté connue, 60 places, et rien à poster sur les réseaux : juste des avis. Candidate aux deux + à la crème de jour Peggy Sage pour multiplier tes chances.",
    "emoji": "💅",
-   "fiabilite": "Peggy Sage · Trustt"
+   "fiabilite": "Peggy Sage · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "lnp",
@@ -296,7 +320,10 @@
    "lien": "https://bonsplansmania.fr/article/test-la-nouvelle-peau-w01-masque-riz-novembre-2026",
    "avis": "Rien à poster sur les réseaux : questionnaire et avis sur l'espace de la marque.",
    "emoji": "🍚",
-   "fiabilite": "La Nouvelle Peau"
+   "fiabilite": "La Nouvelle Peau",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "peggysage-jour",
@@ -328,7 +355,10 @@
    "lien": "https://bonsplansmania.fr/go/test-gratuit-peggy-sage-creme-jour-visage-novembre-2026",
    "avis": "Vrai format 50 ml d'une marque connue, rien à poster. Si tu as déjà candidaté aux autres Peggy Sage, c'est 2 minutes.",
    "emoji": "🌞",
-   "fiabilite": "Peggy Sage · Trustt"
+   "fiabilite": "Peggy Sage · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "charal",
@@ -360,7 +390,10 @@
    "lien": "https://www.sampleo.com/fr/campaign/charal",
    "avis": "De la viande gratuite, c'est rare. Mais c'est un bon en magasin, pas une livraison. 380 places, fin ≈ 29 nov. : candidate tôt.",
    "emoji": "🥩",
-   "fiabilite": "Sampleo"
+   "fiabilite": "Sampleo",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "opinagora-the",
@@ -395,7 +428,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-opinagora-the-glace-sticks-decembre-2026",
    "avis": "Une grosse quantité de boisson livrée gratuite, 150 places et presque un mois pour postuler. Même compte que le projecteur Opinagora : postule aux deux d'un coup.",
    "emoji": "🧋",
-   "fiabilite": "Opinagora"
+   "fiabilite": "Opinagora",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "cisse",
@@ -426,7 +462,10 @@
    "lien": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/recevez-gratuitement-un-echantillon-de-parfum-maison-cisse-paris/",
    "avis": "Parfum livré sans rien payer, pour femme ou homme selon la fragrance. Compte 3 à 6 semaines. Si on te demande ta carte, abandonne.",
    "emoji": "🌸",
-   "fiabilite": "Maison Cissé Paris"
+   "fiabilite": "Maison Cissé Paris",
+   "type": "ech",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "timotei",
@@ -464,7 +503,10 @@
    "lien": "https://www.trnd.com/fr/projets/timotei",
    "avis": "2 produits gratuits livrés, beaucoup de places, et pas de post obligatoire annoncé. Marche pour homme et femme. On le croyait fermé hier soir, mais le bouton « Je postule » est toujours là : postule tout de suite.",
    "emoji": "🧴",
-   "fiabilite": "TRND"
+   "fiabilite": "TRND",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "mymosa-deo",
@@ -496,7 +538,10 @@
    "lien": "https://bonsplansmania.fr/go/test-gratuit-mymosa-deodorant-soin-protection-novembre-2026",
    "avis": "100 places, c'est beaucoup, et un déo sert à tout le monde (homme ou femme). Pas de date limite publiée : ne traîne pas.",
    "emoji": "🌬️",
-   "fiabilite": "Beauté Test"
+   "fiabilite": "Beauté Test",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "yrocher",
@@ -531,7 +576,10 @@
    "lien": "https://www.yves-rocher.fr/evenements-la-jolie-carte/concours/avant-premiere-hydra-body-care-26",
    "avis": "Deux vrais produits en taille normale (18,40 €), 300 places et juste un clic si tu as un compte Yves Rocher. Rien à poster. Marche aussi pour un homme (lait corps, crème mains).",
    "emoji": "🧴",
-   "fiabilite": "Yves Rocher"
+   "fiabilite": "Yves Rocher",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "kerargan",
@@ -567,7 +615,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-kerargan-routine-keratine-victoires-pharmacie-2026",
    "avis": "3 vrais produits en grand format, mais il faut un TikTok et poster une vidéo avant/après. Seulement si ça ne te dérange pas de filmer tes cheveux (marche pour femme ou homme).",
    "emoji": "💆",
-   "fiabilite": "Kerargan · Trustt"
+   "fiabilite": "Kerargan · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "ducros",
@@ -600,7 +651,10 @@
    "lien": "https://www.sampleo.com/fr/campaign/ducros",
    "avis": "Bouffe livrée gratuite avec 500 places, parfait pour relever des plats pas chers. Il faudra montrer tes recettes sur tes réseaux. Même compte Sampleo que Vahiné et Subway.",
    "emoji": "🌶️",
-   "fiabilite": "Sampleo"
+   "fiabilite": "Sampleo",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "viva",
@@ -632,7 +686,10 @@
    "lien": "https://appreciezviva.candia.fr/",
    "avis": "Bouffe vraiment gratuite et sûre. Il faut avancer l'argent et l'acheter en magasin ou en drive. 1 par personne.",
    "emoji": "🥛",
-   "fiabilite": "Candia"
+   "fiabilite": "Candia",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "venus",
@@ -661,7 +718,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-venus-rasoir-lames-ou-epilateur-satisfait-ou-100-rembourse-33553/",
    "avis": "Gratuit au final, tu gardes le produit. Il faut avancer l'argent et envoyer le dossier par courrier sous 30 jours après l'achat (frais de port remboursés si tu coches la case). 1 par compte.",
    "emoji": "🪒",
-   "fiabilite": "Venus (Gillette)"
+   "fiabilite": "Venus (Gillette)",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "venus-soin",
@@ -695,7 +755,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-venus-1-soin-satin-care-satisfait-ou-100-rembourse-33554/",
    "avis": "Plus simple que l'offre rasoir Venus : tout se fait en ligne, sans envoi de courrier (sauf si on te le demande). Il faut avancer l'argent. Se cumule avec l'offre rasoir (produits différents).",
    "emoji": "🫧",
-   "fiabilite": "Venus (Gillette)"
+   "fiabilite": "Venus (Gillette)",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "kingc",
@@ -728,7 +791,10 @@
    "lien": "https://www.enviedeplus.com/kingc-remboursement",
    "avis": "Vraiment gratuit au final pour l'homme, mais il faut avancer l'argent, envoyer ticket et code-barres par courrier sous 30 jours, puis demander le virement. 1 par compte.",
    "emoji": "🪒",
-   "fiabilite": "King C. Gillette"
+   "fiabilite": "King C. Gillette",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "spotify",
@@ -759,7 +825,10 @@
    "lien": "https://www.spotify.com/fr/ppt/hm4m/",
    "avis": "Le double de l'ancienne offre (2 mois). Seulement si tu n'as jamais eu Premium. Note la date de fin.",
    "emoji": "🎵",
-   "fiabilite": "Spotify"
+   "fiabilite": "Spotify",
+   "type": "essai",
+   "coutNum": 0,
+   "sansCarte": false
   },
   {
    "id": "subway",
@@ -795,7 +864,10 @@
    "lien": "https://www.sampleo.com/fr/campaign/subway--1793741180",
    "avis": "Un vrai repas complet gratuit au final, et 200 places. Mais ce n'est pas livré et il faut avancer l'argent au resto. Même compte Sampleo que Vahiné et Ducros : postule aux trois.",
    "emoji": "🥪",
-   "fiabilite": "Sampleo"
+   "fiabilite": "Sampleo",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "tgtg-colis",
@@ -827,7 +899,10 @@
    "lien": "https://une-case-en-plus.com/food/avis-too-good-to-go-paniers-colis-bio-test-livraison/",
    "avis": "Le meilleur rapport quantité-prix livré : beaucoup de produits pour un prix fixe, contenu surprise. Dans l'appli, les paniers à récupérer en magasin sont encore moins chers.",
    "emoji": "📦",
-   "fiabilite": "Too Good To Go"
+   "fiabilite": "Too Good To Go",
+   "type": "reduc",
+   "coutNum": 20.0,
+   "sansCarte": false
   },
   {
    "id": "lego",
@@ -859,7 +934,10 @@
    "lien": "https://www.testerdesproduits.fr/details-produit/578/lego-botanicals",
    "avis": "Joli cadeau (à garder ou à offrir), livré gratuit. Tirage au sort, mais 1 clic si tu as déjà le compte.",
    "emoji": "🌷",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "qobuz",
@@ -887,7 +965,10 @@
    "lien": "https://www.dealabs.com/bons-plans/nouveaux-comptes-60-jours-dabonnement-offerts-a-qobuz-studio-sans-engagement-3438796",
    "avis": "Le plus long essai musique du moment.",
    "emoji": "🎼",
-   "fiabilite": "Qobuz"
+   "fiabilite": "Qobuz",
+   "type": "essai",
+   "coutNum": 0,
+   "sansCarte": false
   },
   {
    "id": "azeane",
@@ -918,7 +999,10 @@
    "lien": "https://bonsplansmania.fr/go/test-gratuit-acm-gel-nettoyant-azeane-novembre-2026",
    "avis": "Plus de places que le Stick SOS (60 contre 15). Conditions exactes visibles seulement dans la mission.",
    "emoji": "🧼",
-   "fiabilite": "Laboratoire ACM"
+   "fiabilite": "Laboratoire ACM",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "patyka",
@@ -949,7 +1033,10 @@
    "lien": "https://bonsplansmania.fr/article/test-patyka-serum-bonne-mine-belle-au-naturel-novembre-2026",
    "avis": "Le formulaire demande ton Instagram et l'accord pour recevoir leurs e-mails. Les abonnées à leur box sont prioritaires.",
    "emoji": "✨",
-   "fiabilite": "Belle au Naturel"
+   "fiabilite": "Belle au Naturel",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "belesa",
@@ -981,7 +1068,10 @@
    "lien": "https://bonsplansmania.fr/article/test-belesa-creme-esclaire-belle-au-naturel-novembre-2026",
    "avis": "Petite crème de marque bio, mais seulement 20 places et formulaire qui demande pas mal de données.",
    "emoji": "🌼",
-   "fiabilite": "Belle au Naturel"
+   "fiabilite": "Belle au Naturel",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "azeane-pain",
@@ -1013,7 +1103,10 @@
    "lien": "https://bonsplansmania.fr/go/test-gratuit-acm-azeane-pain-dermatologique-novembre-2026",
    "avis": "Marche pour homme et femme, et pas de TikTok obligatoire contrairement au Stick ACM. Il faut juste accepter d'envoyer une photo de ta peau.",
    "emoji": "🧼",
-   "fiabilite": "Laboratoire ACM · Trustt"
+   "fiabilite": "Laboratoire ACM · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "boiron",
@@ -1047,7 +1140,10 @@
    "lien": "https://bonsplansmania.fr/go/test-gratuit-boiron-stoplants-nez-gorge-sirop-novembre-2026",
    "avis": "Pile pour l'hiver (gorge qui gratte), livré gratuit et rien à poster : juste deux avis. Mais seulement 15 places.",
    "emoji": "🍯",
-   "fiabilite": "Boiron · Trustt"
+   "fiabilite": "Boiron · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "crinex",
@@ -1080,7 +1176,10 @@
    "lien": "https://bonsplansmania.fr/go/test-gratuit-crinex-uve-boost-immunite-gummies-decembre-2026",
    "avis": "Petit produit utile en hiver, livré gratuit, avec du temps pour candidater (3 déc.). Rien de réseaux annoncé.",
    "emoji": "🍬",
-   "fiabilite": "Crinex · Trustt"
+   "fiabilite": "Crinex · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "peggysage-ms",
@@ -1114,7 +1213,10 @@
    "lien": "https://www.moins-depenser.com/echantillon/test-produit/4244-produits-testeur.html",
    "avis": "Maquillage ongles de marque livré gratuit, sans rien payer, et presque un mois pour postuler. Places non annoncées, donc pas garanti : postule aussi aux tests Trustt Peggy Sage.",
    "emoji": "💅",
-   "fiabilite": "Peggy Sage · Moins Dépenser"
+   "fiabilite": "Peggy Sage · Moins Dépenser",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "vignerons",
@@ -1147,7 +1249,10 @@
    "lien": "https://www.paris-friendly.fr/bon_plan_paris_detaille.php?id=3566",
    "avis": "Le seul alcool vraiment gratuit vérifié, mais sur place à Paris, pas livré. Réservé aux majeurs, à consommer avec modération. Files d'attente le week-end.",
    "emoji": "🍇",
-   "fiabilite": "Vignerons Indépendants"
+   "fiabilite": "Vignerons Indépendants",
+   "type": "ech",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "acqua",
@@ -1174,7 +1279,10 @@
    "lien": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/parfum/echantillons-gratuits-du-parfum-acqua-di-gio-de-giorgio-armani/",
    "avis": "Parfum homme connu, le stock part vite.",
    "emoji": "🌊",
-   "fiabilite": "Giorgio Armani"
+   "fiabilite": "Giorgio Armani",
+   "type": "ech",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "chiensguides",
@@ -1211,7 +1319,10 @@
    "lien": "https://jeveuxmeschaussettes.fr/",
    "avis": "Petit cadeau mais vraiment gratuit et livré, sans carte. L'opération revient par vagues et le stock part vite : fais-le ce soir.",
    "emoji": "🧦",
-   "fiabilite": "Les Chiens Guides"
+   "fiabilite": "Les Chiens Guides",
+   "type": "ech",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "purina",
@@ -1243,7 +1354,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-purina-pro-plan-mousse-chat-sterilise-4800-echantillons-2026",
    "avis": "Seulement si tu as un chat stérilisé. Beaucoup de places, gratuit et sans achat.",
    "emoji": "🐱",
-   "fiabilite": "Purina Pro Plan"
+   "fiabilite": "Purina Pro Plan",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "proplan-chien",
@@ -1274,7 +1388,10 @@
    "lien": "https://bonsplansmania.fr/article/test-pro-plan-protein-energy-wamiz-novembre-2026",
    "avis": "Seulement si tu as un chien (on te demande son nom et sa date de naissance).",
    "emoji": "🐕",
-   "fiabilite": "Wamiz"
+   "fiabilite": "Wamiz",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "blissim",
@@ -1313,7 +1430,10 @@
    "lien": "https://touteslesbox.fr/blissim-black-friday-2026-box-novembre-9-euros-code-black9/",
    "avis": "La box beauté la moins chère du moment (9 € pour 5 produits). Mais regarde bien au panier : la box de décembre risque d'être ajoutée (18,90 € de plus). Résilie tout de suite après si tu n'en veux qu'une.",
    "emoji": "🌸",
-   "fiabilite": "Blissim"
+   "fiabilite": "Blissim",
+   "type": "box",
+   "coutNum": 9.0,
+   "sansCarte": false
   },
   {
    "id": "kerargan-noel",
@@ -1348,7 +1468,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-kerargan-coffret-noel-15-places-2026",
    "avis": "4 vrais produits en grand format, homme ou femme. Mais seulement 15 places et il faut filmer l'ouverture du coffret pour TikTok et Instagram. Même compte que la routine kératine Kerargan : postule aux deux.",
    "emoji": "🎄",
-   "fiabilite": "Kerargan · Trustt"
+   "fiabilite": "Kerargan · Trustt",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "fleury",
@@ -1389,7 +1512,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-fleury-michon-les-tranches-vege-seduit-ou-100-rembourse-34555/",
    "avis": "De quoi faire des sandwichs gratuitement au final. Il faut avancer 2-3 € et surtout faire la demande dans les 15 jours après l'achat. 1 par foyer.",
    "emoji": "🥪",
-   "fiabilite": "Fleury Michon"
+   "fiabilite": "Fleury Michon",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "president",
@@ -1422,7 +1548,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-president-beurre-pepites-de-chocolat-satisfait-ou-100-rembourse-31577/",
    "avis": "Un petit plaisir sucré (tartines, gâteaux) gratuit au final, en vrai argent. Il faut avancer le prix et bien entourer le ticket.",
    "emoji": "🧈",
-   "fiabilite": "Président"
+   "fiabilite": "Président",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "degusta",
@@ -1454,7 +1583,10 @@
    "lien": "https://www.savoo.fr/marques/codes-promo-degustabox",
    "avis": "Beaucoup de produits pour le prix, sans engagement. Le montant exact du code varie selon les sites : vérifie le prix final avant de payer.",
    "emoji": "🧺",
-   "fiabilite": "Degustabox"
+   "fiabilite": "Degustabox",
+   "type": "box",
+   "coutNum": 12.0,
+   "sansCarte": false
   },
   {
    "id": "hellofresh",
@@ -1489,7 +1621,10 @@
    "lien": "https://savoo.fr/marques/codes-promo-hello-fresh",
    "avis": "Pas gratuit, mais des repas livrés pas chers pour remplir le frigo. Ne prends que si le prix final te va, et mets un rappel pour résilier.",
    "emoji": "🥘",
-   "fiabilite": "HelloFresh"
+   "fiabilite": "HelloFresh",
+   "type": "reduc",
+   "coutNum": 3.99,
+   "sansCarte": false
   },
   {
    "id": "kingc-soin",
@@ -1518,7 +1653,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-king-c-gillette-1-soin-satisfait-ou-100-rembourse-33556/",
    "avis": "Se cumule avec l'offre rasoir/tondeuse (offres différentes). Il faut avancer l'argent et envoyer le ticket original. Cagnotte perdue après 6 mois si tu n'enregistres pas ton IBAN.",
    "emoji": "🧔",
-   "fiabilite": "King C. Gillette"
+   "fiabilite": "King C. Gillette",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "deliveroo",
@@ -1547,7 +1685,10 @@
    "lien": "https://www.dealabs.com/codes-promo/deliveroo",
    "avis": "Pas gratuit, mais c'est le repas livré le moins cher du moment (environ 5 € + frais). Nouveaux clients, zones éligibles.",
    "emoji": "🛵",
-   "fiabilite": "Deliveroo"
+   "fiabilite": "Deliveroo",
+   "type": "reduc",
+   "coutNum": 15.0,
+   "sansCarte": false
   },
   {
    "id": "ubereats",
@@ -1577,7 +1718,10 @@
    "lien": "https://www.dealabs.com/codes-promo/uber-eats",
    "avis": "Pas gratuit : un repas te coûte au moins 10 € + frais.",
    "emoji": "🍔",
-   "fiabilite": "Uber Eats"
+   "fiabilite": "Uber Eats",
+   "type": "reduc",
+   "coutNum": 20.0,
+   "sansCarte": false
   },
   {
    "id": "tokyosnack",
@@ -1610,7 +1754,10 @@
    "lien": "https://touteslesbox.fr/tokyo-snack-box/",
    "avis": "Plus de quantité que TokyoTreat pour moins cher (≈ 1,20 € le snack). Pas gratuit : seulement si ça rentre dans ton budget.",
    "emoji": "🍡",
-   "fiabilite": "Tokyo Snack Box"
+   "fiabilite": "Tokyo Snack Box",
+   "type": "box",
+   "coutNum": 29.9,
+   "sansCarte": false
   },
   {
    "id": "payot",
@@ -1642,7 +1789,10 @@
    "lien": "https://www.payot.com/pages/tirage-au-sort-cdt",
    "avis": "Marque de soin de pharmacie/institut connue, et le masque marche pour peau grasse homme ou femme. Petit format et détails encore flous : à vérifier en ouvrant le formulaire.",
    "emoji": "🧖",
-   "fiabilite": "Payot"
+   "fiabilite": "Payot",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "loreal",
@@ -1673,7 +1823,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-loreal-absolut-repair-testerdesproduits-2026",
    "avis": "Produit de coiffeur, marche pour femme et homme. Même compte que les autres tests Tester Des Produits.",
    "emoji": "💇",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "fct",
@@ -1711,7 +1864,10 @@
    "lien": "https://bonsplansmania.fr/article/test-produit-free-cosmetic-testing-cosmetiques-gratuits-2026",
    "avis": "Inscription gratuite, juste un avis à donner, rien à poster. Peu de gagnants, mais un seul compte pour tous les tirages.",
    "emoji": "🎁",
-   "fiabilite": "Free Cosmetic Testing"
+   "fiabilite": "Free Cosmetic Testing",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "biotyfull",
@@ -1745,7 +1901,10 @@
    "lien": "https://bonsplansmania.fr/go/biotyfull-box-singles-day-2-box-11-euros-novembre-2026",
    "avis": "Environ 1,25 € le produit, sans engagement. Pas gratuit : seulement si ça rentre dans ton budget, et résilie avant le 23 nov.",
    "emoji": "🌿",
-   "fiabilite": "Biotyfull Box"
+   "fiabilite": "Biotyfull Box",
+   "type": "box",
+   "coutNum": 14.9,
+   "sansCarte": false
   },
   {
    "id": "goodiebox",
@@ -1780,7 +1939,10 @@
    "lien": "https://touteslesbox.fr/goodiebox-black-friday-2026-welcome-box-19-95-euros/",
    "avis": "Pas gratuit, mais 7 produits dont 2 que tu choisis, sans engagement. Résilie juste après la commande si tu n'en veux qu'une.",
    "emoji": "🎁",
-   "fiabilite": "Goodiebox"
+   "fiabilite": "Goodiebox",
+   "type": "box",
+   "coutNum": 19.95,
+   "sansCarte": false
   },
   {
    "id": "terraillon",
@@ -1811,7 +1973,10 @@
    "lien": "https://bonsplansmania.fr/article/test-produit-terraillon-bouillotte-electrique-8-testeurs-novembre-2026",
    "avis": "Objet utile pour l'hiver, livré gratuitement, mais très peu de places (tirage).",
    "emoji": "🔥",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "escape",
@@ -1843,7 +2008,10 @@
    "lien": "https://www.testerdesproduits.fr/details-produit/572/jeu-de-societe-escape-game",
    "avis": "24 places, c'est plus que la plupart des tests du site, et ça fait une soirée entre potes gratuite (ou un cadeau de Noël).",
    "emoji": "🧩",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "imprimante",
@@ -1876,7 +2044,10 @@
    "lien": "https://www.testerdesproduits.fr/details-produit/582/imprimante-photo-portable",
    "avis": "Gadget sympa livré gratuit, mais très peu de places. Même compte que la bouillotte Terraillon : inscris-toi aux deux.",
    "emoji": "🖨️",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "amzfam",
@@ -1911,7 +2082,10 @@
    "lien": "https://www.journaldugeek.com/2026/11/17/a-quelques-jours-du-black-friday-amazon-offre-un-enorme-cadeau-a-ses-abonnes-prime-voici-comment-en-profiter/",
    "avis": "Vraiment gratuit si tu vis avec quelqu'un qui a Prime (coloc, famille, couple) : livraison gratuite pile pour le Black Friday. Sinon, ça ne te sert à rien.",
    "emoji": "📦",
-   "fiabilite": "Amazon"
+   "fiabilite": "Amazon",
+   "type": "essai",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "mapa",
@@ -1946,7 +2120,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-mapa-gants-de-jardin-100-rembourse-4/",
    "avis": "Remboursé en vrai argent, et des gants servent toujours (ménage, bricolage). Mais 500 places seulement : fais la demande vite après l'achat.",
    "emoji": "🧤",
-   "fiabilite": "MAPA"
+   "fiabilite": "MAPA",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "aloesol",
@@ -1977,7 +2154,10 @@
    "lien": "https://bonsplansmania.fr/article/test-aloesol-gel-aloe-vera-belle-au-naturel-novembre-2026",
    "avis": "Utile au quotidien (peau, après-rasage). À cocher en même temps que Patyka et Belesa.",
    "emoji": "🌵",
-   "fiabilite": "Belle au Naturel"
+   "fiabilite": "Belle au Naturel",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "tabac",
@@ -2011,7 +2191,10 @@
    "lien": "https://www.info.gouv.fr/actualite/mois-sans-tabac-2026-comment-s-inscrire-et-se-faire-aider",
    "avis": "Seulement si tu fumes ou veux aider un proche : c'est officiel (Santé publique France) et sans aucun piège.",
    "emoji": "🚭",
-   "fiabilite": "Tabac info service"
+   "fiabilite": "Tabac info service",
+   "type": "ech",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "always",
@@ -2038,7 +2221,10 @@
    "lien": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/hygiene-intime/echantillons-gratuits-des-protections-pour-fuites-urinaires-always-discreet/",
    "avis": "Utile pour toi ou un proche. Formulaire simple, sans achat.",
    "emoji": "🩲",
-   "fiabilite": "Always Discreet"
+   "fiabilite": "Always Discreet",
+   "type": "ech",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "bion3",
@@ -2064,7 +2250,10 @@
    "lien": "https://www.trnd.com/fr/projets/bion3",
    "avis": "Je n'ai pas pu confirmer que les candidatures sont ouvertes.",
    "emoji": "💊",
-   "fiabilite": "TRND"
+   "fiabilite": "TRND",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "whiskas",
@@ -2091,7 +2280,10 @@
    "lien": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/animaux/echantillons-gratuits-de-nourriture-pour-chatons-whiskas/",
    "avis": "Si tu as un chaton, ou pour quelqu'un autour de toi.",
    "emoji": "🐈",
-   "fiabilite": "Whiskas"
+   "fiabilite": "Whiskas",
+   "type": "ech",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "cruz",
@@ -2123,7 +2315,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-cruz-porto-ruby-satisfait-ou-100-rembourse-en-3-bons-30715/",
    "avis": "Pas gratuit en argent : tu récupères des bons, pas un virement. Demande par courrier avant le 15 janv. 2027, 1 par foyer, réservé aux majeurs.",
    "emoji": "🍷",
-   "fiabilite": "Cruz"
+   "fiabilite": "Cruz",
+   "type": "remb",
+   "coutNum": 2.8,
+   "sansCarte": true
   },
   {
    "id": "pronutrition",
@@ -2157,7 +2352,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-pro-nutrition-croquettes-chien-ou-chat-100-satisfait-ou-rembourse/",
    "avis": "Utile seulement si tu as un chien ou un chat : un sac de croquettes gratuit au final, en vrai argent. 1 826 demandes max, donc ne traîne pas.",
    "emoji": "🐱",
-   "fiabilite": "PRO-NUTRITION"
+   "fiabilite": "PRO-NUTRITION",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "royalcanin",
@@ -2190,7 +2388,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-royal-canin-alimentation-chien-chat-satisfait-ou-rembourse/",
    "avis": "Utile seulement si tu as déjà un chien ou un chat. Ce n'est pas un produit gratuit à commander, c'est une garantie.",
    "emoji": "🐶",
-   "fiabilite": "Royal Canin"
+   "fiabilite": "Royal Canin",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "pampers-remb",
@@ -2224,7 +2425,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-pampers-couches-t-0-et-1-lingettes-satisfait-ou-100-rembourse-34397/",
    "avis": "Utile seulement si tu as un bébé autour de toi (ou pour un cadeau de naissance). Les lingettes servent aussi au quotidien.",
    "emoji": "👶",
-   "fiabilite": "Pampers"
+   "fiabilite": "Pampers",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "vetocanis",
@@ -2260,7 +2464,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-vetocanis-snack-ou-litiere-satisfait-ou-100-rembourse-31322/",
    "avis": "Seulement si tu as un chien ou un chat. Remboursé en vrai argent, avec beaucoup de temps devant toi.",
    "emoji": "🦴",
-   "fiabilite": "Vetocanis"
+   "fiabilite": "Vetocanis",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "stabilo",
@@ -2293,7 +2500,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-stabilo-1-produit-pointball-satisfait-et-rembourse-1018/",
    "avis": "Petite valeur et un peu de paperasse, mais c'est un stylo gratuit au final. Pas pressé : l'offre dure jusqu'en 2027.",
    "emoji": "🖊️",
-   "fiabilite": "STABILO"
+   "fiabilite": "STABILO",
+   "type": "remb",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "willy",
@@ -2325,7 +2535,10 @@
    "lien": "https://willyantigaspi.fr/collections/la-promo-de-la-semaine",
    "avis": "Intéressant pour faire un gros stock pas cher. Regarde les dates (DDM) affichées sur chaque produit.",
    "emoji": "🥫",
-   "fiabilite": "Willy anti-gaspi"
+   "fiabilite": "Willy anti-gaspi",
+   "type": "reduc",
+   "coutNum": 49.0,
+   "sansCarte": false
   },
   {
    "id": "tokyo-discovery",
@@ -2361,7 +2574,10 @@
    "lien": "https://www.tokyosnackbox.com/en/products/discovery-box-snacks-japan",
    "avis": "≈ 1,70 € le snack, sans abonnement à résilier : la plus grosse quantité vérifiée en box Japon. Mais 59,90 € c'est cher pour ton budget : plutôt une idée cadeau à partager.",
    "emoji": "🎌",
-   "fiabilite": "Tokyo Snack Box"
+   "fiabilite": "Tokyo Snack Box",
+   "type": "box",
+   "coutNum": 59.9,
+   "sansCarte": false
   },
   {
    "id": "tokyotreat",
@@ -2393,7 +2609,10 @@
    "lien": "https://www.supercutekawaii.com/2026/11/november-2026-subscription-boxes-roundup/",
    "avis": "Pour découvrir le Japon, mais petite réduction : seulement si le prix final te va. Envoi depuis le Japon.",
    "emoji": "🍙",
-   "fiabilite": "TokyoTreat / Sakuraco"
+   "fiabilite": "TokyoTreat / Sakuraco",
+   "type": "box",
+   "coutNum": 45.0,
+   "sansCarte": false
   },
   {
    "id": "petitemousse",
@@ -2431,7 +2650,10 @@
    "lien": "https://touteslesbox.fr/une-petite-mousse-box-novembre-2026-bieres-noel/",
    "avis": "Pas gratuit et assez cher par bière : seulement pour te faire plaisir ou offrir. C'est l'offre alcool livrée la plus concrète trouvée (rien de gratuit en alcool aujourd'hui). À consommer avec modération.",
    "emoji": "🍺",
-   "fiabilite": "Une Petite Mousse"
+   "fiabilite": "Une Petite Mousse",
+   "type": "box",
+   "coutNum": 34.9,
+   "sansCarte": false
   },
   {
    "id": "rdm",
@@ -2459,7 +2681,10 @@
    "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-riviere-du-mat-rhum-arrange-cotron-vert-gingembre-satisfait-ou-100-rembourse-en-4-bons-1034/",
    "avis": "Pas gratuit en argent : tu récupères des bons pour racheter la marque. Réservé aux majeurs.",
    "emoji": "🥃",
-   "fiabilite": "Rivière du Mât"
+   "fiabilite": "Rivière du Mât",
+   "type": "remb",
+   "coutNum": null,
+   "sansCarte": true
   },
   {
    "id": "avene",
@@ -2489,7 +2714,10 @@
    "lien": "https://www.trnd.com/fr/projets/avene-hydrance-riche",
    "avis": "6 000 places, mais la sélection a déjà commencé.",
    "emoji": "💧",
-   "fiabilite": "TRND"
+   "fiabilite": "TRND",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "lookfantastic",
@@ -2526,7 +2754,10 @@
    "lien": "https://touteslesbox.fr/box-lookfantastic-novembre-2026-contenu-olaplex-rituals/",
    "avis": "Pas gratuit, mais 6 produits de marques connues pour 20 €. Seulement si ça rentre dans ton budget, et résilie tout de suite.",
    "emoji": "💅",
-   "fiabilite": "Lookfantastic"
+   "fiabilite": "Lookfantastic",
+   "type": "box",
+   "coutNum": 20.0,
+   "sansCarte": false
   },
   {
    "id": "prescription",
@@ -2559,7 +2790,10 @@
    "lien": "https://bonsplansmania.fr/article/prescription-lab-sucreries-hiver-novembre-2026",
    "avis": "Pas gratuit. Sans engagement mais renouvelé chaque mois : résilie dès la commande passée.",
    "emoji": "🎀",
-   "fiabilite": "Prescription Lab"
+   "fiabilite": "Prescription Lab",
+   "type": "box",
+   "coutNum": 19.9,
+   "sansCarte": false
   },
   {
    "id": "glowria",
@@ -2587,7 +2821,10 @@
    "lien": "https://bonsplansmania.fr/article/glowria-box-skin-cycling-novembre-2026",
    "avis": "Pas gratuit. Prends la formule sans engagement et résilie dès réception.",
    "emoji": "📦",
-   "fiabilite": "Glowria"
+   "fiabilite": "Glowria",
+   "type": "box",
+   "coutNum": 16.5,
+   "sansCarte": false
   },
   {
    "id": "mylittlebox",
@@ -2628,7 +2865,10 @@
    "lien": "https://touteslesbox.fr/my-little-box-black-week-2026-code-blackweek-40-pourcent-25-08-euros/",
    "avis": "Joli contenu, mais l'engagement jusqu'en février fait grimper le vrai coût à plus de 90 €. Trop cher pour ton budget : Blissim à 9 € est bien plus malin.",
    "emoji": "🎀",
-   "fiabilite": "My Little Box"
+   "fiabilite": "My Little Box",
+   "type": "box",
+   "coutNum": 25.08,
+   "sansCarte": false
   },
   {
    "id": "karite",
@@ -2659,7 +2899,10 @@
    "lien": "https://www.testerdesproduits.fr/details-produit/580/creme-mains-karite",
    "avis": "Petit truc utile en hiver, à cocher en 1 clic avec les autres tests du même site.",
    "emoji": "🤲",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "bomata",
@@ -2690,7 +2933,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-gratuit-balance-cuisine-digitale-bomata-decembre-2026",
    "avis": "Petit objet utile, à cocher en même temps que les autres tests du même site.",
    "emoji": "⚖️",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "masque-yeux",
@@ -2720,7 +2966,10 @@
    "lien": "https://www.testerdesproduits.fr/details-produit/581/masque-chauffant-yeux",
    "avis": "Très peu de places, mais même compte que les autres tests : 1 clic.",
    "emoji": "😴",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "veddel",
@@ -2752,7 +3001,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-kit-nettoyage-ecran-veddelholzer",
    "avis": "Petit truc utile, à cocher en même temps que l'imprimante et la bouillotte (même compte).",
    "emoji": "🧽",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "beugo",
@@ -2783,7 +3035,10 @@
    "lien": "https://bonsplansmania.fr/go/test-produit-correcteur-posture-beugo",
    "avis": "Utile si tu passes du temps assis. Même compte que les autres tests Tester Des Produits.",
    "emoji": "🧍",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "ampoule",
@@ -2816,7 +3071,10 @@
    "lien": "https://www.testerdesproduits.fr/details-produit/583/ampoule-connectee-led",
    "avis": "Petit gadget sympa pour ta chambre, 1 clic si tu as déjà le compte. Très peu de places et tirage lointain.",
    "emoji": "💡",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   },
   {
    "id": "psplus-yt",
@@ -2846,7 +3104,10 @@
    "lien": "https://gamewave.fr/actualites/playstation-plus-de-nouveaux-avantages-pour-les-abonnes/",
    "avis": "Seulement si tu as déjà PS Plus. Note la date de fin, sinon YouTube te prélève.",
    "emoji": "▶️",
-   "fiabilite": "PlayStation Plus"
+   "fiabilite": "PlayStation Plus",
+   "type": "essai",
+   "coutNum": 0,
+   "sansCarte": false
   },
   {
    "id": "deezer",
@@ -2873,7 +3134,10 @@
    "lien": "https://www.deezer.com/fr/offers/",
    "avis": "Deezer t'envoie un rappel 7 jours avant la fin.",
    "emoji": "🎧",
-   "fiabilite": "Deezer"
+   "fiabilite": "Deezer",
+   "type": "essai",
+   "coutNum": 0,
+   "sansCarte": false
   },
   {
    "id": "carplay",
@@ -2904,7 +3168,10 @@
    "lien": "https://www.testerdesproduits.fr/details-produit/569/adaptateur-carplay-sans-fil",
    "avis": "Seulement si tu as une voiture compatible CarPlay et un iPhone, sinon à offrir. Très peu de places, mais 1 clic si tu as le compte.",
    "emoji": "🚗",
-   "fiabilite": "Tester Des Produits"
+   "fiabilite": "Tester Des Produits",
+   "type": "test",
+   "coutNum": 0,
+   "sansCarte": true
   }
  ]
 }

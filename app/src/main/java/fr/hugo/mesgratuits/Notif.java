@@ -23,11 +23,10 @@ public class Notif {
 
     static void afficher(Context c, List<Verif.Offre> offres, boolean test) {
         creerCanal(c);
-        int jeux = 0, dlc = 0, prod = 0;
+        int jeux = 0, prod = 0;
         Verif.Offre meilleure = null;
         for (Verif.Offre o : offres) {
             if (o.onglet.equals("jeux")) jeux++;
-            else if (o.onglet.equals("dlc")) dlc++;
             else prod++;
             if (meilleure == null || score(o) > score(meilleure)) meilleure = o;
         }
@@ -42,9 +41,8 @@ public class Notif {
         }
 
         List<String> parts = new ArrayList<>();
-        if (jeux > 0) parts.add("🎮 " + jeux + " jeu" + (jeux > 1 ? "x" : ""));
-        if (dlc > 0) parts.add("🧩 " + dlc + " DLC");
-        if (prod > 0) parts.add("🎁 " + prod + " produit" + (prod > 1 ? "s" : ""));
+        if (jeux > 0) parts.add("🎮 " + jeux + " jeu" + (jeux > 1 ? "x" : "") + " & DLC");
+        if (prod > 0) parts.add("🎁 " + prod + " offre" + (prod > 1 ? "s" : ""));
         String resume = parts.isEmpty() ? "Les notifications marchent. Rendez-vous à l'heure choisie !" : String.join(" · ", parts);
 
         StringBuilder detail = new StringBuilder(resume);

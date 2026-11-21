@@ -26,7 +26,7 @@ public class Verif {
 
     static class Offre {
         String id, titre, onglet, rarete;
-        boolean gratuit;
+        boolean gratuit, nouveau;
     }
 
     /** @return true si les résultats du jour ont bien été trouvés. */
@@ -57,10 +57,8 @@ public class Verif {
                     x.titre = o.optString("titre");
                     x.rarete = o.optString("rarete", "com");
                     x.gratuit = o.optBoolean("gratuit", false);
-                    String cat = o.optString("cat", "");
-                    if (f.startsWith("produits")) x.onglet = "produits";
-                    else if (cat.equals("dlc") || cat.equals("code") || cat.equals("pack")) x.onglet = "dlc";
-                    else x.onglet = "jeux";
+                    x.onglet = f.startsWith("produits") ? "offres" : "jeux";
+                    x.nouveau = o.optBoolean("nouveau", false);
                     toutes.add(x);
                 }
             } catch (Exception ignored) {
