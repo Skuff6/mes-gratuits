@@ -7,7 +7,8 @@
 <style>
 /* Version 2 : léger et rapide (pas de flou, pas d'animation en boucle), 2 grandes catégories */
 :root{--bg:#0b0b14;--bg2:#12121f;--card:#171728;--card2:#1e1e33;--line:#2a2a44;--ink:#f3f4ff;--mute:#9b9dc0;--acc:#22d3ee;--acc2:#a855f7;--gold:#fbbf24;--epi:#a855f7;--rar:#3b82f6;--com:#64748b;--ok:#22c55e;--warn:#f59e0b;--bad:#ef4444}
-body[data-o=offres]{--acc:#fb923c;--acc2:#ec4899}
+body[data-o=offres]{--bg:#fff7f0;--bg2:#ffffff;--card:#ffffff;--card2:#fff1e6;--line:#f1dfd2;--ink:#2a1a14;--mute:#8a6f63;--soft:#5b463d;--acc:#f97316;--acc2:#e11d48;background:var(--bg)}
+body{--soft:#d6d8f5}
 body[data-o=favoris]{--acc:#f472b6;--acc2:#fb7185}
 [hidden]{display:none!important}
 *{box-sizing:border-box;min-width:0;-webkit-tap-highlight-color:transparent}
@@ -50,11 +51,11 @@ main{padding:12px 14px}
 h2.sec{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);margin:16px 0 8px;font-weight:800}
 .top{display:flex;gap:10px;overflow-x:auto;margin:0 -14px;padding:0 14px 4px;scrollbar-width:none}
 .top::-webkit-scrollbar{display:none}
-.tc{flex:0 0 72%;max-width:300px;border-radius:16px;padding:14px;background:linear-gradient(160deg,color-mix(in srgb,var(--pc) 55%,#000) ,var(--card) 75%);border:1px solid color-mix(in srgb,var(--rc) 70%,transparent)}
+.tc{flex:0 0 72%;max-width:300px;border-radius:16px;padding:14px;background:linear-gradient(160deg,color-mix(in srgb,var(--pc) 38%,var(--card)),var(--card) 80%);border:1px solid color-mix(in srgb,var(--rc) 70%,transparent)}
 .tc.r-leg{box-shadow:0 0 0 1px var(--gold) inset}
 .tc .rg{font-size:11px;font-weight:900;color:var(--rc);letter-spacing:.05em}
 .tc h3{margin:6px 0 4px;font-size:17px;line-height:1.2;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.tc .mt{font-size:12px;color:#d6d8f5;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.tc .mt{font-size:12px;color:var(--soft);display:flex;gap:6px;flex-wrap:wrap;align-items:center}
 .liste{display:flex;flex-direction:column;gap:8px}
 .it{display:flex;gap:12px;align-items:center;padding:10px;border-radius:14px;background:var(--card);border:1px solid var(--line);position:relative}
 .it::before{content:"";position:absolute;left:0;top:10px;bottom:10px;width:3px;border-radius:0 3px 3px 0;background:var(--rc)}
@@ -72,13 +73,30 @@ h2.sec{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--
 .b.r{color:var(--rc);border:1px solid color-mix(in srgb,var(--rc) 60%,transparent)}
 .urg{color:var(--bad);font-weight:700}
 .dr{flex:none;display:flex;flex-direction:column;align-items:flex-end;gap:6px}
-.px{font-weight:900;font-size:13px;padding:4px 8px;border-radius:8px;background:#14532d;color:#bbf7d0;white-space:nowrap}
-.px.p{background:#78350f;color:#fde68a}
+.px{font-weight:900;font-size:13px;padding:4px 8px;border-radius:8px;background:#15803d;color:#fff;white-space:nowrap}
+.px.p{background:#b45309;color:#fff}
+.px.ab{background:#e11d48;color:#fff}
 .px s{opacity:.6;font-weight:500;margin-right:4px}
 .fav{border:0;background:none;padding:2px;font-size:18px;line-height:1;opacity:.85}
 .plus{display:block;width:100%;margin-top:10px;height:44px;border-radius:12px;border:1px dashed var(--line);background:none;color:var(--mute);font-weight:700}
 .vide{text-align:center;color:var(--mute);padding:36px 16px;border:1px dashed var(--line);border-radius:16px}
 .vide b{display:block;color:var(--ink);font-size:16px;margin-bottom:4px}
+/* Offres : tuiles façon appli de courses */
+.grille{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+@media(min-width:700px){.grille{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.tu{position:relative;display:flex;flex-direction:column;border-radius:18px;background:var(--card);border:1px solid var(--line);overflow:hidden;box-shadow:0 2px 0 var(--line)}
+.tu.vu{opacity:.55}
+.tu .im{height:86px;display:grid;place-items:center;font-size:44px;background:color-mix(in srgb,var(--pc) 22%,var(--card));border-bottom:3px solid var(--rc)}
+.tu .co{padding:9px 10px 10px;display:flex;flex-direction:column;gap:6px;flex:1}
+.tu h3{margin:0;font-size:13.5px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:34px}
+.tu .ry{font-size:11px;color:var(--mute)}
+.tu .bas2{display:flex;align-items:center;justify-content:space-between;gap:6px;margin-top:auto}
+.tu .fav{position:absolute;top:6px;right:6px;background:var(--card);border-radius:50%;width:30px;height:30px;display:grid;place-items:center;font-size:15px}
+.tu .b{align-self:flex-start}
+.alerte{border-radius:14px;padding:12px 14px;margin:10px 0;background:#fff1f2;color:#881337;border:2px solid #f43f5e}
+.alerte b{display:block;font-size:16px;margin-bottom:4px}
+.alerte p{margin:3px 0;font-size:14px}
+.rap{display:block;width:100%;height:48px;border:0;border-radius:12px;background:#e11d48;color:#fff;font-weight:900;font-size:15px;margin-top:8px}
 nav.bas{position:fixed;left:0;right:0;bottom:0;z-index:6;display:grid;grid-template-columns:repeat(4,1fr);background:var(--bg2);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom))}
 nav.bas button{border:0;background:none;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;border-radius:12px;font-size:11px;font-weight:700;color:var(--mute);position:relative}
 nav.bas svg{width:23px;height:23px}
@@ -90,7 +108,7 @@ nav.bas .nb{position:absolute;top:2px;left:calc(50% + 6px);background:var(--acc2
 .feuille.on{display:block}
 .poi{width:40px;height:4px;border-radius:2px;background:var(--line);margin:4px auto 10px}
 .feuille h2{margin:6px 0 6px;font-size:21px;line-height:1.2}
-.feuille .d{color:#d4d6f2;margin:0 0 10px}
+.feuille .d{color:var(--soft);margin:0 0 10px}
 .bl{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 12px;margin:8px 0}
 .bl h4{margin:0 0 6px;font-size:13px}
 .bl ul,.bl ol{margin:0;padding-left:18px}.bl li{margin:3px 0}
@@ -163,18 +181,22 @@ const norm = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ
 
 const PLAT = {steam:['Steam','#1b9fff','ST'],epic:['Epic Games','#64748b','EP'],gog:['GOG','#a64ce6','GOG'],prime:['Prime Gaming','#00a8e1','PR'],ubi:['Ubisoft','#0070ff','UBI'],ea:['EA','#ff4747','EA'],bnet:['Battle.net','#148eff','BN'],xbox:['Xbox / PC','#16a116','XB'],itch:['itch.io','#fa5c5c','IT'],humble:['Humble','#cc2929','HB'],gala:['IndieGala','#e5172f','IG'],fanat:['Fanatical','#ff9800','FN'],stove:['STOVE','#ff6b00','SV'],riot:['Riot','#d13639','RI'],rock:['Rockstar','#e0a100','R*'],android:['Android','#3ddc84','AND'],ios:['iPhone','#9ca3af','iOS'],ps:['PlayStation','#0070d1','PS'],switch:['Switch','#e60012','NS'],autre:['Autre','#64748b','🎮']};
 const CATJ = {jeu:['À garder','🎮'],cle:['Clés','🔑'],dlc:['DLC','🧩'],code:['Codes','🎟️'],pack:['Packs & objets','🎒'],beta:['Bêtas & playtests','🧪'],essai:['À essayer','⏱️'],mobile:['Mobile','📱'],avenir:['À venir','📅']};
-const RAY = {bouffe:['Bouffe','🍔','#f97316'],box:['Box du monde','🌍','#eab308'],alcool:['Alcool','🍷','#be123c'],beaute:['Beauté','💄','#ec4899'],homme:['Homme','🧔','#3b82f6'],vetements:['Vêtements','👕','#06b6d4'],maison:['Maison','🏠','#84cc16'],tech:['High-tech','💻','#6366f1'],culture:['Livres, films, musique','📚','#a855f7'],applis:['Applis & logiciels','📲','#14b8a6'],sport:['Sport','⚽','#22c55e'],hygiene:['Hygiène','🧴','#2dd4bf'],animaux:['Animaux','🐾','#65a30d'],bebe:['Bébé','🍼','#f9a8d4'],colis:['Colis & cadeaux','📦','#c08457'],abo:['Abonnements','🎧','#8b5cf6'],livraison:['Livraison pas chère','🚚','#0ea5e9'],promo:['Bons plans','🏷️','#ef4444'],autre:['Autres','✨','#64748b']};
+const RAY = {bouffe:['Bouffe','🍔','#f97316'],box:['Box du monde','🌍','#eab308'],alcool:['Alcool','🍷','#be123c'],beaute:['Beauté','💄','#ec4899'],homme:['Homme','🧔','#3b82f6'],vetements:['Vêtements','👕','#06b6d4'],maison:['Maison','🏠','#84cc16'],tech:['High-tech','💻','#6366f1'],culture:['Livres, films, musique','📚','#a855f7'],applis:['Applis & logiciels','📲','#14b8a6'],sport:['Sport','⚽','#22c55e'],hygiene:['Hygiène','🧴','#2dd4bf'],animaux:['Animaux','🐾','#65a30d'],bebe:['Bébé','🍼','#f9a8d4'],colis:['Colis & cadeaux','📦','#c08457'],abo:['Abonnements','🎧','#8b5cf6'],livraison:['Livraison pas chère','🚚','#0ea5e9'],jouets:['Jouets & loisirs','🧸','#f59e0b'],papeterie:['Papeterie & déco','✏️','#0ea5e9'],accessoires:['Bijoux & accessoires','👜','#d946ef'],sante:['Santé & pharmacie','💊','#10b981'],voyage:['Voyage & sorties','✈️','#06b6d4'],services:['Services','🛠️','#78716c'],promo:['Bons plans','🏷️','#ef4444'],autre:['Autres','✨','#64748b']};
 const TYP = {ech:'Échantillon',test:'Test produit',remb:'Remboursé',essai:'Essai gratuit',box:'Box',reduc:'Réduction',livraison:'Livraison',cadeau:'Cadeau',promo:'Promo'};
 const RANG = {leg:3,epi:2,rar:1,com:0};
 const ACC = {
   direct:{r:0,i:'✅',c:'#22c55e',jeux:['Tu le récupères direct','Tu cliques, il est à toi. Rien à gagner, rien à payer.'],offres:['Sûr à 100 %','Tu commandes, tu le reçois. Rien à gagner, rien à avancer.'],court:'SÛR'},
   port:{r:1,i:'📦',c:'#38bdf8',jeux:['Juste le port','Gratuit, tu paies seulement la livraison.'],offres:['Tu paies juste la livraison','Le produit est offert, seuls les frais de port sont à payer.'],court:'PORT SEUL'},
   rembourse:{r:2,i:'💶',c:'#eab308',jeux:['Remboursé','Tu avances, puis tu es remboursé.'],offres:['Remboursé','Tu avances l\'argent en magasin, puis tu es remboursé.'],court:'REMBOURSÉ'},
-  condition:{r:3,i:'📝',c:'#fb923c',jeux:['Avec conditions','Prime, abonnement, points ou compte à lier.'],offres:['Avec conditions','Abonnement ou essai à résilier, achat minimum, déplacement…'],court:'CONDITIONS'},
-  selection:{r:4,i:'🙋',c:'#a78bfa',jeux:['Sur demande','Il faut demander l\'accès : pas garanti.'],offres:['Sur candidature','Tu postules : pas sûr d\'être choisi.'],court:'CANDIDATURE'},
-  tirage:{r:5,i:'🎲',c:'#94a3b8',jeux:['À gagner','Tirage au sort : juste une chance.'],offres:['À gagner','Tirage au sort : juste une chance, pas plus.'],court:'À GAGNER'}};
+  abonnement:{r:3,i:'🔁',c:'#f43f5e',jeux:['Abonnement : 1er mois gratuit','Gratuit au début, puis payant : pense à résilier !'],offres:['Abonnement : 1er mois gratuit','Tu reçois des choses gratuitement, mais il faut RÉSILIER avant la fin sinon tu paies.'],court:'À RÉSILIER'},
+  condition:{r:4,i:'📝',c:'#fb923c',jeux:['Avec conditions','Prime, abonnement, points ou compte à lier.'],offres:['Avec conditions','Achat minimum, compte à créer, déplacement en magasin…'],court:'CONDITIONS'},
+  pascher:{r:5,i:'💸',c:'#14b8a6',jeux:['Pas cher et rentable','Pas gratuit, mais une vraie bonne affaire.'],offres:['Pas cher et rentable','Pas gratuit, mais ça vaut vraiment le coup selon Claude.'],court:'BON PRIX'},
+  selection:{r:6,i:'🙋',c:'#a78bfa',jeux:['Sur demande','Il faut demander l\'accès : pas garanti.'],offres:['Sur candidature','Tu postules : pas sûr d\'être choisi.'],court:'CANDIDATURE'},
+  tirage:{r:7,i:'🎲',c:'#94a3b8',jeux:['À gagner','Tirage au sort : juste une chance.'],offres:['À gagner','Tirage au sort : juste une chance, pas plus.'],court:'À GAGNER'}};
 const accOf = o => ACC[o.acces] ? o.acces : (o.gratuit ? 'direct' : 'condition');
 function badgeAcc(o) { const a = ACC[accOf(o)]; return `<span class="b a" style="--ac:${a.c}">${a.i} ${a.court}${accOf(o) === 'direct' && o.gratuit ? ' · GRATUIT' : ''}</span>`; }
+const item = o => o._t === 'offres' ? tuile(o) : ligne(o);
+const boite = t => t === 'offres' ? 'grille' : 'liste';
 const NOMR = {jeux:{leg:'Légendaire',epi:'Épique',rar:'Rare',com:'Commun'},offres:{leg:'💎 Pépite',epi:'⭐ Rare',rar:'👍 Bon plan',com:'Classique'}};
 const ACCENTS = [null,['#22d3ee','#a855f7'],['#f472b6','#8b5cf6'],['#fbbf24','#f97316'],['#22c55e','#06b6d4'],['#ef4444','#fbbf24']];
 const FPS = /fps|shooter|tir |multijou|pvp|battle royale|coop|extraction/;
@@ -260,7 +282,7 @@ function avatar(o) {
   return `<div class="av txt" style="--pc:${coul(o)}">${esc(PLAT[o.plateforme]?.[2] || '•')}</div>`;
 }
 function prix(o) {
-  if (o._t === 'offres') return o.gratuit ? '<span class="px">0 €</span>' : accOf(o) === 'tirage' || accOf(o) === 'selection' ? '<span class="px p">0 € si choisi</span>' : accOf(o) === 'rembourse' ? '<span class="px p">0 € après remb.</span>' : `<span class="px p">${esc((o.cout || '?').slice(0, 14))}</span>`;
+  if (o._t === 'offres') return o.gratuit ? '<span class="px">0 €</span>' : accOf(o) === 'abonnement' ? `<span class="px ab">${esc(o.cout && !/^0/.test(o.cout) ? o.cout.slice(0, 14) : '0 € 1er mois')}</span>` : accOf(o) === 'tirage' || accOf(o) === 'selection' ? '<span class="px p">0 € si choisi</span>' : accOf(o) === 'rembourse' ? '<span class="px p">0 € après remb.</span>' : `<span class="px p">${esc((o.cout || '?').slice(0, 14))}</span>`;
   return `<span class="px">${o.prix && !/gratuit/i.test(o.prix) ? `<s>${esc(o.prix)}</s>` : ''}0 €</span>`;
 }
 function ligne(o) {
@@ -268,6 +290,12 @@ function ligne(o) {
   return `<div class="it r-${o.rarete || 'com'}${vus.has(o._k) ? ' vu' : ''}" data-k="${esc(o._k)}">${avatar(o)}
     <div class="ct"><h3>${esc(o.titre)}</h3><div class="mt">${badgeAcc(o)}${o.nouveau && !vus.has(o._k) ? '<span class="b n">NOUVEAU</span>' : ''}${o.rarete && o.rarete !== 'com' ? `<span class="b r">${NOMR[o._t][o.rarete]}</span>` : ''}<span>${esc(sous)}</span>${rebours(o)}</div></div>
     <div class="dr">${prix(o)}<button class="fav" data-fav="${esc(o._k)}" aria-label="Favori">${favs[o._k] ? '❤️' : '🤍'}</button></div></div>`;
+}
+function tuile(o) {
+  return `<div class="tu r-${o.rarete || 'com'}${vus.has(o._k) ? ' vu' : ''}" style="--pc:${coul(o)}" data-k="${esc(o._k)}"><div class="im">${esc(o.emoji || RAY[o.rayon]?.[1] || '🎁')}</div>
+    <button class="fav" data-fav="${esc(o._k)}" aria-label="Favori">${favs[o._k] ? '❤️' : '🤍'}</button>
+    <div class="co"><h3>${esc(o.titre)}</h3><div class="ry">${esc(RAY[o.rayon]?.[0] || '')}${o.qty ? ' · ' + esc(o.qty.slice(0, 26)) : ''}</div>${badgeAcc(o)}
+    <div class="bas2">${prix(o)}<span class="mt" style="margin:0">${o.nouveau && !vus.has(o._k) ? '<span class="b n">NEUF</span>' : ''}${rebours(o)}</span></div></div></div>`;
 }
 function carteTop(o) {
   return `<div class="tc r-${o.rarete}" style="--pc:${coul(o)}" data-k="${esc(o._k)}"><div class="rg">${o._t === 'offres' ? (o.rarete === 'leg' ? '💎 PÉPITE' : '⭐ À NE PAS RATER') : (o.rarete === 'leg' ? '★ LÉGENDAIRE' : '◆ ÉPIQUE')}</div>
@@ -309,13 +337,13 @@ function vueListe(t) {
     const parts = [];
     for (const o of l.slice(0, montres)) {
       const a = accOf(o);
-      if (a !== cur) { if (cur) parts.push('</div>'); cur = a; const nbA = l.filter(x => accOf(x) === a).length; parts.push(`<div class="grp" style="--ac:${ACC[a].c}"><div><b>${ACC[a].i} ${ACC[a][t][0]}</b><small>${ACC[a][t][1]}</small></div><span class="n">${nbA}</span></div><div class="liste">`); }
-      parts.push(ligne(o)); n++;
+      if (a !== cur) { if (cur) parts.push('</div>'); cur = a; const nbA = l.filter(x => accOf(x) === a).length; parts.push(`<div class="grp" style="--ac:${ACC[a].c}"><div><b>${ACC[a].i} ${ACC[a][t][0]}</b><small>${ACC[a][t][1]}</small></div><span class="n">${nbA}</span></div><div class="${boite(t)}">`); }
+      parts.push(item(o)); n++;
     }
     if (cur) parts.push('</div>');
     h += parts.join('') + (l.length > montres ? `<button class="plus" id="plus">Voir ${Math.min(PAS, l.length - montres)} de plus (${l.length - montres} restantes)</button>` : '');
   }
-  else h += `<div class="liste">${l.slice(0, montres).map(ligne).join('')}</div>${l.length > montres ? `<button class="plus" id="plus">Voir ${Math.min(PAS, l.length - montres)} de plus (${l.length - montres} restantes)</button>` : ''}`;
+  else h += `<div class="${boite(t)}">${l.slice(0, montres).map(item).join('')}</div>${l.length > montres ? `<button class="plus" id="plus">Voir ${Math.min(PAS, l.length - montres)} de plus (${l.length - montres} restantes)</button>` : ''}`;
   return h;
 }
 function vueFavoris() {
@@ -398,6 +426,7 @@ function fiche(k) {
   if (o.prix) inf.push(['Prix normal', o.prix]);
   if (o.cout) inf.push(['Coût réel', o.cout]);
   if (o.qty) inf.push(['Quantité', o.qty]);
+  if (o.prixApres) inf.push(['Prix ensuite', o.prixApres]);
   if (o._fin) inf.push(['Fin', new Date(o._fin).toLocaleString('fr-FR', {weekday:'long', day:'numeric', month:'long', hour:'2-digit', minute:'2-digit'})]);
   else if (o.finTxt) inf.push(['Quand', o.finTxt]);
   if (o.fiabilite) inf.push(['Source', o.fiabilite]);
@@ -407,6 +436,7 @@ function fiche(k) {
     <h2>${esc(o.titre)}</h2><p class="d">${esc(o.desc)}</p>
     <div class="grp" style="--ac:${ACC[accOf(o)].c};margin-top:0"><div><b>${ACC[accOf(o)].i} ${ACC[accOf(o)][o._t][0]}</b><small>${ACC[accOf(o)][o._t][1]}</small></div></div>
     <div class="bl"><dl class="inf">${inf.map(([a, b]) => `<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl></div>
+    ${accOf(o) === 'abonnement' ? alerteAbo(o) : ''}
     ${o.contenu?.length ? `<div class="bl"><h4>📦 Ce que tu reçois</h4>${li(o.contenu)}</div>` : ''}
     ${o.etapes?.length ? `<div class="bl"><h4>⚡ Comment l'avoir</h4><ol>${o.etapes.map(x => `<li>${esc(x)}</li>`).join('')}</ol></div>` : ''}
     ${(o.conditions || o.pieges?.length) ? `<div class="bl"><h4>⚠️ À savoir</h4>${o.conditions ? `<p style="margin:0 0 6px">${esc(o.conditions)}</p>` : ''}${li(o.pieges)}</div>` : ''}
@@ -414,6 +444,28 @@ function fiche(k) {
     ${o.lien ? `<button class="go" data-lien="${esc(o.lien)}">${o._t === 'offres' ? 'Je le veux 🎁' : 'Récupérer 🎮'}</button>` : ''}
     <div class="rang"><button class="sec2" data-fav="${esc(k)}">${favs[k] ? '❤️ Retirer des favoris' : '🤍 Ajouter aux favoris'}</button><button class="sec2" id="fermer">Fermer</button></div>`;
   ouvrirFeuille();
+}
+function alerteAbo(o) {
+  const fin = o.resilierLe ? new Date(o.resilierLe) : null;
+  const quand = fin ? fin.toLocaleDateString('fr-FR', {weekday:'long', day:'numeric', month:'long'}) : (o.resilierTxt || 'avant la fin du mois gratuit');
+  const deja = AND && window.Android.aRappel && window.Android.aRappel(o._k);
+  return `<div class="alerte"><b>⚠️ N'oublie pas de te désabonner !</b>
+    <p>📅 Résilie avant : <strong>${esc(quand)}</strong></p>
+    ${o.prixApres ? `<p>💳 Sinon tu paieras : <strong>${esc(o.prixApres)}</strong></p>` : ''}
+    ${o.resilier ? `<p>🛑 Comment résilier : ${esc(o.resilier)}</p>` : ''}
+    <p>Astuce : tu peux souvent résilier juste après la commande, le mois gratuit reste valable (vérifie dans les conditions).</p>
+    <button class="rap" data-rappel="${esc(o._k)}">${deja ? '✅ Rappel déjà programmé' : '🔔 Me rappeler de résilier'}</button></div>`;
+}
+function programmerRappel(k) {
+  const o = cache.tout.get(k);
+  if (!o) return;
+  if (!AND || !window.Android.rappel) { toast('Marche dans l\'appli du téléphone'); return; }
+  let quand = o.resilierLe ? new Date(o.resilierLe).getTime() - 2 * 864e5 : Date.now() + 25 * 864e5;
+  const d = new Date(quand); d.setHours(18, 0, 0, 0); quand = d.getTime();
+  if (quand < Date.now() + 36e5) quand = Date.now() + 36e5;
+  window.Android.rappel(k, 'Résilie : ' + o.titre, (o.prixApres ? 'Sinon tu paieras ' + o.prixApres + '. ' : '') + (o.resilier || 'Va dans ton compte et résilie l\'abonnement.'), quand);
+  toast('Rappel le ' + new Date(quand).toLocaleDateString('fr-FR', {day:'numeric', month:'long'}) + ' à 18 h');
+  fiche(k);
 }
 function ouvrirFeuille() { $('#feuille').classList.add('on'); $('#voile').classList.add('on'); $('#feuille').scrollTop = 0; }
 function fermer() { $('#feuille').classList.remove('on'); $('#voile').classList.remove('on'); rendre(); }
@@ -463,6 +515,7 @@ document.addEventListener('click', e => {
   let el;
   if ((el = g('#nav button'))) return window.ouvrirOnglet(el.dataset.t);
   if ((el = g('[data-fav]'))) { const k = el.dataset.fav; if (favs[k]) delete favs[k]; else favs[k] = 1; lsSet('mg-favs', favs); toast(favs[k] ? 'Ajouté aux favoris ❤️' : 'Retiré des favoris'); if ($('#feuille').classList.contains('on')) fiche(k); else rendre(); return; }
+  if ((el = g('[data-rappel]'))) return programmerRappel(el.dataset.rappel);
   if ((el = g('[data-lien]'))) return lien(el.dataset.lien);
   if ((el = g('[data-k]'))) return fiche(el.dataset.k);
   if ((el = g('[data-acc]'))) { F[onglet].acces = el.dataset.acc; montres = PAS; sauverF(); rendre(); window.scrollTo(0, 0); return; }

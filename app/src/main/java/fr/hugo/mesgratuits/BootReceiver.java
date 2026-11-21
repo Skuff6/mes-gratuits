@@ -8,5 +8,6 @@ public class BootReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
         Planif.programmer(context.getApplicationContext());
+        Rappel.reprogrammerTout(context.getApplicationContext());
     }
 }

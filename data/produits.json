@@ -764,7 +764,7 @@
   },
   {
    "id": "spotify",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "abo",
    "titre": "Spotify Premium – 4 mois",
    "rarete": "epi",
@@ -798,44 +798,8 @@
    "sansCarte": false
   },
   {
-   "id": "tgtg-colis",
-   "acces": "condition",
-   "rayon": "box",
-   "titre": "Colis anti-gaspi livrés",
-   "rarete": "epi",
-   "gratuit": false,
-   "cout": "≈ 15 à 20 € le colis (estimation)",
-   "qty": "Non indiquée (colis surprise)",
-   "contenu": [
-    "Exemple d'un colis testé : barres de céréales, flocons d'avoine, pâte à tartiner végétale, thé, boisson végétale"
-   ],
-   "pieges": [
-    "Contenu surprise : tu ne choisis pas les produits",
-    "Prix estimé par un blog : vérifie dans l'appli",
-    "Livraison en 5 à 7 jours",
-    "Produits souvent proches de leur date (DDM)"
-   ],
-   "etapes": [
-    "Installe l'appli Too Good To Go",
-    "Ouvre l'onglet des colis livrés",
-    "Choisis un thème (apéro, sucré, petit-déj…) et commande"
-   ],
-   "fin": null,
-   "finTxt": "Permanent, selon les stocks",
-   "nouveau": false,
-   "desc": "Colis de surplus des fabricants (épicerie sucrée, apéro, petit-déj, 100 % bio…) livrés chez toi en 5 à 7 jours par La Poste.",
-   "conditions": "Carte bancaire : Oui (paiement dans l'appli)",
-   "lien": "https://une-case-en-plus.com/food/avis-too-good-to-go-paniers-colis-bio-test-livraison/",
-   "avis": "Le meilleur rapport quantité-prix livré : beaucoup de produits pour un prix fixe, contenu surprise. Dans l'appli, les paniers à récupérer en magasin sont encore moins chers.",
-   "emoji": "📦",
-   "fiabilite": "Too Good To Go",
-   "type": "reduc",
-   "coutNum": 20.0,
-   "sansCarte": false
-  },
-  {
    "id": "qobuz",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "abo",
    "titre": "Qobuz Studio – 60 jours",
    "rarete": "epi",
@@ -867,7 +831,7 @@
   },
   {
    "id": "blissim",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "beaute",
    "titre": "Box beauté de novembre à 9 € (code BLACK9)",
    "rarete": "rar",
@@ -910,7 +874,7 @@
   },
   {
    "id": "degusta",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "box",
    "titre": "Box de 10 à 14 produits alimentaires",
    "rarete": "rar",
@@ -946,7 +910,7 @@
   },
   {
    "id": "hellofresh",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "box",
    "titre": "Jusqu'à −95 € sur 4 box repas",
    "rarete": "rar",
@@ -984,75 +948,8 @@
    "sansCarte": false
   },
   {
-   "id": "deliveroo",
-   "acces": "condition",
-   "rayon": "bouffe",
-   "titre": "10 € sur ta 1re commande",
-   "rarete": "rar",
-   "gratuit": false,
-   "cout": "Commande ≥ 15 €",
-   "qty": "1 commande",
-   "contenu": [],
-   "pieges": [
-    "Minimum 15 € de commande",
-    "Réservé aux nouveaux clients invités dans l'appli, zones éligibles",
-    "Frais de livraison et de service en plus"
-   ],
-   "etapes": [
-    "Ouvre la page Dealabs des codes Deliveroo",
-    "Clique « Voir le code » sur l'offre nouveaux clients",
-    "Entre le code dans l'app avant de payer"
-   ],
-   "fin": null,
-   "finTxt": "Code valable ≈ 20 jours",
-   "nouveau": false,
-   "desc": "Bon nouveau client en France : 10 € de moins sur ta première commande d'au moins 15 €.",
-   "conditions": "Carte bancaire : Oui",
-   "lien": "https://www.dealabs.com/codes-promo/deliveroo",
-   "avis": "Pas gratuit, mais c'est le repas livré le moins cher du moment (environ 5 € + frais). Nouveaux clients, zones éligibles.",
-   "emoji": "🛵",
-   "fiabilite": "Deliveroo",
-   "type": "reduc",
-   "coutNum": 15.0,
-   "sansCarte": false
-  },
-  {
-   "id": "ubereats",
-   "acces": "condition",
-   "rayon": "bouffe",
-   "titre": "10 € sur tes 2 premières commandes",
-   "rarete": "rar",
-   "gratuit": false,
-   "cout": "Commande ≥ 20 €",
-   "qty": "2 commandes",
-   "contenu": [],
-   "pieges": [
-    "Minimum 20 € par commande",
-    "Frais en plus",
-    "Code limité dans le temps",
-    "Dealabs liste aussi des codes de 15 € dès 20 € (expirent sous 4 à 20 jours) : conditions non vérifiées, regarde si tu y as droit"
-   ],
-   "etapes": [
-    "Ouvre la page Dealabs des codes",
-    "Clique « Voir le code » sur l'offre nouveaux clients",
-    "Entre le code dans l'app avant de payer"
-   ],
-   "fin": null,
-   "finTxt": "Code valable ≈ 21 jours",
-   "nouveau": false,
-   "desc": "Code nouveau client : 10 € de moins sur chacune de tes 2 premières commandes d'au moins 20 €. Étudiant : même offre via UNiDAYS.",
-   "conditions": "Carte bancaire : Oui",
-   "lien": "https://www.dealabs.com/codes-promo/uber-eats",
-   "avis": "Pas gratuit : un repas te coûte au moins 10 € + frais.",
-   "emoji": "🍔",
-   "fiabilite": "Uber Eats",
-   "type": "reduc",
-   "coutNum": 20.0,
-   "sansCarte": false
-  },
-  {
    "id": "tokyosnack",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "box",
    "titre": "Box de 25 snacks japonais",
    "rarete": "rar",
@@ -1088,45 +985,8 @@
    "sansCarte": false
   },
   {
-   "id": "vignerons",
-   "acces": "condition",
-   "rayon": "alcool",
-   "titre": "Dégustations de vin gratuites au salon de Paris",
-   "rarete": "rar",
-   "gratuit": false,
-   "cout": "0 € sur invitation (trajet à ta charge)",
-   "qty": "1 invitation (entrée + verre)",
-   "contenu": [
-    "Entrée au Salon des Vins des Vignerons Indépendants (Paris, 10-13 déc.)",
-    "Verre de dégustation offert",
-    "Dégustations chez les vignerons"
-   ],
-   "pieges": [
-    "Sur place à Paris : rien n'est livré",
-    "Trajet à ta charge",
-    "Réservé aux majeurs"
-   ],
-   "etapes": [
-    "Ouvre la page et clique « Demander mon invitation gratuite »",
-    "Inscris-toi sur la plateforme des Vignerons Indépendants",
-    "Présente l'invitation à l'entrée (10-13 déc., 10 h-20 h, dimanche 19 h)"
-   ],
-   "fin": null,
-   "finTxt": "Salon du 10 au 13 déc.",
-   "nouveau": false,
-   "desc": "Avec l'invitation gratuite, entrée libre au Salon des Vins des Vignerons Indépendants (Paris Expo Porte de Versailles) : verre offert à l'entrée et dégustations chez les vignerons.",
-   "conditions": "",
-   "lien": "https://www.paris-friendly.fr/bon_plan_paris_detaille.php?id=3566",
-   "avis": "Le seul alcool vraiment gratuit vérifié, mais sur place à Paris, pas livré. Réservé aux majeurs, à consommer avec modération. Files d'attente le week-end.",
-   "emoji": "🍇",
-   "fiabilite": "Vignerons Indépendants",
-   "type": "ech",
-   "coutNum": 0,
-   "sansCarte": true
-  },
-  {
    "id": "biotyfull",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "beaute",
    "titre": "2 box beauté bio (12 produits)",
    "rarete": "rar",
@@ -1164,7 +1024,7 @@
   },
   {
    "id": "goodiebox",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "beaute",
    "titre": "Welcome Box Black Friday (7 produits)",
    "rarete": "rar",
@@ -1203,7 +1063,7 @@
   },
   {
    "id": "amzfam",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "abo",
    "titre": "Amazon Prime gratuit via Amazon Family",
    "rarete": "rar",
@@ -1241,162 +1101,8 @@
    "sansCarte": true
   },
   {
-   "id": "willy",
-   "acces": "condition",
-   "rayon": "box",
-   "titre": "Épicerie anti-gaspi jusqu'à −58 %",
-   "rarete": "com",
-   "gratuit": false,
-   "cout": "Livraison offerte en relais dès 49 €",
-   "qty": "Au choix",
-   "contenu": [
-    "Exemples de la semaine : sablés Walker's 250 g à 9,69 €, café en grain Colombie bio 180 g à 7,84 €, huile d'olive au basilic 250 ml à 8,62 €, brandade 190 g à 4,64 €"
-   ],
-   "pieges": [
-    "Livraison offerte seulement dès 49 € en point relais",
-    "Dates proches : regarde la DDM de chaque produit",
-    "Les −10 % demandent l'inscription à la newsletter",
-    "La réduction affichée peut varier d'une page à l'autre"
-   ],
-   "etapes": [
-    "Ouvre la page des promos de la semaine",
-    "Inscris-toi à la newsletter pour les 10 %",
-    "Vise 49 € pour la livraison offerte en point relais"
-   ],
-   "fin": null,
-   "finTxt": "Promos de la semaine",
-   "nouveau": false,
-   "desc": "Produits bio et français sauvés du gaspillage : biscuits, café, huile, apéro… 10 % en plus sur ta 1re commande si tu t'inscris à la newsletter.",
-   "conditions": "Carte bancaire : Oui",
-   "lien": "https://willyantigaspi.fr/collections/la-promo-de-la-semaine",
-   "avis": "Intéressant pour faire un gros stock pas cher. Regarde les dates (DDM) affichées sur chaque produit.",
-   "emoji": "🥫",
-   "fiabilite": "Willy anti-gaspi",
-   "type": "reduc",
-   "coutNum": 49.0,
-   "sansCarte": false
-  },
-  {
-   "id": "tokyo-discovery",
-   "acces": "condition",
-   "rayon": "box",
-   "titre": "Discovery Box : 35+ snacks du Japon (sans abonnement)",
-   "rarete": "com",
-   "gratuit": false,
-   "cout": "59,90 € livré (port + taxes compris)",
-   "qty": "Au moins 35 produits (dont 2 KitKat) + 1 petit cadeau",
-   "contenu": [
-    "Au moins 35 snacks japonais de toutes les régions du Japon (liste exacte non publiée)",
-    "Dont 2 KitKat japonais",
-    "1 petit cadeau"
-   ],
-   "pieges": [
-    "59,90 €, pas gratuit",
-    "Achat unique : PAS d'abonnement",
-    "Port offert, taxes d'import déjà payées (rien à payer à la livraison)",
-    "Livraison estimée du 24 nov. au 1er déc.",
-    "Pour Noël : commander avant le 26 nov.",
-    "Contenu exact non détaillé (« au moins 35 produits »)"
-   ],
-   "etapes": [
-    "Ouvre la page Discovery Box",
-    "Ajoute au panier (personnalisation cadeau possible)",
-    "Paie : livraison estimée fin novembre"
-   ],
-   "fin": null,
-   "finTxt": "Commander avant le 26 nov. pour Noël",
-   "nouveau": false,
-   "desc": "Grosse box de découverte du Japon en achat unique : au moins 35 snacks (dont 2 KitKat) + un petit cadeau, livrée gratuitement sans frais de douane.",
-   "conditions": "Carte bancaire : Oui",
-   "lien": "https://www.tokyosnackbox.com/en/products/discovery-box-snacks-japan",
-   "avis": "≈ 1,70 € le snack, sans abonnement à résilier : la plus grosse quantité vérifiée en box Japon. Mais 59,90 € c'est cher pour ton budget : plutôt une idée cadeau à partager.",
-   "emoji": "🎌",
-   "fiabilite": "Tokyo Snack Box",
-   "type": "box",
-   "coutNum": 59.9,
-   "sansCarte": false
-  },
-  {
-   "id": "tokyotreat",
-   "acces": "condition",
-   "rayon": "box",
-   "titre": "Box de snacks japonais",
-   "rarete": "com",
-   "gratuit": false,
-   "cout": "≈ 45 € la box (prix d'appel), −5 $ sur la 1re",
-   "qty": "Non vérifiée",
-   "contenu": [
-    "Thème de novembre « Matcha Fall Rush » : snacks japonais, dont un grand sac de KitKat et des nouilles instantanées"
-   ],
-   "pieges": [
-    "Prix d'appel ≈ 45 € (Toutes les box), à vérifier au panier",
-    "Réduction de seulement 5 $",
-    "Envoi depuis le Japon : délai et taxes possibles",
-    "Renouvellement automatique"
-   ],
-   "etapes": [
-    "Ouvre l'article récap",
-    "Va sur le site de la box et entre SCKAWAII",
-    "Vérifie le prix final et les frais avant de payer"
-   ],
-   "fin": null,
-   "finTxt": "Box de novembre",
-   "nouveau": false,
-   "desc": "Box de snacks du Japon (thème « Matcha Fall Rush » ce mois-ci) : code SCKAWAII pour 5 $ de moins sur la 1re box.",
-   "conditions": "Carte bancaire : Oui",
-   "lien": "https://www.supercutekawaii.com/2026/11/november-2026-subscription-boxes-roundup/",
-   "avis": "Pour découvrir le Japon, mais petite réduction : seulement si le prix final te va. Envoi depuis le Japon.",
-   "emoji": "🍙",
-   "fiabilite": "TokyoTreat / Sakuraco",
-   "type": "box",
-   "coutNum": 45.0,
-   "sansCarte": false
-  },
-  {
-   "id": "petitemousse",
-   "acces": "condition",
-   "rayon": "alcool",
-   "titre": "Box de 6 bières craft dont 2 de Noël",
-   "rarete": "com",
-   "gratuit": false,
-   "cout": "34,90 € livré en relais (≈ 5,80 € la bière)",
-   "qty": "6 canettes de bière",
-   "contenu": [
-    "Golden Refuge (The Piggy Brewing Company, Nancy) : Winter IPA blonde 5 %",
-    "Blitz (La Superbe, Anglet) : lager blonde 4,9 %",
-    "Blanche Gingembre Citron Vert (Iron) : wheat ale 5 %",
-    "Mongy IPA (Cambier, Croix) : West Coast IPA 6,8 %",
-    "45 Days of Christmas (To Øl, Copenhague) : Vienna lager ambrée de Noël ≈ 5 %",
-    "Ambrée de Noël (Brasserie de la Juine, Essonne) : bière de Noël épicée 5,5 %",
-    "Volume des canettes non précisé"
-   ],
-   "pieges": [
-    "29,95 € + 4,95 € de port en point relais (7,95 € à domicile) = 34,90 € minimum",
-    "Formule 1 mois sans engagement ; les formules 2 à 12 mois se paient d'avance",
-    "Aucun code promo ni 1re box réduite trouvé",
-    "Réservé aux majeurs"
-   ],
-   "etapes": [
-    "Ouvre l'article Toutes les box puis le site Une Petite Mousse",
-    "Choisis la box 1 mois (sans engagement)",
-    "Prends la livraison en point relais (4,95 €)"
-   ],
-   "fin": null,
-   "finTxt": "Box de novembre",
-   "nouveau": false,
-   "desc": "Box bière de novembre : 6 canettes de brasseries artisanales (IPA, lager, blanche, 2 bières de Noël), livrée en point relais.",
-   "conditions": "Carte bancaire : Oui",
-   "lien": "https://touteslesbox.fr/une-petite-mousse-box-novembre-2026-bieres-noel/",
-   "avis": "Pas gratuit et assez cher par bière : seulement pour te faire plaisir ou offrir. C'est l'offre alcool livrée la plus concrète trouvée (rien de gratuit en alcool aujourd'hui). À consommer avec modération.",
-   "emoji": "🍺",
-   "fiabilite": "Une Petite Mousse",
-   "type": "box",
-   "coutNum": 34.9,
-   "sansCarte": false
-  },
-  {
    "id": "lookfantastic",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "beaute",
    "titre": "Box beauté de novembre (6 produits)",
    "rarete": "com",
@@ -1437,7 +1143,7 @@
   },
   {
    "id": "prescription",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "beaute",
    "titre": "Box « Sucreries d'hiver » (5 produits)",
    "rarete": "com",
@@ -1474,7 +1180,7 @@
   },
   {
    "id": "glowria",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "beaute",
    "titre": "Box Skin Cycling",
    "rarete": "com",
@@ -1506,7 +1212,7 @@
   },
   {
    "id": "mylittlebox",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "beaute",
    "titre": "Double Box « La Saison des merveilles » −40 %",
    "rarete": "com",
@@ -1551,7 +1257,7 @@
   },
   {
    "id": "psplus-yt",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "abo",
    "titre": "YouTube Premium – 3 mois",
    "rarete": "com",
@@ -1585,7 +1291,7 @@
   },
   {
    "id": "deezer",
-   "acces": "condition",
+   "acces": "abonnement",
    "rayon": "abo",
    "titre": "Deezer Premium – 1 mois",
    "rarete": "com",
@@ -1612,6 +1318,300 @@
    "fiabilite": "Deezer",
    "type": "essai",
    "coutNum": 0,
+   "sansCarte": false
+  },
+  {
+   "id": "tgtg-colis",
+   "acces": "condition",
+   "rayon": "box",
+   "titre": "Colis anti-gaspi livrés",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "≈ 15 à 20 € le colis (estimation)",
+   "qty": "Non indiquée (colis surprise)",
+   "contenu": [
+    "Exemple d'un colis testé : barres de céréales, flocons d'avoine, pâte à tartiner végétale, thé, boisson végétale"
+   ],
+   "pieges": [
+    "Contenu surprise : tu ne choisis pas les produits",
+    "Prix estimé par un blog : vérifie dans l'appli",
+    "Livraison en 5 à 7 jours",
+    "Produits souvent proches de leur date (DDM)"
+   ],
+   "etapes": [
+    "Installe l'appli Too Good To Go",
+    "Ouvre l'onglet des colis livrés",
+    "Choisis un thème (apéro, sucré, petit-déj…) et commande"
+   ],
+   "fin": null,
+   "finTxt": "Permanent, selon les stocks",
+   "nouveau": false,
+   "desc": "Colis de surplus des fabricants (épicerie sucrée, apéro, petit-déj, 100 % bio…) livrés chez toi en 5 à 7 jours par La Poste.",
+   "conditions": "Carte bancaire : Oui (paiement dans l'appli)",
+   "lien": "https://une-case-en-plus.com/food/avis-too-good-to-go-paniers-colis-bio-test-livraison/",
+   "avis": "Le meilleur rapport quantité-prix livré : beaucoup de produits pour un prix fixe, contenu surprise. Dans l'appli, les paniers à récupérer en magasin sont encore moins chers.",
+   "emoji": "📦",
+   "fiabilite": "Too Good To Go",
+   "type": "reduc",
+   "coutNum": 20.0,
+   "sansCarte": false
+  },
+  {
+   "id": "vignerons",
+   "acces": "condition",
+   "rayon": "alcool",
+   "titre": "Dégustations de vin gratuites au salon de Paris",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € sur invitation (trajet à ta charge)",
+   "qty": "1 invitation (entrée + verre)",
+   "contenu": [
+    "Entrée au Salon des Vins des Vignerons Indépendants (Paris, 10-13 déc.)",
+    "Verre de dégustation offert",
+    "Dégustations chez les vignerons"
+   ],
+   "pieges": [
+    "Sur place à Paris : rien n'est livré",
+    "Trajet à ta charge",
+    "Réservé aux majeurs"
+   ],
+   "etapes": [
+    "Ouvre la page et clique « Demander mon invitation gratuite »",
+    "Inscris-toi sur la plateforme des Vignerons Indépendants",
+    "Présente l'invitation à l'entrée (10-13 déc., 10 h-20 h, dimanche 19 h)"
+   ],
+   "fin": null,
+   "finTxt": "Salon du 10 au 13 déc.",
+   "nouveau": false,
+   "desc": "Avec l'invitation gratuite, entrée libre au Salon des Vins des Vignerons Indépendants (Paris Expo Porte de Versailles) : verre offert à l'entrée et dégustations chez les vignerons.",
+   "conditions": "",
+   "lien": "https://www.paris-friendly.fr/bon_plan_paris_detaille.php?id=3566",
+   "avis": "Le seul alcool vraiment gratuit vérifié, mais sur place à Paris, pas livré. Réservé aux majeurs, à consommer avec modération. Files d'attente le week-end.",
+   "emoji": "🍇",
+   "fiabilite": "Vignerons Indépendants",
+   "type": "ech",
+   "coutNum": 0,
+   "sansCarte": true
+  },
+  {
+   "id": "deliveroo",
+   "acces": "pascher",
+   "rayon": "bouffe",
+   "titre": "10 € sur ta 1re commande",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Commande ≥ 15 €",
+   "qty": "1 commande",
+   "contenu": [],
+   "pieges": [
+    "Minimum 15 € de commande",
+    "Réservé aux nouveaux clients invités dans l'appli, zones éligibles",
+    "Frais de livraison et de service en plus"
+   ],
+   "etapes": [
+    "Ouvre la page Dealabs des codes Deliveroo",
+    "Clique « Voir le code » sur l'offre nouveaux clients",
+    "Entre le code dans l'app avant de payer"
+   ],
+   "fin": null,
+   "finTxt": "Code valable ≈ 20 jours",
+   "nouveau": false,
+   "desc": "Bon nouveau client en France : 10 € de moins sur ta première commande d'au moins 15 €.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.dealabs.com/codes-promo/deliveroo",
+   "avis": "Pas gratuit, mais c'est le repas livré le moins cher du moment (environ 5 € + frais). Nouveaux clients, zones éligibles.",
+   "emoji": "🛵",
+   "fiabilite": "Deliveroo",
+   "type": "reduc",
+   "coutNum": 15.0,
+   "sansCarte": false
+  },
+  {
+   "id": "ubereats",
+   "acces": "pascher",
+   "rayon": "bouffe",
+   "titre": "10 € sur tes 2 premières commandes",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Commande ≥ 20 €",
+   "qty": "2 commandes",
+   "contenu": [],
+   "pieges": [
+    "Minimum 20 € par commande",
+    "Frais en plus",
+    "Code limité dans le temps",
+    "Dealabs liste aussi des codes de 15 € dès 20 € (expirent sous 4 à 20 jours) : conditions non vérifiées, regarde si tu y as droit"
+   ],
+   "etapes": [
+    "Ouvre la page Dealabs des codes",
+    "Clique « Voir le code » sur l'offre nouveaux clients",
+    "Entre le code dans l'app avant de payer"
+   ],
+   "fin": null,
+   "finTxt": "Code valable ≈ 21 jours",
+   "nouveau": false,
+   "desc": "Code nouveau client : 10 € de moins sur chacune de tes 2 premières commandes d'au moins 20 €. Étudiant : même offre via UNiDAYS.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.dealabs.com/codes-promo/uber-eats",
+   "avis": "Pas gratuit : un repas te coûte au moins 10 € + frais.",
+   "emoji": "🍔",
+   "fiabilite": "Uber Eats",
+   "type": "reduc",
+   "coutNum": 20.0,
+   "sansCarte": false
+  },
+  {
+   "id": "willy",
+   "acces": "pascher",
+   "rayon": "box",
+   "titre": "Épicerie anti-gaspi jusqu'à −58 %",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Livraison offerte en relais dès 49 €",
+   "qty": "Au choix",
+   "contenu": [
+    "Exemples de la semaine : sablés Walker's 250 g à 9,69 €, café en grain Colombie bio 180 g à 7,84 €, huile d'olive au basilic 250 ml à 8,62 €, brandade 190 g à 4,64 €"
+   ],
+   "pieges": [
+    "Livraison offerte seulement dès 49 € en point relais",
+    "Dates proches : regarde la DDM de chaque produit",
+    "Les −10 % demandent l'inscription à la newsletter",
+    "La réduction affichée peut varier d'une page à l'autre"
+   ],
+   "etapes": [
+    "Ouvre la page des promos de la semaine",
+    "Inscris-toi à la newsletter pour les 10 %",
+    "Vise 49 € pour la livraison offerte en point relais"
+   ],
+   "fin": null,
+   "finTxt": "Promos de la semaine",
+   "nouveau": false,
+   "desc": "Produits bio et français sauvés du gaspillage : biscuits, café, huile, apéro… 10 % en plus sur ta 1re commande si tu t'inscris à la newsletter.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://willyantigaspi.fr/collections/la-promo-de-la-semaine",
+   "avis": "Intéressant pour faire un gros stock pas cher. Regarde les dates (DDM) affichées sur chaque produit.",
+   "emoji": "🥫",
+   "fiabilite": "Willy anti-gaspi",
+   "type": "reduc",
+   "coutNum": 49.0,
+   "sansCarte": false
+  },
+  {
+   "id": "tokyo-discovery",
+   "acces": "pascher",
+   "rayon": "box",
+   "titre": "Discovery Box : 35+ snacks du Japon (sans abonnement)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "59,90 € livré (port + taxes compris)",
+   "qty": "Au moins 35 produits (dont 2 KitKat) + 1 petit cadeau",
+   "contenu": [
+    "Au moins 35 snacks japonais de toutes les régions du Japon (liste exacte non publiée)",
+    "Dont 2 KitKat japonais",
+    "1 petit cadeau"
+   ],
+   "pieges": [
+    "59,90 €, pas gratuit",
+    "Achat unique : PAS d'abonnement",
+    "Port offert, taxes d'import déjà payées (rien à payer à la livraison)",
+    "Livraison estimée du 24 nov. au 1er déc.",
+    "Pour Noël : commander avant le 26 nov.",
+    "Contenu exact non détaillé (« au moins 35 produits »)"
+   ],
+   "etapes": [
+    "Ouvre la page Discovery Box",
+    "Ajoute au panier (personnalisation cadeau possible)",
+    "Paie : livraison estimée fin novembre"
+   ],
+   "fin": null,
+   "finTxt": "Commander avant le 26 nov. pour Noël",
+   "nouveau": false,
+   "desc": "Grosse box de découverte du Japon en achat unique : au moins 35 snacks (dont 2 KitKat) + un petit cadeau, livrée gratuitement sans frais de douane.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.tokyosnackbox.com/en/products/discovery-box-snacks-japan",
+   "avis": "≈ 1,70 € le snack, sans abonnement à résilier : la plus grosse quantité vérifiée en box Japon. Mais 59,90 € c'est cher pour ton budget : plutôt une idée cadeau à partager.",
+   "emoji": "🎌",
+   "fiabilite": "Tokyo Snack Box",
+   "type": "box",
+   "coutNum": 59.9,
+   "sansCarte": false
+  },
+  {
+   "id": "tokyotreat",
+   "acces": "pascher",
+   "rayon": "box",
+   "titre": "Box de snacks japonais",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "≈ 45 € la box (prix d'appel), −5 $ sur la 1re",
+   "qty": "Non vérifiée",
+   "contenu": [
+    "Thème de novembre « Matcha Fall Rush » : snacks japonais, dont un grand sac de KitKat et des nouilles instantanées"
+   ],
+   "pieges": [
+    "Prix d'appel ≈ 45 € (Toutes les box), à vérifier au panier",
+    "Réduction de seulement 5 $",
+    "Envoi depuis le Japon : délai et taxes possibles",
+    "Renouvellement automatique"
+   ],
+   "etapes": [
+    "Ouvre l'article récap",
+    "Va sur le site de la box et entre SCKAWAII",
+    "Vérifie le prix final et les frais avant de payer"
+   ],
+   "fin": null,
+   "finTxt": "Box de novembre",
+   "nouveau": false,
+   "desc": "Box de snacks du Japon (thème « Matcha Fall Rush » ce mois-ci) : code SCKAWAII pour 5 $ de moins sur la 1re box.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.supercutekawaii.com/2026/11/november-2026-subscription-boxes-roundup/",
+   "avis": "Pour découvrir le Japon, mais petite réduction : seulement si le prix final te va. Envoi depuis le Japon.",
+   "emoji": "🍙",
+   "fiabilite": "TokyoTreat / Sakuraco",
+   "type": "box",
+   "coutNum": 45.0,
+   "sansCarte": false
+  },
+  {
+   "id": "petitemousse",
+   "acces": "pascher",
+   "rayon": "alcool",
+   "titre": "Box de 6 bières craft dont 2 de Noël",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "34,90 € livré en relais (≈ 5,80 € la bière)",
+   "qty": "6 canettes de bière",
+   "contenu": [
+    "Golden Refuge (The Piggy Brewing Company, Nancy) : Winter IPA blonde 5 %",
+    "Blitz (La Superbe, Anglet) : lager blonde 4,9 %",
+    "Blanche Gingembre Citron Vert (Iron) : wheat ale 5 %",
+    "Mongy IPA (Cambier, Croix) : West Coast IPA 6,8 %",
+    "45 Days of Christmas (To Øl, Copenhague) : Vienna lager ambrée de Noël ≈ 5 %",
+    "Ambrée de Noël (Brasserie de la Juine, Essonne) : bière de Noël épicée 5,5 %",
+    "Volume des canettes non précisé"
+   ],
+   "pieges": [
+    "29,95 € + 4,95 € de port en point relais (7,95 € à domicile) = 34,90 € minimum",
+    "Formule 1 mois sans engagement ; les formules 2 à 12 mois se paient d'avance",
+    "Aucun code promo ni 1re box réduite trouvé",
+    "Réservé aux majeurs"
+   ],
+   "etapes": [
+    "Ouvre l'article Toutes les box puis le site Une Petite Mousse",
+    "Choisis la box 1 mois (sans engagement)",
+    "Prends la livraison en point relais (4,95 €)"
+   ],
+   "fin": null,
+   "finTxt": "Box de novembre",
+   "nouveau": false,
+   "desc": "Box bière de novembre : 6 canettes de brasseries artisanales (IPA, lager, blanche, 2 bières de Noël), livrée en point relais.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://touteslesbox.fr/une-petite-mousse-box-novembre-2026-bieres-noel/",
+   "avis": "Pas gratuit et assez cher par bière : seulement pour te faire plaisir ou offrir. C'est l'offre alcool livrée la plus concrète trouvée (rien de gratuit en alcool aujourd'hui). À consommer avec modération.",
+   "emoji": "🍺",
+   "fiabilite": "Une Petite Mousse",
+   "type": "box",
+   "coutNum": 34.9,
    "sansCarte": false
   },
   {

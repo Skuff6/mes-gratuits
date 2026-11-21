@@ -44,6 +44,17 @@ public class Bridge {
         new Thread(() -> Verif.lancer(c, true)).start();
     }
 
+    /** Programme un rappel « pense à résilier » (quand = date en millisecondes). */
+    @JavascriptInterface
+    public void rappel(String id, String titre, String texte, double quand) {
+        Rappel.programmer(c, id, titre, texte, (long) quand);
+    }
+
+    @JavascriptInterface
+    public boolean aRappel(String id) {
+        return Rappel.existe(c, id);
+    }
+
     /** Numéro de version de l'appli installée. */
     @JavascriptInterface
     public int versionApp() {
