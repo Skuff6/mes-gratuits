@@ -1,0 +1,9 @@
+Outils contenant "repo" ou "trigger" disponibles dans cette session :
+- mcp__claude-code-remote__create_trigger
+- mcp__claude-code-remote__delete_trigger
+- mcp__claude-code-remote__fire_trigger
+- mcp__claude-code-remote__list_triggers
+- mcp__claude-code-remote__update_trigger
+(aucun outil add_repo / list_repos)
+
+Etape 1 : aucun outil add_repo trouve (ToolSearch "add_repo" -> "No matching deferred tools found"), donc pas d'appel.
