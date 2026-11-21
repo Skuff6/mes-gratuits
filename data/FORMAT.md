@@ -60,6 +60,8 @@ L'appli range tout par ce champ, en grands groupes séparés. Choisis-le avec so
 - `finTxt` : la date ou la durée en clair (« Jusqu'au 26 nov. 17h », « Stock limité »). Toujours le remplir.
 - `nouveau` : `true` si l'offre n'était pas là la veille.
 - `id` : stable d'un jour à l'autre pour la même offre (minuscules, tirets).
+- `lien` (TRÈS IMPORTANT, demande de Hugo) : le lien DIRECT vers la page où on récupère / commande / s'inscrit vraiment (page du jeu sur Steam, Epic, GOG…, page du produit ou du formulaire chez la marque), PAS un article de blog, PAS une page de bons plans, PAS un agrégateur. Ouvre la source, trouve le vrai lien, vérifie qu'il marche. Si le seul moyen passe par un site intermédiaire (ex. Alienware Arena, IndieGala), mets la page exacte de l'offre sur ce site.
+- `source` : l'article ou la page où tu as trouvé l'offre (Dealabs, GamerPower, blog…). L'appli l'affiche à part en petit.
 
 ## data/produits.json — toutes les autres offres d'Internet
 

@@ -441,7 +441,8 @@ function fiche(k) {
     ${o.etapes?.length ? `<div class="bl"><h4>⚡ Comment l'avoir</h4><ol>${o.etapes.map(x => `<li>${esc(x)}</li>`).join('')}</ol></div>` : ''}
     ${(o.conditions || o.pieges?.length) ? `<div class="bl"><h4>⚠️ À savoir</h4>${o.conditions ? `<p style="margin:0 0 6px">${esc(o.conditions)}</p>` : ''}${li(o.pieges)}</div>` : ''}
     ${o.avis ? `<div class="bl"><h4>💬 L'avis de Claude</h4><p style="margin:0">${esc(o.avis)}</p></div>` : ''}
-    ${o.lien ? `<button class="go" data-lien="${esc(o.lien)}">${o._t === 'offres' ? 'Je le veux 🎁' : 'Récupérer 🎮'}</button>` : ''}
+    ${o.lien ? `<button class="go" data-lien="${esc(o.lien)}">${o._t === 'offres' ? 'Je le veux 🎁' : 'Récupérer 🎮'} → ${esc(domaine(o.lien))}</button>` : ''}
+    ${o.source && o.source !== o.lien ? `<button class="sec2" data-lien="${esc(o.source)}">📰 Voir où Claude l'a trouvé (${esc(domaine(o.source))})</button>` : ''}
     <div class="rang"><button class="sec2" data-fav="${esc(k)}">${favs[k] ? '❤️ Retirer des favoris' : '🤍 Ajouter aux favoris'}</button><button class="sec2" id="fermer">Fermer</button></div>`;
   ouvrirFeuille();
 }
@@ -467,6 +468,7 @@ function programmerRappel(k) {
   toast('Rappel le ' + new Date(quand).toLocaleDateString('fr-FR', {day:'numeric', month:'long'}) + ' à 18 h');
   fiche(k);
 }
+function domaine(u) { try { return new URL(u).hostname.replace(/^www\./, ''); } catch (e) { return ''; } }
 function ouvrirFeuille() { $('#feuille').classList.add('on'); $('#voile').classList.add('on'); $('#feuille').scrollTop = 0; }
 function fermer() { $('#feuille').classList.remove('on'); $('#voile').classList.remove('on'); rendre(); }
 function lien(u) { if (AND) window.Android.ouvrirLien(u); else window.open(u, '_blank'); }
