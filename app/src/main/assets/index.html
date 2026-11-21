@@ -137,6 +137,7 @@ nav.bas .nb{position:absolute;top:2px;left:calc(50% + 6px);background:var(--acc2
   <div class="chips" id="chips"></div>
 </div>
 
+<div id="maj-appli" hidden style="margin:10px 14px 0;padding:12px 14px;border-radius:14px;background:linear-gradient(90deg,var(--acc),var(--acc2));color:#000;font-weight:800;display:flex;align-items:center;gap:10px"><span style="flex:1">🆕 Nouvelle version de l'appli disponible</span><button data-lien="https://github.com/Skuff6/mes-gratuits/releases/download/appli/mes-gratuits.apk" style="border:0;border-radius:10px;background:#000;color:#fff;font-weight:800;padding:9px 12px">Mettre à jour</button></div>
 <main id="vue"></main>
 
 <nav class="bas" id="nav">
@@ -435,9 +436,19 @@ async function actualiser(montrer) {
   b.classList.remove('tourne');
   const change = avant !== JSON.stringify([D.jeux, D.produits]).length + (D.jeux?.maj || '') + (D.produits?.maj || '');
   if (change || montrer || horsLigne) { preparer(); if (!$('#feuille').classList.contains('on')) rendre(); }
+  verifierVersion();
   if (montrer) toast(horsLigne ? 'Pas de connexion' : change ? 'Nouveaux résultats ✓' : 'Déjà à jour ✓');
 }
 
+async function verifierVersion() {
+  if (!AND || !window.Android.versionApp) return;
+  try {
+    const r = await fetch('https://api.github.com/repos/Skuff6/mes-gratuits/releases/tags/appli', {cache: 'no-store'});
+    if (!r.ok) return;
+    const n = +(((await r.json()).body || '').match(/Version (\d+)/) || [])[1];
+    $('#maj-appli').hidden = !(n && n > window.Android.versionApp());
+  } catch (e) {}
+}
 window.ouvrirOnglet = t => { if (t === 'dlc') t = 'jeux'; if (t === 'produits') t = 'offres'; onglet = t; montres = PAS; history.replaceState(null, '', '#' + t); $('#feuille').classList.remove('on'); $('#voile').classList.remove('on'); rendre(); window.scrollTo(0, 0); };
 window.actualiser = actualiser;
 window.retour = () => {

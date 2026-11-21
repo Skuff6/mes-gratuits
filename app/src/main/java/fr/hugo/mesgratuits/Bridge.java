@@ -44,6 +44,16 @@ public class Bridge {
         new Thread(() -> Verif.lancer(c, true)).start();
     }
 
+    /** Numéro de version de l'appli installée. */
+    @JavascriptInterface
+    public int versionApp() {
+        try {
+            return (int) c.getPackageManager().getPackageInfo(c.getPackageName(), 0).getLongVersionCode();
+        } catch (Exception e) {
+            return 0;
+        }
+    }
+
     @JavascriptInterface
     public boolean estAndroid() {
         return true;
