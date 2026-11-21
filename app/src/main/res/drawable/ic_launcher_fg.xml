@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Coffre au trésor néon -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- lueur -->
+    <path android:fillColor="#3300F0FF" android:pathData="M54,22a32,32 0 1,0 0.01,0z" />
+    <!-- couvercle -->
+    <path android:fillColor="#FF2BD6" android:pathData="M34,50 L34,44 Q34,34 54,34 Q74,34 74,44 L74,50 Z" />
+    <!-- corps -->
+    <path android:fillColor="#00F0FF" android:pathData="M33,50 L75,50 L75,76 Q75,78 73,78 L35,78 Q33,78 33,76 Z" />
+    <!-- bande -->
+    <path android:fillColor="#140A2A" android:pathData="M33,55 L75,55 L75,59 L33,59 Z" />
+    <!-- serrure dorée -->
+    <path android:fillColor="#FFC93C" android:pathData="M49,52 L59,52 L59,64 L49,64 Z" />
+    <path android:fillColor="#140A2A" android:pathData="M52.5,56 L55.5,56 L55.5,61 L52.5,61 Z" />
+    <!-- étincelle -->
+    <path android:fillColor="#FFC93C" android:pathData="M72,26 L74,32 L80,34 L74,36 L72,42 L70,36 L64,34 L70,32 Z" />
+</vector>

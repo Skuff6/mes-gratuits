@@ -1,0 +1,39 @@
+plugins {
+    id 'com.android.application'
+}
+
+def vc = (project.findProperty('versionCode') ?: '1') as int
+
+android {
+    namespace 'fr.hugo.mesgratuits'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'fr.hugo.mesgratuits'
+        minSdk 26
+        targetSdk 34
+        versionCode vc
+        versionName "1.${vc}"
+    }
+
+    signingConfigs {
+        release {
+            storeFile file('mesgratuits.jks')
+            storePassword 'mesgratuits'
+            keyAlias 'mesgratuits'
+            keyPassword 'mesgratuits'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
