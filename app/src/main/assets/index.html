@@ -189,6 +189,11 @@ function rebours(fin) {
   const t = j >= 1 ? `${j} j ${h % 24} h` : h >= 1 ? `${h} h` : `${Math.max(1, Math.floor(ms / 6e4))} min`;
   return `<span class="timer${h < 48 ? ' urg' : ''}">⏳ Fin dans ${t}</span>`;
 }
+function quand(o) {
+  const r = rebours(o.fin);
+  if (r) return r;
+  return o.finTxt ? `<span class="timer" style="color:var(--mute);font-weight:600">📅 ${esc(o.finTxt.length > 34 ? o.finTxt.slice(0, 33) + '…' : o.finTxt)}</span>` : '';
+}
 function couleur(t, o) { return t === 'produits' ? (RAY[o.rayon]?.[2] || '#6b6f99') : (PLAT[o.plateforme]?.[1] || '#6b6f99'); }
 function nomRar(t, r) { return (t === 'produits' ? NOMR.produits : NOMR.jeux)[r] || ''; }
 
@@ -202,13 +207,13 @@ function carte(t, o) {
   return `<article class="card r-${o.rarete || 'com'}${vu ? ' vu' : ''}" style="--pc:${couleur(t, o)}" data-k="${esc(o._k)}">
     <div class="bande"><span>${esc(haut)}</span><span class="rr">${nomRar(t, o.rarete)}</span></div>
     <div class="corps"><div class="emo">${esc(emo)}</div><div class="txt"><h3>${esc(o.titre)}</h3><p>${esc(o.desc)}</p></div></div>
-    <div class="pied">${o.gratuit ? '<span class="free">100 % GRATUIT</span>' : o.conditions ? '<span class="cond">Avec condition</span>' : ''}${o.nouveau && !vu ? '<span class="neuf">NOUVEAU</span>' : ''}${rebours(o.fin)}<span class="prix">${prix}</span></div>
+    <div class="pied">${o.gratuit ? '<span class="free">100 % GRATUIT</span>' : o.conditions ? '<span class="cond">Avec condition</span>' : ''}${o.nouveau && !vu ? '<span class="neuf">NOUVEAU</span>' : ''}${quand(o)}<span class="prix">${prix}</span></div>
     ${vu ? '<span class="coche">✓ vu</span>' : ''}</article>`;
 }
 function heroCarte(t, o) {
   return `<div class="hcard" style="--pc:${couleur(t, o)}" data-k="${esc(o._k)}"><span class="lg">${t === 'produits' ? '💎 PÉPITE' : '⭐ LÉGENDAIRE'}</span>
     <h3>${esc(o.titre)}</h3><p>${esc(o.desc)}</p>
-    <div class="bas">${o.gratuit ? '<span class="free">100 % GRATUIT</span>' : ''}${rebours(o.fin)}${o.prix ? `<span class="prix"><s>${esc(o.prix)}</s><span class="z">0 €</span></span>` : ''}</div></div>`;
+    <div class="bas">${o.gratuit ? '<span class="free">100 % GRATUIT</span>' : ''}${quand(o)}${o.prix ? `<span class="prix"><s>${esc(o.prix)}</s><span class="z">0 €</span></span>` : ''}</div></div>`;
 }
 
 function vueListe(t) {
@@ -300,6 +305,7 @@ function ouvrirFiche(k) {
   if (o.cout) inf.push(['Coût réel', o.cout]);
   if (o.qty) inf.push(['Quantité', o.qty]);
   if (o.fin) inf.push(['Fin', new Date(o.fin).toLocaleString('fr-FR', {weekday:'long', day:'numeric', month:'long', hour:'2-digit', minute:'2-digit'})]);
+  if (!o.fin && o.finTxt) inf.push(['Quand', o.finTxt]);
   if (o.fiabilite) inf.push(['Fiabilité', o.fiabilite]);
   const s = $('#sheet');
   s.style.setProperty('--rc', o.rarete === 'leg' ? 'var(--gold)' : `var(--${o.rarete || 'com'})`);

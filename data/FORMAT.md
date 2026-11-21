@@ -37,6 +37,7 @@ Deux fichiers JSON, réécrits en entier à chaque recherche (UTF-8, JSON valide
 - `rarete` : `leg` (Légendaire), `epi` (Épique), `rar` (Rare), `com` (Commun).
 - `gratuit` : `true` seulement si c'est 100 % gratuit, à garder, sans abonnement ni condition. Sinon `false` et expliquer dans `conditions`.
 - `fin` : date ISO avec fuseau, ou `null` si pas de fin connue. Les offres finies sont masquées automatiquement.
+- `finTxt` : la date ou la durée en clair, comme sur la page (« Jusqu'au 26 nov. 17h », « Stock limité », « Tirage le 30 nov. »). Affichée quand `fin` est `null`.
 - `nouveau` : `true` si l'offre n'était pas là la veille.
 - `id` : stable d'un jour à l'autre pour la même offre (minuscules, tirets).
 

@@ -1,0 +1,2910 @@
+{
+ "maj": "2026-11-21T07:00:00+01:00",
+ "offres": [
+  {
+   "id": "opinagora-proj",
+   "rayon": "colis",
+   "titre": "Projecteur portable WiFi + Bluetooth",
+   "rarete": "leg",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 projecteur (20 places)",
+   "contenu": [
+    "Projecteur intelligent portable 720p natif, WiFi 6 et Bluetooth 5.4 (marque et référence non précisées)"
+   ],
+   "pieges": [
+    "Seulement 20 places : t'inscrire ne garantit pas d'être choisi",
+    "Méthode de sélection, calendrier d'envoi et avis à rendre non détaillés : vérifie dans ton espace Opinagora",
+    "Plus de 16 ans, 1 compte par personne",
+    "Marque non précisée (sûrement un modèle d'entrée de gamme)"
+   ],
+   "etapes": [
+    "Ouvre le lien de la campagne",
+    "Connecte-toi ou crée ton compte Opinagora (gratuit)",
+    "Candidate au projecteur avant le 30 nov. 23 h 59"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov. 23 h 59",
+   "nouveau": false,
+   "desc": "20 projecteurs intelligents portables (720p, WiFi 6, Bluetooth 5.4) à tester gratuitement pour les membres Opinagora sélectionnés, sans achat.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-opinagora-projecteur-wifi-bluetooth-novembre-2026",
+   "avis": "Grosse valeur pour un test gratuit (soirées films sur un mur). Seulement 20 places et marque non précisée. Fais-le en même temps que le thé glacé Opinagora (même compte).",
+   "emoji": "📽️",
+   "fiabilite": "Opinagora"
+  },
+  {
+   "id": "entremont",
+   "rayon": "bouffe",
+   "titre": "Râpé 4 Fromages",
+   "rarete": "leg",
+   "gratuit": false,
+   "cout": "0 € après remboursement",
+   "qty": "1 sachet (1 par foyer)",
+   "contenu": [
+    "1 sachet de Mélange Râpé 4 Fromages Entremont avec le sticker de l'opération"
+   ],
+   "pieges": [
+    "Tu avances le prix en magasin, puis tu es remboursé par virement",
+    "Il faut donner un motif d'insatisfaction",
+    "Limité aux 10 000 premiers remboursements",
+    "Achats jusqu'au 30 nov., demande en ligne jusqu'au 31 déc.",
+    "France métropolitaine et Corse seulement"
+   ],
+   "etapes": [
+    "Achète le sachet avec le sticker « satisfait ou 100 % remboursé » avant le 30 nov.",
+    "Garde le ticket et photographie le code-barres",
+    "Fais ta demande sur le site Entremont avec ticket, photo et IBAN"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 30 nov.",
+   "nouveau": false,
+   "desc": "Achète un sachet de Mélange Râpé 4 Fromages avec le sticker de l'opération, puis demande en ligne le remboursement du prix payé.",
+   "conditions": "",
+   "lien": "https://jeuautrementbon.entremont.com/",
+   "avis": "Du fromage gratuit après remboursement, 1 par foyer, 10 000 remboursements max. Il faut avancer l'argent et donner un motif d'insatisfaction. Demande possible jusqu'au 31 déc.",
+   "emoji": "🧀",
+   "fiabilite": "Entremont"
+  },
+  {
+   "id": "vahine",
+   "rayon": "bouffe",
+   "titre": "Vanille Bourbon Vahiné",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "2 gousses (500 testeurs)",
+   "contenu": [
+    "2 gousses de vanille Bourbon de Madagascar Grand Cru Vahiné"
+   ],
+   "pieges": [
+    "Sélection non garantie (profil et questionnaire)",
+    "Mission possible : publier une recette, des photos ou un avis",
+    "Le concours recette (robot Moulinex) est séparé de la sélection"
+   ],
+   "etapes": [
+    "Ouvre la campagne Vahiné sur Sampleo",
+    "Connecte-toi ou crée ton compte gratuit, complète ton profil",
+    "Réponds au questionnaire avant le 22 nov."
+   ],
+   "fin": "2026-11-22T23:59:00+01:00",
+   "finTxt": "Jusqu'au 22 nov.",
+   "nouveau": false,
+   "desc": "Campagne ouverte : 500 testeurs reçoivent 2 gousses de vanille Bourbon de Madagascar pour une recette de fête. La meilleure recette gagne un robot pâtissier Moulinex et des produits Vahiné.",
+   "conditions": "",
+   "lien": "https://api2.sampleo.com/fr/campaign/vahine",
+   "avis": "Livré chez toi, et c'est de la bouffe premium (la vanille coûte cher). Ouverture confirmée, 500 places.",
+   "emoji": "🍮",
+   "fiabilite": "Sampleo"
+  },
+  {
+   "id": "bioil",
+   "rayon": "beaute",
+   "titre": "Lait hydratant Bi-Oil",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 produit (300 testeurs)",
+   "contenu": [
+    "Lait hydratant Bi-Oil"
+   ],
+   "pieges": [
+    "Sélection non garantie",
+    "Avis à donner après le test"
+   ],
+   "etapes": [
+    "Ouvre la fiche puis « J'en profite »",
+    "Crée ton compte Sampleo",
+    "Choisis la campagne Bi-Oil et remplis le formulaire"
+   ],
+   "fin": "2026-11-22T23:59:00+01:00",
+   "finTxt": "Jusqu'au 22 nov.",
+   "nouveau": false,
+   "desc": "300 testeurs reçoivent le lait hydratant Bi-Oil chez eux, puis donnent leur avis.",
+   "conditions": "",
+   "lien": "https://www.mesechantillonsgratuits.fr/tests-de-produits/testez-gratuitement-le-lait-hydratant-bi-oil/",
+   "avis": "Livré à domicile, pas d'obligation de post sur les réseaux annoncée.",
+   "emoji": "🧴",
+   "fiabilite": "Sampleo"
+  },
+  {
+   "id": "coslys",
+   "rayon": "hygiene",
+   "titre": "4 produits bio Coslys à tester (déo, dentifrice, gel, masque)",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €, livré",
+   "qty": "1 produit par test : 15 à 30 places selon le produit (90 en tout)",
+   "contenu": [
+    "Déodorant Soin Fraîcheur 48 h Coslys, flacon rechargeable 50 ml (15 places)",
+    "Dentifrice 8 en 1 Protection Intégrale Coslys (30 places)",
+    "Gel intime Fraîcheur Coslys 500 ml (30 places)",
+    "Masque nourrissant cheveux Coslys (15 places)",
+    "Chaque test est séparé : tu candidates à ceux que tu veux"
+   ],
+   "pieges": [
+    "Sélection non garantie : 15 ou 30 places par produit",
+    "Il faut confirmer la réception dans l'espace ambassadeur, puis laisser un avis dans cet espace ET sur le site de la marque",
+    "Période d'essai du 7 au 13 déc.",
+    "Compte ambassadeur Coslys sur Trustt (gratuit) obligatoire",
+    "Le lien passe par BonsPlansMania (lien affilié, sans coût pour toi)"
+   ],
+   "etapes": [
+    "Ouvre le test déodorant (lien ci-dessous)",
+    "Connecte-toi ou crée ton compte ambassadeur Coslys sur Trustt et remplis le formulaire",
+    "Candidate aussi au dentifrice (30 places), au gel intime (30) et au masque cheveux (15) avant le 22 nov."
+   ],
+   "fin": "2026-11-22T23:59:00+01:00",
+   "finTxt": "Jusqu'au 22 nov.",
+   "nouveau": false,
+   "desc": "Nouveau : 4 tests Coslys (marque bio française) sur Trustt, envoi gratuit à domicile : déodorant 48 h rechargeable, dentifrice 8 en 1, gel intime 500 ml et masque cheveux.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-coslys-deodorant-soin-fraicheur-48h-novembre-2026",
+   "avis": "Des produits du quotidien qui servent à tout le monde (homme ou femme), 90 places en tout et rien à poster sur les réseaux : juste des avis. Un seul compte pour les 4 tests.",
+   "emoji": "🦷",
+   "fiabilite": "Coslys · Trustt"
+  },
+  {
+   "id": "fdlo",
+   "rayon": "bouffe",
+   "titre": "Boissons Les Filles de l'Ouest",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 boisson par testeur (420 en tout)",
+   "contenu": [
+    "Une des 6 références : Schorle Rhubarbe, Schorle Cassis, Schorle Orange, Schorle Citron, Thé Chaï ou Limonade au Sureau"
+   ],
+   "pieges": [
+    "Tu ne choisis pas forcément la boisson",
+    "Sélection non garantie",
+    "Les engagements (avis…) ne s'affichent qu'au moment de postuler"
+   ],
+   "etapes": [
+    "Ouvre la fiche puis le lien Try and Review",
+    "Crée ton compte Try and Review (gratuit)",
+    "Remplis le questionnaire avant le 23 nov."
+   ],
+   "fin": "2026-11-23T23:59:00+01:00",
+   "finTxt": "Jusqu'au 23 nov.",
+   "nouveau": false,
+   "desc": "420 boissons à tester : schorles (rhubarbe, cassis, orange, citron), thé chaï ou limonade au sureau. Chaque testeur reçoit une référence.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-gratuit-les-filles-de-l-ouest-420-boissons-2026",
+   "avis": "Livré chez toi, gratuit, beaucoup de produits donc plus de chances. Les engagements exacts s'affichent quand tu postules.",
+   "emoji": "🥤",
+   "fiabilite": "Try and Review"
+  },
+  {
+   "id": "coslys2",
+   "rayon": "hygiene",
+   "titre": "2 nouveaux tests Coslys : gel mains 1 L + sérum cheveux",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €, livré",
+   "qty": "1 produit par test : 25 places × 2 tests",
+   "contenu": [
+    "Gel lavant mains Lavande-Citron Coslys 1 L, sans savon, à l'aloe vera bio (25 places)",
+    "Sérum Nourrissant Coslys 30 ml, soin sans rinçage à l'huile de cameline pour longueurs et pointes (cheveux secs, frisés ou bouclés) (25 places)",
+    "Chaque test est séparé : tu candidates à l'un, à l'autre ou aux deux"
+   ],
+   "pieges": [
+    "Sélection non garantie : 25 places par produit, personnes retenues prévenues par e-mail",
+    "Confirmer la réception dans l'espace ambassadeur, puis avis dans cet espace (et sur le site Coslys pour le sérum)",
+    "Période d'essai du 8 au 14 déc.",
+    "Compte ambassadeur Coslys sur Trustt (gratuit) obligatoire, le même que pour les 4 autres tests Coslys",
+    "Critères d'éligibilité (âge, pays) non précisés",
+    "Le lien passe par BonsPlansMania (lien affilié, sans coût pour toi)"
+   ],
+   "etapes": [
+    "Ouvre le test gel lavant mains (lien ci-dessous)",
+    "Connecte-toi à ton compte ambassadeur Coslys sur Trustt et remplis le formulaire",
+    "Fais pareil pour le sérum nourrissant avant le 23 nov. minuit"
+   ],
+   "fin": "2026-11-23T23:59:00+01:00",
+   "finTxt": "Jusqu'au 23 nov. minuit",
+   "nouveau": false,
+   "desc": "Nouveau ce matin : 2 tests Coslys de plus sur Trustt, envoi gratuit à domicile : gel lavant mains Lavande-Citron en grand format 1 L et sérum nourrissant cheveux 30 ml.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-coslys-gel-lavant-mains-lavande-citron",
+   "avis": "Un gel mains de 1 L, ça dure des mois, et rien à poster sur les réseaux : juste des avis. Même compte que les 4 autres tests Coslys : si tu l'as déjà, c'est 3 minutes pour les deux.",
+   "emoji": "🧼",
+   "fiabilite": "Coslys · Trustt"
+  },
+  {
+   "id": "peggysage",
+   "rayon": "beaute",
+   "titre": "2 soins ongles Peggy Sage à tester",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 soin par test, 30 places × 2 tests",
+   "contenu": [
+    "Pearl Blossom : soin ongles transparent à fines paillettes violettes (30 places, jusqu'au 25 nov.)",
+    "CC Nails Peach Bloom : soin anti-stries à l'extrait de sarrasin (30 places, jusqu'au 25 nov.)",
+    "Formats des produits non précisés"
+   ],
+   "pieges": [
+    "Sélection non garantie : 30 places par produit",
+    "Avis obligatoire dans l'espace ambassadeur Peggy Sage ET sur Bleu Libellule",
+    "Questionnaire pendant l'essai",
+    "Aucune obligation réseaux sociaux annoncée",
+    "Il faut candidater à chaque test séparément (même compte Trustt)"
+   ],
+   "etapes": [
+    "Ouvre le lien du test Pearl Blossom",
+    "Connecte-toi ou crée ton compte ambassadeur Peggy Sage, réponds aux questions",
+    "Refais la même chose pour CC Nails Peach Bloom avant le 25 nov."
+   ],
+   "fin": "2026-11-25T23:59:00+01:00",
+   "finTxt": "Jusqu'au 25 nov.",
+   "nouveau": false,
+   "desc": "Encore 2 campagnes Peggy Sage ouvertes sur Trustt, 30 places chacune : soin ongles Pearl Blossom et CC Nails Peach Bloom, envoyés à domicile (SplendiLift et Flash Repair Oil sont fermés depuis hier soir).",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-gratuit-peggy-sage-pearl-blossom-novembre-2026",
+   "avis": "Marque de beauté connue, 60 places, et rien à poster sur les réseaux : juste des avis. Candidate aux deux + à la crème de jour Peggy Sage pour multiplier tes chances.",
+   "emoji": "💅",
+   "fiabilite": "Peggy Sage · Trustt"
+  },
+  {
+   "id": "lnp",
+   "rayon": "beaute",
+   "titre": "Masque hydrogel au riz W01",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 masque (20 places)",
+   "contenu": [
+    "Masque hydrogel W01 Phyto-Rice au riz et niacinamide"
+   ],
+   "pieges": [
+    "Sélection sur profil",
+    "Questionnaire et avis pendant le test (10-16 déc.)",
+    "Photos avant/après possibles",
+    "La marque peut réutiliser tes avis"
+   ],
+   "etapes": [
+    "Ouvre l'article puis le lien Trustt",
+    "Remplis ton profil et ton type de peau",
+    "Si tu es pris : questionnaire et avis pendant le test"
+   ],
+   "fin": "2026-11-25T23:59:00+01:00",
+   "finTxt": "Jusqu'au 25 nov.",
+   "nouveau": false,
+   "desc": "20 masques éclat au riz et niacinamide envoyés aux ambassadeurs retenus, test du 10 au 16 déc. Un 2e test (masque R01 Rejuskin, 20 places) est ouvert en même temps.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-la-nouvelle-peau-w01-masque-riz-novembre-2026",
+   "avis": "Rien à poster sur les réseaux : questionnaire et avis sur l'espace de la marque.",
+   "emoji": "🍚",
+   "fiabilite": "La Nouvelle Peau"
+  },
+  {
+   "id": "peggysage-jour",
+   "rayon": "beaute",
+   "titre": "Crème de jour visage Peggy Sage 50 ml",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 crème 50 ml (30 places)",
+   "contenu": [
+    "Crème de jour visage anti-âge Peggy Sage 50 ml (fermeté, hydratation, éclat ; nom exact non précisé)"
+   ],
+   "pieges": [
+    "Seulement 30 places, sélection sur formulaire (type de peau, attentes)",
+    "Test du 11 au 24 déc.",
+    "Avis obligatoire dans l'espace Peggy Sage ET sur Bleu Libellule",
+    "Aucune obligation réseaux sociaux annoncée"
+   ],
+   "etapes": [
+    "Ouvre le lien de la campagne",
+    "Connecte-toi à ton compte ambassadeur Peggy Sage",
+    "Remplis le formulaire avant le 26 nov."
+   ],
+   "fin": "2026-11-26T23:59:00+01:00",
+   "finTxt": "Jusqu'au 26 nov.",
+   "nouveau": false,
+   "desc": "5e test Peggy Sage du moment : 30 crèmes de jour anti-âge 50 ml envoyées à domicile, test du 11 au 24 déc.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-gratuit-peggy-sage-creme-jour-visage-novembre-2026",
+   "avis": "Vrai format 50 ml d'une marque connue, rien à poster. Si tu as déjà candidaté aux autres Peggy Sage, c'est 2 minutes.",
+   "emoji": "🌞",
+   "fiabilite": "Peggy Sage · Trustt"
+  },
+  {
+   "id": "charal",
+   "rayon": "bouffe",
+   "titre": "Pièce de bœuf à effilocher Charal",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 € avec le bon",
+   "qty": "1 pièce de bœuf (380 places)",
+   "contenu": [
+    "1 bon de réduction de la valeur intégrale de « La Pièce de bœuf à effilocher » Charal (bœuf cuit longuement, épices et paprika fumé)"
+   ],
+   "pieges": [
+    "Le 19 au matin, la page d'accueil Sampleo la classe toujours dans « Actuellement » (« fin dans 11 jours », ≈ 30 nov.) : si le bouton n'apparaît pas sur la fiche, passe par l'accueil Sampleo",
+    "Pas livré : tu reçois un bon à utiliser en magasin",
+    "Conditions détaillées pas encore publiées",
+    "Sampleo dit que partager la campagne augmente tes chances"
+   ],
+   "etapes": [
+    "Garde le lien de la campagne",
+    "Dès l'ouverture, connecte-toi à Sampleo et candidate",
+    "Si tu es pris : utilise le bon en magasin"
+   ],
+   "fin": "2026-11-29T23:59:00+01:00",
+   "finTxt": "≈ jusqu'au 29 nov.",
+   "nouveau": false,
+   "desc": "Les ambassadeurs retenus reçoivent un bon couvrant tout le prix de la pièce de bœuf à effilocher Charal, à utiliser en magasin.",
+   "conditions": "",
+   "lien": "https://www.sampleo.com/fr/campaign/charal",
+   "avis": "De la viande gratuite, c'est rare. Mais c'est un bon en magasin, pas une livraison. 380 places, fin ≈ 29 nov. : candidate tôt.",
+   "emoji": "🥩",
+   "fiabilite": "Sampleo"
+  },
+  {
+   "id": "opinagora-the",
+   "rayon": "bouffe",
+   "titre": "Thé glacé Castello zéro sucre en sticks (36 sticks)",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €, livré",
+   "qty": "1 boîte de 36 sticks (150 places)",
+   "contenu": [
+    "Thé glacé zéro sucre en sticks de la marque Castello (confirmé par Moins Dépenser et Testons Ensemble le 18 nov.), sans aspartame",
+    "3 saveurs : pêche, citron, mangue",
+    "36 sticks, 1 stick pour 500 ml d'eau froide, soit ≈ 18 L de boisson",
+    "L'article ne précise pas si chaque testeur reçoit exactement 1 boîte"
+   ],
+   "pieges": [
+    "Sélection non garantie : 150 places",
+    "Compte Opinagora obligatoire (gratuit)",
+    "Dates du test et engagements (avis…) non publiés : lis la fiche avant de valider",
+    "Le lien passe par BonsPlansMania (lien affilié, sans coût pour toi)"
+   ],
+   "etapes": [
+    "Ouvre le lien de la campagne",
+    "Connecte-toi ou crée ton compte Opinagora",
+    "Clique « Postuler à ce test de produit » avant le 13 déc."
+   ],
+   "fin": "2026-12-13T23:59:00+01:00",
+   "finTxt": "Jusqu'au 13 déc. 23 h 59",
+   "nouveau": false,
+   "desc": "Nouveau test Opinagora : 150 testeurs reçoivent du thé glacé sans sucre en sticks (pêche, citron, mangue), une boîte de 36 sticks pour ≈ 18 L de boisson.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-opinagora-the-glace-sticks-decembre-2026",
+   "avis": "Une grosse quantité de boisson livrée gratuite, 150 places et presque un mois pour postuler. Même compte que le projecteur Opinagora : postule aux deux d'un coup.",
+   "emoji": "🧋",
+   "fiabilite": "Opinagora"
+  },
+  {
+   "id": "cisse",
+   "rayon": "beaute",
+   "titre": "Échantillon de parfum 2 ml",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €, port offert",
+   "qty": "1 échantillon de 2 ml",
+   "contenu": [
+    "Échantillon de parfum 2 ml de la fragrance que tu choisis"
+   ],
+   "pieges": [
+    "Délai de 3 à 6 semaines",
+    "Si on te demande une carte bancaire, abandonne",
+    "Commande à valider sur le site de la marque"
+   ],
+   "etapes": [
+    "Ouvre la fiche puis « J'en profite »",
+    "Choisis ta fragrance et ajoute l'échantillon au panier",
+    "Valide la commande à 0 €"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date limite indiquée",
+   "nouveau": false,
+   "desc": "Tu choisis une fragrance sur le site de la marque, tu ajoutes l'échantillon au panier et tu valides : échantillon et livraison offerts.",
+   "conditions": "",
+   "lien": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/recevez-gratuitement-un-echantillon-de-parfum-maison-cisse-paris/",
+   "avis": "Parfum livré sans rien payer, pour femme ou homme selon la fragrance. Compte 3 à 6 semaines. Si on te demande ta carte, abandonne.",
+   "emoji": "🌸",
+   "fiabilite": "Maison Cissé Paris"
+  },
+  {
+   "id": "timotei",
+   "rayon": "hygiene",
+   "titre": "Routine cheveux Timotei (2 produits)",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "2 produits (500 places, 100 par gamme)",
+   "contenu": [
+    "1 routine Timotei parmi 5 :",
+    "Éclat Protection Couleur : shampooing + après-shampooing",
+    "Soin du Cuir Chevelu : shampooing Purifiant & Détox + masque 3-en-1",
+    "Hydratant & Repulpant (coco, fruits tropicaux) : shampooing + après-shampooing",
+    "Force & Brillance : shampooing + soin sans rinçage",
+    "Nourrissante Huiles Précieuses : shampooing + après-shampooing"
+   ],
+   "pieges": [
+    "Sélection non garantie (questionnaire)",
+    "Test de 3 semaines puis sondage final obligatoire",
+    "TRND invite à partager sur les réseaux (présenté comme une invitation, pas une obligation)",
+    "Formats des produits non précisés",
+    "Date limite floue : on l'annonçait fermé le 16 nov., mais le 19 au matin le bouton « Je postule » est toujours visible sur TRND et Moins Dépenser indique des candidatures jusqu'au 12 déc. Tente ta chance tant que le bouton est là"
+   ],
+   "etapes": [
+    "Ouvre la page du projet Timotei sur TRND",
+    "Connecte-toi ou crée ton compte TRND (gratuit)",
+    "Clique « Je postule » et remplis le questionnaire aujourd'hui"
+   ],
+   "fin": null,
+   "finTxt": "Encore ouvert le 19 nov. au matin (fin floue)",
+   "nouveau": false,
+   "desc": "500 testeurs reçoivent une routine Timotei de 2 produits (shampooing + après-shampooing, masque ou soin) à tester 3 semaines.",
+   "conditions": "",
+   "lien": "https://www.trnd.com/fr/projets/timotei",
+   "avis": "2 produits gratuits livrés, beaucoup de places, et pas de post obligatoire annoncé. Marche pour homme et femme. On le croyait fermé hier soir, mais le bouton « Je postule » est toujours là : postule tout de suite.",
+   "emoji": "🧴",
+   "fiabilite": "TRND"
+  },
+  {
+   "id": "mymosa-deo",
+   "rayon": "hygiene",
+   "titre": "Déodorant Soin Protection Mymosa Paris",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 déodorant (100 places)",
+   "contenu": [
+    "Déodorant Soin Protection Mymosa Paris (format non précisé)"
+   ],
+   "pieges": [
+    "Sélection non garantie",
+    "Date limite non publiée sur la page publique : candidate vite",
+    "Conditions (avis…) visibles seulement sur la campagne Beauté Test",
+    "Compte Beauté Test gratuit obligatoire"
+   ],
+   "etapes": [
+    "Ouvre le lien de la campagne",
+    "Connecte-toi ou crée ton compte Beauté Test",
+    "Envoie ta candidature au déodorant"
+   ],
+   "fin": null,
+   "finTxt": "Date limite non publiée",
+   "nouveau": false,
+   "desc": "Nouvelle campagne Beauté Test : 100 déodorants Soin Protection Mymosa Paris envoyés aux personnes sélectionnées.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-gratuit-mymosa-deodorant-soin-protection-novembre-2026",
+   "avis": "100 places, c'est beaucoup, et un déo sert à tout le monde (homme ou femme). Pas de date limite publiée : ne traîne pas.",
+   "emoji": "🌬️",
+   "fiabilite": "Beauté Test"
+  },
+  {
+   "id": "yrocher",
+   "rayon": "beaute",
+   "titre": "Duo Hydra Body Care : lait corps 390 ml + crème mains",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 €, livré",
+   "qty": "2 produits taille normale (300 gagnants)",
+   "contenu": [
+    "1 Lait Corps Désaltérant 48h Hydra Body Care 390 ml (prix conseillé 11,90 €)",
+    "1 Crème Mains Légère Hydra Body Care 50 ml (prix conseillé 6,50 €)"
+   ],
+   "pieges": [
+    "Tirage au sort le 23 nov. : 300 gagnants, rien de garanti",
+    "Gagnants prévenus par e-mail le 25 nov.",
+    "Livraison jusqu'à 2 mois après la fin du jeu (donc possiblement fin janvier)",
+    "Compte Yves Rocher obligatoire (coordonnées et adresse à vérifier)",
+    "Majeur, France métropolitaine et Corse, 1 inscription par foyer",
+    "Avis à donner après le test (aucun réseau social demandé)"
+   ],
+   "etapes": [
+    "Ouvre le lien de l'avant-première Yves Rocher",
+    "Connecte-toi ou crée ton compte, vérifie ton adresse",
+    "Valide ta participation avant le 22 nov., résultat par e-mail le 25 nov."
+   ],
+   "fin": "2026-11-22T23:59:00+01:00",
+   "finTxt": "Jusqu'au 22 nov.",
+   "nouveau": false,
+   "desc": "Avant-première Yves Rocher : 300 duos tirés au sort (lait corps désaltérant 390 ml + crème mains légère 50 ml), envoyés à domicile.",
+   "conditions": "",
+   "lien": "https://www.yves-rocher.fr/evenements-la-jolie-carte/concours/avant-premiere-hydra-body-care-26",
+   "avis": "Deux vrais produits en taille normale (18,40 €), 300 places et juste un clic si tu as un compte Yves Rocher. Rien à poster. Marche aussi pour un homme (lait corps, crème mains).",
+   "emoji": "🧴",
+   "fiabilite": "Yves Rocher"
+  },
+  {
+   "id": "kerargan",
+   "rayon": "beaute",
+   "titre": "Routine kératine Kerargan : 3 produits 250 ml",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 €, livré",
+   "qty": "3 produits de 250 ml (30 places)",
+   "contenu": [
+    "Gommage du cuir chevelu Kerargan à la kératine 250 ml",
+    "Shampooing Kerargan à la kératine 250 ml",
+    "Masque Kerargan à la kératine 250 ml"
+   ],
+   "pieges": [
+    "Vidéo TikTok OBLIGATOIRE au plus tard le 20 déc. (partenariat non rémunéré) : les 3 produits, leur application et un avant/après",
+    "Mentions et hashtags imposés : « Partenariat non rémunéré – produits offerts », #VictoirePharmacieKeratine, #AmbassadeurKerargan, mention des Victoires de la Pharmacie",
+    "Questions sur tes cheveux ET sur tes réseaux sociaux dans le formulaire",
+    "Seulement 30 places",
+    "Test du 14 au 20 déc.",
+    "Compte ambassadeur Kerargan (Trustt) obligatoire"
+   ],
+   "etapes": [
+    "Ouvre le lien de la mission Kerargan",
+    "Connecte-toi ou crée ton compte ambassadeur Kerargan (Trustt)",
+    "Réponds aux questions sur tes cheveux et tes réseaux avant le 29 nov."
+   ],
+   "fin": "2026-11-29T23:59:00+01:00",
+   "finTxt": "Jusqu'au 29 nov.",
+   "nouveau": false,
+   "desc": "Nouveau : 30 routines complètes à la kératine (gommage cuir chevelu, shampooing, masque, 250 ml chacun) envoyées aux ambassadeurs retenus, test du 14 au 20 déc.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-kerargan-routine-keratine-victoires-pharmacie-2026",
+   "avis": "3 vrais produits en grand format, mais il faut un TikTok et poster une vidéo avant/après. Seulement si ça ne te dérange pas de filmer tes cheveux (marche pour femme ou homme).",
+   "emoji": "💆",
+   "fiabilite": "Kerargan · Trustt"
+  },
+  {
+   "id": "ducros",
+   "rayon": "bouffe",
+   "titre": "Assaisonnements Ducros Tendance (Hot Honey, Smash Burger…)",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 €, livré",
+   "qty": "1 pack, une sélection de mélanges (500 ambassadeurs)",
+   "contenu": [
+    "Une sélection de mélanges de la gamme Ducros Tendance, que tu indiques dans le formulaire",
+    "Les 7 mélanges de la gamme : BBQ Coréen, Smash Burger, Hot Honey, Arrabbiata, Sésame Crush, Yassa, Sumac",
+    "Nombre exact de pots par pack non précisé"
+   ],
+   "pieges": [
+    "Mission : utiliser les épices dans tes recettes, donner un avis ET faire découvrir tes recettes à ton entourage et sur tes réseaux sociaux",
+    "Sélection non garantie : 500 places",
+    "Candidatures jusqu'au 30 nov. (Sampleo affiche « fin dans 13 jours »)"
+   ],
+   "etapes": [
+    "Ouvre la campagne Ducros sur Sampleo",
+    "Connecte-toi ou crée ton compte, clique « Je candidate »",
+    "Indique les mélanges que tu veux tester et valide avant le 30 nov."
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "nouveau": false,
+   "desc": "Campagne ouverte : 500 ambassadeurs reçoivent un pack de nouveaux mélanges Ducros Tendance (BBQ Coréen, Smash Burger, Hot Honey, Arrabbiata, Sésame Crush, Yassa, Sumac) à tester dans leurs recettes.",
+   "conditions": "",
+   "lien": "https://www.sampleo.com/fr/campaign/ducros",
+   "avis": "Bouffe livrée gratuite avec 500 places, parfait pour relever des plats pas chers. Il faudra montrer tes recettes sur tes réseaux. Même compte Sampleo que Vahiné et Subway.",
+   "emoji": "🌶️",
+   "fiabilite": "Sampleo"
+  },
+  {
+   "id": "viva",
+   "rayon": "bouffe",
+   "titre": "Lait Viva 6 × 1 L",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € après remboursement",
+   "qty": "1 pack de 6 × 1 L",
+   "contenu": [
+    "6 bouteilles de lait Candia Viva 1 L"
+   ],
+   "pieges": [
+    "Tu avances le prix",
+    "Le pack doit porter la mention « 100 % remboursé »",
+    "1 par personne",
+    "Virement sous 30 jours environ"
+   ],
+   "etapes": [
+    "Achète un pack 6 × 1 L avec la mention « 100 % remboursé »",
+    "Garde le ticket et l'emballage",
+    "Déclare l'achat sur le site Candia avec photos et IBAN"
+   ],
+   "fin": "2027-02-14T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 14 févr. 2027",
+   "nouveau": false,
+   "desc": "Achète un pack Viva avec la mention « 100 % remboursé », puis déclare-le en ligne : tu es remboursé par virement sous 30 jours.",
+   "conditions": "",
+   "lien": "https://appreciezviva.candia.fr/",
+   "avis": "Bouffe vraiment gratuite et sûre. Il faut avancer l'argent et l'acheter en magasin ou en drive. 1 par personne.",
+   "emoji": "🥛",
+   "fiabilite": "Candia"
+  },
+  {
+   "id": "venus",
+   "rayon": "beaute",
+   "titre": "Rasoir, lames ou épilateur Venus",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € après remboursement",
+   "qty": "1 produit (1 par compte)",
+   "contenu": [],
+   "pieges": [
+    "Tu avances le prix",
+    "Dossier par courrier sous 30 jours",
+    "Cagnotte Envie de Plus à virer ensuite"
+   ],
+   "etapes": [
+    "Vérifie la liste des produits sur la fiche",
+    "Inscris-toi sur Envie de Plus et télécharge le bon retour",
+    "Envoie ticket original, code-barres découpé et RIB sous 30 jours"
+   ],
+   "fin": "2027-06-30T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 30 juin 2027",
+   "nouveau": false,
+   "desc": "Achète un rasoir, des lames ou un épilateur Venus de la liste : le prix est versé sur ta cagnotte Envie de Plus sous 30 jours, que tu vires ensuite sur ton compte.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-venus-rasoir-lames-ou-epilateur-satisfait-ou-100-rembourse-33553/",
+   "avis": "Gratuit au final, tu gardes le produit. Il faut avancer l'argent et envoyer le dossier par courrier sous 30 jours après l'achat (frais de port remboursés si tu coches la case). 1 par compte.",
+   "emoji": "🪒",
+   "fiabilite": "Venus (Gillette)"
+  },
+  {
+   "id": "venus-soin",
+   "rayon": "beaute",
+   "titre": "Soin Venus Satin Care",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € après remboursement",
+   "qty": "1 soin (1 par compte)",
+   "contenu": [
+    "1 soin Venus Satin Care au choix (toute la gamme Satin Care)"
+   ],
+   "pieges": [
+    "Tu avances le prix en magasin ou en ligne",
+    "Remboursé sur une cagnotte Envie de Plus sous 30 jours, à virer ensuite sur ton compte",
+    "Cagnotte valable 6 mois : enregistre ton IBAN pour ne pas la perdre",
+    "Il faut donner un motif d'insatisfaction (questionnaire)",
+    "P&G peut demander le ticket original par courrier (à tes frais)",
+    "Majeur, compte bancaire français, 1 produit par ticket"
+   ],
+   "etapes": [
+    "Achète un soin Venus Satin Care (magasin ou en ligne)",
+    "Crée ton compte Envie de Plus et remplis le formulaire de l'offre 33554",
+    "Envoie la photo du ticket, de l'emballage et du code-barres, puis vire ta cagnotte"
+   ],
+   "fin": "2027-06-30T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 30 juin 2027",
+   "nouveau": false,
+   "desc": "Tous les soins Venus Satin Care sont 100 % remboursés en argent : demande 100 % en ligne sur Envie de Plus, versée sur ta cagnotte sous 30 jours.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-venus-1-soin-satin-care-satisfait-ou-100-rembourse-33554/",
+   "avis": "Plus simple que l'offre rasoir Venus : tout se fait en ligne, sans envoi de courrier (sauf si on te le demande). Il faut avancer l'argent. Se cumule avec l'offre rasoir (produits différents).",
+   "emoji": "🫧",
+   "fiabilite": "Venus (Gillette)"
+  },
+  {
+   "id": "kingc",
+   "rayon": "homme",
+   "titre": "Rasoir, lames ou tondeuse",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € après remboursement",
+   "qty": "1 produit (1 par compte)",
+   "contenu": [
+    "Au choix parmi 14 références : rasoir Style Master, tondeuses Trimmer Pro et Pro Max, lames de sûreté X10 ou X100…"
+   ],
+   "pieges": [
+    "Tu avances le prix",
+    "Dossier par COURRIER : ticket original + code-barres découpé sous 30 jours",
+    "L'argent arrive sur une cagnotte Envie de Plus, à virer ensuite sur ton compte",
+    "Cagnotte perdue après 6 mois si tu n'enregistres pas ton IBAN",
+    "1 seul produit par ticket"
+   ],
+   "etapes": [
+    "Achète un produit King C. Gillette listé dans l'offre",
+    "Crée ton compte Envie de Plus et remplis le bon",
+    "Envoie ticket original et code-barres par courrier sous 30 jours, puis vire ta cagnotte"
+   ],
+   "fin": "2027-06-30T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 30 juin 2027",
+   "nouveau": false,
+   "desc": "Achète un rasoir, des lames ou une tondeuse King C. Gillette de l'offre : le prix est versé sur une cagnotte Envie de Plus, que tu vires ensuite sur ton compte.",
+   "conditions": "",
+   "lien": "https://www.enviedeplus.com/kingc-remboursement",
+   "avis": "Vraiment gratuit au final pour l'homme, mais il faut avancer l'argent, envoyer ticket et code-barres par courrier sous 30 jours, puis demander le virement. 1 par compte.",
+   "emoji": "🪒",
+   "fiabilite": "King C. Gillette"
+  },
+  {
+   "id": "spotify",
+   "rayon": "abo",
+   "titre": "Spotify Premium – 4 mois",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "4 mois",
+   "contenu": [],
+   "pieges": [
+    "Seulement si tu n'as jamais eu Spotify Premium",
+    "Abonnement Personnel uniquement",
+    "Carte bancaire demandée",
+    "12,14 €/mois ensuite si tu ne résilies pas",
+    "Passe bien par CE lien : la page Premium classique n'affiche que 3 mois offerts (jusqu'au 31 déc.), ce lien en donne 4 (vérifié le 19 nov. au soir)"
+   ],
+   "etapes": [
+    "Ouvre la page de l'offre Spotify",
+    "Choisis Premium Personnel et crée ou connecte ton compte",
+    "Note la date J+120 et résilie avant si tu ne veux pas payer"
+   ],
+   "fin": "2027-11-03T23:59:00+01:00",
+   "finTxt": "Offre jusqu'au 3 nov. 2027",
+   "nouveau": false,
+   "desc": "Nouvelle offre officielle : 4 mois de Premium offerts aux nouveaux membres (abonnement Personnel), sans engagement. Ancien abonné : −75 % pendant 2 mois selon conditions.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.spotify.com/fr/ppt/hm4m/",
+   "avis": "Le double de l'ancienne offre (2 mois). Seulement si tu n'as jamais eu Premium. Note la date de fin.",
+   "emoji": "🎵",
+   "fiabilite": "Spotify"
+  },
+  {
+   "id": "subway",
+   "rayon": "bouffe",
+   "titre": "Menu Subway SUB30 Frenchie Raclette + dessert",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € après remboursement (max 16,50 €)",
+   "qty": "1 menu SUB30 + 1 dessert (200 places)",
+   "contenu": [
+    "1 menu SUB30 Frenchie Raclette : sandwich 30 cm + boisson 50 cl + cookie",
+    "1 Dip & Crunch sucré solo",
+    "Remboursés sur ticket de caisse, dans la limite de 16,50 €"
+   ],
+   "pieges": [
+    "Pas livré : il faut aller dans un restaurant Subway près de chez toi",
+    "Tu AVANCES le prix, puis Sampleo rembourse sur présentation du ticket (max 16,50 €, mode de remboursement non précisé sur la page)",
+    "Seulement 200 places, sélection par Sampleo",
+    "Le menu est disponible du 18 nov. 2026 au 5 janv. 2027",
+    "Avis à donner sur le menu ; partager la campagne augmente tes chances (pas obligatoire)",
+    "Tout achat en plus n'est pas remboursé"
+   ],
+   "etapes": [
+    "Ouvre la campagne Subway sur Sampleo",
+    "Connecte-toi ou crée ton compte et clique « Je candidate »",
+    "Si tu es pris : va chez Subway à partir du 18 nov., garde le ticket et envoie-le pour être remboursé"
+   ],
+   "fin": null,
+   "finTxt": "Candidatures ≈ jusqu'au 29 nov.",
+   "nouveau": false,
+   "desc": "Nouveau sur Sampleo : 200 ambassadeurs testent le menu SUB30 Frenchie Raclette (sandwich 30 cm, boisson, cookie) et un Dip & Crunch sucré, remboursés jusqu'à 16,50 €.",
+   "conditions": "",
+   "lien": "https://www.sampleo.com/fr/campaign/subway--1793741180",
+   "avis": "Un vrai repas complet gratuit au final, et 200 places. Mais ce n'est pas livré et il faut avancer l'argent au resto. Même compte Sampleo que Vahiné et Ducros : postule aux trois.",
+   "emoji": "🥪",
+   "fiabilite": "Sampleo"
+  },
+  {
+   "id": "tgtg-colis",
+   "rayon": "box",
+   "titre": "Colis anti-gaspi livrés",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "≈ 15 à 20 € le colis (estimation)",
+   "qty": "Non indiquée (colis surprise)",
+   "contenu": [
+    "Exemple d'un colis testé : barres de céréales, flocons d'avoine, pâte à tartiner végétale, thé, boisson végétale"
+   ],
+   "pieges": [
+    "Contenu surprise : tu ne choisis pas les produits",
+    "Prix estimé par un blog : vérifie dans l'appli",
+    "Livraison en 5 à 7 jours",
+    "Produits souvent proches de leur date (DDM)"
+   ],
+   "etapes": [
+    "Installe l'appli Too Good To Go",
+    "Ouvre l'onglet des colis livrés",
+    "Choisis un thème (apéro, sucré, petit-déj…) et commande"
+   ],
+   "fin": null,
+   "finTxt": "Permanent, selon les stocks",
+   "nouveau": false,
+   "desc": "Colis de surplus des fabricants (épicerie sucrée, apéro, petit-déj, 100 % bio…) livrés chez toi en 5 à 7 jours par La Poste.",
+   "conditions": "Carte bancaire : Oui (paiement dans l'appli)",
+   "lien": "https://une-case-en-plus.com/food/avis-too-good-to-go-paniers-colis-bio-test-livraison/",
+   "avis": "Le meilleur rapport quantité-prix livré : beaucoup de produits pour un prix fixe, contenu surprise. Dans l'appli, les paniers à récupérer en magasin sont encore moins chers.",
+   "emoji": "📦",
+   "fiabilite": "Too Good To Go"
+  },
+  {
+   "id": "lego",
+   "rayon": "colis",
+   "titre": "Set LEGO Botanicals",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 set (14 exemplaires)",
+   "contenu": [
+    "1 set LEGO Botanicals (fleurs à construire, référence exacte non précisée)"
+   ],
+   "pieges": [
+    "Tirage au sort le 4 janv. 2027 : 14 places",
+    "Date limite d'inscription non communiquée",
+    "Référence du set non précisée",
+    "Compte Tester Des Produits (e-mail + SMS)"
+   ],
+   "etapes": [
+    "Ouvre la fiche Tester Des Produits",
+    "Connecte-toi ou crée ton compte",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 4 janv. 2027",
+   "nouveau": false,
+   "desc": "14 sets LEGO Botanicals tirés au sort parmi les inscrits Tester Des Produits.",
+   "conditions": "",
+   "lien": "https://www.testerdesproduits.fr/details-produit/578/lego-botanicals",
+   "avis": "Joli cadeau (à garder ou à offrir), livré gratuit. Tirage au sort, mais 1 clic si tu as déjà le compte.",
+   "emoji": "🌷",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "qobuz",
+   "rayon": "abo",
+   "titre": "Qobuz Studio – 60 jours",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "",
+   "contenu": [],
+   "pieges": [
+    "Carte probablement demandée",
+    "Résilier avant le 59e jour"
+   ],
+   "etapes": [
+    "Ouvre le deal Dealabs",
+    "Suis le lien vers Qobuz",
+    "Note la date J+59 dans ton agenda"
+   ],
+   "fin": null,
+   "finTxt": "Date de fin non indiquée",
+   "nouveau": false,
+   "desc": "Musique en haute qualité, 60 jours offerts sans engagement pour les nouveaux comptes.",
+   "conditions": "Carte bancaire : Probablement (non confirmé)",
+   "lien": "https://www.dealabs.com/bons-plans/nouveaux-comptes-60-jours-dabonnement-offerts-a-qobuz-studio-sans-engagement-3438796",
+   "avis": "Le plus long essai musique du moment.",
+   "emoji": "🎼",
+   "fiabilite": "Qobuz"
+  },
+  {
+   "id": "azeane",
+   "rayon": "beaute",
+   "titre": "Gel nettoyant Azéane",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 gel (60 places)",
+   "contenu": [
+    "Gel nettoyant Azéane, Laboratoire ACM (format non précisé)"
+   ],
+   "pieges": [
+    "Sélection sur critères affichés dans la mission ACM",
+    "Les autres missions ACM du mois demandaient un TikTok : vérifie avant de postuler",
+    "Format du produit non précisé"
+   ],
+   "etapes": [
+    "Ouvre le lien de la mission",
+    "Connecte-toi ou crée ton compte ambassadeur ACM",
+    "Lis les critères et valide avant le 23 nov."
+   ],
+   "fin": "2026-11-23T23:59:00+01:00",
+   "finTxt": "Jusqu'au 23 nov.",
+   "nouveau": false,
+   "desc": "60 gels nettoyants visage Azéane (peaux à imperfections) offerts aux ambassadeurs ACM sélectionnés.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-gratuit-acm-gel-nettoyant-azeane-novembre-2026",
+   "avis": "Plus de places que le Stick SOS (60 contre 15). Conditions exactes visibles seulement dans la mission.",
+   "emoji": "🧼",
+   "fiabilite": "Laboratoire ACM"
+  },
+  {
+   "id": "patyka",
+   "rayon": "beaute",
+   "titre": "Sérum Bonne Mine bio Patyka",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 sérum 30 ml (20 places)",
+   "contenu": [
+    "Sérum Bonne Mine bio Patyka 30 ml (valeur 34,90 €)"
+   ],
+   "pieges": [
+    "Le formulaire demande date de naissance, téléphone et Instagram",
+    "Tu acceptes de recevoir leurs e-mails",
+    "Les abonnées à leur box passent en priorité"
+   ],
+   "etapes": [
+    "Ouvre l'article puis le formulaire",
+    "Remplis ton profil (type de peau, besoins)",
+    "Si tu es pris : avis détaillé après usage"
+   ],
+   "fin": "2026-11-25T23:59:00+01:00",
+   "finTxt": "Jusqu'au 25 nov.",
+   "nouveau": false,
+   "desc": "20 sérums 30 ml offerts aux testeuses retenues par le Club des Testeuses Belle au Naturel.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-patyka-serum-bonne-mine-belle-au-naturel-novembre-2026",
+   "avis": "Le formulaire demande ton Instagram et l'accord pour recevoir leurs e-mails. Les abonnées à leur box sont prioritaires.",
+   "emoji": "✨",
+   "fiabilite": "Belle au Naturel"
+  },
+  {
+   "id": "belesa",
+   "rayon": "beaute",
+   "titre": "Crème hydratante Esclaire Belesa",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 crème 25 ml (20 places)",
+   "contenu": [
+    "Crème hydratante visage Esclaire Belesa 25 ml (valeur 19,90 €)"
+   ],
+   "pieges": [
+    "Le formulaire demande date de naissance, téléphone et Instagram",
+    "Case obligatoire : tu acceptes les e-mails de Belle au Naturel",
+    "Les abonnées à leur box passent en priorité",
+    "Avis détaillé demandé après usage"
+   ],
+   "etapes": [
+    "Ouvre l'article puis le formulaire",
+    "Remplis ton profil (type de peau, âge, besoins)",
+    "Si tu es pris : avis détaillé après usage"
+   ],
+   "fin": "2026-11-25T23:59:00+01:00",
+   "finTxt": "Jusqu'au 25 nov.",
+   "nouveau": false,
+   "desc": "20 crèmes hydratantes visage 100 % d'origine naturelle (25 ml) offertes aux testeuses retenues.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-belesa-creme-esclaire-belle-au-naturel-novembre-2026",
+   "avis": "Petite crème de marque bio, mais seulement 20 places et formulaire qui demande pas mal de données.",
+   "emoji": "🌼",
+   "fiabilite": "Belle au Naturel"
+  },
+  {
+   "id": "azeane-pain",
+   "rayon": "hygiene",
+   "titre": "Pain dermatologique Azéane (ACM)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 pain (60 places)",
+   "contenu": [
+    "Pain dermatologique Azéane, Laboratoire ACM (format non précisé)"
+   ],
+   "pieges": [
+    "Photo de ta peau AVANT le test demandée dès la candidature",
+    "Avis + photos avant/après si tu es pris",
+    "Sélection non garantie, 60 places",
+    "Aucune obligation réseaux sociaux annoncée"
+   ],
+   "etapes": [
+    "Ouvre le lien de la campagne",
+    "Connecte-toi ou crée ton espace ambassadeur ACM",
+    "Réponds aux questions, ajoute la photo avant et valide avant le 25 nov."
+   ],
+   "fin": "2026-11-25T23:59:00+01:00",
+   "finTxt": "Jusqu'au 25 nov.",
+   "nouveau": false,
+   "desc": "60 pains dermatologiques Azéane (nettoyant sans savon pour peaux à imperfections) envoyés à domicile aux ambassadeurs retenus.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-gratuit-acm-azeane-pain-dermatologique-novembre-2026",
+   "avis": "Marche pour homme et femme, et pas de TikTok obligatoire contrairement au Stick ACM. Il faut juste accepter d'envoyer une photo de ta peau.",
+   "emoji": "🧼",
+   "fiabilite": "Laboratoire ACM · Trustt"
+  },
+  {
+   "id": "boiron",
+   "rayon": "hygiene",
+   "titre": "Sirop StoPlants Nez & Gorge Boiron",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €, livré",
+   "qty": "1 sirop (15 places)",
+   "contenu": [
+    "Sirop StoPlants Nez & Gorge Boiron (complément alimentaire à base d'extraits de plantes, avec godet doseur)",
+    "Contenance non précisée"
+   ],
+   "pieges": [
+    "Seulement 15 places, sélection par La Tribu Boiron (Trustt)",
+    "Question obligatoire sur ton lieu de résidence : vérifie que tu es éligible",
+    "Avis à déposer sur Trustt ET sur Farmaline après l'essai (goût, texture, godet doseur)",
+    "Aucune obligation réseaux sociaux annoncée",
+    "Complément alimentaire : lis la notice avant d'en prendre"
+   ],
+   "etapes": [
+    "Ouvre le lien de la campagne",
+    "Connecte-toi ou crée ton compte ambassadeur Trustt (La Tribu Boiron)",
+    "Réponds au questionnaire (dont ton lieu de résidence) et envoie avant le 29 nov."
+   ],
+   "fin": "2026-11-29T23:59:00+01:00",
+   "finTxt": "Jusqu'au 29 nov.",
+   "nouveau": false,
+   "desc": "Nouveau ce soir : La Tribu Boiron fait tester gratuitement son sirop StoPlants Nez & Gorge à 15 ambassadeurs, envoyé à domicile.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-gratuit-boiron-stoplants-nez-gorge-sirop-novembre-2026",
+   "avis": "Pile pour l'hiver (gorge qui gratte), livré gratuit et rien à poster : juste deux avis. Mais seulement 15 places.",
+   "emoji": "🍯",
+   "fiabilite": "Boiron · Trustt"
+  },
+  {
+   "id": "crinex",
+   "rayon": "hygiene",
+   "titre": "Gummies UVE BOOST Immunité",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "Gummies (quantité et places non communiquées)",
+   "contenu": [
+    "Gummies UVE BOOST Immunité Crinex (complément alimentaire, contenance non précisée)"
+   ],
+   "pieges": [
+    "Nombre de places non communiqué",
+    "Réservé aux majeurs",
+    "Inscription à La Tribu Crinex (Trustt) obligatoire",
+    "Consignes du test envoyées par e-mail aux sélectionnés (avis probable)",
+    "Complément alimentaire : lis la notice avant d'en prendre"
+   ],
+   "etapes": [
+    "Ouvre le lien puis « Rejoindre la Tribu Crinex »",
+    "Trouve la campagne UVE BOOST Immunité et clique « Je participe »",
+    "Remplis le formulaire avant le 3 déc."
+   ],
+   "fin": "2026-12-03T23:59:00+01:00",
+   "finTxt": "Jusqu'au 3 déc.",
+   "nouveau": false,
+   "desc": "Test gratuit des gummies UVE BOOST Immunité de Crinex pour les membres sélectionnés de La Tribu Crinex.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-gratuit-crinex-uve-boost-immunite-gummies-decembre-2026",
+   "avis": "Petit produit utile en hiver, livré gratuit, avec du temps pour candidater (3 déc.). Rien de réseaux annoncé.",
+   "emoji": "🍬",
+   "fiabilite": "Crinex · Trustt"
+  },
+  {
+   "id": "peggysage-ms",
+   "rayon": "beaute",
+   "titre": "Devenir testeur Peggy Sage (soins + vernis)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €, livré",
+   "qty": "Produits Peggy Sage (soins et vernis), quantité non précisée",
+   "contenu": [
+    "Produits Peggy Sage : soins et vernis à ongles (liste exacte non publiée)",
+    "Envoyés gratuitement aux testeurs retenus par la marque"
+   ],
+   "pieges": [
+    "Nombre de places non indiqué : sélection par la marque selon ton profil",
+    "Avis détaillé obligatoire en échange",
+    "Envoi selon les stocks et la validation de la marque : candidater ne garantit rien",
+    "Ouvert aux particuliers et aux pros de l'ongle",
+    "Programme distinct des tests Trustt (Pearl Blossom, CC Nails) : tu peux postuler aux deux"
+   ],
+   "etapes": [
+    "Ouvre la fiche Moins Dépenser n° 4244",
+    "Clique « Candidater au test » (formulaire sur le site de la marque)",
+    "Remplis ton profil et valide avant le 13 déc."
+   ],
+   "fin": "2026-12-13T23:59:00+01:00",
+   "finTxt": "Jusqu'au 13 déc.",
+   "nouveau": false,
+   "desc": "Nouveau : Peggy Sage recrute des testeurs pour ses soins et vernis à ongles, envoyés gratuitement à domicile en échange d'un avis détaillé.",
+   "conditions": "",
+   "lien": "https://www.moins-depenser.com/echantillon/test-produit/4244-produits-testeur.html",
+   "avis": "Maquillage ongles de marque livré gratuit, sans rien payer, et presque un mois pour postuler. Places non annoncées, donc pas garanti : postule aussi aux tests Trustt Peggy Sage.",
+   "emoji": "💅",
+   "fiabilite": "Peggy Sage · Moins Dépenser"
+  },
+  {
+   "id": "vignerons",
+   "rayon": "alcool",
+   "titre": "Dégustations de vin gratuites au salon de Paris",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 € sur invitation (trajet à ta charge)",
+   "qty": "1 invitation (entrée + verre)",
+   "contenu": [
+    "Entrée au Salon des Vins des Vignerons Indépendants (Paris, 10-13 déc.)",
+    "Verre de dégustation offert",
+    "Dégustations chez les vignerons"
+   ],
+   "pieges": [
+    "Sur place à Paris : rien n'est livré",
+    "Trajet à ta charge",
+    "Réservé aux majeurs"
+   ],
+   "etapes": [
+    "Ouvre la page et clique « Demander mon invitation gratuite »",
+    "Inscris-toi sur la plateforme des Vignerons Indépendants",
+    "Présente l'invitation à l'entrée (10-13 déc., 10 h-20 h, dimanche 19 h)"
+   ],
+   "fin": null,
+   "finTxt": "Salon du 10 au 13 déc.",
+   "nouveau": false,
+   "desc": "Avec l'invitation gratuite, entrée libre au Salon des Vins des Vignerons Indépendants (Paris Expo Porte de Versailles) : verre offert à l'entrée et dégustations chez les vignerons.",
+   "conditions": "",
+   "lien": "https://www.paris-friendly.fr/bon_plan_paris_detaille.php?id=3566",
+   "avis": "Le seul alcool vraiment gratuit vérifié, mais sur place à Paris, pas livré. Réservé aux majeurs, à consommer avec modération. Files d'attente le week-end.",
+   "emoji": "🍇",
+   "fiabilite": "Vignerons Indépendants"
+  },
+  {
+   "id": "acqua",
+   "rayon": "homme",
+   "titre": "Parfum Acqua di Giò",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 échantillon",
+   "contenu": [],
+   "pieges": [
+    "Formulaire en anglais",
+    "Stock limité"
+   ],
+   "etapes": [
+    "Ouvre la fiche puis « J'en profite »",
+    "Remplis le formulaire en anglais : nom, adresse, e-mail"
+   ],
+   "fin": null,
+   "finTxt": "Jusqu'à épuisement du stock",
+   "nouveau": false,
+   "desc": "Échantillon du parfum homme envoyé par la poste, sans frais de port.",
+   "conditions": "",
+   "lien": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/parfum/echantillons-gratuits-du-parfum-acqua-di-gio-de-giorgio-armani/",
+   "avis": "Parfum homme connu, le stock part vite.",
+   "emoji": "🌊",
+   "fiabilite": "Giorgio Armani"
+  },
+  {
+   "id": "chiensguides",
+   "rayon": "colis",
+   "titre": "Paire de chaussettes Chiens Guides offerte",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €, livré",
+   "qty": "1 paire de chaussettes (1 par foyer)",
+   "contenu": [
+    "1 paire de chaussettes aux couleurs des Chiens Guides d'Aveugles, taille unique",
+    "Coloris attribué au hasard (2 couleurs possibles)",
+    "Le site évoque aussi un « kit papeterie personnalisé » dans certains messages (non garanti)"
+   ],
+   "pieges": [
+    "Dans la limite des stocks : aucune quantité ni date de fin affichée",
+    "Le formulaire demande nom, adresse, e-mail ET date de naissance",
+    "Commande valable seulement après le clic dans l'e-mail de confirmation (regarde les spams)",
+    "Un don est proposé mais pas obligatoire : tu peux refuser",
+    "L'association va sûrement te recontacter pour des dons : coche la case pour refuser les communications",
+    "Livraison « d'ici quelques semaines »",
+    "Une vague précédente (mars 2026) s'était terminée vite"
+   ],
+   "etapes": [
+    "Ouvre jeveuxmeschaussettes.fr",
+    "Remplis le formulaire (adresse, e-mail, date de naissance) et refuse les communications si tu veux",
+    "Confirme via le lien reçu par e-mail"
+   ],
+   "fin": null,
+   "finTxt": "Selon stock (relancé le 18 nov.)",
+   "nouveau": false,
+   "desc": "L'association Les Chiens Guides offre une paire de chaussettes à ses couleurs, livrée gratuitement à domicile, sans don obligatoire.",
+   "conditions": "",
+   "lien": "https://jeveuxmeschaussettes.fr/",
+   "avis": "Petit cadeau mais vraiment gratuit et livré, sans carte. L'opération revient par vagues et le stock part vite : fais-le ce soir.",
+   "emoji": "🧦",
+   "fiabilite": "Les Chiens Guides"
+  },
+  {
+   "id": "purina",
+   "rayon": "animaux",
+   "titre": "Mousse pour chat stérilisé",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 échantillon (4 800 gagnants)",
+   "contenu": [
+    "Mousse Purina Pro Plan Sterilised Maintenance au poulet pour chat stérilisé (quantité non indiquée)"
+   ],
+   "pieges": [
+    "Sélection sur profil puis tirage au sort",
+    "Réservé aux majeurs, France métropolitaine, 1 participation par personne",
+    "Avis à donner via un formulaire après l'envoi",
+    "Il faut un chat stérilisé"
+   ],
+   "etapes": [
+    "Ouvre le lien de participation",
+    "Remplis le formulaire (toi et ton chat)",
+    "Si tu es tiré au sort : teste puis donne ton avis"
+   ],
+   "fin": "2026-11-22T23:59:00+01:00",
+   "finTxt": "Jusqu'au 22 nov.",
+   "nouveau": false,
+   "desc": "4 800 échantillons de mousse Pro Plan Sterilised au poulet, envoyés aux gagnants sélectionnés (profil + tirage).",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-purina-pro-plan-mousse-chat-sterilise-4800-echantillons-2026",
+   "avis": "Seulement si tu as un chat stérilisé. Beaucoup de places, gratuit et sans achat.",
+   "emoji": "🐱",
+   "fiabilite": "Purina Pro Plan"
+  },
+  {
+   "id": "proplan-chien",
+   "rayon": "animaux",
+   "titre": "Croquettes Pro Plan Protein&Energy",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 sac (150 gagnants)",
+   "contenu": [
+    "Croquettes Pro Plan Protein&Energy pour chien adulte actif"
+   ],
+   "pieges": [
+    "Tirage au sort",
+    "Il faut un chien (nom et date de naissance demandés)",
+    "Pense à décocher le consentement pub"
+   ],
+   "etapes": [
+    "Ouvre l'article puis le lien Wamiz",
+    "Remplis le formulaire (France métropolitaine)",
+    "Décoche le consentement pub si tu n'en veux pas"
+   ],
+   "fin": "2026-11-29T23:59:00+01:00",
+   "finTxt": "Jusqu'au 29 nov.",
+   "nouveau": false,
+   "desc": "150 sacs de croquettes pour chien adulte actif, tirés au sort parmi les inscrits.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-pro-plan-protein-energy-wamiz-novembre-2026",
+   "avis": "Seulement si tu as un chien (on te demande son nom et sa date de naissance).",
+   "emoji": "🐕",
+   "fiabilite": "Wamiz"
+  },
+  {
+   "id": "blissim",
+   "rayon": "beaute",
+   "titre": "Box beauté de novembre à 9 € (code BLACK9)",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "9 € port compris (27,90 € si la box de décembre est ajoutée)",
+   "qty": "5 produits (box de novembre)",
+   "contenu": [
+    "Autobronzant teinté visage Mimitika (format non précisé)",
+    "Eau de parfum Jawhara Maison Maïssa (petit spray)",
+    "Masque de nuit Nuit Polaire Polaar (20 ml d'après le visuel)",
+    "Gel douche Dirty Bubble Tropikal Bliss",
+    "1 soin expert selon ton profil : Davines ou SVR",
+    "Box solidaire de novembre (Camping Care), valeur annoncée jusqu'à 75 €"
+   ],
+   "pieges": [
+    "Le code BLACK9 lance un abonnement mensuel à 18,90 € : résilie avant le 12 déc. pour éviter la box de janvier",
+    "PIÈGE : selon les CGV lues par Toutes les box, une commande maintenant ajoute aussi la box de décembre, soit 27,90 € pour 2 box (9 € + 18,90 €)",
+    "Code valable jusqu'au 30 nov. ou épuisement des stocks",
+    "Non cumulable avec les autres codes (ENSORCELANTE, PATYKA…)",
+    "Évite BLACKYEARLY : 14,90 €/mois mais engagement 12 mois (178,80 €)",
+    "Carte bancaire obligatoire"
+   ],
+   "etapes": [
+    "Ouvre l'article Toutes les box puis le lien Blissim Black Friday",
+    "Choisis l'abonnement mensuel et entre le code BLACK9",
+    "Vérifie le total au panier, paie, puis résilie avant le 12 déc."
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Code jusqu'au 30 nov. ou épuisement",
+   "nouveau": false,
+   "desc": "Nouveau code Black Friday BLACK9 : la box Blissim de novembre (5 produits : autobronzant Mimitika, parfum Maison Maïssa, masque Polaar, gel douche, soin Davines ou SVR) à 9 € livrée au lieu de 18,90 €.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://touteslesbox.fr/blissim-black-friday-2026-box-novembre-9-euros-code-black9/",
+   "avis": "La box beauté la moins chère du moment (9 € pour 5 produits). Mais regarde bien au panier : la box de décembre risque d'être ajoutée (18,90 € de plus). Résilie tout de suite après si tu n'en veux qu'une.",
+   "emoji": "🌸",
+   "fiabilite": "Blissim"
+  },
+  {
+   "id": "kerargan-noel",
+   "rayon": "beaute",
+   "titre": "Coffret de Noël Kerargan : 4 soins cheveux",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €, livré",
+   "qty": "4 produits par coffret (15 places)",
+   "contenu": [
+    "1 coffret de Noël Kerargan au choix parmi 4 routines : Ricin (cheveux secs/cassants), Kératine (abîmés), Biotine & Collagène (fins/plats) ou Coco (secs/déshydratés)",
+    "Dans chaque coffret : shampoing 250 ml + après-shampoing 250 ml + masque 250 ml + sérum 50 ml"
+   ],
+   "pieges": [
+    "Vidéo TikTok ET post Instagram demandés : ouverture du coffret présentée comme idée cadeau (partenariat non rémunéré, hashtags imposés)",
+    "Compte TikTok à connecter pour candidater (le formulaire prévoit un cas « un seul réseau » : vérifie le format attendu)",
+    "Seulement 15 places, sélection sur profil, contact par e-mail",
+    "Calendrier : vidéo avant le 15 déc., test du 16 au 22 déc., contenus publiés jusqu'au 22 déc.",
+    "Kerargan peut réutiliser tes vidéos",
+    "Compte ambassadeur Kerargan (Trustt) obligatoire, le même que pour la routine kératine"
+   ],
+   "etapes": [
+    "Ouvre le lien de la mission",
+    "Connecte-toi ou crée ton compte ambassadeur Kerargan, relie ton TikTok",
+    "Réponds aux questions cheveux et choisis ton coffret avant le 1er déc."
+   ],
+   "fin": "2026-12-01T23:59:00+01:00",
+   "finTxt": "Jusqu'au 1er déc.",
+   "nouveau": false,
+   "desc": "Nouveau ce soir : mission « Christmas With Kerargan », 15 coffrets de Noël (shampoing, après-shampoing et masque 250 ml + sérum 50 ml) offerts aux ambassadeurs retenus.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-kerargan-coffret-noel-15-places-2026",
+   "avis": "4 vrais produits en grand format, homme ou femme. Mais seulement 15 places et il faut filmer l'ouverture du coffret pour TikTok et Instagram. Même compte que la routine kératine Kerargan : postule aux deux.",
+   "emoji": "🎄",
+   "fiabilite": "Kerargan · Trustt"
+  },
+  {
+   "id": "fleury",
+   "rayon": "bouffe",
+   "titre": "Tranches végé Fleury Michon remboursées",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € après remboursement (virement probable)",
+   "qty": "1 paquet (1 par foyer)",
+   "contenu": [
+    "1 paquet de tranches végétales Fleury Michon au choix parmi 7 références :",
+    "4 tranches Haricots Blancs saveur Jambon",
+    "4 tranches Pois Chiches",
+    "4 tranches Haricots Rouges",
+    "4 tranches Haricots Blancs",
+    "4 tranches Lentilles Corail (ou 6 tranches)",
+    "4 tranches Lentilles Corail saveur Curry Cumin",
+    "Grammages non précisés sur la fiche"
+   ],
+   "pieges": [
+    "Tu avances le prix en magasin",
+    "Demande à faire dans les 15 jours APRÈS l'achat (pas plus tard)",
+    "Ticket avec date, référence, enseigne et prix ENTOURÉS, sinon refusé, + photo du code-barres",
+    "Mode de remboursement pas écrit noir sur blanc : l'IBAN est demandé, donc virement très probable (6 à 8 semaines)",
+    "Il faut que le produit ne t'ait pas plu (motif d'insatisfaction)",
+    "1 par foyer, majeur, France métropolitaine (Corse exclue), non cumulable"
+   ],
+   "etapes": [
+    "Achète une des 7 références en magasin (du 15 nov. au 31 déc.)",
+    "Entoure date, référence, enseigne et prix sur le ticket, photographie-le avec le code-barres",
+    "Fais la demande sur vege-fleurymichon.offre-promotionnelle.fr dans les 15 jours, avec ton IBAN"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 31 déc. (demande sous 15 jours)",
+   "nouveau": false,
+   "desc": "Nouvelle offre « Séduit ou remboursé » : un paquet de tranches végétales Fleury Michon (pois chiches, lentilles corail, haricots…) remboursé à 100 % si tu n'es pas convaincu.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-fleury-michon-les-tranches-vege-seduit-ou-100-rembourse-34555/",
+   "avis": "De quoi faire des sandwichs gratuitement au final. Il faut avancer 2-3 € et surtout faire la demande dans les 15 jours après l'achat. 1 par foyer.",
+   "emoji": "🥪",
+   "fiabilite": "Fleury Michon"
+  },
+  {
+   "id": "president",
+   "rayon": "bouffe",
+   "titre": "Beurre pépites de chocolat 100 % remboursé",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € après remboursement (virement)",
+   "qty": "1 beurre (1 par foyer)",
+   "contenu": [
+    "1 Beurre pépites de chocolat Président (format non précisé sur la fiche)"
+   ],
+   "pieges": [
+    "Tu avances le prix en magasin",
+    "Remboursé par VIREMENT (pas en bons) sous 6 à 8 semaines",
+    "Achat entre le 1er oct. et le 31 déc. 2026, demande en ligne avant le 15 janv. 2027",
+    "Ticket original à photographier avec date, nom du produit et prix ENTOURÉS (sinon refusé) + photo du code-barres",
+    "1 par foyer (nom, adresse ou IBAN), France métropolitaine et Corse"
+   ],
+   "etapes": [
+    "Achète un Beurre pépites de chocolat Président avant le 31 déc.",
+    "Entoure date, nom du produit et prix sur le ticket, photographie-le avec le code-barres",
+    "Fais la demande en ligne (formulaire + IBAN) avant le 15 janv. 2027"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 31 déc.",
+   "nouveau": false,
+   "desc": "Le beurre Président aux pépites de chocolat est « satisfait ou 100 % remboursé » par virement, 1 par foyer.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-president-beurre-pepites-de-chocolat-satisfait-ou-100-rembourse-31577/",
+   "avis": "Un petit plaisir sucré (tartines, gâteaux) gratuit au final, en vrai argent. Il faut avancer le prix et bien entourer le ticket.",
+   "emoji": "🧈",
+   "fiabilite": "Président"
+  },
+  {
+   "id": "degusta",
+   "rayon": "box",
+   "titre": "Box de 10 à 14 produits alimentaires",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "≈ 9,99 à 12 € avec code −5 ou −7 € (16,99 € sans)",
+   "qty": "10 à 14 produits",
+   "contenu": [
+    "Snacks, boissons et nouveautés de marques (contenu surprise chaque mois)"
+   ],
+   "pieges": [
+    "Abonnement automatique : nouvelle box chaque mois si tu ne résilies pas",
+    "Carte bancaire obligatoire",
+    "Livraison offerte seulement en point relais (sinon 5 €)",
+    "Le montant du code varie (5 à 7 €) selon les sites"
+   ],
+   "etapes": [
+    "Récupère le code sur la page Savoo",
+    "Abonne-toi sur le site Degustabox et entre le code",
+    "Choisis le point relais (livraison offerte), puis résilie dès réception"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Codes annoncés jusqu'au 31 déc.",
+   "nouveau": false,
+   "desc": "Box surprise de 10 à 14 produits d'épicerie (snacks, boissons, nouveautés de marques), livraison offerte en point relais. Code de 5 à 7 € sur la 1re box.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.savoo.fr/marques/codes-promo-degustabox",
+   "avis": "Beaucoup de produits pour le prix, sans engagement. Le montant exact du code varie selon les sites : vérifie le prix final avant de payer.",
+   "emoji": "🧺",
+   "fiabilite": "Degustabox"
+  },
+  {
+   "id": "hellofresh",
+   "rayon": "box",
+   "titre": "Jusqu'à −95 € sur 4 box repas",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Prix de la 1re box non communiqué (repas dès 3,99 €)",
+   "qty": "4 box (taille au choix)",
+   "contenu": [
+    "Kits repas : recettes + ingrédients dosés, selon le menu que tu choisis chaque semaine",
+    "Dessert offert à chaque commande (selon Savoo)"
+   ],
+   "pieges": [
+    "Réduction répartie sur 4 box, montant par box non précisé",
+    "Les 4 box doivent être commandées dans les 8 semaines",
+    "Livraison offerte seulement sur la 1re box",
+    "Abonnement : résilie avant 23 h 59 à la date affichée dans « Mon Menu »",
+    "Nouveaux clients (ou résiliés depuis plus de 52 semaines), 1 par foyer",
+    "Carte bancaire obligatoire"
+   ],
+   "etapes": [
+    "Ouvre la page Savoo et copie le code HelloFresh",
+    "Choisis la plus petite box et entre le code",
+    "Note la date limite de « Mon Menu » et résilie si tu ne veux pas continuer"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Code jusqu'au 31 déc.",
+   "nouveau": false,
+   "desc": "Code nouveau client : jusqu'à 95 € de réduction sur tes 4 premières box repas livrées, avec un dessert offert, livraison gratuite sur la 1re.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://savoo.fr/marques/codes-promo-hello-fresh",
+   "avis": "Pas gratuit, mais des repas livrés pas chers pour remplir le frigo. Ne prends que si le prix final te va, et mets un rappel pour résilier.",
+   "emoji": "🥘",
+   "fiabilite": "HelloFresh"
+  },
+  {
+   "id": "kingc-soin",
+   "rayon": "homme",
+   "titre": "Soin King C. Gillette",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € après remboursement",
+   "qty": "1 soin",
+   "contenu": [],
+   "pieges": [
+    "Tu avances le prix",
+    "Dossier par courrier avec ticket original",
+    "Cagnotte Envie de Plus à virer, perdue après 6 mois sans IBAN"
+   ],
+   "etapes": [
+    "Achète un soin King C. Gillette",
+    "Inscris-toi sur Envie de Plus et réponds au questionnaire",
+    "Envoie ticket original, photo et code-barres découpé, puis vire ta cagnotte"
+   ],
+   "fin": "2027-06-30T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 30 juin 2027",
+   "nouveau": false,
+   "desc": "Tous les soins King C. Gillette (barbe, visage : vérifie la liste) remboursés à 100 % sur ta cagnotte Envie de Plus, puis virés sur ton compte.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-king-c-gillette-1-soin-satisfait-ou-100-rembourse-33556/",
+   "avis": "Se cumule avec l'offre rasoir/tondeuse (offres différentes). Il faut avancer l'argent et envoyer le ticket original. Cagnotte perdue après 6 mois si tu n'enregistres pas ton IBAN.",
+   "emoji": "🧔",
+   "fiabilite": "King C. Gillette"
+  },
+  {
+   "id": "deliveroo",
+   "rayon": "bouffe",
+   "titre": "10 € sur ta 1re commande",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Commande ≥ 15 €",
+   "qty": "1 commande",
+   "contenu": [],
+   "pieges": [
+    "Minimum 15 € de commande",
+    "Réservé aux nouveaux clients invités dans l'appli, zones éligibles",
+    "Frais de livraison et de service en plus"
+   ],
+   "etapes": [
+    "Ouvre la page Dealabs des codes Deliveroo",
+    "Clique « Voir le code » sur l'offre nouveaux clients",
+    "Entre le code dans l'app avant de payer"
+   ],
+   "fin": null,
+   "finTxt": "Code valable ≈ 20 jours",
+   "nouveau": false,
+   "desc": "Bon nouveau client en France : 10 € de moins sur ta première commande d'au moins 15 €.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.dealabs.com/codes-promo/deliveroo",
+   "avis": "Pas gratuit, mais c'est le repas livré le moins cher du moment (environ 5 € + frais). Nouveaux clients, zones éligibles.",
+   "emoji": "🛵",
+   "fiabilite": "Deliveroo"
+  },
+  {
+   "id": "ubereats",
+   "rayon": "bouffe",
+   "titre": "10 € sur tes 2 premières commandes",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Commande ≥ 20 €",
+   "qty": "2 commandes",
+   "contenu": [],
+   "pieges": [
+    "Minimum 20 € par commande",
+    "Frais en plus",
+    "Code limité dans le temps",
+    "Dealabs liste aussi des codes de 15 € dès 20 € (expirent sous 4 à 20 jours) : conditions non vérifiées, regarde si tu y as droit"
+   ],
+   "etapes": [
+    "Ouvre la page Dealabs des codes",
+    "Clique « Voir le code » sur l'offre nouveaux clients",
+    "Entre le code dans l'app avant de payer"
+   ],
+   "fin": null,
+   "finTxt": "Code valable ≈ 21 jours",
+   "nouveau": false,
+   "desc": "Code nouveau client : 10 € de moins sur chacune de tes 2 premières commandes d'au moins 20 €. Étudiant : même offre via UNiDAYS.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.dealabs.com/codes-promo/uber-eats",
+   "avis": "Pas gratuit : un repas te coûte au moins 10 € + frais.",
+   "emoji": "🍔",
+   "fiabilite": "Uber Eats"
+  },
+  {
+   "id": "tokyosnack",
+   "rayon": "box",
+   "titre": "Box de 25 snacks japonais",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "29,90 € la box mensuelle (+ port éventuel)",
+   "qty": "25 snacks + 1 petit cadeau",
+   "contenu": [
+    "25 snacks japonais sucrés et salés qui changent chaque mois",
+    "1 petit cadeau japonais",
+    "Fiche en français avec noms et ingrédients"
+   ],
+   "pieges": [
+    "Abonnement mensuel à renouvellement automatique",
+    "Frais de port non indiqués sur la fiche",
+    "Réduction annoncée via le lien Toutes les box, montant non précisé"
+   ],
+   "etapes": [
+    "Ouvre la page Toutes les box puis le lien Tokyo Snack Box",
+    "Choisis la box mensuelle (1 mois)",
+    "Désactive le renouvellement dans ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "nouveau": false,
+   "desc": "Box du Japon expédiée par une marque française : 25 snacks par mois + un petit cadeau, avec fiche explicative en français.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://touteslesbox.fr/tokyo-snack-box/",
+   "avis": "Plus de quantité que TokyoTreat pour moins cher (≈ 1,20 € le snack). Pas gratuit : seulement si ça rentre dans ton budget.",
+   "emoji": "🍡",
+   "fiabilite": "Tokyo Snack Box"
+  },
+  {
+   "id": "payot",
+   "rayon": "beaute",
+   "titre": "Masque Pâte Grise Payot 15 ml à tester",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €, livré",
+   "qty": "1 masque 15 ml (nombre de gagnants non communiqué)",
+   "contenu": [
+    "Masque purifiant rééquilibrant Pâte Grise Payot, format 15 ml"
+   ],
+   "pieges": [
+    "Tirage au sort / sélection du Club des Testeuses Payot : rien de garanti",
+    "Nombre de places et date limite non affichés (ni sur le forum ni dans la page lue)",
+    "Il faudra sûrement créer un compte Payot et donner un avis",
+    "Carte bancaire non mentionnée : si on te la demande, abandonne"
+   ],
+   "etapes": [
+    "Ouvre la page « Tirage au sort CDT » de Payot",
+    "Connecte-toi ou crée ton compte Payot",
+    "Remplis le formulaire du Club des Testeuses et valide"
+   ],
+   "fin": null,
+   "finTxt": "Date limite non communiquée",
+   "nouveau": false,
+   "desc": "Nouveau (relayé le 18 nov. au soir) : le Club des Testeuses Payot fait tester gratuitement son masque purifiant Pâte Grise en format 15 ml.",
+   "conditions": "",
+   "lien": "https://www.payot.com/pages/tirage-au-sort-cdt",
+   "avis": "Marque de soin de pharmacie/institut connue, et le masque marche pour peau grasse homme ou femme. Petit format et détails encore flous : à vérifier en ouvrant le formulaire.",
+   "emoji": "🧖",
+   "fiabilite": "Payot"
+  },
+  {
+   "id": "loreal",
+   "rayon": "beaute",
+   "titre": "Shampooing L'Oréal Pro Absolut Repair",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 shampooing (10 places)",
+   "contenu": [
+    "Shampooing L'Oréal Professionnel Absolut Repair (format du test non précisé)"
+   ],
+   "pieges": [
+    "Tirage au sort le 21 déc. : 10 places",
+    "Date limite d'inscription non communiquée",
+    "Avis honnête demandé après usage"
+   ],
+   "etapes": [
+    "Ouvre le lien",
+    "Connecte-toi à Tester Des Produits",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 21 déc.",
+   "nouveau": false,
+   "desc": "10 shampooings réparateurs L'Oréal Professionnel (gamme salon) tirés au sort parmi les inscrits.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-loreal-absolut-repair-testerdesproduits-2026",
+   "avis": "Produit de coiffeur, marche pour femme et homme. Même compte que les autres tests Tester Des Produits.",
+   "emoji": "💇",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "fct",
+   "rayon": "beaute",
+   "titre": "Huiles à lèvres, coco, vernis, laque",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "Selon le tirage (6 à 15 gagnants par produit, 18 tirages)",
+   "contenu": [
+    "25 nov. : set de 4 huiles à lèvres teintées Baorder (10 gagnants)",
+    "2 déc. : mini-pochette velours 123 Cosmé (12)",
+    "16 déc. : lot de 6 vernis Modelones (10)",
+    "9 déc. : tapis nettoyage pinceaux 123 Cosmé (10)",
+    "23 déc. : Ultra Laque 3 en 1 Syoss (12)",
+    "30 déc. : gloss au miel 123 Cosmé (10)",
+    "Janv. 2027 : gants luffa, patchs Nivea (14), huile à lèvres Essence (10), soin lèvres Le Petit Marseillais (15)",
+    "Févr.-mars 2027 : coffret 4 brumes MISS SO (10), trousse Dove (10), palette UCANBE (8), Nuxe Prodigieuse Boost (6), highlighter NYX Buttermelt (8)"
+   ],
+   "pieges": [
+    "Tirage au sort : rien de garanti",
+    "Profil complet obligatoire",
+    "Produits et dates peuvent changer (planning annoncé)"
+   ],
+   "etapes": [
+    "Ouvre l'article puis « Produits à tester »",
+    "Crée ton compte et complète ton profil",
+    "Inscris-toi aux tirages qui t'intéressent"
+   ],
+   "fin": null,
+   "finTxt": "Prochain tirage ouvert : 25 nov. (huiles à lèvres)",
+   "nouveau": false,
+   "desc": "Tirages au sort chaque semaine : 4 huiles à lèvres Baorder (25 nov.), puis vernis, laque, gloss en décembre, et jusqu'en mars : brumes MISS SO, Nuxe, NYX…",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-produit-free-cosmetic-testing-cosmetiques-gratuits-2026",
+   "avis": "Inscription gratuite, juste un avis à donner, rien à poster. Peu de gagnants, mais un seul compte pour tous les tirages.",
+   "emoji": "🎁",
+   "fiabilite": "Free Cosmetic Testing"
+  },
+  {
+   "id": "biotyfull",
+   "rayon": "beaute",
+   "titre": "2 box beauté bio (12 produits)",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "14,90 € port compris",
+   "qty": "2 box, 12 produits",
+   "contenu": [
+    "Box Bulles de Douceur : exfoliant lèvres myrtille Corème Paris, shampooing détox au chébé Chéribé, mousse nettoyante visage Nominoë, lotion démêlante framboise Centifolia, baume visage de nuit B'Elle, crème mains et ongles Phyt's",
+    "Box Voyage autour du Monde : huile démaquillante amande Mademoiselle Gold, coton démaquillant réutilisable Biotyfull, gel douche acide hyaluronique Douceur de l'Instant, gommage éclat Endro, booster éclat au safran Kesari, élixir illuminateur Huygens"
+   ],
+   "pieges": [
+    "2 × 11 € + 3,90 € de port = 14,90 €",
+    "Abonnement sans engagement : 39,90 € par box ensuite",
+    "Résilie dans ton espace client avant le 23 nov. 23 h 59 (prélèvement le 24 nov.)",
+    "Carte bancaire obligatoire",
+    "Attention : l'autre offre « XXL » à 9,90 € impose 12 mois d'engagement (448,80 € minimum) : ne la prends pas"
+   ],
+   "etapes": [
+    "Ouvre le lien de l'offre Singles' Day",
+    "Commande les 2 box (14,90 € avec le port)",
+    "Résilie dans ton espace client avant le 23 nov. et garde la confirmation"
+   ],
+   "fin": null,
+   "finTxt": "Selon stock · résilier avant le 23 nov.",
+   "nouveau": false,
+   "desc": "Offre Singles' Day : 2 box (Bulles de Douceur + Voyage autour du Monde) à 11 € chacune, 12 produits bio dans le même colis.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://bonsplansmania.fr/go/biotyfull-box-singles-day-2-box-11-euros-novembre-2026",
+   "avis": "Environ 1,25 € le produit, sans engagement. Pas gratuit : seulement si ça rentre dans ton budget, et résilie avant le 23 nov.",
+   "emoji": "🌿",
+   "fiabilite": "Biotyfull Box"
+  },
+  {
+   "id": "goodiebox",
+   "rayon": "beaute",
+   "titre": "Welcome Box Black Friday (7 produits)",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "19,95 €",
+   "qty": "7 produits (5 surprises + 2 au choix)",
+   "contenu": [
+    "5 produits mystère (cheveux, corps, soin visage, maquillage)",
+    "2 produits taille réelle que tu choisis à l'inscription",
+    "20 « Golden Tickets » cachés : calendrier de l'Avent de la marque"
+   ],
+   "pieges": [
+    "Abonnement à 19,95 €/mois ensuite, sans engagement",
+    "Carte bancaire obligatoire",
+    "« Jusqu'à 340 € » = valeur maximale, pas garantie",
+    "Livraison offerte annoncée par la marque, non confirmée pour la Welcome Box",
+    "Pas de date de fin publiée"
+   ],
+   "etapes": [
+    "Ouvre l'article Toutes les box puis la page Goodiebox",
+    "Choisis tes 2 produits et paie 19,95 €",
+    "Résilie dans ton espace et garde la confirmation"
+   ],
+   "fin": null,
+   "finTxt": "Offre Black Friday, fin non publiée",
+   "nouveau": false,
+   "desc": "Box de bienvenue à 19,95 € : 5 produits beauté surprise + 2 produits taille réelle au choix.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://touteslesbox.fr/goodiebox-black-friday-2026-welcome-box-19-95-euros/",
+   "avis": "Pas gratuit, mais 7 produits dont 2 que tu choisis, sans engagement. Résilie juste après la commande si tu n'en veux qu'une.",
+   "emoji": "🎁",
+   "fiabilite": "Goodiebox"
+  },
+  {
+   "id": "terraillon",
+   "rayon": "colis",
+   "titre": "Bouillotte électrique Terraillon",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 bouillotte (8 testeurs)",
+   "contenu": [
+    "Bouillotte électrique rechargeable Terraillon"
+   ],
+   "pieges": [
+    "Tirage au sort le 30 nov. : seulement 8 places",
+    "Profil à compléter",
+    "Retour d'expérience demandé"
+   ],
+   "etapes": [
+    "Ouvre l'article puis le lien Tester Des Produits",
+    "Crée ton compte et complète ton profil",
+    "Valide ta participation avant le tirage du 30 nov."
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 30 nov.",
+   "nouveau": false,
+   "desc": "8 bouillottes électriques rechargeables Terraillon tirées au sort parmi les inscrits, à tester chez soi.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-produit-terraillon-bouillotte-electrique-8-testeurs-novembre-2026",
+   "avis": "Objet utile pour l'hiver, livré gratuitement, mais très peu de places (tirage).",
+   "emoji": "🔥",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "escape",
+   "rayon": "colis",
+   "titre": "Jeu de société escape game",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 jeu (24 exemplaires)",
+   "contenu": [
+    "Jeu de société escape game à faire chez soi (énigmes et observation, seul ou à plusieurs) : titre et contenu exact de la boîte non précisés"
+   ],
+   "pieges": [
+    "Tirage au sort le 14 déc.",
+    "Date limite d'inscription non communiquée",
+    "Nom exact du jeu non indiqué",
+    "Compte Tester Des Produits (e-mail + SMS)"
+   ],
+   "etapes": [
+    "Ouvre la fiche du jeu",
+    "Connecte-toi à Tester Des Produits",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 14 déc.",
+   "nouveau": false,
+   "desc": "24 jeux de société escape game tirés au sort parmi les inscrits Tester Des Produits, livrés à domicile.",
+   "conditions": "",
+   "lien": "https://www.testerdesproduits.fr/details-produit/572/jeu-de-societe-escape-game",
+   "avis": "24 places, c'est plus que la plupart des tests du site, et ça fait une soirée entre potes gratuite (ou un cadeau de Noël).",
+   "emoji": "🧩",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "imprimante",
+   "rayon": "colis",
+   "titre": "Mini imprimante thermique portable",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 imprimante (8 places)",
+   "contenu": [
+    "Mini imprimante thermique portable sans fil (noir et blanc, sans encre)",
+    "5 rouleaux de papier thermique + 2 rouleaux autocollants + 3 rouleaux adhésifs colorés",
+    "1 pochette de rangement, 6 stylos de couleur, 2 feuilles d'autocollants"
+   ],
+   "pieges": [
+    "Tirage au sort le 1er févr. 2027 : seulement 8 places",
+    "Inscription avec validation e-mail ET SMS",
+    "Ce n'est pas une imprimante photo couleur malgré son nom (« imprimante photo portable » sur le site)"
+   ],
+   "etapes": [
+    "Ouvre le lien Tester Des Produits",
+    "Connecte-toi ou crée ton compte (e-mail + SMS)",
+    "Clique « Participer » avant le tirage"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 1er févr. 2027",
+   "nouveau": false,
+   "desc": "8 mini imprimantes thermiques portables (étiquettes, notes, petites images en noir et blanc) tirées au sort parmi les inscrits.",
+   "conditions": "",
+   "lien": "https://www.testerdesproduits.fr/details-produit/582/imprimante-photo-portable",
+   "avis": "Gadget sympa livré gratuit, mais très peu de places. Même compte que la bouillotte Terraillon : inscris-toi aux deux.",
+   "emoji": "🖨️",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "amzfam",
+   "rayon": "abo",
+   "titre": "Amazon Prime gratuit via Amazon Family",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (si un adulte de ton foyer a Prime)",
+   "qty": "Prime partagé avec 1 adulte du foyer",
+   "contenu": [
+    "Livraison Prime gratuite",
+    "Amazon Music Prime",
+    "Prime Video (version avec pubs, catalogue SVOD)",
+    "Amazon Luna et offres réservées Prime (dont Black Friday Week du 19 au 30 nov.)"
+   ],
+   "pieges": [
+    "Il faut qu'un adulte de TON foyer ait déjà Prime (6,99 €/mois ou 69,90 €/an) et t'invite",
+    "Tu gardes ton propre compte, mais l'abonné voit un moyen de paiement partageable et reçoit une notif à chaque achat fait avec",
+    "Réservé aux personnes qui vivent ensemble",
+    "Pas de date de fin annoncée"
+   ],
+   "etapes": [
+    "La personne abonnée ouvre « Votre compte » → « Votre Amazon Family »",
+    "Elle t'invite avec ton e-mail",
+    "Tu acceptes l'invitation depuis ton propre compte Amazon"
+   ],
+   "fin": null,
+   "finTxt": "Nouveau en France, pas de date de fin",
+   "nouveau": false,
+   "desc": "Nouveau : Amazon Family arrive en France. Un abonné Prime peut partager gratuitement ses avantages (livraison gratuite, Music, Prime Video avec pubs) avec un autre adulte de son foyer.",
+   "conditions": "",
+   "lien": "https://www.journaldugeek.com/2026/11/17/a-quelques-jours-du-black-friday-amazon-offre-un-enorme-cadeau-a-ses-abonnes-prime-voici-comment-en-profiter/",
+   "avis": "Vraiment gratuit si tu vis avec quelqu'un qui a Prime (coloc, famille, couple) : livraison gratuite pile pour le Black Friday. Sinon, ça ne te sert à rien.",
+   "emoji": "📦",
+   "fiabilite": "Amazon"
+  },
+  {
+   "id": "mapa",
+   "rayon": "hygiene",
+   "titre": "Gants de jardin MAPA 100 % remboursés",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € après remboursement (virement)",
+   "qty": "1 paire de gants (500 premiers remboursements)",
+   "contenu": [
+    "1 paire de gants de jardin MAPA parmi 20 références (ex. Petit Jardinage Confort, Gros Travaux de Jardinage)"
+   ],
+   "pieges": [
+    "Tu avances le prix en magasin (Carrefour, Leclerc, Intermarché, Monoprix ou U), pas en ligne",
+    "Seulement les 500 premières demandes validées, sans compteur public",
+    "Achat ET demande en ligne avant le 30 nov. 23 h 59",
+    "Virement sous 6 à 8 semaines, 1 par foyer, majeur, France métropolitaine",
+    "Ticket entier avec produit, prix, magasin et date entourés + code-barres + RIB",
+    "Vérification possible : envoi du ticket original + 2 justificatifs de domicile par courrier",
+    "Site de l'opération : automne2026.mapa-le-jeu.fr (vérifie bien l'adresse)"
+   ],
+   "etapes": [
+    "Vérifie la liste des 20 gants sur la fiche",
+    "Achète-en une paire en magasin avant le 30 nov.",
+    "Demande en ligne sur le site MAPA avec ticket, code-barres et RIB"
+   ],
+   "fin": null,
+   "finTxt": "Achat et demande avant le 30 nov.",
+   "nouveau": false,
+   "desc": "Une paire de gants de jardin MAPA remboursée à 100 % par virement, pour les 500 premières demandes validées. Bonus : tirage de 3 planchas Campingaz le 2 déc.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-mapa-gants-de-jardin-100-rembourse-4/",
+   "avis": "Remboursé en vrai argent, et des gants servent toujours (ménage, bricolage). Mais 500 places seulement : fais la demande vite après l'achat.",
+   "emoji": "🧤",
+   "fiabilite": "MAPA"
+  },
+  {
+   "id": "aloesol",
+   "rayon": "hygiene",
+   "titre": "Gel d'aloe vera bio Aloesol",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 gel 100 ml (20 places)",
+   "contenu": [
+    "Gel d'aloe vera bio Aloesol 100 ml"
+   ],
+   "pieges": [
+    "Même formulaire Belle au Naturel : Instagram, téléphone, e-mails",
+    "Abonnées box prioritaires",
+    "Avis détaillé demandé"
+   ],
+   "etapes": [
+    "Ouvre l'article puis le formulaire",
+    "Remplis ton profil",
+    "Si tu es pris : avis après usage"
+   ],
+   "fin": "2026-11-25T23:59:00+01:00",
+   "finTxt": "Jusqu'au 25 nov.",
+   "nouveau": false,
+   "desc": "20 gels d'aloe vera bio offerts aux testeuses retenues par le Club des Testeuses Belle au Naturel.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/article/test-aloesol-gel-aloe-vera-belle-au-naturel-novembre-2026",
+   "avis": "Utile au quotidien (peau, après-rasage). À cocher en même temps que Patyka et Belesa.",
+   "emoji": "🌵",
+   "fiabilite": "Belle au Naturel"
+  },
+  {
+   "id": "tabac",
+   "rayon": "hygiene",
+   "titre": "Kit gratuit Mois sans tabac",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €, livré",
+   "qty": "1 kit par personne",
+   "contenu": [
+    "Programme de 40 jours",
+    "Conseils et défis",
+    "Roue de calcul des économies"
+   ],
+   "pieges": [
+    "Utile seulement si tu fumes",
+    "Inscription gratuite sur le site Tabac info service, puis « Je commande mon kit »",
+    "Envoi selon les stocks : la commande ne garantit pas la réception",
+    "Offre jusqu'au 30 nov."
+   ],
+   "etapes": [
+    "Ouvre la page officielle Mois sans tabac",
+    "Inscris-toi gratuitement sur Tabac info service",
+    "Clique « Je commande mon kit » avant le 30 nov."
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "nouveau": false,
+   "desc": "Le kit officiel d'aide à l'arrêt du tabac (programme de 40 jours, conseils, roue des économies) est envoyé gratuitement. En plus : le 39 89 et l'appli donnent accès gratuitement à un tabacologue.",
+   "conditions": "",
+   "lien": "https://www.info.gouv.fr/actualite/mois-sans-tabac-2026-comment-s-inscrire-et-se-faire-aider",
+   "avis": "Seulement si tu fumes ou veux aider un proche : c'est officiel (Santé publique France) et sans aucun piège.",
+   "emoji": "🚭",
+   "fiabilite": "Tabac info service"
+  },
+  {
+   "id": "always",
+   "rayon": "hygiene",
+   "titre": "Protections fuites urinaires",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "Échantillons (nombre non précisé)",
+   "contenu": [],
+   "pieges": [
+    "Demande à valider, envoi non garanti"
+   ],
+   "etapes": [
+    "Ouvre la fiche puis « J'en profite »",
+    "Remplis le formulaire de la marque",
+    "Attends la confirmation par e-mail"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date limite indiquée",
+   "nouveau": false,
+   "desc": "Échantillons gratuits de serviettes, culottes ou protège-slips, livrés à domicile si la demande est acceptée.",
+   "conditions": "",
+   "lien": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/hygiene-intime/echantillons-gratuits-des-protections-pour-fuites-urinaires-always-discreet/",
+   "avis": "Utile pour toi ou un proche. Formulaire simple, sans achat.",
+   "emoji": "🩲",
+   "fiabilite": "Always Discreet"
+  },
+  {
+   "id": "bion3",
+   "rayon": "hygiene",
+   "titre": "Compléments Bion3",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "",
+   "contenu": [],
+   "pieges": [
+    "Candidatures peut-être fermées"
+   ],
+   "etapes": [
+    "Ouvre la page du projet",
+    "Regarde si le bouton « Je postule » est présent"
+   ],
+   "fin": null,
+   "finTxt": "Projet jusqu'au 19 janv.",
+   "nouveau": false,
+   "desc": "Test de 6 semaines, 1 000 places.",
+   "conditions": "",
+   "lien": "https://www.trnd.com/fr/projets/bion3",
+   "avis": "Je n'ai pas pu confirmer que les candidatures sont ouvertes.",
+   "emoji": "💊",
+   "fiabilite": "TRND"
+  },
+  {
+   "id": "whiskas",
+   "rayon": "animaux",
+   "titre": "Pâtée pour chaton",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "qty": "1 échantillon par foyer",
+   "contenu": [],
+   "pieges": [
+    "Validation par un code reçu par e-mail"
+   ],
+   "etapes": [
+    "Fiche → « J'en profite »",
+    "Remplis le formulaire",
+    "Valide avec le code reçu par e-mail"
+   ],
+   "fin": null,
+   "finTxt": "Jusqu'à épuisement du stock",
+   "nouveau": false,
+   "desc": "Échantillon de pâtée pour chaton de 2 à 12 mois, un par foyer.",
+   "conditions": "",
+   "lien": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/animaux/echantillons-gratuits-de-nourriture-pour-chatons-whiskas/",
+   "avis": "Si tu as un chaton, ou pour quelqu'un autour de toi.",
+   "emoji": "🐈",
+   "fiabilite": "Whiskas"
+  },
+  {
+   "id": "cruz",
+   "rayon": "alcool",
+   "titre": "Porto Ruby 75 cl",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Prix de la bouteille, rendu en 3 bons de 2,80 €",
+   "qty": "1 bouteille de 75 cl",
+   "contenu": [
+    "Porto Ruby Cruz 75 cl avec la collerette de l'offre"
+   ],
+   "pieges": [
+    "Remboursé en 3 bons de 2,80 €, pas en argent",
+    "Bons valables seulement sur la gamme Cruz (hors 20 cl)",
+    "Demande par courrier avant le 15 janv. 2027",
+    "1 par foyer, réservé aux majeurs"
+   ],
+   "etapes": [
+    "Achète la bouteille avec la collerette",
+    "Envoie ticket et preuve d'achat par courrier",
+    "Reçois les bons sous 6 à 8 semaines"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 31 déc.",
+   "nouveau": false,
+   "desc": "Achète une bouteille avec la collerette de l'offre : on te renvoie 3 bons de réduction de 2,80 € pour un prochain achat Cruz.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-cruz-porto-ruby-satisfait-ou-100-rembourse-en-3-bons-30715/",
+   "avis": "Pas gratuit en argent : tu récupères des bons, pas un virement. Demande par courrier avant le 15 janv. 2027, 1 par foyer, réservé aux majeurs.",
+   "emoji": "🍷",
+   "fiabilite": "Cruz"
+  },
+  {
+   "id": "pronutrition",
+   "rayon": "animaux",
+   "titre": "Croquettes chien ou chat 100 % remboursées",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € après remboursement (virement)",
+   "qty": "1 sac de croquettes 2 ou 3 kg (1 par foyer, 1 826 demandes max)",
+   "contenu": [
+    "1 sac de croquettes PRO-NUTRITION chien ou chat, gammes Protect, PRS ou Pure Life",
+    "Sacs de 2 kg (3 kg pour certaines croquettes chien PRS)"
+   ],
+   "pieges": [
+    "Tu avances le prix en magasin (achat sur internet exclu)",
+    "Remboursé par VIREMENT sous 6 à 8 semaines",
+    "Demande dans les 2 mois après l'achat, inscription avant le 28 févr. 2027",
+    "Ticket entier avec date, produit et prix entourés + sticker du sac + motif d'insatisfaction",
+    "1 par foyer, majeur, France métropolitaine et Corse, 1 826 demandes au total (compteur en ligne)"
+   ],
+   "etapes": [
+    "Achète un sac éligible en magasin avant le 31 déc.",
+    "Entoure date, produit et prix sur le ticket, garde le sticker du sac",
+    "Fais la demande en ligne dans les 2 mois avec ton RIB"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 31 déc.",
+   "nouveau": false,
+   "desc": "Un sac de croquettes PRO-NUTRITION (2 ou 3 kg) est remboursé à 100 % par virement si ton animal ne l'a pas aimé.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-pro-nutrition-croquettes-chien-ou-chat-100-satisfait-ou-rembourse/",
+   "avis": "Utile seulement si tu as un chien ou un chat : un sac de croquettes gratuit au final, en vrai argent. 1 826 demandes max, donc ne traîne pas.",
+   "emoji": "🐱",
+   "fiabilite": "PRO-NUTRITION"
+  },
+  {
+   "id": "royalcanin",
+   "rayon": "animaux",
+   "titre": "Aliments chien et chat satisfait ou remboursé",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € après remboursement",
+   "qty": "Jusqu'à 3 produits par foyer et par an",
+   "contenu": [
+    "Aliments Royal Canin chien ou chat (dont gamme vétérinaire) : sacs, boîtes, sachets fraîcheur"
+   ],
+   "pieges": [
+    "Motifs limités : manque d'appétence, produit non conforme ou animal malade",
+    "Tu avances le prix (souvent cher : gamme vétérinaire)",
+    "Virement sous 6 à 8 semaines",
+    "Demande en ligne avec ticket, code-barres, DLUO et n° de lot",
+    "Achats dans les enseignes listées (vétos, Maxi Zoo, Animalis, Jardiland, Botanic, Zoomalia…)"
+   ],
+   "etapes": [
+    "Garde ticket, emballage (code-barres, DLUO, lot)",
+    "Va sur le site de l'opération Royal Canin",
+    "Remplis la demande avec ton RIB"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 31 déc.",
+   "nouveau": false,
+   "desc": "Royal Canin rembourse par virement jusqu'à 3 produits par foyer et par an si ton animal ne les mange pas ou les tolère mal.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-royal-canin-alimentation-chien-chat-satisfait-ou-rembourse/",
+   "avis": "Utile seulement si tu as déjà un chien ou un chat. Ce n'est pas un produit gratuit à commander, c'est une garantie.",
+   "emoji": "🐶",
+   "fiabilite": "Royal Canin"
+  },
+  {
+   "id": "pampers-remb",
+   "rayon": "hygiene",
+   "titre": "Couches T0/T1 ou lingettes Pampers remboursées",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € après remboursement",
+   "qty": "1 produit (1 par compte)",
+   "contenu": [
+    "Au choix : couches Pampers Premium Protection New Baby T0 ou T1, couches Harmonie T1, ou un paquet de lingettes (Sensitive, Fresh Clean, 99% Water, Aqua Soft Touch, Harmonie Aqua…)"
+   ],
+   "pieges": [
+    "Tu avances le prix",
+    "Argent versé sur une cagnotte Envie de Plus sous 10 à 30 jours, à virer ensuite sur ton IBAN",
+    "Cagnotte perdue après 6 mois sans IBAN enregistré",
+    "Questionnaire d'insatisfaction obligatoire",
+    "1 participation par compte, 1 produit par ticket, majeur, banque française",
+    "P&G peut demander le ticket original par courrier"
+   ],
+   "etapes": [
+    "Vérifie la liste des produits (codes EAN) sur la fiche",
+    "Achète un produit éligible et garde le ticket",
+    "Fais la demande en ligne sur Envie de Plus, puis vire ta cagnotte"
+   ],
+   "fin": "2027-03-31T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 31 mars 2027",
+   "nouveau": false,
+   "desc": "Nouvelle offre Pampers 34397 : un paquet de couches nouveau-né (T0, T1) ou de lingettes 100 % remboursé en argent via Envie de Plus.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-pampers-couches-t-0-et-1-lingettes-satisfait-ou-100-rembourse-34397/",
+   "avis": "Utile seulement si tu as un bébé autour de toi (ou pour un cadeau de naissance). Les lingettes servent aussi au quotidien.",
+   "emoji": "👶",
+   "fiabilite": "Pampers"
+  },
+  {
+   "id": "vetocanis",
+   "rayon": "animaux",
+   "titre": "Sticks dentaires ou litière Vetocanis remboursés",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € après remboursement (virement)",
+   "qty": "1 produit (1 par foyer)",
+   "contenu": [
+    "Au choix : VC Dentactiv Action 7 sticks (petit, moyen ou grand chien)",
+    "ou VC Dentactiv Action 50 g pour chat",
+    "ou litière chat Vetocanis Effi'cat 6 L"
+   ],
+   "pieges": [
+    "Tu avances le prix en magasin participant",
+    "Motif d'insatisfaction à donner dans le formulaire",
+    "Virement sous 4 à 8 semaines (pas des bons)",
+    "1 par foyer, majeur, France métropolitaine",
+    "Achat jusqu'au 1er avril 2027, demande avant le 15 avril 2027",
+    "Garde le ticket original : il peut être demandé"
+   ],
+   "etapes": [
+    "Ouvre la fiche Anti-crise pour la liste exacte",
+    "Achète un produit éligible en magasin participant",
+    "Fais la demande en ligne (formulaire, photos du ticket et du code-barres, IBAN)"
+   ],
+   "fin": "2027-04-01T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 1er avr. 2027",
+   "nouveau": false,
+   "desc": "Un produit Vetocanis (sticks dentaires chien, friandise dentaire chat ou litière 6 L) 100 % remboursé par virement si tu n'es pas satisfait.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-vetocanis-snack-ou-litiere-satisfait-ou-100-rembourse-31322/",
+   "avis": "Seulement si tu as un chien ou un chat. Remboursé en vrai argent, avec beaucoup de temps devant toi.",
+   "emoji": "🦴",
+   "fiabilite": "Vetocanis"
+  },
+  {
+   "id": "stabilo",
+   "rayon": "colis",
+   "titre": "Stylo STABILO pointball remboursé",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € après remboursement (virement)",
+   "qty": "1 stylo (1 par foyer)",
+   "contenu": [
+    "1 stylo STABILO pointball portant le sticker de l'offre"
+   ],
+   "pieges": [
+    "Demande par COURRIER seulement (timbre remboursé sur demande écrite, tarif lent)",
+    "Il faut le ticket original, le code-barres recopié et le sticker promotionnel original",
+    "Tu avances le prix (quelques euros)",
+    "Virement sous 6 à 8 semaines, 1 par foyer, majeur",
+    "Achat jusqu'au 30 sept. 2027, envoi avant le 31 oct. 2027"
+   ],
+   "etapes": [
+    "Achète un pointball avec le sticker de l'offre",
+    "Prépare ticket original, sticker, code-barres recopié, coordonnées et RIB",
+    "Envoie à « 1018 – STABILO pointball SATISFAIT ET REMBOURSÉ, SOGEC GESTION 91973 Courtabœuf cedex »"
+   ],
+   "fin": "2027-09-30T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 30 sept. 2027",
+   "nouveau": false,
+   "desc": "Un stylo STABILO pointball « satisfait et remboursé » à 100 % par virement, en envoyant ta demande par courrier.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-stabilo-1-produit-pointball-satisfait-et-rembourse-1018/",
+   "avis": "Petite valeur et un peu de paperasse, mais c'est un stylo gratuit au final. Pas pressé : l'offre dure jusqu'en 2027.",
+   "emoji": "🖊️",
+   "fiabilite": "STABILO"
+  },
+  {
+   "id": "willy",
+   "rayon": "box",
+   "titre": "Épicerie anti-gaspi jusqu'à −58 %",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Livraison offerte en relais dès 49 €",
+   "qty": "Au choix",
+   "contenu": [
+    "Exemples de la semaine : sablés Walker's 250 g à 9,69 €, café en grain Colombie bio 180 g à 7,84 €, huile d'olive au basilic 250 ml à 8,62 €, brandade 190 g à 4,64 €"
+   ],
+   "pieges": [
+    "Livraison offerte seulement dès 49 € en point relais",
+    "Dates proches : regarde la DDM de chaque produit",
+    "Les −10 % demandent l'inscription à la newsletter",
+    "La réduction affichée peut varier d'une page à l'autre"
+   ],
+   "etapes": [
+    "Ouvre la page des promos de la semaine",
+    "Inscris-toi à la newsletter pour les 10 %",
+    "Vise 49 € pour la livraison offerte en point relais"
+   ],
+   "fin": null,
+   "finTxt": "Promos de la semaine",
+   "nouveau": false,
+   "desc": "Produits bio et français sauvés du gaspillage : biscuits, café, huile, apéro… 10 % en plus sur ta 1re commande si tu t'inscris à la newsletter.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://willyantigaspi.fr/collections/la-promo-de-la-semaine",
+   "avis": "Intéressant pour faire un gros stock pas cher. Regarde les dates (DDM) affichées sur chaque produit.",
+   "emoji": "🥫",
+   "fiabilite": "Willy anti-gaspi"
+  },
+  {
+   "id": "tokyo-discovery",
+   "rayon": "box",
+   "titre": "Discovery Box : 35+ snacks du Japon (sans abonnement)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "59,90 € livré (port + taxes compris)",
+   "qty": "Au moins 35 produits (dont 2 KitKat) + 1 petit cadeau",
+   "contenu": [
+    "Au moins 35 snacks japonais de toutes les régions du Japon (liste exacte non publiée)",
+    "Dont 2 KitKat japonais",
+    "1 petit cadeau"
+   ],
+   "pieges": [
+    "59,90 €, pas gratuit",
+    "Achat unique : PAS d'abonnement",
+    "Port offert, taxes d'import déjà payées (rien à payer à la livraison)",
+    "Livraison estimée du 24 nov. au 1er déc.",
+    "Pour Noël : commander avant le 26 nov.",
+    "Contenu exact non détaillé (« au moins 35 produits »)"
+   ],
+   "etapes": [
+    "Ouvre la page Discovery Box",
+    "Ajoute au panier (personnalisation cadeau possible)",
+    "Paie : livraison estimée fin novembre"
+   ],
+   "fin": null,
+   "finTxt": "Commander avant le 26 nov. pour Noël",
+   "nouveau": false,
+   "desc": "Grosse box de découverte du Japon en achat unique : au moins 35 snacks (dont 2 KitKat) + un petit cadeau, livrée gratuitement sans frais de douane.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.tokyosnackbox.com/en/products/discovery-box-snacks-japan",
+   "avis": "≈ 1,70 € le snack, sans abonnement à résilier : la plus grosse quantité vérifiée en box Japon. Mais 59,90 € c'est cher pour ton budget : plutôt une idée cadeau à partager.",
+   "emoji": "🎌",
+   "fiabilite": "Tokyo Snack Box"
+  },
+  {
+   "id": "tokyotreat",
+   "rayon": "box",
+   "titre": "Box de snacks japonais",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "≈ 45 € la box (prix d'appel), −5 $ sur la 1re",
+   "qty": "Non vérifiée",
+   "contenu": [
+    "Thème de novembre « Matcha Fall Rush » : snacks japonais, dont un grand sac de KitKat et des nouilles instantanées"
+   ],
+   "pieges": [
+    "Prix d'appel ≈ 45 € (Toutes les box), à vérifier au panier",
+    "Réduction de seulement 5 $",
+    "Envoi depuis le Japon : délai et taxes possibles",
+    "Renouvellement automatique"
+   ],
+   "etapes": [
+    "Ouvre l'article récap",
+    "Va sur le site de la box et entre SCKAWAII",
+    "Vérifie le prix final et les frais avant de payer"
+   ],
+   "fin": null,
+   "finTxt": "Box de novembre",
+   "nouveau": false,
+   "desc": "Box de snacks du Japon (thème « Matcha Fall Rush » ce mois-ci) : code SCKAWAII pour 5 $ de moins sur la 1re box.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.supercutekawaii.com/2026/11/november-2026-subscription-boxes-roundup/",
+   "avis": "Pour découvrir le Japon, mais petite réduction : seulement si le prix final te va. Envoi depuis le Japon.",
+   "emoji": "🍙",
+   "fiabilite": "TokyoTreat / Sakuraco"
+  },
+  {
+   "id": "petitemousse",
+   "rayon": "alcool",
+   "titre": "Box de 6 bières craft dont 2 de Noël",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "34,90 € livré en relais (≈ 5,80 € la bière)",
+   "qty": "6 canettes de bière",
+   "contenu": [
+    "Golden Refuge (The Piggy Brewing Company, Nancy) : Winter IPA blonde 5 %",
+    "Blitz (La Superbe, Anglet) : lager blonde 4,9 %",
+    "Blanche Gingembre Citron Vert (Iron) : wheat ale 5 %",
+    "Mongy IPA (Cambier, Croix) : West Coast IPA 6,8 %",
+    "45 Days of Christmas (To Øl, Copenhague) : Vienna lager ambrée de Noël ≈ 5 %",
+    "Ambrée de Noël (Brasserie de la Juine, Essonne) : bière de Noël épicée 5,5 %",
+    "Volume des canettes non précisé"
+   ],
+   "pieges": [
+    "29,95 € + 4,95 € de port en point relais (7,95 € à domicile) = 34,90 € minimum",
+    "Formule 1 mois sans engagement ; les formules 2 à 12 mois se paient d'avance",
+    "Aucun code promo ni 1re box réduite trouvé",
+    "Réservé aux majeurs"
+   ],
+   "etapes": [
+    "Ouvre l'article Toutes les box puis le site Une Petite Mousse",
+    "Choisis la box 1 mois (sans engagement)",
+    "Prends la livraison en point relais (4,95 €)"
+   ],
+   "fin": null,
+   "finTxt": "Box de novembre",
+   "nouveau": false,
+   "desc": "Box bière de novembre : 6 canettes de brasseries artisanales (IPA, lager, blanche, 2 bières de Noël), livrée en point relais.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://touteslesbox.fr/une-petite-mousse-box-novembre-2026-bieres-noel/",
+   "avis": "Pas gratuit et assez cher par bière : seulement pour te faire plaisir ou offrir. C'est l'offre alcool livrée la plus concrète trouvée (rien de gratuit en alcool aujourd'hui). À consommer avec modération.",
+   "emoji": "🍺",
+   "fiabilite": "Une Petite Mousse"
+  },
+  {
+   "id": "rdm",
+   "rayon": "alcool",
+   "titre": "Rhum arrangé ou liqueur pistache-amande",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Prix de la bouteille, rendu en 4 bons d'achat",
+   "qty": "1 bouteille",
+   "contenu": [],
+   "pieges": [
+    "Rendu en 4 bons d'achat de la marque, pas en argent",
+    "Réservé aux majeurs"
+   ],
+   "etapes": [
+    "Ouvre la fiche Anti-crise de l'offre",
+    "Achète la bouteille avec l'offre",
+    "Envoie ta demande selon les modalités pour recevoir les 4 bons"
+   ],
+   "fin": null,
+   "finTxt": "Rhum : achats jusqu'au 31 déc. · Liqueur : 30 juin 2027",
+   "nouveau": false,
+   "desc": "Rhum arrangé Cotron vert Gingembre ou liqueur Pistache Amande « satisfait ou 100 % remboursé », mais rendu en 4 bons de réduction Rivière du Mât.",
+   "conditions": "",
+   "lien": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-riviere-du-mat-rhum-arrange-cotron-vert-gingembre-satisfait-ou-100-rembourse-en-4-bons-1034/",
+   "avis": "Pas gratuit en argent : tu récupères des bons pour racheter la marque. Réservé aux majeurs.",
+   "emoji": "🥃",
+   "fiabilite": "Rivière du Mât"
+  },
+  {
+   "id": "avene",
+   "rayon": "beaute",
+   "titre": "Avène Hydrance Riche",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 crème (6 000 places)",
+   "contenu": [
+    "Avène Hydrance Riche"
+   ],
+   "pieges": [
+    "La sélection a déjà commencé",
+    "Post TikTok ou Instagram demandé"
+   ],
+   "etapes": [
+    "Compte TRND",
+    "Candidate sur la page",
+    "Si tu es pris : post TikTok ou Instagram"
+   ],
+   "fin": null,
+   "finTxt": "Projet jusqu'au 16 déc.",
+   "nouveau": false,
+   "desc": "Crème hydratante offerte, avec 5 cartes Amazon de 50 € à gagner.",
+   "conditions": "",
+   "lien": "https://www.trnd.com/fr/projets/avene-hydrance-riche",
+   "avis": "6 000 places, mais la sélection a déjà commencé.",
+   "emoji": "💧",
+   "fiabilite": "TRND"
+  },
+  {
+   "id": "lookfantastic",
+   "rayon": "beaute",
+   "titre": "Box beauté de novembre (6 produits)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "20 € (+ port éventuel)",
+   "qty": "6 produits",
+   "contenu": [
+    "Umberto Giannini Curl Jelly 200 ml",
+    "Pixi Brow Tamer (taille normale)",
+    "Crème corps Rituals The Ritual of Ayurveda 65 ml",
+    "Primer Oui Chéri The Beauty Crop 20 ml",
+    "Huile cuticules Manucurist 15 ml",
+    "Olaplex N°6 Bond Smoother 20 ml"
+   ],
+   "pieges": [
+    "Abonnement mensuel à 20 €, renouvelé automatiquement",
+    "Frais de port non précisés par l'article",
+    "Évite les formules 12 mois (17 €/mois, 204 € l'année)",
+    "Procédure de résiliation non décrite : vérifie dans ton compte"
+   ],
+   "etapes": [
+    "Ouvre l'article Toutes les box puis la page Lookfantastic",
+    "Choisis la formule sans engagement (1 mois)",
+    "Résilie dans ton compte avant le 1er déc."
+   ],
+   "fin": null,
+   "finTxt": "Box de novembre, selon stock",
+   "nouveau": false,
+   "desc": "6 produits dont Olaplex N°6, crème Rituals et huile Manucurist, pour 20 € sans engagement.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://touteslesbox.fr/box-lookfantastic-novembre-2026-contenu-olaplex-rituals/",
+   "avis": "Pas gratuit, mais 6 produits de marques connues pour 20 €. Seulement si ça rentre dans ton budget, et résilie tout de suite.",
+   "emoji": "💅",
+   "fiabilite": "Lookfantastic"
+  },
+  {
+   "id": "prescription",
+   "rayon": "beaute",
+   "titre": "Box « Sucreries d'hiver » (5 produits)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "19,90 € livraison comprise",
+   "qty": "5 produits",
+   "contenu": [
+    "Shampoing Biothalys",
+    "Masque cheveux Poreia",
+    "Masque lèvres teinté Lyos",
+    "Eye-liner Joséphine",
+    "Bougie Erth Skin"
+   ],
+   "pieges": [
+    "Renouvelée chaque mois à 24,90 €"
+   ],
+   "etapes": [
+    "Ouvre l'article",
+    "Commande la box de novembre",
+    "Résilie dans ton espace client et garde la confirmation"
+   ],
+   "fin": null,
+   "finTxt": "Box de novembre, selon stock",
+   "nouveau": false,
+   "desc": "Shampoing Biothalys, masque cheveux Poreia, masque lèvres teinté Lyos, eye-liner Joséphine et bougie Erth Skin.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://bonsplansmania.fr/article/prescription-lab-sucreries-hiver-novembre-2026",
+   "avis": "Pas gratuit. Sans engagement mais renouvelé chaque mois : résilie dès la commande passée.",
+   "emoji": "🎀",
+   "fiabilite": "Prescription Lab"
+  },
+  {
+   "id": "glowria",
+   "rayon": "beaute",
+   "titre": "Box Skin Cycling",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "16,50 €",
+   "qty": "1 box",
+   "contenu": [],
+   "pieges": [
+    "24,90 €/mois ensuite (19,90 € si engagement 12 mois)",
+    "Prends bien la formule sans engagement"
+   ],
+   "etapes": [
+    "Lis l'article",
+    "Choisis la formule SANS engagement",
+    "Résilie avant la fin du mois"
+   ],
+   "fin": null,
+   "finTxt": "Dans la limite des stocks",
+   "nouveau": false,
+   "desc": "Première box de novembre à 16,50 €, puis 24,90 €/mois sans engagement (ou 19,90 € avec engagement 12 mois).",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://bonsplansmania.fr/article/glowria-box-skin-cycling-novembre-2026",
+   "avis": "Pas gratuit. Prends la formule sans engagement et résilie dès réception.",
+   "emoji": "📦",
+   "fiabilite": "Glowria"
+  },
+  {
+   "id": "mylittlebox",
+   "rayon": "beaute",
+   "titre": "Double Box « La Saison des merveilles » −40 %",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "25,08 € (Classique) ou 29,88 € (Extra), puis engagement jusqu'en février",
+   "qty": "7 produits + accessoires (Double Box nov.-déc.)",
+   "contenu": [
+    "Garancia : Huile Lactée démaquillante",
+    "Miyé : sérum cheveux anti-chute",
+    "Rituals : crème corps The Ritual of Ayurveda",
+    "La Crique : crayon baume lèvres",
+    "Wild Science Lab : sérum Light Switch",
+    "Huygens : booster soin cils noir",
+    "LANEIGE : sérum repulpant (valeur 45 €), seulement en formule Extra",
+    "Accessoires dont un plaid"
+   ],
+   "pieges": [
+    "ENGAGEMENT jusqu'à la box de février incluse, au prix normal : au moins 66,88 € de plus en Classique (79,68 € en Extra)",
+    "Le prix de 25,08 € couvre 2 mois (novembre + décembre) d'un coup",
+    "Frais de port non précisés",
+    "Pas de date de fin affichée",
+    "Code non valable sur la formule 1 an",
+    "Carte bancaire obligatoire"
+   ],
+   "etapes": [
+    "Ouvre l'article Toutes les box puis la page My Little Box",
+    "Choisis la Double Box Classique et entre BLACKWEEK",
+    "Note bien que tu es engagé jusqu'en février"
+   ],
+   "fin": null,
+   "finTxt": "Black Week, fin non affichée",
+   "nouveau": false,
+   "desc": "Code BLACKWEEK : la Double Box novembre-décembre (7 produits : Garancia, Miyé, Rituals, La Crique, Wild Science Lab, Huygens, + LANEIGE en Extra) à 25,08 € au lieu de 41,80 €.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://touteslesbox.fr/my-little-box-black-week-2026-code-blackweek-40-pourcent-25-08-euros/",
+   "avis": "Joli contenu, mais l'engagement jusqu'en février fait grimper le vrai coût à plus de 90 €. Trop cher pour ton budget : Blissim à 9 € est bien plus malin.",
+   "emoji": "🎀",
+   "fiabilite": "My Little Box"
+  },
+  {
+   "id": "karite",
+   "rayon": "hygiene",
+   "titre": "Crème mains au karité",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 crème (25 exemplaires)",
+   "contenu": [
+    "Crème mains au karité (marque et format non précisés)"
+   ],
+   "pieges": [
+    "Tirage au sort le 18 janv. 2027",
+    "Marque non indiquée",
+    "Date limite non communiquée"
+   ],
+   "etapes": [
+    "Ouvre la fiche",
+    "Connecte-toi à Tester Des Produits",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 18 janv. 2027",
+   "nouveau": false,
+   "desc": "25 crèmes mains au karité tirées au sort parmi les inscrits.",
+   "conditions": "",
+   "lien": "https://www.testerdesproduits.fr/details-produit/580/creme-mains-karite",
+   "avis": "Petit truc utile en hiver, à cocher en 1 clic avec les autres tests du même site.",
+   "emoji": "🤲",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "bomata",
+   "rayon": "colis",
+   "titre": "Balance de cuisine digitale Bomata",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 balance (8 places)",
+   "contenu": [
+    "Balance de cuisine digitale BOMATA (écran rétroéclairé, tare, conversion d'unités)"
+   ],
+   "pieges": [
+    "Tirage au sort le 7 déc. : 8 places",
+    "Date limite d'inscription non communiquée",
+    "Avis à donner après usage"
+   ],
+   "etapes": [
+    "Ouvre le lien",
+    "Connecte-toi à Tester Des Produits",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 7 déc.",
+   "nouveau": false,
+   "desc": "8 balances de cuisine digitales tirées au sort parmi les inscrits Tester Des Produits.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-gratuit-balance-cuisine-digitale-bomata-decembre-2026",
+   "avis": "Petit objet utile, à cocher en même temps que les autres tests du même site.",
+   "emoji": "⚖️",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "masque-yeux",
+   "rayon": "colis",
+   "titre": "Masque chauffant yeux arboleaf",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 masque (6 exemplaires)",
+   "contenu": [
+    "Masque chauffant pour les yeux arboleaf"
+   ],
+   "pieges": [
+    "Tirage au sort le 25 janv. 2027 : 6 places seulement",
+    "Date limite non communiquée"
+   ],
+   "etapes": [
+    "Ouvre la fiche",
+    "Connecte-toi à Tester Des Produits",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 25 janv. 2027",
+   "nouveau": false,
+   "desc": "6 masques chauffants pour les yeux arboleaf tirés au sort parmi les inscrits.",
+   "conditions": "",
+   "lien": "https://www.testerdesproduits.fr/details-produit/581/masque-chauffant-yeux",
+   "avis": "Très peu de places, mais même compte que les autres tests : 1 clic.",
+   "emoji": "😴",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "veddel",
+   "rayon": "colis",
+   "titre": "Kit nettoyage écran Veddelholzer",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 kit (16 places)",
+   "contenu": [
+    "Spray nettoyant écran 250 ml",
+    "Chiffon microfibre",
+    "Petite brosse pour clavier"
+   ],
+   "pieges": [
+    "Tirage au sort le 11 janv. 2027",
+    "Date limite d'inscription non communiquée"
+   ],
+   "etapes": [
+    "Ouvre le lien",
+    "Connecte-toi à Tester Des Produits",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 11 janv. 2027",
+   "nouveau": false,
+   "desc": "16 kits de nettoyage (spray 250 ml, chiffon microfibre, brosse) pour écrans, téléphone, PC et TV, tirés au sort.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-kit-nettoyage-ecran-veddelholzer",
+   "avis": "Petit truc utile, à cocher en même temps que l'imprimante et la bouillotte (même compte).",
+   "emoji": "🧽",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "beugo",
+   "rayon": "colis",
+   "titre": "Correcteur de posture Beugo",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 correcteur (25 places)",
+   "contenu": [
+    "Correcteur de posture Beugo réglable (taille non précisée)"
+   ],
+   "pieges": [
+    "Tirage au sort le 28 déc.",
+    "Date limite d'inscription non communiquée",
+    "Taille et durée de port non précisées"
+   ],
+   "etapes": [
+    "Ouvre le lien",
+    "Connecte-toi à Tester Des Produits",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 28 déc.",
+   "nouveau": false,
+   "desc": "25 correcteurs de posture réglables tirés au sort parmi les inscrits Tester Des Produits.",
+   "conditions": "",
+   "lien": "https://bonsplansmania.fr/go/test-produit-correcteur-posture-beugo",
+   "avis": "Utile si tu passes du temps assis. Même compte que les autres tests Tester Des Produits.",
+   "emoji": "🧍",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "ampoule",
+   "rayon": "colis",
+   "titre": "Ampoule LED connectée ANTELA",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 ampoule (10 exemplaires)",
+   "contenu": [
+    "Ampoule LED connectée ANTELA : blanc chaud à froid réglable + couleurs, compatible Alexa et Google Assistant",
+    "Culot (E27, B22…) et puissance non précisés"
+   ],
+   "pieges": [
+    "Tirage au sort le 8 févr. 2027 : seulement 10 places",
+    "Date limite d'inscription non communiquée",
+    "Culot non précisé : vérifie que ça va sur tes lampes",
+    "Compte Tester Des Produits (e-mail + SMS)"
+   ],
+   "etapes": [
+    "Ouvre la fiche Tester Des Produits",
+    "Connecte-toi (même compte que LEGO, bouillotte…)",
+    "Clique « Participer »"
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 8 févr. 2027",
+   "nouveau": false,
+   "desc": "Nouveau test (n° 583) : 10 ampoules connectées ANTELA (blanc réglable et couleurs, Alexa/Google) tirées au sort parmi les inscrits, livrées à domicile.",
+   "conditions": "",
+   "lien": "https://www.testerdesproduits.fr/details-produit/583/ampoule-connectee-led",
+   "avis": "Petit gadget sympa pour ta chambre, 1 clic si tu as déjà le compte. Très peu de places et tirage lointain.",
+   "emoji": "💡",
+   "fiabilite": "Tester Des Produits"
+  },
+  {
+   "id": "psplus-yt",
+   "rayon": "abo",
+   "titre": "YouTube Premium – 3 mois",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (si tu as déjà PS Plus)",
+   "qty": "3 mois",
+   "contenu": [],
+   "pieges": [
+    "Réservé aux abonnés PlayStation Plus (tout palier), compte PlayStation France",
+    "Probablement réservé aux nouveaux abonnés YouTube Premium (non confirmé)",
+    "Carte demandée par YouTube, renouvellement payant ensuite",
+    "Pas de date de fin publiée"
+   ],
+   "etapes": [
+    "Ouvre l'appli ou le site PlayStation, rubrique avantages PS Plus",
+    "Récupère l'offre YouTube Premium",
+    "Note la date J+90 et résilie avant"
+   ],
+   "fin": null,
+   "finTxt": "Annoncé le 6 nov., fin non indiquée",
+   "nouveau": false,
+   "desc": "Nouvel avantage PS Plus en France : 3 mois de YouTube Premium (sans pubs, en arrière-plan). Aussi : Audible à 0,99 € pendant 3 mois et 2 mois de Calm Premium.",
+   "conditions": "Carte bancaire : Oui (chez YouTube)",
+   "lien": "https://gamewave.fr/actualites/playstation-plus-de-nouveaux-avantages-pour-les-abonnes/",
+   "avis": "Seulement si tu as déjà PS Plus. Note la date de fin, sinon YouTube te prélève.",
+   "emoji": "▶️",
+   "fiabilite": "PlayStation Plus"
+  },
+  {
+   "id": "deezer",
+   "rayon": "abo",
+   "titre": "Deezer Premium – 1 mois",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "",
+   "contenu": [],
+   "pieges": [
+    "Seulement si tu n'as jamais été abonné ni eu d'essai"
+   ],
+   "etapes": [
+    "Page des offres Deezer",
+    "Choisis Premium",
+    "Résilie avant la fin du mois"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date limite",
+   "nouveau": false,
+   "desc": "1 mois offert si tu n'as jamais été abonné ni eu d'essai Deezer.",
+   "conditions": "Carte bancaire : Oui",
+   "lien": "https://www.deezer.com/fr/offers/",
+   "avis": "Deezer t'envoie un rappel 7 jours avant la fin.",
+   "emoji": "🎧",
+   "fiabilite": "Deezer"
+  },
+  {
+   "id": "carplay",
+   "rayon": "colis",
+   "titre": "Adaptateur CarPlay sans fil",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "qty": "1 adaptateur (6 exemplaires)",
+   "contenu": [
+    "Adaptateur CarPlay sans fil (contenu exact du colis non précisé)"
+   ],
+   "pieges": [
+    "Tirage au sort le 23 nov. : seulement 6 places",
+    "Utile seulement si ta voiture a déjà Apple CarPlay filaire (et que tu as un iPhone)",
+    "Compte Tester Des Produits (e-mail + SMS)"
+   ],
+   "etapes": [
+    "Ouvre la fiche Tester Des Produits",
+    "Connecte-toi (même compte que LEGO, bouillotte…)",
+    "Clique « Participer » avant le tirage du 23 nov."
+   ],
+   "fin": null,
+   "finTxt": "Tirage le 23 nov.",
+   "nouveau": false,
+   "desc": "6 boîtiers qui rendent sans fil une connexion CarPlay filaire (GPS, appels, musique sur l'écran de la voiture), tirés au sort parmi les inscrits.",
+   "conditions": "",
+   "lien": "https://www.testerdesproduits.fr/details-produit/569/adaptateur-carplay-sans-fil",
+   "avis": "Seulement si tu as une voiture compatible CarPlay et un iPhone, sinon à offrir. Très peu de places, mais 1 clic si tu as le compte.",
+   "emoji": "🚗",
+   "fiabilite": "Tester Des Produits"
+  }
+ ]
+}
