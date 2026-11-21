@@ -97,7 +97,7 @@ h2.sec{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--
 .alerte b{display:block;font-size:16px;margin-bottom:4px}
 .alerte p{margin:3px 0;font-size:14px}
 .rap{display:block;width:100%;height:48px;border:0;border-radius:12px;background:#e11d48;color:#fff;font-weight:900;font-size:15px;margin-top:8px}
-nav.bas{position:fixed;left:0;right:0;bottom:0;z-index:6;display:grid;grid-template-columns:repeat(4,1fr);background:var(--bg2);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom))}
+nav.bas{position:fixed;left:0;right:0;bottom:0;z-index:6;display:grid;grid-template-columns:repeat(5,1fr);background:var(--bg2);border-top:1px solid var(--line);padding:6px 6px calc(6px + env(safe-area-inset-bottom))}
 nav.bas button{border:0;background:none;display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;border-radius:12px;font-size:11px;font-weight:700;color:var(--mute);position:relative}
 nav.bas svg{width:23px;height:23px}
 nav.bas button.on{color:var(--acc);background:color-mix(in srgb,var(--acc) 12%,transparent)}
@@ -139,12 +139,51 @@ nav.bas .nb{position:absolute;top:2px;left:calc(50% + 6px);background:var(--acc2
 .coul button.on{border-color:#fff}
 .toast{position:fixed;left:50%;bottom:86px;transform:translateX(-50%);background:#fff;color:#000;font-weight:700;padding:9px 14px;border-radius:10px;z-index:10;display:none;white-space:nowrap}
 .toast.on{display:block}
+/* Style « tréfonds » : titre dégradé, lueur venue des profondeurs */
+#titre .t2{background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
+body[data-o=jeux],body[data-o=favoris],body[data-o=reglages]{background:radial-gradient(130% 55% at 50% -8%,color-mix(in srgb,var(--acc2) 26%,var(--bg)) 0%,var(--bg) 62%) fixed var(--bg)}
+body[data-o=jeux] .haut,body[data-o=favoris] .haut,body[data-o=reglages] .haut{background:color-mix(in srgb,var(--bg) 92%,transparent)}
+.it{transition:transform .08s}.it:active,.tu:active,.colis:active{transform:scale(.985)}
+/* Mes commandes : style carton / colis */
+body[data-o=commandes]{--bg:#f3eadb;--bg2:#fffaf1;--card:#fffdf8;--card2:#efe2cc;--line:#e0cfb4;--ink:#2b2118;--mute:#86725d;--soft:#5c4a39;--acc:#16a34a;--acc2:#0ea5e9;background:repeating-linear-gradient(135deg,#f3eadb 0 22px,#f0e6d5 22px 44px) fixed}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:4px 0 12px}
+.stats div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 6px;text-align:center}
+.stats b{display:block;font-size:22px;font-weight:900}
+.stats small{font-size:11px;color:var(--mute);font-weight:700}
+.stats .eco b{color:var(--acc)}
+.colis{position:relative;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:12px 12px 10px;box-shadow:0 3px 0 var(--line);overflow:hidden}
+.colis::before{content:"";position:absolute;top:0;bottom:0;left:50%;width:34px;margin-left:-17px;background:color-mix(in srgb,#c8a36a 22%,transparent);pointer-events:none}
+.colis.e2{background:color-mix(in srgb,var(--acc) 7%,var(--card))}
+.colis.e2::before{background:color-mix(in srgb,var(--acc) 14%,transparent)}
+.colis .hd{position:relative;display:flex;gap:10px;align-items:center}
+.colis .em{flex:none;width:46px;height:46px;border-radius:12px;display:grid;place-items:center;font-size:24px;background:var(--card2)}
+.colis h3{margin:0;font-size:15px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.colis .sb{font-size:12px;color:var(--mute);margin-top:2px}
+.ok{flex:none;width:46px;height:46px;border-radius:50%;border:2.5px dashed var(--mute);background:var(--card);font-size:22px;font-weight:900;color:transparent;display:grid;place-items:center}
+.ok.on{border:0;background:var(--acc);color:#fff}
+.etapes{position:relative;display:grid;grid-template-columns:repeat(3,1fr);margin:12px 0 4px}
+.etapes::before{content:"";position:absolute;top:11px;left:16%;right:16%;height:4px;border-radius:2px;background:var(--line)}
+.etapes .bar{position:absolute;top:11px;left:16%;height:4px;border-radius:2px;background:var(--acc)}
+.etapes button{position:relative;border:0;background:none;display:flex;flex-direction:column;align-items:center;gap:4px;font-size:11px;font-weight:700;color:var(--mute);padding:0}
+.etapes button i{width:26px;height:26px;border-radius:50%;background:var(--card);border:3px solid var(--line);display:grid;place-items:center;font-style:normal;font-size:12px}
+.etapes button.on{color:var(--ink)}
+.etapes button.on i{background:var(--acc);border-color:var(--acc);color:#fff}
+.avert{position:relative;margin:8px 0 0;padding:8px 10px;border-radius:10px;font-size:13px;font-weight:600;background:#fff7ed;color:#9a3412;border:1px solid #fdba74}
+.avert.abo{background:#fff1f2;color:#9f1239;border-color:#fda4af}
+.act{position:relative;display:flex;gap:6px;margin-top:10px;flex-wrap:wrap}
+.act button{flex:1;min-width:0;height:36px;border-radius:10px;border:1px solid var(--line);background:var(--bg2);font-size:13px;font-weight:700;white-space:nowrap}
+.champ{display:block;margin:10px 0}
+.champ span{display:block;font-size:12px;font-weight:700;color:var(--mute);margin-bottom:4px}
+.champ input,.champ textarea{width:100%;border:1px solid var(--line);border-radius:12px;background:var(--card);padding:11px 12px;font-size:16px;outline:none}
+.champ textarea{min-height:70px;resize:vertical}
+.cmdb{display:block;width:100%;height:48px;border-radius:14px;border:2px dashed var(--acc);background:color-mix(in srgb,var(--acc) 8%,transparent);color:var(--acc);font-weight:900;font-size:15px;margin:0 0 12px}
+.dejacmd{display:block;text-align:center;margin-top:8px;font-size:13px;font-weight:700;color:var(--ok)}
 </style>
 </head>
 <body data-o="jeux">
 <div class="haut">
   <div class="l1">
-    <h1 id="titre">Les Tréfonds <span>d'Internet</span><span class="maj" id="maj">Chargement…</span></h1>
+    <h1 id="titre">Les Tréfonds <span class="t2">d'Internet</span><span class="maj" id="maj">Chargement…</span></h1>
     <button class="ico" id="btnMaj" aria-label="Actualiser"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M20 12a8 8 0 1 1-2.3-5.6M20 4v5h-5"/></svg></button>
   </div>
   <div class="l2" id="l2">
@@ -155,12 +194,13 @@ nav.bas .nb{position:absolute;top:2px;left:calc(50% + 6px);background:var(--acc2
   <div class="chips" id="chips"></div>
 </div>
 
-<div id="maj-appli" hidden style="margin:10px 14px 0;padding:12px 14px;border-radius:14px;background:linear-gradient(90deg,var(--acc),var(--acc2));color:#000;font-weight:800;display:flex;align-items:center;gap:10px"><span style="flex:1">🆕 Nouvelle version de l'appli disponible</span><button data-lien="https://github.com/Skuff6/mes-gratuits/releases/download/appli/mes-gratuits.apk" style="border:0;border-radius:10px;background:#000;color:#fff;font-weight:800;padding:9px 12px">Mettre à jour</button></div>
+<div id="maj-appli" hidden style="margin:10px 14px 0;padding:12px 14px;border-radius:14px;background:linear-gradient(90deg,var(--acc),var(--acc2));color:#000;font-weight:800;display:flex;align-items:center;gap:10px"><span style="flex:1">🆕 Nouvelle version de l'appli disponible</span><button data-installer="1" style="border:0;border-radius:10px;background:#000;color:#fff;font-weight:800;padding:9px 12px">Mettre à jour</button></div>
 <main id="vue"></main>
 
 <nav class="bas" id="nav">
   <button data-t="jeux"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 7h10a5 5 0 0 1 0 10c-1.6 0-2.4-1-3.2-2h-3.6c-.8 1-1.6 2-3.2 2A5 5 0 0 1 7 7zm-.5 3v1.5H5V13h1.5v1.5H8V13h1.5v-1.5H8V10zm9.5 1a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm2-1.5a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/></svg>Jeux vidéo<span class="nb" hidden></span></button>
   <button data-t="offres"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M4 9h16v3H4zm1 4h6v8H6a1 1 0 0 1-1-1zm8 0h6v7a1 1 0 0 1-1 1h-5zM11 9h2v12h-2zM12 8c-1.5-3-5-3.5-5-1.5S10 8 12 8zm0 0c1.5-3 5-3.5 5-1.5S14 8 12 8z"/></svg>Offres<span class="nb" hidden></span></button>
+  <button data-t="commandes"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2 3 6.5v11L12 22l9-4.5v-11zm0 2.2 6.4 3.2L16 8.6 9.6 5.4zM7.4 6.5l6.4 3.2L12 10.6 5.6 7.4zM5 9l6 3v7.6l-6-3zm14 0v7.6l-6 3V12z"/></svg>Commandes<span class="nb" hidden></span></button>
   <button data-t="favoris"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7.5-4.6-9.6-9.2C.9 8.4 3 5 6.4 5c2 0 3.4 1.1 4.1 2.3h3C14.2 6.1 15.6 5 17.6 5 21 5 23.1 8.4 21.6 11.8 19.5 16.4 12 21 12 21z"/></svg>Favoris</button>
   <button data-t="reglages"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 8.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zM10.3 2h3.4l.5 2.6 1.8.8 2.2-1.5 2.4 2.4-1.5 2.2.8 1.8 2.6.5v3.4l-2.6.5-.8 1.8 1.5 2.2-2.4 2.4-2.2-1.5-1.8.8-.5 2.6h-3.4l-.5-2.6-1.8-.8-2.2 1.5-2.4-2.4 1.5-2.2-.8-1.8L2 13.7v-3.4l2.6-.5.8-1.8-1.5-2.2 2.4-2.4 2.2 1.5 1.8-.8z"/></svg>Réglages</button>
 </nav>
@@ -213,6 +253,7 @@ if (onglet === 'dlc') onglet = 'jeux';
 if (onglet === 'produits') onglet = 'offres';
 const F0 = () => ({acces:'tout', cat:'tout', plat:'tout', rar:'tout', type:'tout', gratuit:false, nouveau:false, bientot:false, nonvu:false, fps:false, sansCarte:false, coutMax:'tout', tri:'reco'});
 let F = {jeux: Object.assign(F0(), lsGet('mg-f-jeux', {})), offres: Object.assign(F0(), lsGet('mg-f-offres', {}))};
+let cmds = lsGet('mg-cmd', []), cmdF = 'cours';
 let q = '', montres = PAS, horsLigne = false, derniereVerif = null;
 let cache = {jeux: [], offres: [], tout: new Map()};
 
@@ -370,7 +411,7 @@ function vueReglages() {
     <div class="coul">${ACCENTS.map((a, i) => `<button data-c="${i}" class="${R.accent === i ? 'on' : ''}" style="background:${a ? `linear-gradient(135deg,${a[0]},${a[1]})` : 'conic-gradient(#22d3ee,#a855f7,#fb923c,#ec4899,#22d3ee)'}" aria-label="Couleur ${i}"></button>`).join('')}</div>
     <p class="note">La première = une couleur par catégorie (bleu pour les jeux, orange pour les offres).</p></section>
   <section class="reg"><h3>🤖 La recherche</h3>
-    <p class="note">Chaque jour à 13 h, Claude fouille tout Internet et met l'appli à jour. Touche ↻ en haut pour récupérer les derniers résultats quand tu veux. Pour une nouvelle recherche tout de suite, changer l'heure, ajouter un thème ou changer le style : dis-le à Claude dans le projet « Recherche gratuite ».</p>
+    <p class="note">Chaque jour à 13 h, Claude fouille tout Internet et met l'appli à jour. Touche ↻ en haut pour récupérer les derniers résultats quand tu veux. Le bouton ↻ fait tout d'un coup : il récupère les dernières offres et, s'il y a une nouvelle version de l'appli, il te propose de l'installer directement. Pour changer quelque chose dans l'appli : dis-le à Claude dans le projet « 📱 Les Tréfonds d'Internet ».</p>
     <button class="sec2" data-lien="https://claude.ai">Ouvrir Claude</button>
     <button class="sec2" id="raz">Remettre à zéro les « déjà vu »</button><div style="height:12px"></div></section>`;
 }
@@ -393,11 +434,86 @@ function vueFiltres() {
   return h;
 }
 
+/* ---------- Mes commandes ---------- */
+const ETATS = [['🛒', 'Commandé'], ['🚚', 'En route'], ['📬', 'Reçu']];
+const sauverCmd = () => lsSet('mg-cmd', cmds);
+const jours = t => Math.max(0, Math.floor((Date.now() - t) / 864e5));
+const ilya = t => { const j = jours(t); return j === 0 ? "aujourd'hui" : j === 1 ? 'hier' : 'il y a ' + j + ' jours'; };
+const valeurDe = o => { const m = String(o.prix || '').replace(/\s/g, '').match(/(\d+(?:[.,]\d+)?)/); const v = m ? parseFloat(m[1].replace(',', '.')) : NaN; return isFinite(v) && v > 0 && v < 5000 ? Math.max(0, v - (o._cout || 0)) : null; };
+const cmdDe = k => cmds.find(c => c.k === k);
+function ajouterCmd(k) {
+  const o = cache.tout.get(k);
+  if (!o || cmdDe(k)) return;
+  const jeu = o._t === 'jeux';
+  cmds.unshift({id: 'c' + Date.now(), k, titre: o.titre, emoji: jeu ? '🎮' : (o.emoji || RAY[o.rayon]?.[1] || '🎁'), boutique: jeu ? (PLAT[o.plateforme]?.[0] || '') : (o.via || domaine(o.lien || o.source || '')), lien: o.lien || o.source || '', etat: jeu ? 2 : 0, le: Date.now(), recuLe: jeu ? Date.now() : null, suivi: '', note: '', valeur: valeurDe(o), abo: accOf(o) === 'abonnement', resilierLe: o.resilierLe || null, prixApres: o.prixApres || ''});
+  sauverCmd();
+  toast(jeu ? 'Ajouté à ta collection 🎮' : 'Ajouté à tes commandes 📦');
+}
+function carteCmd(c) {
+  const j = jours(c.le), pct = [0, 50, 68][c.etat];
+  let av = '';
+  if (c.etat < 2 && j >= 21) av = `<div class="avert">⚠️ Commandé il y a ${j} jours et toujours pas reçu : vérifie ton mail ou contacte la boutique.</div>`;
+  else if (c.etat < 2 && j >= 10) av = `<div class="avert">⏳ Ça fait ${j} jours. Normalement ça arrive bientôt.</div>`;
+  if (c.abo) av += `<div class="avert abo">🔁 Abonnement : résilie avant ${c.resilierLe ? 'le <b>' + esc(new Date(c.resilierLe).toLocaleDateString('fr-FR', {day:'numeric', month:'long'})) + '</b>' : 'la fin du mois gratuit'}${c.prixApres ? ' (sinon ' + esc(c.prixApres) + ')' : ''}.</div>`;
+  return `<div class="colis e${c.etat}">
+    <div class="hd"><div class="em">${esc(c.emoji || '📦')}</div><div style="flex:1"><h3>${esc(c.titre)}</h3><div class="sb">${c.boutique ? esc(c.boutique) + ' · ' : ''}${c.etat === 2 && c.recuLe ? 'reçu ' + ilya(c.recuLe) : 'commandé ' + ilya(c.le)}${c.valeur ? ' · ~' + Math.round(c.valeur) + ' € économisés' : ''}</div></div>
+    <button class="ok${c.etat === 2 ? ' on' : ''}" data-recu="${c.id}" aria-label="Reçu">✓</button></div>
+    <div class="etapes"><span class="bar" style="width:${pct}%"></span>${ETATS.map((e, i) => `<button class="${c.etat >= i ? 'on' : ''}" data-etat="${c.id}:${i}"><i>${c.etat >= i ? e[0] : ''}</i>${e[1]}</button>`).join('')}</div>
+    ${av}${c.note ? `<div class="sb" style="position:relative;margin-top:8px">📝 ${esc(c.note)}</div>` : ''}
+    <div class="act">${c.suivi ? `<button data-suivi="${c.id}">📍 Suivre</button>` : ''}${c.lien ? `<button data-lien="${esc(c.lien)}">🔗 Voir</button>` : ''}<button data-editcmd="${c.id}">✏️ Modifier</button></div></div>`;
+}
+function vueCommandes() {
+  const cours = cmds.filter(c => c.etat < 2), recus = cmds.filter(c => c.etat === 2);
+  const eco = recus.reduce((s, c) => s + (c.valeur || 0), 0);
+  const l = cmdF === 'cours' ? cours : cmdF === 'recus' ? recus : cmds;
+  let h = `<h2 class="sec" style="margin-top:4px">📦 Mes commandes</h2>
+  <div class="stats"><div><b>${cours.length}</b><small>🚚 En cours</small></div><div><b>${recus.length}</b><small>📬 Reçus</small></div><div class="eco"><b>${Math.round(eco)} €</b><small>💰 Économisés</small></div></div>
+  <button class="cmdb" data-editcmd="nouveau">＋ Ajouter une commande</button>
+  <div class="chips" style="padding:0 0 10px">${[['cours', '🚚 En cours', cours.length], ['recus', '📬 Reçus', recus.length], ['tout', 'Tout', cmds.length]].map(([k, n, c]) => `<button class="chip${cmdF === k ? ' on' : ''}" data-cmdf="${k}">${n} <i>${c}</i></button>`).join('')}</div>`;
+  if (!cmds.length) h += `<div class="vide"><b>Aucune commande pour l'instant</b>Sur une offre, touche « 🛒 Je l'ai commandé » : elle arrive ici et tu coches ✓ quand tu l'as reçue.</div>`;
+  else if (!l.length) h += `<div class="vide"><b>${cmdF === 'cours' ? 'Tout est arrivé 🎉' : 'Rien ici'}</b>${cmdF === 'cours' ? 'Aucun colis en attente.' : ''}</div>`;
+  else h += `<div class="liste" style="gap:12px">${l.map(carteCmd).join('')}</div>`;
+  return h;
+}
+function ficheCmd(id) {
+  const n = id === 'nouveau', c = n ? {titre:'', boutique:'', lien:'', suivi:'', note:''} : cmds.find(x => x.id === id);
+  if (!c) return;
+  const ch = (k, lab, ph, type) => `<label class="champ"><span>${lab}</span><input id="cf-${k}" type="${type || 'text'}" value="${esc(c[k] || '')}" placeholder="${esc(ph)}"></label>`;
+  $('#feuille').innerHTML = `<div class="poi"></div><h2>${n ? '＋ Nouvelle commande' : '✏️ Modifier'}</h2>
+    ${ch('titre', 'Quoi ?', 'Ex. : échantillon parfum')}${ch('boutique', 'Boutique', 'Ex. : Sephora')}${ch('suivi', 'Numéro de suivi (facultatif)', 'Ex. : 6A12345678901 ou un lien', 'text')}${ch('lien', 'Lien (facultatif)', 'https://…', 'url')}
+    <label class="champ"><span>Note (facultatif)</span><textarea id="cf-note" placeholder="Ex. : livré en point relais">${esc(c.note || '')}</textarea></label>
+    <button class="go" data-savecmd="${esc(id)}">Enregistrer</button>
+    <div class="rang">${n ? '' : `<button class="sec2" data-delcmd="${esc(id)}" style="color:var(--bad)">🗑️ Supprimer</button>`}<button class="sec2" id="fermer">Annuler</button></div>`;
+  ouvrirFeuille();
+}
+function enregistrerCmd(id) {
+  const v = k => ($('#cf-' + k)?.value || '').trim();
+  if (!v('titre')) { toast('Écris au moins ce que tu as commandé'); return; }
+  let c = cmds.find(x => x.id === id);
+  if (!c) { c = {id: 'c' + Date.now(), k: null, emoji: '📦', etat: 0, le: Date.now(), recuLe: null, valeur: null}; cmds.unshift(c); }
+  Object.assign(c, {titre: v('titre'), boutique: v('boutique'), suivi: v('suivi'), lien: v('lien'), note: v('note')});
+  if (c.suivi && c.etat === 0) c.etat = 1;
+  sauverCmd(); fermer(); toast('Enregistré ✓');
+}
+function etatCmd(id, e) {
+  const c = cmds.find(x => x.id === id);
+  if (!c) return;
+  c.etat = e; c.recuLe = e === 2 ? Date.now() : null;
+  sauverCmd(); rendre();
+  if (e === 2) toast('Reçu ! 🎉');
+}
+function suivreCmd(id) {
+  const c = cmds.find(x => x.id === id);
+  if (!c || !c.suivi) return;
+  lien(/^https?:\/\//.test(c.suivi) ? c.suivi : 'https://parcelsapp.com/fr/tracking/' + encodeURIComponent(c.suivi.replace(/\s/g, '')));
+}
+
 function badges() {
   document.querySelectorAll('#nav button').forEach(b => {
     const t = b.dataset.t, nb = b.querySelector('.nb');
     b.classList.toggle('on', t === onglet);
     if (!nb) return;
+    if (t === 'commandes') { const n = cmds.filter(c => c.etat < 2).length; nb.hidden = !n; nb.textContent = n; return; }
     const n = (cache[t] || []).filter(o => o.nouveau && !vus.has(o._k)).length;
     nb.hidden = !n; nb.textContent = n > 99 ? '99+' : n;
   });
@@ -408,7 +524,7 @@ function rendre() {
   document.body.dataset.o = onglet;
   $('#l2').style.display = (onglet === 'jeux' || onglet === 'offres') ? '' : 'none';
   chips();
-  $('#vue').innerHTML = onglet === 'reglages' ? vueReglages() : onglet === 'favoris' ? vueFavoris() : vueListe(onglet);
+  $('#vue').innerHTML = onglet === 'reglages' ? vueReglages() : onglet === 'commandes' ? vueCommandes() : onglet === 'favoris' ? vueFavoris() : vueListe(onglet);
   badges();
   const m = D.jeux?.maj || D.produits?.maj;
   const hm = d => new Date(d).toLocaleTimeString('fr-FR', {hour:'2-digit', minute:'2-digit'});
@@ -444,6 +560,7 @@ function fiche(k) {
     ${o.avis ? `<div class="bl"><h4>💬 L'avis de Claude</h4><p style="margin:0">${esc(o.avis)}</p></div>` : ''}
     ${o.lien ? `<button class="go" data-lien="${esc(o.lien)}">${o._t === 'offres' ? 'Je le veux 🎁' : 'Récupérer 🎮'} → ${esc(domaine(o.lien))}</button>` : ''}
     ${o.source && o.source !== o.lien ? `<button class="sec2" data-lien="${esc(o.source)}">📰 Voir où Claude l'a trouvé (${esc(domaine(o.source))})</button>` : ''}
+    ${cmdDe(k) ? `<span class="dejacmd">✓ Déjà dans ${o._t === 'jeux' ? 'ta collection' : 'tes commandes'}</span>` : `<button class="sec2" data-cmd="${esc(k)}">${o._t === 'jeux' ? '🎮 Je l\'ai récupéré' : '🛒 Je l\'ai commandé'}</button>`}
     <div class="rang"><button class="sec2" data-fav="${esc(k)}">${favs[k] ? '❤️ Retirer des favoris' : '🤍 Ajouter aux favoris'}</button><button class="sec2" id="fermer">Fermer</button></div>`;
   ouvrirFeuille();
 }
@@ -493,18 +610,31 @@ async function actualiser(montrer) {
   const change = avant !== JSON.stringify([D.jeux, D.produits]).length + (D.jeux?.maj || '') + (D.produits?.maj || '');
   if (change || montrer || horsLigne) { preparer(); }
   if (!$('#feuille').classList.contains('on')) rendre();
-  verifierVersion();
+  const nv = await verifierVersion();
+  if (montrer && nv) { proposerMaj(nv); return; }
   if (montrer) toast(horsLigne ? 'Pas de connexion' : change ? 'Nouvelles offres ✓' : 'Rien de nouveau pour l\'instant ✓');
 }
 
 async function verifierVersion() {
-  if (!AND || !window.Android.versionApp) return;
+  if (!AND || !window.Android.versionApp) return 0;
   try {
     const r = await fetch('https://api.github.com/repos/Skuff6/mes-gratuits/releases/tags/appli', {cache: 'no-store'});
-    if (!r.ok) return;
+    if (!r.ok) return 0;
     const n = +(((await r.json()).body || '').match(/Version (\d+)/) || [])[1];
-    $('#maj-appli').hidden = !(n && n > window.Android.versionApp());
-  } catch (e) {}
+    const neuf = !!(n && n > window.Android.versionApp());
+    $('#maj-appli').hidden = !neuf;
+    return neuf ? n : 0;
+  } catch (e) { return 0; }
+}
+function proposerMaj(n) {
+  $('#feuille').innerHTML = `<div class="poi"></div><h2>🆕 Nouvelle version de l'appli</h2>
+    <p class="d">Les offres sont à jour ✓ et une nouvelle version de l'appli est prête (n° ${n}). Elle s'installe par-dessus : tu ne perds ni tes favoris, ni tes commandes, ni tes réglages.</p>
+    <button class="go" data-installer="1">Installer maintenant</button><button class="sec2" id="fermer">Plus tard</button>`;
+  ouvrirFeuille();
+}
+function installerMaj() {
+  if (AND && window.Android.installerMaj) { window.Android.installerMaj(); toast('Téléchargement de la nouvelle version…'); }
+  else lien('https://github.com/Skuff6/mes-gratuits/releases/download/appli/mes-gratuits.apk');
 }
 window.ouvrirOnglet = t => { if (t === 'dlc') t = 'jeux'; if (t === 'produits') t = 'offres'; onglet = t; montres = PAS; history.replaceState(null, '', '#' + t); $('#feuille').classList.remove('on'); $('#voile').classList.remove('on'); rendre(); window.scrollTo(0, 0); };
 window.actualiser = actualiser;
@@ -521,6 +651,15 @@ document.addEventListener('click', e => {
   if ((el = g('#nav button'))) return window.ouvrirOnglet(el.dataset.t);
   if ((el = g('[data-fav]'))) { const k = el.dataset.fav; if (favs[k]) delete favs[k]; else favs[k] = 1; lsSet('mg-favs', favs); toast(favs[k] ? 'Ajouté aux favoris ❤️' : 'Retiré des favoris'); if ($('#feuille').classList.contains('on')) fiche(k); else rendre(); return; }
   if ((el = g('[data-rappel]'))) return programmerRappel(el.dataset.rappel);
+  if (g('[data-installer]')) return installerMaj();
+  if ((el = g('[data-cmd]'))) { ajouterCmd(el.dataset.cmd); fiche(el.dataset.cmd); return; }
+  if ((el = g('[data-recu]'))) { const c = cmds.find(x => x.id === el.dataset.recu); if (c) etatCmd(c.id, c.etat === 2 ? 1 : 2); return; }
+  if ((el = g('[data-etat]'))) { const [id, e2] = el.dataset.etat.split(':'); return etatCmd(id, +e2); }
+  if ((el = g('[data-suivi]'))) return suivreCmd(el.dataset.suivi);
+  if ((el = g('[data-editcmd]'))) return ficheCmd(el.dataset.editcmd);
+  if ((el = g('[data-savecmd]'))) return enregistrerCmd(el.dataset.savecmd);
+  if ((el = g('[data-delcmd]'))) { cmds = cmds.filter(x => x.id !== el.dataset.delcmd); sauverCmd(); fermer(); toast('Supprimé'); return; }
+  if ((el = g('[data-cmdf]'))) { cmdF = el.dataset.cmdf; rendre(); return; }
   if ((el = g('[data-lien]'))) return lien(el.dataset.lien);
   if ((el = g('[data-k]'))) return fiche(el.dataset.k);
   if ((el = g('[data-acc]'))) { F[onglet].acces = el.dataset.acc; montres = PAS; sauverF(); rendre(); window.scrollTo(0, 0); return; }
@@ -548,7 +687,7 @@ let tq;
 $('#q').addEventListener('input', e => { clearTimeout(tq); tq = setTimeout(() => { q = e.target.value; montres = PAS; $('#vue').innerHTML = vueListe(onglet); }, 180); });
 document.addEventListener('visibilitychange', () => { if (!document.hidden) actualiser(false); });
 
-if (!['jeux', 'offres', 'favoris', 'reglages'].includes(onglet)) onglet = 'jeux';
+if (!['jeux', 'offres', 'commandes', 'favoris', 'reglages'].includes(onglet)) onglet = 'jeux';
 accent();
 preparer();
 rendre();

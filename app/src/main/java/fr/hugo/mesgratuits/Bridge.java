@@ -65,6 +65,12 @@ public class Bridge {
         }
     }
 
+    /** Télécharge et installe la nouvelle version directement. */
+    @JavascriptInterface
+    public void installerMaj() {
+        Maj.installer(c);
+    }
+
     @JavascriptInterface
     public boolean estAndroid() {
         return true;
