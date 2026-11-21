@@ -39,7 +39,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: appli
-          name: Mes gratuits — dernière version
+          name: Les Tréfonds d'Internet — dernière version
           body: |
             Version ${{ github.run_number }}.
             Sur ton téléphone, télécharge **mes-gratuits.apk** ci-dessous, ouvre-le et touche « Installer ».

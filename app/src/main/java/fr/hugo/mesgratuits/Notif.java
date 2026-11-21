@@ -33,7 +33,7 @@ public class Notif {
 
         String titre;
         if (offres.isEmpty()) {
-            titre = "Mes gratuits fonctionne ✅";
+            titre = "Les Tréfonds d'Internet fonctionne ✅";
         } else if (meilleure.rarete.equals("leg") && "direct".equals(meilleure.acces)) {
             titre = "⭐ Légendaire : " + meilleure.titre;
         } else {
