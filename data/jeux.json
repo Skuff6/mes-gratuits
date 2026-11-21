@@ -1,35 +1,6 @@
 {
- "maj": "2026-11-21T07:00:00+01:00",
+ "maj": "2026-11-21T14:45:00+01:00",
  "offres": [
-  {
-   "id": "alienisolation",
-   "cat": "avenir",
-   "titre": "Alien: Isolation (offre retirée par Epic, à surveiller)",
-   "plateforme": "epic",
-   "via": "",
-   "rarete": "leg",
-   "acces": "direct",
-   "gratuit": false,
-   "prix": "39,99 $",
-   "fin": null,
-   "finTxt": "Retiré juste avant 17h le 19 nov. · retour non annoncé",
-   "nouveau": false,
-   "desc": "Alien: Isolation devait être offert avec Mark of the Deep jusqu'au 26 nov., mais Epic l'a retiré de la page des jeux gratuits quelques heures avant, sans explication (big-n, Newsy Today). Seul Mark of the Deep est gratuit cette semaine.",
-   "conditions": "Incertain",
-   "pieges": [],
-   "etapes": [
-    "Vérifie la page Jeux gratuits Epic"
-   ],
-   "fiabilite": "",
-   "lien": "https://big-n.fr/actualites/65668-epic-games-store-bread-and-fred-offert-26-novembre-alien-isolation-retire/",
-   "avis": "Gros FPS d'horreur : si Epic le remet en ligne, il faudra foncer. Je surveille.",
-   "emoji": "",
-   "genre": "Survival horror · FPS",
-   "tags": [
-    "Incertain",
-    "FPS"
-   ]
-  },
   {
    "id": "falloutnv",
    "cat": "avenir",
@@ -82,13 +53,14 @@
     "« Obtenir »"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://store.epicgames.com/free-games/?lang=fr",
+   "lien": "https://store.epicgames.com/fr/p/mark-of-the-deep-f7dc08",
    "avis": "Disponible maintenant : ajoute-le à ta bibliothèque Epic.",
    "emoji": "",
    "genre": "Action-aventure pirate · metroidvania 3D",
    "tags": [
     "Officiel"
-   ]
+   ],
+   "source": "https://steamdb.com/en/promo-codes/alien-isolation-free-epic"
   },
   {
    "id": "gigabash",
@@ -111,7 +83,7 @@
     "Réclame sur la page de l'offre"
    ],
    "fiabilite": "",
-   "lien": "https://nerdzap.com/free-games/",
+   "lien": "https://www.gamerpower.com/open/gigabash-pc-giveaway",
    "avis": "Party-game multijoueur. Lanceur STOVE, pas Steam.",
    "emoji": "",
    "genre": "Combat de kaijus · 4 joueurs",
@@ -291,13 +263,45 @@
     "Récupère sur itch.io"
    ],
    "fiabilite": "Site connu",
-   "lien": "https://www.gamerpower.com/giveaways/pc",
+   "lien": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
    "avis": "Pour dénicher des concepts originaux.",
    "emoji": "",
    "genre": "Indés variés",
    "tags": [
     "Site connu"
    ]
+  },
+  {
+   "cat": "jeu",
+   "plateforme": "android",
+   "via": "Epic Games Store mobile",
+   "genre": "Aventure cozy / puzzle",
+   "tags": [
+    "Solo",
+    "Mobile"
+   ],
+   "acces": "direct",
+   "rarete": "rar",
+   "gratuit": true,
+   "prix": "4,99 $",
+   "fin": "2026-11-26T17:00:00+01:00",
+   "finTxt": "Jusqu'au 26 nov. 17h",
+   "nouveau": true,
+   "desc": "Le jeu mobile gratuit de la semaine dans l'appli Epic Games Store pour Android : aventure-puzzle mignonne façon Zelda cozy, à garder.",
+   "conditions": "Il faut installer l'appli Epic Games Store sur Android (pas le Play Store).",
+   "pieges": [],
+   "etapes": [
+    "Installe l'appli Epic Games Store sur ton Android",
+    "Connecte-toi",
+    "Va dans Jeux gratuits → Lonesome Village → Obtenir"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.epicgames.com/fr/free-games",
+   "source": "https://www.gamerpower.com/lonesome-village-mobile-giveaway",
+   "avis": "Bonus facile pour ton téléphone, à prendre avant le 26.",
+   "emoji": "",
+   "id": "lonesomevillage",
+   "titre": "Lonesome Village (mobile)"
   },
   {
    "id": "contractor2",
@@ -326,7 +330,8 @@
    "genre": "Simulation de chantier",
    "tags": [
     "Site connu"
-   ]
+   ],
+   "source": "https://www.gamerpower.com/contractor-the-clean-up-part-2-epic-games-giveaway"
   },
   {
    "id": "davediver",
@@ -480,6 +485,37 @@
    ]
   },
   {
+   "id": "wowsblackfriday",
+   "cat": "pack",
+   "titre": "World of Warships – offre Black Friday",
+   "plateforme": "autre",
+   "via": "GamerPower",
+   "rarete": "rar",
+   "acces": "direct",
+   "gratuit": false,
+   "prix": "~300 $ (valeur affichée)",
+   "fin": "2026-12-04T23:59:00+01:00",
+   "finTxt": "Jusqu'au 4 déc.",
+   "nouveau": false,
+   "desc": "Giveaway listé par GamerPower pour World of Warships pendant le Black Friday Wargaming. Ces offres donnent en général navires premium, jours Premium et ressources, surtout aux nouveaux comptes.",
+   "conditions": "À vérifier",
+   "pieges": [],
+   "etapes": [
+    "Liste PC GamerPower",
+    "Ouvre « World of Warships: Black Friday »",
+    "Suis le lien officiel Wargaming"
+   ],
+   "fiabilite": "Site connu",
+   "lien": "https://www.gamerpower.com/open/world-of-warships-black-friday-giveaway",
+   "avis": "Si tu veux tester World of Warships, commence avec ce bonus ; vérifie les conditions (nouveau compte ou non).",
+   "emoji": "",
+   "genre": "Batailles navales · F2P",
+   "tags": [
+    "À vérifier",
+    "Site connu"
+   ]
+  },
+  {
    "id": "bethesda",
    "cat": "pack",
    "titre": "Bethesda Bundle (Fallout 76 + Starfield)",
@@ -559,7 +595,7 @@
     "Active sur Steam"
    ],
    "fiabilite": "",
-   "lien": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
+   "lien": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway",
    "avis": "Les clés partent vite (10 ARP).",
    "emoji": "",
    "genre": "Action-RPG",
@@ -769,7 +805,7 @@
     "Active sur ton compte CD PROJEKT RED"
    ],
    "fiabilite": "Site connu",
-   "lien": "https://www.gamerpower.com/all/free-dlc",
+   "lien": "https://www.gamerpower.com/open/the-witcher-3-wild-hunt-remastered-scarlet-crest-armor-giveaway",
    "avis": "Si tu as The Witcher 3 : petit bonus classe.",
    "emoji": "",
    "genre": "Objet RPG",
@@ -778,35 +814,35 @@
    ]
   },
   {
-   "id": "wowsblackfriday",
    "cat": "pack",
-   "titre": "World of Warships – offre Black Friday",
-   "plateforme": "autre",
-   "via": "GamerPower",
-   "rarete": "rar",
+   "plateforme": "steam",
+   "via": "",
+   "genre": "Batailles navales",
+   "tags": [
+    "Multijoueur"
+   ],
    "acces": "direct",
-   "gratuit": false,
-   "prix": "~300 $ (valeur affichée)",
-   "fin": null,
-   "finTxt": "Environ 14 jours (début déc.)",
-   "nouveau": false,
-   "desc": "Giveaway listé par GamerPower pour World of Warships pendant le Black Friday Wargaming. Ces offres donnent en général navires premium, jours Premium et ressources, surtout aux nouveaux comptes.",
-   "conditions": "À vérifier",
+   "rarete": "com",
+   "gratuit": true,
+   "prix": "",
+   "fin": "2026-11-27T23:59:00+01:00",
+   "finTxt": "Jusqu'au 27 nov.",
+   "nouveau": true,
+   "desc": "Pack DLC gratuit sur Steam pour fêter les 9 ans de World of Warships sur Steam.",
+   "conditions": "Jeu gratuit World of Warships (Steam) requis.",
    "pieges": [],
    "etapes": [
-    "Liste PC GamerPower",
-    "Ouvre « World of Warships: Black Friday »",
-    "Suis le lien officiel Wargaming"
+    "Ouvre la page Steam du pack",
+    "Ajoute-le au compte",
+    "Lance le jeu"
    ],
-   "fiabilite": "Site connu",
-   "lien": "https://www.gamerpower.com/giveaways/pc",
-   "avis": "Si tu veux tester World of Warships, commence avec ce bonus ; vérifie les conditions (nouveau compte ou non).",
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/search/?term=World+of+Warships+9+Years",
+   "source": "https://www.freesteamkeys.com/world-of-warships-9-years-on-steam-pack",
+   "avis": "Gratuit et rapide si tu joues à WoWS.",
    "emoji": "",
-   "genre": "Batailles navales · F2P",
-   "tags": [
-    "À vérifier",
-    "Site connu"
-   ]
+   "id": "wows9ans",
+   "titre": "World of Warships – pack « 9 ans sur Steam »"
   },
   {
    "id": "firestonepack",
@@ -897,6 +933,37 @@
    ]
   },
   {
+   "cat": "pack",
+   "plateforme": "autre",
+   "via": "Alienware Arena",
+   "genre": "Horreur multi asymétrique",
+   "tags": [
+    "Multijoueur"
+   ],
+   "acces": "direct",
+   "rarete": "com",
+   "gratuit": true,
+   "prix": "",
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 déc.",
+   "nouveau": true,
+   "desc": "Clé de 100 000 points de sang pour Dead by Daylight.",
+   "conditions": "Compte Alienware Arena gratuit.",
+   "pieges": [],
+   "etapes": [
+    "Ouvre l'offre Alienware Arena",
+    "Connecte-toi et récupère la clé",
+    "Échange-la dans le jeu"
+   ],
+   "fiabilite": "Fiable (GamerPower)",
+   "lien": "https://www.gamerpower.com/open/dead-by-daylight-100k-bloodpoints-key-giveaway",
+   "source": "https://www.gamerpower.com/giveaways",
+   "avis": "Utile pour monter tes persos DbD.",
+   "emoji": "",
+   "id": "dbd100k",
+   "titre": "Dead by Daylight – 100 000 Bloodpoints"
+  },
+  {
    "id": "dualchroma",
    "cat": "jeu",
    "titre": "Dual Chroma: Academy Carols",
@@ -917,7 +984,7 @@
     "Page itch.io → « Download »"
    ],
    "fiabilite": "Site connu",
-   "lien": "https://nerdzap.com/free-games/",
+   "lien": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway",
    "avis": "Petit bonus pour ta bibliothèque itch.io.",
    "emoji": "",
    "genre": "Petit jeu indé",
@@ -955,7 +1022,7 @@
   {
    "id": "gala",
    "cat": "cle",
-   "titre": "Freebies IndieGala (7 jeux)",
+   "titre": "Freebies IndieGala (7 jeux : Best Plumber, Last Room, Sausage Hunter, Battle Ram, Leaper, My Darkest Witch, ANCIENT EVIL)",
    "plateforme": "gala",
    "via": "",
    "rarete": "com",
@@ -979,7 +1046,8 @@
    "genre": "Indés",
    "tags": [
     "Stock limité"
-   ]
+   ],
+   "source": "https://www.gamerpower.com/all/free-games"
   },
   {
    "id": "witchcraft",
@@ -1278,6 +1346,100 @@
    ]
   },
   {
+   "cat": "pack",
+   "plateforme": "autre",
+   "via": "Alienware Arena",
+   "genre": "Looter shooter coop",
+   "tags": [
+    "Coop",
+    "Multijoueur"
+   ],
+   "acces": "direct",
+   "rarete": "com",
+   "gratuit": true,
+   "prix": "",
+   "fin": null,
+   "finTxt": "Sans date de fin",
+   "nouveau": true,
+   "desc": "Pack cosmétique Warframe (cape Igaro + palette de couleurs Ice).",
+   "conditions": "Compte Alienware Arena gratuit.",
+   "pieges": [],
+   "etapes": [
+    "Ouvre l'offre",
+    "Récupère la clé",
+    "Échange-la sur warframe.com/promocode"
+   ],
+   "fiabilite": "Fiable (GamerPower)",
+   "lien": "https://www.gamerpower.com/open/warframe-igaro-syandana-and-ice-colour-picker-pack-key-giveaway",
+   "source": "https://www.gamerpower.com/giveaways",
+   "avis": "Cosmétique sympa pour un shooter coop gratuit.",
+   "emoji": "",
+   "id": "warframeigaro",
+   "titre": "Warframe – Syandana Igaro + palette Ice"
+  },
+  {
+   "cat": "pack",
+   "plateforme": "autre",
+   "via": "Alienware Arena / AMD",
+   "genre": "Foot multijoueur",
+   "tags": [
+    "Multijoueur"
+   ],
+   "acces": "direct",
+   "rarete": "com",
+   "gratuit": true,
+   "prix": "",
+   "fin": null,
+   "finTxt": "Sans date de fin",
+   "nouveau": true,
+   "desc": "Kit cosmétique pour le jeu de foot gratuit GOALS.",
+   "conditions": "Jeu gratuit GOALS requis.",
+   "pieges": [],
+   "etapes": [
+    "Ouvre l'offre",
+    "Récupère la clé",
+    "Échange-la dans GOALS"
+   ],
+   "fiabilite": "Fiable (GamerPower)",
+   "lien": "https://www.gamerpower.com/open/goals-amd-kit-steam-key-giveaway",
+   "source": "https://www.gamerpower.com/giveaways",
+   "avis": "Petit bonus, seulement si tu joues à GOALS.",
+   "emoji": "",
+   "id": "goalsamd",
+   "titre": "GOALS – AMD Kit"
+  },
+  {
+   "cat": "pack",
+   "plateforme": "autre",
+   "via": "",
+   "genre": "Packs MMO / gacha",
+   "tags": [
+    "Packs"
+   ],
+   "acces": "direct",
+   "rarete": "com",
+   "gratuit": true,
+   "prix": "",
+   "fin": null,
+   "finTxt": "Sans date de fin",
+   "nouveau": true,
+   "desc": "Plusieurs packs d'objets gratuits pour des jeux free-to-play.",
+   "conditions": "Souvent compte Alienware Arena (10 ARP pour certains).",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la liste",
+    "Choisis le pack",
+    "Récupère la clé et échange-la en jeu"
+   ],
+   "fiabilite": "Fiable (GamerPower)",
+   "lien": "https://www.gamerpower.com/all/free-dlc",
+   "source": "https://www.gamerpower.com/giveaways",
+   "avis": "Seulement si tu joues à un de ces jeux.",
+   "emoji": "",
+   "id": "packsgacha21",
+   "titre": "Packs cadeaux : Aniimo, Reverse: 1999, Arknights: Endfield, Neverwinter, Crystal Saga Nova"
+  },
+  {
    "id": "dealabsf2p40",
    "cat": "essai",
    "titre": "Sélection Dealabs : 40 jeux passés en free-to-play (The Bazaar, Home Design 3D…)",
@@ -1289,7 +1451,7 @@
    "prix": "Gratuit",
    "fin": null,
    "finTxt": "Permanent (liste à vérifier)",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Dealabs regroupe 40 jeux Steam récemment passés en free-to-play, dont The Bazaar (auto-battler de cartes) et Home Design 3D. Je n'ai pas pu vérifier chaque jeu un par un.",
    "conditions": "À vérifier",
    "pieges": [],
@@ -1319,7 +1481,7 @@
    "prix": "Gratuit",
    "fin": null,
    "finTxt": "Permanent",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "BallBound Beetle (action), Legacy – Reawakening (aventure avec un ancien robot), How to Wait for the Bus (petit jeu narratif) et Fighting Moore (combat en VR, casque requis), passés gratuits pour toujours sur Steam le 20 nov.",
    "conditions": "",
    "pieges": [],
@@ -1884,7 +2046,7 @@
     "« Get Key »"
    ],
    "fiabilite": "",
-   "lien": "https://www.gamerpower.com/all/free-dlc",
+   "lien": "https://www.gamerpower.com/open/kettlebell-inferno-hotel-afterimage-effect-key-giveaway",
    "avis": "Seulement si tu joues au jeu.",
    "emoji": "",
    "genre": "Cosmétique",
@@ -1913,7 +2075,7 @@
     "Ouvre le giveaway"
    ],
    "fiabilite": "",
-   "lien": "https://www.gamerpower.com/all/free-dlc",
+   "lien": "https://www.gamerpower.com/open/super-animal-royale-bundle-key-giveaway",
    "avis": "Multijoueur fun et gratuit.",
    "emoji": "",
    "genre": "Battle royale",
@@ -1942,7 +2104,7 @@
     "Lien officiel"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://www.freesteamkeys.com/giveaways",
+   "lien": "https://www.gamerpower.com/open/endless-space-2-untold-tales-dlc-steam-giveaway",
    "avis": "Si tu as Endless Space 2.",
    "emoji": "",
    "genre": "DLC 4X",
@@ -1971,7 +2133,7 @@
     "« Get Key »"
    ],
    "fiabilite": "",
-   "lien": "https://na.alienwarearena.com/ucf/show/2176307/boards/contest-and-giveaways-global/Giveaway/everwind-exclusive-aw-51-game-pack-key-giveaway",
+   "lien": "https://www.gamerpower.com/open/everwind-aw-51-pack-steam-key-giveaway",
    "avis": "Si tu joues à Everwind.",
    "emoji": "",
    "genre": "DLC",
@@ -1998,7 +2160,7 @@
     "Ouvre le giveaway Ops Radiant"
    ],
    "fiabilite": "",
-   "lien": "https://www.gamerpower.com/all/free-dlc",
+   "lien": "https://www.gamerpower.com/open/007-first-light-ops-radiant-outfit-key-giveaway",
    "avis": "Si tu joues ou testes 007 First Light.",
    "emoji": "",
    "genre": "Cosmétique",
@@ -2473,7 +2635,7 @@
     "Joue jusqu'au 29 nov."
    ],
    "fiabilite": "",
-   "lien": "https://www.gamespress.com/HUNGER-Announces-Open-Beta-for-27-November-Ahead-of-Early-Access-Launc",
+   "lien": "https://store.steampowered.com/app/1752080/HUNGER/",
    "avis": "Un des shooters multijoueur les plus attendus de la fin d'année : à tester gratuitement le week-end du 27.",
    "emoji": "",
    "genre": "Extraction shooter · mousquets & mêlée",
@@ -2481,7 +2643,8 @@
     "FPS",
     "Multijoueur",
     "Nouveau concept"
-   ]
+   ],
+   "source": "https://mein-mmo.de/hunger-open-beta-und-ea-release-ankuendigung/"
   },
   {
    "id": "sod3",
@@ -2513,36 +2676,6 @@
     "Inscription",
     "Officiel",
     "Multijoueur"
-   ]
-  },
-  {
-   "id": "betas21",
-   "cat": "beta",
-   "titre": "Bêtas indés du 20 nov. : No Gasoline, Fish Fights Back, Abyssal Maw",
-   "plateforme": "steam",
-   "via": "",
-   "rarete": "com",
-   "acces": "selection",
-   "gratuit": false,
-   "prix": "Gratuit",
-   "fin": null,
-   "finTxt": "Ouvertes (fin non annoncée)",
-   "nouveau": true,
-   "desc": "Trois nouvelles bêtas repérées par Alpha Beta Gamer le 20 nov. : inscription à la bêta de No Gasoline, bêtas ouvertes de Fish Fights Back et d'Abyssal Maw.",
-   "conditions": "",
-   "pieges": [],
-   "etapes": [
-    "Ouvre la fiche Alpha Beta Gamer",
-    "Suis le lien Steam / inscription du jeu",
-    "« Demander l'accès » ou télécharger la bêta"
-   ],
-   "fiabilite": "Nouveau",
-   "lien": "https://www.alphabetagamer.com/",
-   "avis": "Petits jeux indés à tester gratuitement avant leur sortie.",
-   "emoji": "",
-   "genre": "Bêtas ouvertes & inscriptions",
-   "tags": [
-    "Nouveau"
    ]
   },
   {
@@ -2603,6 +2736,36 @@
    "tags": [
     "Inscription",
     "Multijoueur"
+   ]
+  },
+  {
+   "id": "betas21",
+   "cat": "beta",
+   "titre": "Bêtas indés du 20 nov. : No Gasoline, Fish Fights Back, Abyssal Maw",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "com",
+   "acces": "selection",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Ouvertes (fin non annoncée)",
+   "nouveau": false,
+   "desc": "Trois nouvelles bêtas repérées par Alpha Beta Gamer le 20 nov. : inscription à la bêta de No Gasoline, bêtas ouvertes de Fish Fights Back et d'Abyssal Maw.",
+   "conditions": "",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la fiche Alpha Beta Gamer",
+    "Suis le lien Steam / inscription du jeu",
+    "« Demander l'accès » ou télécharger la bêta"
+   ],
+   "fiabilite": "Nouveau",
+   "lien": "https://www.alphabetagamer.com/",
+   "avis": "Petits jeux indés à tester gratuitement avant leur sortie.",
+   "emoji": "",
+   "genre": "Bêtas ouvertes & inscriptions",
+   "tags": [
+    "Nouveau"
    ]
   },
   {
