@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T14:45:00+01:00",
+ "maj": "2026-11-22T13:15:00+01:00",
  "offres": [
   {
    "id": "falloutnv",
@@ -12,10 +12,10 @@
    "gratuit": false,
    "prix": "~10 €",
    "fin": null,
-   "finTxt": "Le 2 déc. 18h · stock limité",
+   "finTxt": "Drop le 2 déc. à 18h, stock limité",
    "nouveau": false,
-   "desc": "Clé Steam gratuite à garder via les Game Key Drops Lenovo Legion (file d'attente, premier arrivé premier servi).",
-   "conditions": "Stock limité",
+   "desc": "Clé Steam de Fallout: New Vegas offerte par Lenovo Legion : le drop ouvre le 2 déc. à 18h, avec file d'attente.",
+   "conditions": "Compte Lenovo Legion + Twitch lié (e-mail vérifié). Stock limité.",
    "pieges": [],
    "etapes": [
     "Compte Lenovo Legion Gaming + Twitch vérifié",
@@ -23,14 +23,15 @@
     "Bon Gamesplanet → clé Steam"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://www.ggrecon.com/articles/fallout-new-vegas-free-steam-lenovo/",
+   "lien": "https://gaming.lenovo.com/fallout-new-vegas-key-drops",
    "avis": "Un classique RPG-FPS. Crée ton compte Lenovo Legion + Twitch vérifié avant le jour J.",
    "emoji": "",
    "genre": "RPG / FPS culte",
    "tags": [
     "Officiel",
     "Stock limité"
-   ]
+   ],
+   "source": "https://www.ggrecon.com/articles/fallout-new-vegas-free-steam-lenovo/"
   },
   {
    "id": "markofthedeep",
@@ -83,14 +84,15 @@
     "Réclame sur la page de l'offre"
    ],
    "fiabilite": "",
-   "lien": "https://www.gamerpower.com/open/gigabash-pc-giveaway",
+   "lien": "https://store.onstove.com/en/games/3515",
    "avis": "Party-game multijoueur. Lanceur STOVE, pas Steam.",
    "emoji": "",
    "genre": "Combat de kaijus · 4 joueurs",
    "tags": [
     "Stock limité",
     "Multijoueur"
-   ]
+   ],
+   "source": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
   },
   {
    "id": "witcher3dlc",
@@ -119,7 +121,8 @@
    "genre": "Extensions RPG",
    "tags": [
     "Officiel"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "mistfallweekend",
@@ -150,7 +153,8 @@
    "tags": [
     "Officiel",
     "Multijoueur"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "starcitizen",
@@ -174,14 +178,15 @@
     "Choisis New Babbage comme ville de départ"
    ],
    "fiabilite": "",
-   "lien": "https://timesaver.gg/blog/star-citizen-iae-2956-schedule-free-fly-guide",
+   "lien": "https://robertsspaceindustries.com/",
    "avis": "Gros jeu multijoueur, idéal pour voir s'il vaut le coup avant le Black Friday. Prévois ~100 Go et un bon PC.",
    "emoji": "",
    "genre": "Simu spatiale · FPS · MMO",
    "tags": [
     "Multijoueur",
     "FPS"
-   ]
+   ],
+   "source": "https://timesaver.gg/blog/star-citizen-iae-2956-schedule-free-fly-guide"
   },
   {
    "id": "soulframe",
@@ -211,7 +216,8 @@
    "tags": [
     "Officiel",
     "Accès direct"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "poe2",
@@ -240,6 +246,137 @@
    "genre": "Action-RPG en ligne",
    "tags": [
     "Officiel"
+   ],
+   "source": ""
+  },
+  {
+   "id": "kibotoyume",
+   "cat": "jeu",
+   "titre": "Kibo to Yume",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "rar",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "2,99 €",
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "À ajouter avant le 30 nov. (retiré du Steam)",
+   "nouveau": true,
+   "desc": "RPG au tour par tour passé gratuit avant d'être retiré de Steam : ajoute-le maintenant, il reste à toi.",
+   "conditions": "",
+   "pieges": [],
+   "etapes": [
+    "Page Steam",
+    "« Ajouter à la bibliothèque »"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/5162870/Kibo_to_Yume/",
+   "source": "https://screenrant.com/steam-free-rpg-delisted-november-30/",
+   "avis": "Petit jeu, mais gratuit à vie si tu le prends avant le 30.",
+   "emoji": "",
+   "genre": "RPG tour par tour",
+   "tags": [
+    "Solo",
+    "À garder"
+   ]
+  },
+  {
+   "id": "deadgodland",
+   "cat": "jeu",
+   "titre": "Dead God Land – Light Survival (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "rar",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "7,99 €",
+   "fin": "2026-12-01T23:59:00+01:00",
+   "finTxt": "Jusqu'au 1er déc.",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (7,99 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival",
+   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Survie",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "defensezone3",
+   "cat": "jeu",
+   "titre": "Defense Zone 3 Ultra HD (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "rar",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "~3 €",
+   "fin": null,
+   "finTxt": "Durée limitée (Defense Zone 1 et 2 HD aussi)",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (~3 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra",
+   "source": "https://9to5toys.com/2026/11/20/todays-highlight-google-play-deals-53/",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Tower defense",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "farmliferpg",
+   "cat": "jeu",
+   "titre": "Farm Life RPG: Golden Fields (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "rar",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "~7 €",
+   "fin": null,
+   "finTxt": "Durée limitée",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (~7 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=farm.village.life.garden.crops.countryside",
+   "source": "https://9to5toys.com/2026/11/20/todays-highlight-google-play-deals-53/",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "RPG de ferme",
+   "tags": [
+    "Mobile",
+    "À garder"
    ]
   },
   {
@@ -253,7 +390,7 @@
    "gratuit": true,
    "prix": "~384 $",
    "fin": "2026-11-22T23:59:00+01:00",
-   "finTxt": "Fin 22 nov.",
+   "finTxt": "Se termine ce soir (22 nov.)",
    "nouveau": false,
    "desc": "116 jeux indés à 0 €, repéré par GamerPower et Nerdzap.",
    "conditions": "",
@@ -263,13 +400,14 @@
     "Récupère sur itch.io"
    ],
    "fiabilite": "Site connu",
-   "lien": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
+   "lien": "https://itch.io/b/3955/itching-for-games-3",
    "avis": "Pour dénicher des concepts originaux.",
    "emoji": "",
    "genre": "Indés variés",
    "tags": [
     "Site connu"
-   ]
+   ],
+   "source": "https://www.gamerpower.com/open/free-itch-io-games-bundle"
   },
   {
    "cat": "jeu",
@@ -286,7 +424,7 @@
    "prix": "4,99 $",
    "fin": "2026-11-26T17:00:00+01:00",
    "finTxt": "Jusqu'au 26 nov. 17h",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Le jeu mobile gratuit de la semaine dans l'appli Epic Games Store pour Android : aventure-puzzle mignonne façon Zelda cozy, à garder.",
    "conditions": "Il faut installer l'appli Epic Games Store sur Android (pas le Play Store).",
    "pieges": [],
@@ -296,7 +434,7 @@
     "Va dans Jeux gratuits → Lonesome Village → Obtenir"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://store.epicgames.com/fr/free-games",
+   "lien": "https://store.epicgames.com/p/lonesome-village",
    "source": "https://www.gamerpower.com/lonesome-village-mobile-giveaway",
    "avis": "Bonus facile pour ton téléphone, à prendre avant le 26.",
    "emoji": "",
@@ -354,13 +492,14 @@
     "« Ajouter au compte »"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://www.pcgamer.com/games/adventure/dave-the-diver-in-the-jungle-dlc-is-delayed-but-the-free-godzilla-content-pack-is-back-and-ichiban-kasuga-has-extended-his-vacation-until-the-end-of-2026",
+   "lien": "https://store.epicgames.com/p/dave-the-diver-dev-dave-the-diver-godzilla-590ab0",
    "avis": "Si tu as Dave the Diver, à prendre avant la fin d'année.",
    "emoji": "",
    "genre": "DLC aventure",
    "tags": [
     "Officiel"
-   ]
+   ],
+   "source": "https://www.pcgamer.com/games/adventure/dave-the-diver-in-the-jungle-dlc-is-delayed-but-the-free-godzilla-content-pack-is-back-and-ichiban-kasuga-has-extended-his-vacation-until-the-end-of-2026"
   },
   {
    "id": "halo25",
@@ -390,7 +529,8 @@
    "tags": [
     "Officiel",
     "FPS"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "ck3weekend",
@@ -420,7 +560,8 @@
    "tags": [
     "Officiel",
     "Mods"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "arkheron",
@@ -433,7 +574,7 @@
    "gratuit": false,
    "prix": "24,99 $",
    "fin": "2026-11-29T23:59:00+01:00",
-   "finTxt": "27 → 29 nov. (jeu complet gratuit)",
+   "finTxt": "Gratuit du 27 au 29 nov. (jusqu'au 6 déc. via un serveur Discord partenaire)",
    "nouveau": false,
    "desc": "Nouveau concept multijoueur de Bonfire (ex-Blizzard) : des équipes s'affrontent en grimpant une tour, mélange battle royale et action-RPG façon Diablo. Accès anticipé le 27 nov. ; tout le monde peut jouer au jeu complet gratuitement du 27 au 29 nov. Ensuite, le « Friend Pass » gratuit permet de jouer avec un ami qui possède le jeu.",
    "conditions": "",
@@ -444,7 +585,7 @@
     "Après : Friend Pass gratuit (tutoriel + parties avec un ami propriétaire)"
    ],
    "fiabilite": "Officiel, Nouveau",
-   "lien": "https://worthplaying.com/article/2026/11/9/news/151392-arkheron-reveals-its-pricing-supporter-edition-and-friend-pass/",
+   "lien": "https://store.steampowered.com/app/3333850/Arkheron/",
    "avis": "Nouveau concept multijoueur très original : teste-le gratuitement le week-end du 27, puis avec le Friend Pass si un pote l'achète.",
    "emoji": "",
    "genre": "Battle royale PvP · tour à gravir en équipe",
@@ -452,7 +593,8 @@
     "Officiel",
     "Multijoueur",
     "Nouveau"
-   ]
+   ],
+   "source": "https://worthplaying.com/article/2026/11/9/news/151392-arkheron-reveals-its-pricing-supporter-edition-and-friend-pass/"
   },
   {
    "id": "breadfred",
@@ -475,14 +617,15 @@
     "« Obtenir »"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://worthplaying.com/article/2026/11/19/news/151480-mark-of-the-deep-free-on-epic-games-store-bread-fred-and-firestone-idle-clicker-online-rpg-next-week/",
+   "lien": "https://store.epicgames.com/p/bread-and-fred-1db362",
    "avis": "Nouveau concept multijoueur à deux, parfait avec un pote.",
    "emoji": "",
    "genre": "Plateforme coop à 2 · pingouins encordés",
    "tags": [
     "Officiel",
     "Coop"
-   ]
+   ],
+   "source": "https://worthplaying.com/article/2026/11/19/news/151480-mark-of-the-deep-free-on-epic-games-store-bread-fred-and-firestone-idle-clicker-online-rpg-next-week/"
   },
   {
    "id": "wowsblackfriday",
@@ -513,7 +656,8 @@
    "tags": [
     "À vérifier",
     "Site connu"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "bethesda",
@@ -525,8 +669,8 @@
    "acces": "direct",
    "gratuit": false,
    "prix": "Pack",
-   "fin": "2026-12-09T23:59:00+01:00",
-   "finTxt": "Jusqu'au 9 déc.",
+   "fin": "2026-12-09T16:00:00+01:00",
+   "finTxt": "Jusqu'au 9 déc. 16h",
    "nouveau": false,
    "desc": "Objets gratuits pour Fallout 76 et Starfield.",
    "conditions": "",
@@ -536,11 +680,12 @@
     "Ouvre le Bethesda Bundle"
    ],
    "fiabilite": "",
-   "lien": "https://www.gamerpower.com/all/free-dlc",
+   "lien": "https://freebundle.bethesda.net",
    "avis": "Si tu as l'un des deux jeux.",
    "emoji": "",
    "genre": "Objets en jeu",
-   "tags": []
+   "tags": [],
+   "source": "https://www.gamerpower.com/all/free-dlc"
   },
   {
    "id": "wotamd",
@@ -571,37 +716,8 @@
    "tags": [
     "Officiel",
     "Stock limité"
-   ]
-  },
-  {
-   "id": "dwarven",
-   "cat": "cle",
-   "titre": "Dwarven Realms",
-   "plateforme": "steam",
-   "via": "Alienware",
-   "rarete": "rar",
-   "acces": "direct",
-   "gratuit": false,
-   "prix": "9,99 $",
-   "fin": null,
-   "finTxt": "Stock limité",
-   "nouveau": false,
-   "desc": "Diablo-like avec des nains, du loot et des hordes.",
-   "conditions": "Stock limité",
-   "pieges": [],
-   "etapes": [
-    "Compte Alienware Arena",
-    "« Get Key »",
-    "Active sur Steam"
    ],
-   "fiabilite": "",
-   "lien": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway",
-   "avis": "Les clés partent vite (10 ARP).",
-   "emoji": "",
-   "genre": "Action-RPG",
-   "tags": [
-    "Stock limité"
-   ]
+   "source": ""
   },
   {
    "id": "pt-keys",
@@ -630,7 +746,8 @@
    "genre": "Playtests",
    "tags": [
     "Stock limité"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "cojgunslinger",
@@ -660,7 +777,8 @@
    "tags": [
     "FPS",
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "sbox",
@@ -690,7 +808,8 @@
    "tags": [
     "Modding",
     "Multijoueur"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "hllredsteel",
@@ -721,7 +840,8 @@
    "tags": [
     "FPS",
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "deadswitch",
@@ -752,7 +872,8 @@
    "tags": [
     "FPS",
     "Stock limité"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "arenabreakout",
@@ -781,7 +902,8 @@
    "genre": "FPS extraction",
    "tags": [
     "FPS"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "witcher3armor",
@@ -811,6 +933,370 @@
    "genre": "Objet RPG",
    "tags": [
     "Site connu"
+   ],
+   "source": ""
+  },
+  {
+   "id": "neomonsters",
+   "cat": "jeu",
+   "titre": "Neo Monsters (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "0,50 €",
+   "fin": "2026-11-22T23:59:00+01:00",
+   "finTxt": "Se termine aujourd'hui",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (0,50 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters",
+   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Collection de monstres",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "soulevolve",
+   "cat": "jeu",
+   "titre": "Soul Evolve: Epic Fantasy Hero (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "1,09 €",
+   "fin": "2026-11-27T23:59:00+01:00",
+   "finTxt": "Jusqu'au 27 nov.",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (1,09 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium",
+   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "RPG",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "watersort",
+   "cat": "jeu",
+   "titre": "Water Sort – Color Puzzle Pro (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "3,29 €",
+   "fin": "2026-11-28T23:59:00+01:00",
+   "finTxt": "Jusqu'au 28 nov.",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (3,29 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro",
+   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Puzzle",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "wordssearch",
+   "cat": "jeu",
+   "titre": "Words Search – Word Puzzles (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "2,69 €",
+   "fin": "2026-11-28T23:59:00+01:00",
+   "finTxt": "Jusqu'au 28 nov.",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (2,69 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush",
+   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Mots",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "stickmanlegends",
+   "cat": "jeu",
+   "titre": "Stickman Legends (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "1,79 €",
+   "fin": "2026-12-03T23:59:00+01:00",
+   "finTxt": "Jusqu'au 3 déc.",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (1,79 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars",
+   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Action",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "railways",
+   "cat": "jeu",
+   "titre": "Railways – Train Simulator (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "~2,25 €",
+   "fin": null,
+   "finTxt": "Durée limitée",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (~2,25 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.infinity.railways",
+   "source": "https://9to5toys.com/2026/11/20/todays-highlight-google-play-deals-53/",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Simulation",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "traffix",
+   "cat": "jeu",
+   "titre": "Traffix: Traffic Simulator (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "~2,25 €",
+   "fin": null,
+   "finTxt": "Durée limitée",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (~2,25 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.infinity.traffix",
+   "source": "https://9to5toys.com/2026/11/20/todays-highlight-google-play-deals-53/",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Puzzle",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "cleric",
+   "cat": "jeu",
+   "titre": "Cleric (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "~2 €",
+   "fin": null,
+   "finTxt": "Durée limitée",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (~2 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.michalzelezny.cleric",
+   "source": "https://9to5toys.com/2026/11/20/todays-highlight-google-play-deals-53/",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "RPG",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "lowstory",
+   "cat": "jeu",
+   "titre": "Low Story: Action Platformer (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "~1 €",
+   "fin": null,
+   "finTxt": "Durée limitée",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (~1 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.arpixgames.lowstory",
+   "source": "https://9to5toys.com/2026/11/20/todays-highlight-google-play-deals-53/",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Plateforme",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "horrorapartment",
+   "cat": "jeu",
+   "titre": "Horror Apartment (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "~3 €",
+   "fin": null,
+   "finTxt": "Durée limitée",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (~3 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.RandomDude.HORRORAPARTMENT",
+   "source": "https://9to5toys.com/2026/11/20/todays-highlight-google-play-deals-53/",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Horreur",
+   "tags": [
+    "Mobile",
+    "À garder"
+   ]
+  },
+  {
+   "id": "demonsummoner",
+   "cat": "jeu",
+   "titre": "Demon Summoner Idle: Dark RPG (Android)",
+   "plateforme": "android",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": true,
+   "prix": "~3,25 €",
+   "fin": null,
+   "finTxt": "Durée limitée",
+   "nouveau": true,
+   "desc": "Jeu Android normalement payant (~3,25 €), gratuit à garder sur le Play Store pour un temps limité.",
+   "conditions": "",
+   "pieges": [
+    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+   ],
+   "etapes": [
+    "Page Play Store",
+    "« Installer » (affiché 0 €)"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://play.google.com/store/apps/details?id=com.twoeexgames.demonhero",
+   "source": "https://9to5toys.com/2026/11/20/todays-highlight-google-play-deals-53/",
+   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
+   "emoji": "",
+   "genre": "Idle RPG",
+   "tags": [
+    "Mobile",
+    "À garder"
    ]
   },
   {
@@ -827,7 +1313,7 @@
    "prix": "",
    "fin": "2026-11-27T23:59:00+01:00",
    "finTxt": "Jusqu'au 27 nov.",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Pack DLC gratuit sur Steam pour fêter les 9 ans de World of Warships sur Steam.",
    "conditions": "Jeu gratuit World of Warships (Steam) requis.",
    "pieges": [],
@@ -865,13 +1351,14 @@
     "« Obtenir »"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://worthplaying.com/article/2026/11/19/news/151480-mark-of-the-deep-free-on-epic-games-store-bread-fred-and-firestone-idle-clicker-online-rpg-next-week/",
+   "lien": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b",
    "avis": "Petit bonus si tu joues à Firestone ; sinon tu peux passer.",
    "emoji": "",
    "genre": "Idle RPG · F2P",
    "tags": [
     "Officiel"
-   ]
+   ],
+   "source": "https://worthplaying.com/article/2026/11/19/news/151480-mark-of-the-deep-free-on-epic-games-store-bread-fred-and-firestone-idle-clicker-online-rpg-next-week/"
   },
   {
    "id": "wowsblue",
@@ -900,7 +1387,8 @@
    "genre": "Cosmétique · F2P",
    "tags": [
     "Officiel"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "bl4mint",
@@ -930,7 +1418,8 @@
    "tags": [
     "FPS",
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "cat": "pack",
@@ -946,7 +1435,7 @@
    "prix": "",
    "fin": "2026-12-31T23:59:00+01:00",
    "finTxt": "Jusqu'au 31 déc.",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Clé de 100 000 points de sang pour Dead by Daylight.",
    "conditions": "Compte Alienware Arena gratuit.",
    "pieges": [],
@@ -990,7 +1479,8 @@
    "genre": "Petit jeu indé",
    "tags": [
     "Site connu"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "dieyoung",
@@ -1017,7 +1507,8 @@
    "avis": "Pour tester la série sans payer.",
    "emoji": "",
    "genre": "Survie / action",
-   "tags": []
+   "tags": [],
+   "source": ""
   },
   {
    "id": "gala",
@@ -1077,7 +1568,8 @@
    "tags": [
     "FPS",
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "saintkotar",
@@ -1106,7 +1598,8 @@
    "genre": "Point & click horreur",
    "tags": [
     "Officiel"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "mysticdepths",
@@ -1135,7 +1628,8 @@
    "genre": "RPG old-school",
    "tags": [
     "Officiel"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "cyberfrags",
@@ -1165,36 +1659,8 @@
    "tags": [
     "FPS",
     "Officiel"
-   ]
-  },
-  {
-   "id": "sadball",
-   "cat": "essai",
-   "titre": "Sadball + Battle Sweeper",
-   "plateforme": "steam",
-   "via": "",
-   "rarete": "com",
-   "acces": "direct",
-   "gratuit": true,
-   "prix": "Gratuit (anciens payants)",
-   "fin": null,
-   "finTxt": "Avant retrait de Steam (date non annoncée)",
-   "nouveau": false,
-   "desc": "Sadball (boule de bowling qui chasse les quilles, 90 % positif) et Battle Sweeper (démineur avec combats de monstres) sont gratuits et annoncés comme bientôt retirés du store : ajoutés = gardés.",
-   "conditions": "À vérifier",
-   "pieges": [],
-   "etapes": [
-    "Page Steam de chaque jeu",
-    "« Jouer » ou « Ajouter à la bibliothèque »"
    ],
-   "fiabilite": "",
-   "lien": "https://gaminghq.eu/2026/11/12/steam-free-games-november-2026-delisting/",
-   "avis": "Petits bonus à mettre dans ta bibliothèque avant qu'ils disparaissent.",
-   "emoji": "",
-   "genre": "Plateforme 3D · démineur-combat",
-   "tags": [
-    "À vérifier"
-   ]
+   "source": ""
   },
   {
    "id": "soundkilla",
@@ -1224,7 +1690,8 @@
    "tags": [
     "Multijoueur",
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "gogwelcome",
@@ -1248,14 +1715,15 @@
     "Entre le code WELCOMEGIFT"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://en.generacionxbox.com/gog-is-giving-away-4-pc-games-for-a-limited-time-by-following-these-steps",
+   "lien": "https://www.gog.com/redeem/WELCOMEGIFT",
    "avis": "Betrayer est un FPS original et atmosphérique : 30 secondes pour l'ajouter à ta bibliothèque GOG.",
    "emoji": "",
    "genre": "FPS horreur · RPG rétro",
    "tags": [
     "Officiel",
     "FPS"
-   ]
+   ],
+   "source": "https://en.generacionxbox.com/gog-is-giving-away-4-pc-games-for-a-limited-time-by-following-these-steps"
   },
   {
    "id": "terrorcorn",
@@ -1284,7 +1752,8 @@
    "genre": "Action horreur",
    "tags": [
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "helena",
@@ -1313,7 +1782,8 @@
    "genre": "Exploration surréaliste · photo · horreur",
    "tags": [
     "Nouveau F2P"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "fear2reborn",
@@ -1343,7 +1813,8 @@
    "tags": [
     "FPS",
     "Officiel"
-   ]
+   ],
+   "source": ""
   },
   {
    "cat": "pack",
@@ -1360,7 +1831,7 @@
    "prix": "",
    "fin": null,
    "finTxt": "Sans date de fin",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Pack cosmétique Warframe (cape Igaro + palette de couleurs Ice).",
    "conditions": "Compte Alienware Arena gratuit.",
    "pieges": [],
@@ -1391,7 +1862,7 @@
    "prix": "",
    "fin": null,
    "finTxt": "Sans date de fin",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Kit cosmétique pour le jeu de foot gratuit GOALS.",
    "conditions": "Jeu gratuit GOALS requis.",
    "pieges": [],
@@ -1422,7 +1893,7 @@
    "prix": "",
    "fin": null,
    "finTxt": "Sans date de fin",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Plusieurs packs d'objets gratuits pour des jeux free-to-play.",
    "conditions": "Souvent compte Alienware Arena (10 ARP pour certains).",
    "pieges": [],
@@ -1438,6 +1909,38 @@
    "emoji": "",
    "id": "packsgacha21",
    "titre": "Packs cadeaux : Aniimo, Reverse: 1999, Arknights: Endfield, Neverwinter, Crystal Saga Nova"
+  },
+  {
+   "id": "deadswitch3cache",
+   "cat": "pack",
+   "titre": "Deadswitch 3 – Delta Force Supply Cache",
+   "plateforme": "autre",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Stock limité",
+   "nouveau": true,
+   "desc": "Pack d'objets pour le FPS multi Deadswitch 3.",
+   "conditions": "",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "GamerPower",
+   "lien": "https://www.gamerpower.com/open/deadswitch-3-delta-force-supply-cache-key-giveaway",
+   "source": "https://drophunter.app/drops",
+   "avis": "Petit bonus FPS.",
+   "emoji": "",
+   "genre": "FPS",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Stock limité"
+   ]
   },
   {
    "id": "dealabsf2p40",
@@ -1467,7 +1970,8 @@
    "genre": "Jeux variés",
    "tags": [
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "steamf2p20",
@@ -1496,7 +2000,8 @@
    "genre": "Indés variés · VR",
    "tags": [
     "Nouveau F2P"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "betakeys2",
@@ -1525,7 +2030,8 @@
    "genre": "Bêtas",
    "tags": [
     "Site connu"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "grimsiege",
@@ -1555,7 +2061,8 @@
    "tags": [
     "Multijoueur",
     "Nouveau F2P"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "fallgate",
@@ -1585,7 +2092,8 @@
    "tags": [
     "FPS",
     "Nouveau F2P"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "kingslayers",
@@ -1614,7 +2122,8 @@
    "genre": "Roguelike PvPvE · F2P",
    "tags": [
     "Multijoueur"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "voltgate",
@@ -1642,7 +2151,8 @@
    "genre": "Shooter de mechs · F2P",
    "tags": [
     "FPS"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "mab",
@@ -1668,7 +2178,8 @@
    "avis": "Pour les fans de batailles géantes.",
    "emoji": "",
    "genre": "Batailles géantes · F2P",
-   "tags": []
+   "tags": [],
+   "source": ""
   },
   {
    "id": "neighbors",
@@ -1698,7 +2209,8 @@
    "tags": [
     "Multijoueur",
     "Nouveau F2P"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "missileinput",
@@ -1727,7 +2239,8 @@
    "genre": "Shooter de frappe au clavier",
    "tags": [
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "codenamecure",
@@ -1757,7 +2270,8 @@
    "tags": [
     "FPS",
     "Multijoueur"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "flycowboy",
@@ -1787,7 +2301,8 @@
    "tags": [
     "Multijoueur",
     "Nouveau F2P"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "hellbent",
@@ -1816,7 +2331,8 @@
    "genre": "Soulslike action-RPG",
    "tags": [
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "steamf2p11",
@@ -1845,7 +2361,8 @@
    "genre": "Indés variés",
    "tags": [
     "Multijoueur"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "steamf2p13",
@@ -1874,7 +2391,8 @@
    "genre": "Indés",
    "tags": [
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "overheatprotocol",
@@ -1904,7 +2422,8 @@
    "tags": [
     "FPS",
     "Accès direct"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "slowlyducks",
@@ -1934,7 +2453,8 @@
    "tags": [
     "À vérifier",
     "Stock limité"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "steamf2p14",
@@ -1963,7 +2483,8 @@
    "genre": "Indés variés",
    "tags": [
     "FPS"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "demosfps20",
@@ -1994,7 +2515,8 @@
     "FPS",
     "Multijoueur",
     "Nouveau concept"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "warthunder",
@@ -2017,13 +2539,14 @@
     "Entre le code"
    ],
    "fiabilite": "",
-   "lien": "https://levvvel.com/war-thunder-codes/",
+   "lien": "https://store.gaijin.net/activate.php",
    "avis": "Petits bonus cosmétiques si tu joues à War Thunder.",
    "emoji": "",
    "genre": "Simu militaire · F2P",
    "tags": [
     "À vérifier"
-   ]
+   ],
+   "source": "https://levvvel.com/war-thunder-codes/"
   },
   {
    "id": "kettlebell",
@@ -2052,7 +2575,8 @@
    "genre": "Cosmétique",
    "tags": [
     "Stock limité"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "superanimal",
@@ -2081,7 +2605,8 @@
    "genre": "Battle royale",
    "tags": [
     "Multijoueur"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "endless",
@@ -2110,7 +2635,8 @@
    "genre": "DLC 4X",
    "tags": [
     "Officiel"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "everwind",
@@ -2137,7 +2663,8 @@
    "avis": "Si tu joues à Everwind.",
    "emoji": "",
    "genre": "DLC",
-   "tags": []
+   "tags": [],
+   "source": ""
   },
   {
    "id": "007ops",
@@ -2164,7 +2691,8 @@
    "avis": "Si tu joues ou testes 007 First Light.",
    "emoji": "",
    "genre": "Cosmétique",
-   "tags": []
+   "tags": [],
+   "source": ""
   },
   {
    "id": "packsplus",
@@ -2193,7 +2721,8 @@
    "genre": "Packs en jeu",
    "tags": [
     "Site connu"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "packsmmo",
@@ -2220,7 +2749,8 @@
    "avis": "Prends ceux des jeux auxquels tu joues.",
    "emoji": "",
    "genre": "Packs en jeu",
-   "tags": []
+   "tags": [],
+   "source": ""
   },
   {
    "id": "wowsishizuchi",
@@ -2249,7 +2779,8 @@
    "genre": "Pack navire · F2P",
    "tags": [
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "fragpunkcodes",
@@ -2280,7 +2811,8 @@
    "tags": [
     "FPS",
     "À vérifier"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "jwe2",
@@ -2311,36 +2843,38 @@
    "tags": [
     "Prime",
     "Officiel"
-   ]
+   ],
+   "source": ""
   },
   {
-   "id": "primeautres",
+   "id": "wrcgen",
    "cat": "jeu",
-   "titre": "Autres jeux Prime (KIBORG, Ad Infinitum…)",
+   "titre": "WRC Generations",
    "plateforme": "prime",
    "via": "",
    "rarete": "epi",
    "acces": "condition",
    "gratuit": false,
-   "prix": "15–40 €",
-   "fin": "2027-01-08T23:59:00+01:00",
-   "finTxt": "25 nov. → 8 janv.",
-   "nouveau": false,
-   "desc": "Ad Infinitum, Time Travel, Trash Goblin, KIBORG, WRC Generations, Squirrel with a Gun, Caravan SandWitch, WarBreeds.",
+   "prix": "~50 €",
+   "fin": "2026-12-09T23:59:00+01:00",
+   "finTxt": "Jusqu'au 9 déc.",
+   "nouveau": true,
+   "desc": "Jeu de rallye officiel à garder, code Epic avec Prime.",
    "conditions": "Prime",
    "pieges": [],
    "etapes": [
-    "Luna avec Prime",
-    "Réclame chaque jeu"
+    "luna.amazon.com/claims",
+    "« Réclamer »",
+    "Active le code sur Epic"
    ],
-   "fiabilite": "",
+   "fiabilite": "Officiel",
    "lien": "https://luna.amazon.com/claims",
-   "avis": "KIBORG (action) et Ad Infinitum (horreur FPS) pour toi.",
+   "source": "https://nerdzap.com/free-games/",
+   "avis": "Bonne simu de rallye gratuite avec Prime.",
    "emoji": "",
-   "genre": "Divers",
+   "genre": "Course / rallye",
    "tags": [
-    "Prime",
-    "FPS"
+    "Prime"
    ]
   },
   {
@@ -2353,8 +2887,8 @@
    "acces": "condition",
    "gratuit": false,
    "prix": "~40 €",
-   "fin": null,
-   "finTxt": "Depuis le 19 nov. (fin non affichée)",
+   "fin": "2026-12-23T23:59:00+01:00",
+   "finTxt": "Jusqu'au 23 déc.",
    "nouveau": false,
    "desc": "Incarne un loup-garou guerrier qui alterne infiltration et carnage, plus Clem (petite aventure). Codes Prime à activer sur Epic.",
    "conditions": "Prime",
@@ -2372,6 +2906,69 @@
    "tags": [
     "Prime",
     "Officiel"
+   ],
+   "source": ""
+  },
+  {
+   "id": "primeautres",
+   "cat": "jeu",
+   "titre": "Autres jeux Prime (WarBreeds, Trash Goblin, Squirrel with a Gun, Caravan SandWitch, KIBORG, Ad Infinitum…)",
+   "plateforme": "prime",
+   "via": "",
+   "rarete": "epi",
+   "acces": "condition",
+   "gratuit": false,
+   "prix": "15–40 €",
+   "fin": "2027-01-08T23:59:00+01:00",
+   "finTxt": "25 nov. → 8 janv.",
+   "nouveau": false,
+   "desc": "Plein de petits jeux à garder avec Prime : Ad Infinitum (horreur WW1, jusqu'au 25 nov.), Time Travel: Escape Room (25 nov.), Trash Goblin et KIBORG (2 déc.), Squirrel with a Gun (9 déc.), Caravan SandWitch (16 déc.), WarBreeds sur GOG (8 janv.).",
+   "conditions": "Prime",
+   "pieges": [],
+   "etapes": [
+    "Luna avec Prime",
+    "Réclame chaque jeu"
+   ],
+   "fiabilite": "",
+   "lien": "https://luna.amazon.com/claims",
+   "avis": "KIBORG (action) et Ad Infinitum (horreur FPS) pour toi.",
+   "emoji": "",
+   "genre": "Divers",
+   "tags": [
+    "Prime",
+    "FPS"
+   ],
+   "source": ""
+  },
+  {
+   "id": "rivalsdrops",
+   "cat": "pack",
+   "titre": "Marvel Rivals – costume Black Widow (Twitch Drops Ignite)",
+   "plateforme": "autre",
+   "via": "",
+   "rarete": "rar",
+   "acces": "condition",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": "2026-11-30T00:59:00+01:00",
+   "finTxt": "Du 23 au 29 nov.",
+   "nouveau": true,
+   "desc": "Costume Black Widow, spray, emote et plaque en regardant la finale Ignite sur Twitch.",
+   "conditions": "Regarder un stream + compte lié",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.twitch.tv/drops/campaigns",
+   "source": "https://x.com/MarvelRivals/status/2122766797644452129",
+   "avis": "Costume gratuit pour un hero shooter que tu peux aimer.",
+   "emoji": "",
+   "genre": "Hero shooter",
+   "tags": [
+    "FPS",
+    "Multijoueur"
    ]
   },
   {
@@ -2403,7 +3000,8 @@
    "tags": [
     "Site connu",
     "Stock limité"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "primesoon",
@@ -2432,7 +3030,8 @@
    "genre": "RPG narratif fantasy",
    "tags": [
     "Prime"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "twitchfps",
@@ -2445,9 +3044,9 @@
    "gratuit": false,
    "prix": "Gratuit",
    "fin": null,
-   "finTxt": "Variable (R6 < 24 h, BF6 ~6 j, Delta Force ~14 j)",
+   "finTxt": "Selon le jeu (26 nov. → 17 déc.)",
    "nouveau": false,
-   "desc": "Delta Force (SG552, packs), Battlefield 6 (Red Ghost Saboteur), CoD Warzone/MW4 S1, Marvel Rivals (Cyclops), Overwatch 2, Apex (Godzilla), The Division 2, Borderlands 4, R6 Siege (Osaka, finit vite).",
+   "desc": "Objets gratuits en regardant des streams : Delta Force, THE FINALS, FragPunk, WARDOGS (≈26 nov.), PAYDAY 3, World of Warships (27 nov.), Star Citizen (28 nov.), Overwatch (1er déc.), Apex Legends (2 déc.), Warzone (4 déc.), The First Descendant (9 déc.), Marvel Rivals S11 (11 déc.), Once Human (17 déc.)…",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -2456,14 +3055,73 @@
     "Réclame dans l'inventaire Twitch"
    ],
    "fiabilite": "Site connu",
-   "lien": "https://drophunter.app/drops",
+   "lien": "https://www.twitch.tv/drops/campaigns",
    "avis": "Lie ton compte de jeu à Twitch et laisse tourner un stream : skins gratuits pour tes FPS.",
    "emoji": "",
    "genre": "Objets en jeu",
    "tags": [
     "FPS",
     "Site connu"
+   ],
+   "source": "https://drophunter.app/drops"
+  },
+  {
+   "id": "ride6bikes",
+   "cat": "dlc",
+   "titre": "RIDE 6 – Welcome Bikes Pack",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "com",
+   "acces": "condition",
+   "gratuit": false,
+   "prix": "2,99 €",
+   "fin": null,
+   "finTxt": "Stock limité",
+   "nouveau": true,
+   "desc": "DLC de motos pour RIDE 6 (clé Steam via Alienware Arena).",
+   "conditions": "Compte Alienware (10 ARP) + jeu de base",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "GamerPower",
+   "lien": "https://www.gamerpower.com/open/ride-6-welcome-bikes-pack-steam-key-giveaway",
+   "source": "https://www.gamerpower.com/ride-6-welcome-bikes-pack-steam-key-giveaway",
+   "avis": "Seulement si tu as RIDE 6.",
+   "emoji": "",
+   "genre": "Course moto",
+   "tags": [
+    "Stock limité"
    ]
+  },
+  {
+   "id": "aow4helmet",
+   "cat": "dlc",
+   "titre": "Age of Wonders 4 – Special Godir Helmet",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "com",
+   "acces": "condition",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Stock limité",
+   "nouveau": true,
+   "desc": "Objet cosmétique pour Age of Wonders 4.",
+   "conditions": "Jeu de base requis",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "GamerPower",
+   "lien": "https://www.gamerpower.com/open/age-of-wonders-4-special-godir-helmet-steam-key-giveaway",
+   "source": "https://www.gamebrief.net/giveaways/pc",
+   "avis": "Seulement si tu as le jeu.",
+   "emoji": "",
+   "genre": "Stratégie 4X",
+   "tags": []
   },
   {
    "id": "xboxfpd1119",
@@ -2494,7 +3152,8 @@
    "tags": [
     "Officiel",
     "FPS"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "steampacks",
@@ -2521,7 +3180,8 @@
    "avis": "Prends ceux des jeux que tu possèdes.",
    "emoji": "",
    "genre": "Cosmétiques",
-   "tags": []
+   "tags": [],
+   "source": ""
   },
   {
    "id": "autresdlc",
@@ -2548,7 +3208,291 @@
    "avis": "Prends ceux des jeux auxquels tu joues.",
    "emoji": "",
    "genre": "Packs en jeu",
-   "tags": []
+   "tags": [],
+   "source": ""
+  },
+  {
+   "id": "bl2-90",
+   "cat": "jeu",
+   "titre": "Borderlands 2 à -90 %",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "epi",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "19,99 € → ~2 €",
+   "fin": null,
+   "finTxt": "Promo Steam, fin probable le 23 nov. 19h",
+   "nouveau": true,
+   "desc": "Borderlands 2 est à -90 % sur Steam (~2 € au lieu de 19,99 €).",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Page Steam",
+    "Ajoute au panier et paie"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/49520/",
+   "source": "https://90ornothing.substack.com/p/90-or-nothing-steam-deals-of-the-181",
+   "avis": "Un des meilleurs FPS coop pour le prix d'un café.",
+   "emoji": "",
+   "genre": "Looter shooter coop",
+   "tags": [
+    "FPS",
+    "Coop",
+    "Pas cher"
+   ]
+  },
+  {
+   "id": "bl3-90",
+   "cat": "jeu",
+   "titre": "Borderlands 3 à -90 %",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "epi",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "59,99 € → ~6 €",
+   "fin": null,
+   "finTxt": "Promo Steam, fin probable le 23 nov. 19h",
+   "nouveau": true,
+   "desc": "Borderlands 3 est à -90 % sur Steam (~6 € au lieu de 59,99 €).",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Page Steam",
+    "Ajoute au panier et paie"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/397540/",
+   "source": "https://90ornothing.substack.com/p/90-or-nothing-steam-deals-of-the-181",
+   "avis": "Gros FPS coop récent à -90 %.",
+   "emoji": "",
+   "genre": "Looter shooter coop",
+   "tags": [
+    "FPS",
+    "Coop",
+    "Pas cher"
+   ]
+  },
+  {
+   "id": "ro2-90",
+   "cat": "jeu",
+   "titre": "Red Orchestra 2 + Rising Storm à -90 %",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "19,99 € → ~2 €",
+   "fin": null,
+   "finTxt": "Promo Steam, fin probable le 23 nov. 19h",
+   "nouveau": true,
+   "desc": "Red Orchestra 2 + Rising Storm est à -90 % sur Steam (~2 € au lieu de 19,99 €).",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Page Steam",
+    "Ajoute au panier et paie"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/35450/",
+   "source": "https://90ornothing.substack.com/p/90-or-nothing-steam-deals-of-the-181",
+   "avis": "FPS multi réaliste culte, 93 % d'avis positifs.",
+   "emoji": "",
+   "genre": "FPS tactique WW2",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Pas cher"
+   ]
+  },
+  {
+   "id": "rs2-90",
+   "cat": "jeu",
+   "titre": "Rising Storm 2: Vietnam à -90 %",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "24,99 € → ~2,50 €",
+   "fin": null,
+   "finTxt": "Promo Steam, fin probable le 23 nov. 19h",
+   "nouveau": true,
+   "desc": "Rising Storm 2: Vietnam est à -90 % sur Steam (~2,50 € au lieu de 24,99 €).",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Page Steam",
+    "Ajoute au panier et paie"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/418460/",
+   "source": "https://90ornothing.substack.com/p/90-or-nothing-steam-deals-of-the-181",
+   "avis": "FPS multi 64 joueurs encore actif, prix ridicule.",
+   "emoji": "",
+   "genre": "FPS multijoueur",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Pas cher"
+   ]
+  },
+  {
+   "id": "se4-90",
+   "cat": "jeu",
+   "titre": "Sniper Elite 4 à -90 %",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "59,99 € → ~6 €",
+   "fin": null,
+   "finTxt": "Promo Steam, fin probable le 23 nov. 19h",
+   "nouveau": true,
+   "desc": "Sniper Elite 4 est à -90 % sur Steam (~6 € au lieu de 59,99 €).",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Page Steam",
+    "Ajoute au panier et paie"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/312660/",
+   "source": "https://90ornothing.substack.com/p/90-or-nothing-steam-deals-of-the-181",
+   "avis": "Excellent jeu de sniper, aussi en coop.",
+   "emoji": "",
+   "genre": "Shooter infiltration",
+   "tags": [
+    "Coop",
+    "Pas cher"
+   ]
+  },
+  {
+   "id": "back4blood-90",
+   "cat": "jeu",
+   "titre": "Back 4 Blood Ultimate Edition à -90 %",
+   "plateforme": "epic",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "~100 € → 9,99 €",
+   "fin": null,
+   "finTxt": "Promo Black Friday, durée limitée",
+   "nouveau": true,
+   "desc": "Shooter coop zombies à 4 (par les créateurs de Left 4 Dead) avec tous les DLC, à -90 % sur Epic.",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.epicgames.com/p/back-4-blood",
+   "source": "https://www.shacknews.com/article/151449/weekend-pc-download-deals-for-nov-20-more-black-friday-sales-reporting-in",
+   "avis": "Parfait pour jouer à plusieurs pour 10 €.",
+   "emoji": "",
+   "genre": "FPS coop zombies",
+   "tags": [
+    "FPS",
+    "Coop",
+    "Pas cher"
+   ]
+  },
+  {
+   "id": "robocop-90",
+   "cat": "jeu",
+   "titre": "RoboCop: Rogue City à -90 %",
+   "plateforme": "gog",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "~45 € → ~4 €",
+   "fin": null,
+   "finTxt": "Promo Black Friday, durée limitée",
+   "nouveau": true,
+   "desc": "FPS solo RoboCop très bien noté, à environ 4 € chez GOG.",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.gog.com/en/game/robocop_rogue_city",
+   "source": "https://www.shacknews.com/article/151449/weekend-pc-download-deals-for-nov-20-more-black-friday-sales-reporting-in",
+   "avis": "Un vrai FPS récent pour 4 €.",
+   "emoji": "",
+   "genre": "FPS",
+   "tags": [
+    "FPS",
+    "Pas cher"
+   ]
+  },
+  {
+   "id": "humblebf",
+   "cat": "jeu",
+   "titre": "Humble Black Friday : Metro Saga, Dead Island, Saints Row 3… à -90 %",
+   "plateforme": "humble",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "jusqu'à -90 %",
+   "fin": null,
+   "finTxt": "Promo Black Friday, durée limitée",
+   "nouveau": true,
+   "desc": "Clés Steam à prix cassé : Metro Saga Bundle (~6 €), Dead Island Definitive Collection (~4 €), Saints Row The Third Remastered (~3 €), LEGO Star Wars Skywalker Saga (~7 €), FF VII Rebirth (~7,50 €).",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.humblebundle.com/store",
+   "source": "https://www.digitalcitizen.life/humble-black-friday-2026-sale-cuts-steam-deck-game-prices-by-up-to-90-with-final-fantasy-7-rebirth-at-7-50/",
+   "avis": "Metro Saga à 6 € = 3 super FPS.",
+   "emoji": "",
+   "genre": "Divers (FPS, action)",
+   "tags": [
+    "FPS",
+    "Pas cher"
+   ]
+  },
+  {
+   "id": "homm3remake",
+   "cat": "beta",
+   "titre": "Heroes of Might and Magic III Remake – playtest fermé",
+   "plateforme": "ubi",
+   "via": "",
+   "rarete": "epi",
+   "acces": "selection",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Inscriptions ouvertes",
+   "nouveau": true,
+   "desc": "Ubisoft ouvre un playtest PC du remake de HoMM III : inscris-toi, les places sont tirées.",
+   "conditions": "Inscription, pas garanti",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://register.ubisoft.com/heroes-of-might-and-magic-3-remake",
+   "source": "https://gagadget.com/en/734591-heroes-of-might-and-magic-iii-remake-opens-a-pc-playtest-on-nov-18/",
+   "avis": "Un classique culte, à tenter.",
+   "emoji": "",
+   "genre": "Stratégie tour par tour",
+   "tags": [
+    "Bêta"
+   ]
   },
   {
    "id": "cindercity",
@@ -2580,6 +3524,70 @@
     "Inscription",
     "FPS",
     "Multijoueur"
+   ],
+   "source": ""
+  },
+  {
+   "id": "honkainexus",
+   "cat": "beta",
+   "titre": "Honkai: Nexus Anima – dernière bêta fermée",
+   "plateforme": "autre",
+   "via": "",
+   "rarete": "rar",
+   "acces": "selection",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Bêta à partir du 25 nov.",
+   "nouveau": true,
+   "desc": "Bêta fermée finale du nouveau HoYoverse (PC + mobile), places limitées.",
+   "conditions": "Inscription, pas garanti",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://hoyo.link/gXA5dV4eK",
+   "source": "https://www.gematsu.com/2026/11/honkai-nexus-anima-launches-in-spring-2027-final-closed-beta-test-begins-november-25",
+   "avis": "Pour tester avant tout le monde.",
+   "emoji": "",
+   "genre": "RPG monde ouvert",
+   "tags": [
+    "Bêta",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "timesofsurvival",
+   "cat": "beta",
+   "titre": "Times of Survival – playtest Steam",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "rar",
+   "acces": "selection",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "« Demander l'accès »",
+   "nouveau": true,
+   "desc": "Survie zombie en coop avec combats façon soulslike, monde ouvert.",
+   "conditions": "Accès sur demande",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/2999040/Times_of_Survival/",
+   "source": "https://www.alphabetagamer.com/times-of-survival-beta-sign-up/",
+   "avis": "Concept coop sympa.",
+   "emoji": "",
+   "genre": "Survie coop",
+   "tags": [
+    "Coop",
+    "Multijoueur",
+    "Bêta"
    ]
   },
   {
@@ -2611,7 +3619,8 @@
     "FPS",
     "Multijoueur",
     "Accès direct"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "hunger",
@@ -2676,6 +3685,69 @@
     "Inscription",
     "Officiel",
     "Multijoueur"
+   ],
+   "source": ""
+  },
+  {
+   "id": "station58",
+   "cat": "beta",
+   "titre": "Station 58 – playtest Steam",
+   "plateforme": "steam",
+   "via": "",
+   "rarete": "com",
+   "acces": "selection",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "« Demander l'accès »",
+   "nouveau": true,
+   "desc": "Aventure-puzzle en coop.",
+   "conditions": "Accès sur demande",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/3757660/Station_58/",
+   "source": "https://www.alphabetagamer.com/station-58-beta-sign-up/",
+   "avis": "À tester entre amis.",
+   "emoji": "",
+   "genre": "Puzzle coop",
+   "tags": [
+    "Coop",
+    "Bêta"
+   ]
+  },
+  {
+   "id": "kaleidorider",
+   "cat": "beta",
+   "titre": "Chasing Kaleidorider – bêta fermée (Tencent)",
+   "plateforme": "autre",
+   "via": "",
+   "rarete": "com",
+   "acces": "selection",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Bêta le 17 déc., inscriptions ouvertes",
+   "nouveau": true,
+   "desc": "RPG moto anime (PC + mobile), bêta fermée mondiale.",
+   "conditions": "Inscription (questionnaire officiel), pas garanti",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page",
+    "Récupère-le"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://user.outweisurvey.com/v2/?sid=6ac84a987615044fc2048865",
+   "source": "https://finalweapon.net/2026/11/20/chasing-kaleidorider-is-getting-a-closed-beta-test-on-december-17/",
+   "avis": "Optionnel.",
+   "emoji": "",
+   "genre": "RPG action",
+   "tags": [
+    "Bêta",
+    "Mobile"
    ]
   },
   {
@@ -2706,7 +3778,8 @@
    "genre": "Action-RPG",
    "tags": [
     "Inscription"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "embersuncrowned",
@@ -2736,7 +3809,8 @@
    "tags": [
     "Inscription",
     "Multijoueur"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "betas21",
@@ -2766,7 +3840,8 @@
    "genre": "Bêtas ouvertes & inscriptions",
    "tags": [
     "Nouveau"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "betasindes13",
@@ -2795,7 +3870,8 @@
    "genre": "Bêtas indés",
    "tags": [
     "Site connu"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "dustorigins",
@@ -2825,7 +3901,8 @@
    "tags": [
     "Inscription",
     "FPS"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "betasindes15",
@@ -2855,7 +3932,8 @@
    "tags": [
     "Multijoueur",
     "Inscription"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "seaofremnants",
@@ -2885,7 +3963,8 @@
    "tags": [
     "Officiel",
     "Places limitées"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "betademos16",
@@ -2914,7 +3993,8 @@
    "genre": "Horreur · puzzle · narratif",
    "tags": [
     "Site connu"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "betademos17",
@@ -2944,7 +4024,8 @@
    "tags": [
     "Multijoueur",
     "Site connu"
-   ]
+   ],
+   "source": ""
   },
   {
    "id": "tarkovdrops",
@@ -2956,8 +4037,8 @@
    "acces": "tirage",
    "gratuit": false,
    "prix": "Gratuit",
-   "fin": "2026-11-23T16:00:00+01:00",
-   "finTxt": "Jusqu'au 23 nov. 16h",
+   "fin": "2026-11-22T23:59:00+01:00",
+   "finTxt": "Se termine aujourd'hui",
    "nouveau": false,
    "desc": "Campagne de Twitch Drops Tarkov City : chaque jour, un t-shirt à gagner en regardant des streams Tarkov avec Drops activés (USEC Hangover Avenger les 18, 20 et 22 nov., BEAR Cocktail Criminal les 19 et 21).",
    "conditions": "",
@@ -2968,14 +4049,15 @@
     "Réclame dans l'inventaire Twitch chaque jour"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://www.gameleap.com/articles/escape-from-tarkov-tarkov-city-drops-campaign",
+   "lien": "https://www.twitch.tv/drops/campaigns",
    "avis": "Si tu joues à Escape from Tarkov : cosmétiques gratuits pour tes deux factions, laisse tourner un stream en fond.",
    "emoji": "",
    "genre": "FPS extraction",
    "tags": [
     "FPS",
     "Officiel"
-   ]
+   ],
+   "source": "https://www.gameleap.com/articles/escape-from-tarkov-tarkov-city-drops-campaign"
   },
   {
    "id": "intelsweeps",
@@ -3006,7 +4088,8 @@
    "tags": [
     "Officiel",
     "Tirage au sort"
-   ]
+   ],
+   "source": ""
   }
  ]
 }
