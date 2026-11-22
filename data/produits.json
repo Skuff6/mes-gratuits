@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-21T14:50:00+01:00",
+ "maj": "2026-11-22T14:00:00+01:00",
  "offres": [
   {
    "id": "preservatifs-26",
@@ -36,7 +36,7 @@
    "avis": "Tu as 23 ans : c'est pour toi, gratuit à vie jusqu'à 26 ans, sans ordonnance. Tu peux y retourner autant que tu veux.",
    "emoji": "🛡️",
    "fiabilite": "Service-public.fr / Assurance maladie",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "cisse",
@@ -77,6 +77,191 @@
    "source": "https://monsieurechantillons.fr/echantillons-gratuits/echantillon-gratuit-parfum-maison-cisse-paris-2-ml/"
   },
   {
+   "id": "test-ist-labo-26",
+   "acces": "direct",
+   "rayon": "sante",
+   "type": "cadeau",
+   "titre": "Dépistage IST gratuit au labo, sans ordonnance (moins de 26 ans)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Sans limite",
+   "contenu": [
+    "Tests VIH, chlamydia, gonocoque, syphilis et hépatite B",
+    "Sans ordonnance et sans rendez-vous"
+   ],
+   "pieges": [
+    "Gratuit seulement avant 26 ans (après : seul le VIH reste gratuit)",
+    "Le kit à domicile (mon-test-ist.ameli.fr) a des conditions pour les hommes et une participation de 2 €",
+    "Prends ta carte Vitale"
+   ],
+   "etapes": [
+    "Va dans n'importe quel labo d'analyses",
+    "Dis que tu veux un dépistage IST sans ordonnance (« Mon test IST »)",
+    "Donne ta carte Vitale",
+    "Résultats en quelques jours"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Dépistage des principales IST gratuit en labo, sans ordonnance ni rendez-vous, pour les moins de 26 ans.",
+   "conditions": "Moins de 26 ans, assuré social.",
+   "lien": "https://www.sante.fr/ou-se-faire-depister-gratuitement",
+   "source": "https://www.service-public.gouv.fr/particuliers/actualites/A17530?lang=fr",
+   "avis": "Officiel et 0 € pour toi jusqu'à 26 ans, même à Carcassonne. Les CeGIDD le font aussi gratuitement.",
+   "emoji": "🧪",
+   "fiabilite": "Officiel (État)",
+   "nouveau": true
+  },
+  {
+   "id": "bilan-prevention-18-25",
+   "acces": "direct",
+   "rayon": "sante",
+   "type": "cadeau",
+   "titre": "Mon bilan prévention gratuit (18-25 ans)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 bilan par tranche d'âge",
+   "contenu": [
+    "Rendez-vous de 30 à 45 min avec un médecin, infirmier, pharmacien, kiné ou sage-femme",
+    "Point complet : sommeil, alimentation, sport, stress, addictions, vaccins…"
+   ],
+   "pieges": [
+    "Un seul bilan dans la tranche 18-25 ans",
+    "Les examens prescrits ensuite sont remboursés normalement (pas forcément à 100 %)"
+   ],
+   "etapes": [
+    "Ouvre la page et clique sur « Trouver un professionnel »",
+    "Prends rendez-vous (pharmacien possible, souvent plus rapide)",
+    "Remplis le questionnaire sur Mon Espace Santé avant (facultatif)",
+    "Va au rendez-vous avec ta carte Vitale"
+   ],
+   "fin": null,
+   "finTxt": "Jusqu'à tes 26 ans",
+   "desc": "Un rendez-vous santé complet pris en charge à 100 % sans avance de frais.",
+   "conditions": "18 à 25 ans inclus.",
+   "lien": "https://www.sante.fr/mon-bilan-prevention/1-je-prends-rendez-vous-mon-bilan-prevention",
+   "source": "https://www.sante.fr/mon-bilan-prevention",
+   "avis": "0 € et sans avance : profites-en avant 26 ans, surtout si tu vois rarement un médecin.",
+   "emoji": "🩺",
+   "fiabilite": "Officiel (État)",
+   "nouveau": true
+  },
+  {
+   "id": "mt-dents-24",
+   "acces": "direct",
+   "rayon": "sante",
+   "type": "cadeau",
+   "titre": "Examen chez le dentiste gratuit chaque année (M'T dents, 3-24 ans)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 examen par an",
+   "contenu": [
+    "Examen bucco-dentaire complet",
+    "Soins faits dans les 6 mois suivants sans avance de frais (hors prothèses, orthodontie, inlays)"
+   ],
+   "pieges": [
+    "Prothèses et orthodontie exclues",
+    "Dis bien au dentiste que c'est pour « M'T dents tous les ans »"
+   ],
+   "etapes": [
+    "Appelle un dentiste",
+    "Dis que c'est un rendez-vous « M'T dents tous les ans »",
+    "Apporte carte Vitale (+ attestation de mutuelle si tu en as une)"
+   ],
+   "fin": null,
+   "finTxt": "Jusqu'à tes 25 ans (24 ans inclus)",
+   "desc": "Un contrôle chez le dentiste par an, sans avance de frais jusqu'à 24 ans, et les soins qui suivent aussi.",
+   "conditions": "3 à 24 ans, assuré social. Sans mutuelle, l'Assurance maladie paie tout.",
+   "lien": "https://www.sante.fr/node/1247628",
+   "source": "https://www.sante.fr/node/1247628",
+   "avis": "Tu as 23 ans : il te reste ce droit-là, fais faire tes caries pendant que c'est 0 €.",
+   "emoji": "🦷",
+   "fiabilite": "Officiel (État)",
+   "nouveau": true
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "500 ebooks au choix",
+   "contenu": [
+    "1984 et La Ferme des animaux (Orwell)",
+    "Laurie (nouvelle de Stephen King)",
+    "Le Tour du monde en 80 jours (Jules Verne)",
+    "Plein d'autres romans et nouvelles en ePub"
+   ],
+   "pieges": [
+    "Il faut un compte Fnac",
+    "Certaines fiches proposent aussi l'essai Kobo+ : ne clique pas dessus si tu veux juste le livre"
+   ],
+   "etapes": [
+    "Ouvre la page",
+    "Choisis un livre à 0 €",
+    "Ajoute-le au panier et valide à 0 €",
+    "Lis-le dans l'appli Kobo by Fnac (Android)"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Une vraie bibliothèque de livres numériques à 0 € à garder.",
+   "conditions": "Compte Fnac gratuit, appli Kobo pour lire",
+   "lien": "https://www.fnac.com/n286016/Petit-prix-et-promotions-ebooks/Tous-les-Ebooks-gratuits",
+   "source": "https://leclaireur.fnac.com/selection/cp47964-ebooks-gratuits-plus-de-2-000-livres-chez-vous-en-un-clic/",
+   "avis": "Prends 1984 et le Stephen King, c'est gratuit et légal.",
+   "emoji": "📖",
+   "fiabilite": "Officiel",
+   "nouveau": true,
+   "id": "fnac-500-ebooks",
+   "titre": "500 ebooks gratuits sur Fnac (dont 1984 d'Orwell)"
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Des centaines de titres",
+   "contenu": [
+    "Livres audio (Sherlock Holmes, Andersen, Astérix Le Menhir d'or…)",
+    "Podcasts (Arsène Lupin, Neurosapiens, Somnifère…)"
+   ],
+   "pieges": [
+    "La même page pousse l'abonnement payant : ne clique pas sur « essai »"
+   ],
+   "etapes": [
+    "Ouvre la page",
+    "Connecte-toi avec ton compte Amazon",
+    "Écoute dans l'appli Audible"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Des livres audio et podcasts gratuits, sans essai ni abonnement.",
+   "conditions": "Compte Amazon",
+   "lien": "https://www.audible.fr/ep/livres-audio-gratuits",
+   "source": "https://www.audible.fr/ep/livres-audio-gratuits",
+   "avis": "Parfait pour le bus ou le train, et zéro carte demandée.",
+   "emoji": "🎧",
+   "fiabilite": "Officiel",
+   "nouveau": true,
+   "id": "audible-gratuits",
+   "titre": "Livres audio et podcasts gratuits sur Audible (sans abonnement)"
+  },
+  {
    "contenu": [
     "Appli pour accélérer / ralentir tes vidéos (au lieu de 5,49 €)"
    ],
@@ -109,7 +294,7 @@
    "avis": "5,49 € économisés si tu fais des vidéos pour TikTok ou Insta.",
    "emoji": "🎬",
    "fiabilite": "Google Play",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "ikea-visserie",
@@ -138,7 +323,7 @@
    ],
    "fin": null,
    "finTxt": "Service permanent",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "IKEA envoie gratuitement à domicile les petites pièces d'assemblage qui te manquent (vis, chevilles, boulons…), jusqu'à 50 pièces, sans achat.",
    "conditions": "Limité à 50 pièces par demande.",
    "lien": "https://www.ikea.com/fr/fr/customer-service/returns-claims/order-spare-part/",
@@ -190,77 +375,313 @@
    "source": "https://www.mesechantillonsgratuits.fr/echantillons-gratuits/animaux/chaussettes-gratuites-aux-couleurs-des-chiens-guides-commandez-votre-paire/"
   },
   {
-   "contenu": [
-    "Version Pro de l'appli qui chasse l'eau du haut-parleur du téléphone (au lieu de 2,29 €)"
-   ],
-   "pieges": [
-    "Gratuit pour un temps limité seulement : vérifie que le Play Store affiche bien 0 € avant d'installer",
-    "Promo repérée le 19 nov., fin non indiquée"
-   ],
-   "etapes": [
-    "Ouvre la page Play Store",
-    "Vérifie que le prix est 0 €",
-    "Clique sur Installer : elle reste à toi même après la promo"
-   ],
-   "conditions": "",
-   "qty": "1 appli à vie",
-   "gratuit": true,
-   "sansCarte": true,
-   "fin": null,
-   "id": "android-clearwave",
+   "id": "pampers-pants-ech",
    "acces": "direct",
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Clear Wave – Water Eject Pro (Android)",
+   "rayon": "bebe",
+   "type": "ech",
+   "titre": "6 couches-culottes Pampers Baby-Dry Pants gratuites",
    "rarete": "com",
+   "gratuit": true,
    "cout": "0 €",
    "coutNum": 0,
-   "finTxt": "Gratuit pour un temps limité (vu le 19 nov.)",
-   "desc": "Appli payante (2,29 €) offerte sur le Play Store : elle fait vibrer le haut-parleur pour en sortir l'eau.",
-   "lien": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound",
-   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
-   "avis": "Petit utilitaire, mais gratuit à garder : prends-la, ça coûte rien.",
-   "emoji": "💧",
-   "fiabilite": "Google Play",
+   "sansCarte": true,
+   "qty": "1 kit par foyer",
+   "contenu": [
+    "Couches-culottes Baby-Dry Pants taille 4 ou 5 (6 annoncées, quantité à vérifier dans le formulaire)"
+   ],
+   "pieges": [
+    "Compte Pampers Club obligatoire",
+    "1 seul kit par foyer, dans la limite des stocks",
+    "Adresse non modifiable après envoi"
+   ],
+   "etapes": [
+    "Ouvre la page Pampers",
+    "Connecte-toi ou crée un compte Pampers Club",
+    "Choisis la taille et remplis l'adresse",
+    "Livraison en 2 semaines environ"
+   ],
+   "fin": "2027-06-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 juin 2027 (ou stock épuisé)",
+   "desc": "Kit gratuit de couches-culottes Pampers livré chez toi, sans achat ni frais de port.",
+   "conditions": "France métropolitaine (Corse incluse), 1 par foyer.",
+   "lien": "https://www.pampers.fr/offres/promotion-pampers-pants",
+   "source": "https://bonsplansmania.fr/article/pampers-pants-echantillon-gratuit-2026",
+   "avis": "Utile seulement si t'as un bébé dans l'entourage : c'est 0 € et à offrir.",
+   "emoji": "👶",
+   "fiabilite": "Officiel Pampers (vérifié par Bons Plans Mania le 10/10/2026)",
    "nouveau": true
   },
   {
-   "contenu": [
-    "Cours « Les fondamentaux de l'intelligence artificielle » en français",
-    "57 mini-modules de 10 min (AI Boost Bites)",
-    "Attestation de fin de cours gratuite (à mettre sur LinkedIn)"
-   ],
-   "pieges": [
-    "L'attestation gratuite n'est pas une certification officielle",
-    "Le vrai « Google AI Professional Certificate » est payant (49 $/mois) : ne clique pas dessus",
-    "Certains cours sont en anglais (traduction auto)"
-   ],
-   "etapes": [
-    "Ouvre Google Skills",
-    "Connecte-toi avec ton compte Google",
-    "Choisis un cours gratuit et suis-le à ton rythme"
-   ],
-   "conditions": "",
-   "qty": "Cours en ligne illimités",
-   "gratuit": true,
-   "sansCarte": true,
-   "fin": null,
-   "id": "google-skills",
    "acces": "direct",
-   "rayon": "services",
+   "rayon": "culture",
    "type": "cadeau",
-   "titre": "Cours IA gratuits de Google (Google Skills)",
    "rarete": "com",
+   "gratuit": true,
    "cout": "0 €",
    "coutNum": 0,
-   "finTxt": "Pas de date de fin",
-   "desc": "Plateforme officielle de Google pour apprendre l'IA gratuitement, avec un cours de base en français.",
-   "lien": "https://www.skills.google/",
-   "source": "https://www.blogdumoderateur.com/google-skills-comment-se-former-gratuitement-ia-cours-officiels-google/",
-   "avis": "Utile pour le CV, 100 % gratuit tant que tu ne prends pas la certif payante.",
-   "emoji": "🎓",
-   "fiabilite": "Google",
-   "nouveau": true
+   "sansCarte": true,
+   "qty": "Des milliers de livres",
+   "contenu": [
+    "La bibliothèque nationale de France : classiques libres de droits en PDF ou EPUB."
+   ],
+   "pieges": [
+    "Surtout des classiques (domaine public), pas les nouveautés"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Cherche un titre",
+    "Télécharge ou écoute directement"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "La bibliothèque nationale de France : classiques libres de droits en PDF ou EPUB.",
+   "conditions": "Aucune",
+   "lien": "https://gallica.bnf.fr/selections/fr/html/livres",
+   "source": "https://www.phonandroid.com/ebooks-gratuits-comment-remplir-sa-liseuse-sans-depenser-un-centime.html",
+   "avis": "Légal, gratuit pour toujours, sans compte ni carte.",
+   "emoji": "🏛️",
+   "fiabilite": "Site officiel / associatif",
+   "nouveau": true,
+   "id": "gallica-ebooks",
+   "titre": "Gallica (BnF) : des milliers de classiques gratuits"
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "642 livres",
+   "contenu": [
+    "642 œuvres de littérature francophone à télécharger gratuitement."
+   ],
+   "pieges": [
+    "Surtout des classiques (domaine public), pas les nouveautés"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Cherche un titre",
+    "Télécharge ou écoute directement"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "642 œuvres de littérature francophone à télécharger gratuitement.",
+   "conditions": "Aucune",
+   "lien": "https://bibliothequenumerique.tv5monde.com/",
+   "source": "https://www.phonandroid.com/ebooks-gratuits-comment-remplir-sa-liseuse-sans-depenser-un-centime.html",
+   "avis": "Légal, gratuit pour toujours, sans compte ni carte.",
+   "emoji": "🌍",
+   "fiabilite": "Site officiel / associatif",
+   "nouveau": true,
+   "id": "tv5monde-bibliotheque",
+   "titre": "Bibliothèque numérique TV5MONDE : 642 livres gratuits"
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "3 000+ livres",
+   "contenu": [
+    "Plus de 3 000 ebooks libres de droits en EPUB, PDF ou Mobi."
+   ],
+   "pieges": [
+    "Surtout des classiques (domaine public), pas les nouveautés"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Cherche un titre",
+    "Télécharge ou écoute directement"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Plus de 3 000 ebooks libres de droits en EPUB, PDF ou Mobi.",
+   "conditions": "Aucune",
+   "lien": "https://www.ebooksgratuits.com/",
+   "source": "https://www.phonandroid.com/ebooks-gratuits-comment-remplir-sa-liseuse-sans-depenser-un-centime.html",
+   "avis": "Légal, gratuit pour toujours, sans compte ni carte.",
+   "emoji": "📚",
+   "fiabilite": "Site officiel / associatif",
+   "nouveau": true,
+   "id": "ebooks-libres-gratuits",
+   "titre": "Ebooks Libres et Gratuits : plus de 3 000 livres"
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Des milliers de textes",
+   "contenu": [
+    "Livres du domaine public et d'auteurs actuels, en ligne ou en PDF/EPUB, sans inscription."
+   ],
+   "pieges": [
+    "Surtout des classiques (domaine public), pas les nouveautés"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Cherche un titre",
+    "Télécharge ou écoute directement"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Livres du domaine public et d'auteurs actuels, en ligne ou en PDF/EPUB, sans inscription.",
+   "conditions": "Aucune",
+   "lien": "https://www.atramenta.net/lecture-libre/",
+   "source": "https://www.phonandroid.com/ebooks-gratuits-comment-remplir-sa-liseuse-sans-depenser-un-centime.html",
+   "avis": "Légal, gratuit pour toujours, sans compte ni carte.",
+   "emoji": "✍️",
+   "fiabilite": "Site officiel / associatif",
+   "nouveau": true,
+   "id": "atramenta",
+   "titre": "Atramenta : livres à lire sans inscription"
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "≈ 8 000 livres audio",
+   "contenu": [
+    "Environ 8 000 livres audio gratuits en MP3, lus par des bénévoles."
+   ],
+   "pieges": [
+    "Surtout des classiques (domaine public), pas les nouveautés"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Cherche un titre",
+    "Télécharge ou écoute directement"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Environ 8 000 livres audio gratuits en MP3, lus par des bénévoles.",
+   "conditions": "Aucune",
+   "lien": "http://www.litteratureaudio.com/",
+   "source": "https://outilstice.com/?p=7235",
+   "avis": "Légal, gratuit pour toujours, sans compte ni carte.",
+   "emoji": "🎧",
+   "fiabilite": "Site officiel / associatif",
+   "nouveau": true,
+   "id": "litterature-audio",
+   "titre": "Littérature Audio : 8 000 livres audio gratuits"
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Des milliers de livres audio",
+   "contenu": [
+    "Textes lus par des bénévoles, à écouter en ligne ou télécharger en MP3."
+   ],
+   "pieges": [
+    "Surtout des classiques (domaine public), pas les nouveautés"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Cherche un titre",
+    "Télécharge ou écoute directement"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Textes lus par des bénévoles, à écouter en ligne ou télécharger en MP3.",
+   "conditions": "Aucune",
+   "lien": "https://www.audiocite.net/",
+   "source": "https://outilstice.com/?p=7235",
+   "avis": "Légal, gratuit pour toujours, sans compte ni carte.",
+   "emoji": "🎙️",
+   "fiabilite": "Site officiel / associatif",
+   "nouveau": true,
+   "id": "audiocite",
+   "titre": "Audiocité : livres audio gratuits en MP3"
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Centaines de titres en français",
+   "contenu": [
+    "Plusieurs centaines de livres audio en français, gratuits."
+   ],
+   "pieges": [
+    "Surtout des classiques (domaine public), pas les nouveautés"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Cherche un titre",
+    "Télécharge ou écoute directement"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Plusieurs centaines de livres audio en français, gratuits.",
+   "conditions": "Aucune",
+   "lien": "https://librivox.org/",
+   "source": "https://outilstice.com/?p=7235",
+   "avis": "Légal, gratuit pour toujours, sans compte ni carte.",
+   "emoji": "🔊",
+   "fiabilite": "Site officiel / associatif",
+   "nouveau": true,
+   "id": "librivox-fr",
+   "titre": "LibriVox : livres audio du domaine public en français"
+  },
+  {
+   "acces": "direct",
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Sélection renouvelée",
+   "contenu": [
+    "Sélection de livres audio récents, renouvelée régulièrement, avec appli Android."
+   ],
+   "pieges": [
+    "Certains titres ne restent dispo qu'un temps"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Cherche un titre",
+    "Télécharge ou écoute directement"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Sélection de livres audio récents, renouvelée régulièrement, avec appli Android.",
+   "conditions": "Aucune",
+   "lien": "https://ici.radio-canada.ca/ohdio/categories/1003063/livres-audio",
+   "source": "https://outilstice.com/?p=7235",
+   "avis": "Légal, gratuit pour toujours, sans compte ni carte.",
+   "emoji": "📻",
+   "fiabilite": "Site officiel / associatif",
+   "nouveau": true,
+   "id": "ohdio-livres-audio",
+   "titre": "OhDio (Radio-Canada) : livres audio contemporains gratuits"
   },
   {
    "id": "tabac",
@@ -303,6 +724,189 @@
   },
   {
    "contenu": [
+    "Version Pro de l'appli qui chasse l'eau du haut-parleur du téléphone (au lieu de 2,29 €)"
+   ],
+   "pieges": [
+    "Gratuit pour un temps limité seulement : vérifie que le Play Store affiche bien 0 € avant d'installer",
+    "Promo repérée le 19 nov., fin non indiquée"
+   ],
+   "etapes": [
+    "Ouvre la page Play Store",
+    "Vérifie que le prix est 0 €",
+    "Clique sur Installer : elle reste à toi même après la promo"
+   ],
+   "conditions": "",
+   "qty": "1 appli à vie",
+   "gratuit": true,
+   "sansCarte": true,
+   "fin": null,
+   "id": "android-clearwave",
+   "acces": "direct",
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Clear Wave – Water Eject Pro (Android)",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "finTxt": "Gratuit pour un temps limité (vu le 19 nov.)",
+   "desc": "Appli payante (2,29 €) offerte sur le Play Store : elle fait vibrer le haut-parleur pour en sortir l'eau.",
+   "lien": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound",
+   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
+   "avis": "Petit utilitaire, mais gratuit à garder : prends-la, ça coûte rien.",
+   "emoji": "💧",
+   "fiabilite": "Google Play",
+   "nouveau": false
+  },
+  {
+   "contenu": [
+    "Cours « Les fondamentaux de l'intelligence artificielle » en français",
+    "57 mini-modules de 10 min (AI Boost Bites)",
+    "Attestation de fin de cours gratuite (à mettre sur LinkedIn)"
+   ],
+   "pieges": [
+    "L'attestation gratuite n'est pas une certification officielle",
+    "Le vrai « Google AI Professional Certificate » est payant (49 $/mois) : ne clique pas dessus",
+    "Certains cours sont en anglais (traduction auto)"
+   ],
+   "etapes": [
+    "Ouvre Google Skills",
+    "Connecte-toi avec ton compte Google",
+    "Choisis un cours gratuit et suis-le à ton rythme"
+   ],
+   "conditions": "",
+   "qty": "Cours en ligne illimités",
+   "gratuit": true,
+   "sansCarte": true,
+   "fin": null,
+   "id": "google-skills",
+   "acces": "direct",
+   "rayon": "services",
+   "type": "cadeau",
+   "titre": "Cours IA gratuits de Google (Google Skills)",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "finTxt": "Pas de date de fin",
+   "desc": "Plateforme officielle de Google pour apprendre l'IA gratuitement, avec un cours de base en français.",
+   "lien": "https://www.skills.google/",
+   "source": "https://www.blogdumoderateur.com/google-skills-comment-se-former-gratuitement-ia-cours-officiels-google/",
+   "avis": "Utile pour le CV, 100 % gratuit tant que tu ne prends pas la certif payante.",
+   "emoji": "🎓",
+   "fiabilite": "Google",
+   "nouveau": false
+  },
+  {
+   "id": "freeprints-45-tirages",
+   "acces": "port",
+   "rayon": "autre",
+   "type": "cadeau",
+   "titre": "45 tirages photo 10x15 offerts chaque mois (FreePrints)",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "1,99 € à 5,99 € de port",
+   "coutNum": 1.99,
+   "sansCarte": false,
+   "qty": "Jusqu'à 45 tirages 10x15 par mois",
+   "contenu": [
+    "Jusqu'à 45 tirages photo 10x15 cm (brillant ou mat)",
+    "Quota remis à zéro le 1er de chaque mois"
+   ],
+   "pieges": [
+    "Tu paies le port : de 1,99 € à 5,99 € max selon la taille de la commande",
+    "Une seule commande gratuite par mois, quota non cumulable",
+    "Les formats plus grands et les options sont payants",
+    "Livraison en France métropolitaine seulement"
+   ],
+   "etapes": [
+    "Installe l'appli FreePrints (Play Store)",
+    "Choisis jusqu'à 45 photos en 10x15",
+    "Ne prends aucune option payante",
+    "Paie seulement les frais de port"
+   ],
+   "fin": null,
+   "finTxt": "Permanent (quota chaque mois)",
+   "desc": "Appli de tirages photo : jusqu'à 45 photos 10x15 gratuites par mois, tu paies juste le port (1,99 à 5,99 €).",
+   "conditions": "Frais de port à payer par carte ; 1 commande gratuite par mois.",
+   "lien": "https://www.freeprintsapp.fr/",
+   "source": "https://apps.apple.com/FR/app/id744361908",
+   "avis": "Pour ~2 € t'as une pile de photos à afficher ou offrir à Noël. Reste en 10x15 et zappe les options.",
+   "emoji": "🖼️",
+   "fiabilite": "Officiel (fiche de l'appli, note 4,7/5)",
+   "nouveau": true
+  },
+  {
+   "id": "freeprints-livre-photo",
+   "acces": "port",
+   "rayon": "papeterie",
+   "type": "cadeau",
+   "titre": "Livre photo 20 pages offert chaque mois (FreePrints Photobooks)",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "7,99 € de port",
+   "coutNum": 7.99,
+   "sansCarte": false,
+   "qty": "1 livre photo par mois",
+   "contenu": [
+    "1 livre photo standard 20 pages, couverture souple, 15x20 ou 15x15 cm"
+   ],
+   "pieges": [
+    "Port plafonné à 7,99 €",
+    "Pages supplémentaires et couverture rigide payantes"
+   ],
+   "etapes": [
+    "Installe l'appli FreePrints Photobooks",
+    "Crée un livre 20 pages couverture souple 15x20 ou 15x15",
+    "N'ajoute pas de pages",
+    "Paie seulement le port (7,99 € max)"
+   ],
+   "fin": null,
+   "finTxt": "Permanent (1 par mois)",
+   "desc": "Un vrai livre photo de 20 pages offert tous les mois, tu ne paies que la livraison.",
+   "conditions": "Sans abonnement ni engagement d'après la fiche de l'appli.",
+   "lien": "https://www.freeprintsapp.fr/",
+   "source": "https://apps.apple.com/fr/app/freeprints-photobooks-fr/id1113023953",
+   "avis": "Idée cadeau de Noël à 8 € tout compris, ça a l'air d'un cadeau à 25 €. Commande vite pour l'avoir avant le 25.",
+   "emoji": "📔",
+   "fiabilite": "Officiel (fiche de l'appli, note 4,7/5)",
+   "nouveau": true
+  },
+  {
+   "id": "freeprints-cadre",
+   "acces": "port",
+   "rayon": "maison",
+   "type": "cadeau",
+   "titre": "Photo-cadre 20x20 offert chaque mois (FreePrints Photo-Cadres)",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "7,99 € de port",
+   "coutNum": 7.99,
+   "sansCarte": false,
+   "qty": "1 cadre par mois",
+   "contenu": [
+    "1 photo encadrée 20x20 cm"
+   ],
+   "pieges": [
+    "Port fixe 7,99 €",
+    "Chaque cadre en plus coûte 9 €"
+   ],
+   "etapes": [
+    "Installe l'appli FreePrints Photo-Cadres",
+    "Choisis 1 seule photo en 20x20",
+    "Paie le port de 7,99 €"
+   ],
+   "fin": null,
+   "finTxt": "Permanent (1 par mois)",
+   "desc": "Une photo encadrée 20x20 offerte chaque mois, seul le port est payant.",
+   "conditions": "Port 7,99 € par commande.",
+   "lien": "https://www.freeprintsapp.fr/",
+   "source": "https://apps.apple.com/FR/app/id1377395757",
+   "avis": "Sympa en cadeau, mais 8 € de port : à prendre seulement si tu veux vraiment offrir un cadre.",
+   "emoji": "🖼️",
+   "fiabilite": "Officiel (fiche de l'appli)",
+   "nouveau": true
+  },
+  {
+   "contenu": [
     "30 tirages photo premium",
     "Retrait gratuit en magasin Fnac"
    ],
@@ -336,7 +940,7 @@
    "avis": "Moins de 10 centimes la photo : top pour des cadeaux de Noël, si tu passes près d'une Fnac.",
    "emoji": "🖼️",
    "fiabilite": "Fnac Photo",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "entremont",
@@ -529,6 +1133,44 @@
    "source": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-king-c-gillette-1-rasoir-ou-tondeuse-satisfait-ou-100-rembourse-33555/"
   },
   {
+   "id": "panasonic-sor",
+   "acces": "rembourse",
+   "rayon": "beaute",
+   "type": "remb",
+   "titre": "Rasoir, tondeuse, épilateur, sèche-cheveux ou brosse à dents Panasonic : 60 jours satisfait ou 100 % remboursé",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Prix du produit avancé, remboursé si tu le renvoies",
+   "coutNum": null,
+   "sansCarte": false,
+   "qty": "1 produit par foyer",
+   "contenu": [
+    "25 références Panasonic éligibles (rasoirs, tondeuses, épilateur, sèche-cheveux, brosses à dents, jets dentaires)"
+   ],
+   "pieges": [
+    "Ce n'est remboursé QUE si tu renvoies le produit complet dans sa boîte d'origine",
+    "Envoi postal à tes frais dans les 3 jours après l'inscription",
+    "Achats sur marketplace exclus",
+    "Vérifie l'EAN du produit dans la liste avant d'acheter"
+   ],
+   "etapes": [
+    "Achète un produit éligible chez Boulanger, Darty, Fnac, Rasoir-service.fr ou le store Panasonic",
+    "Inscris-toi sur le site de l'offre dans les 60 jours",
+    "Envoie sous 3 jours le produit complet + ticket original + RIB + motif",
+    "Virement sous 4 à 6 semaines"
+   ],
+   "fin": "2027-03-31T23:59:00+02:00",
+   "finTxt": "Achats jusqu'au 31 mars 2027",
+   "desc": "Tu testes un appareil Panasonic 60 jours ; s'il ne te plaît pas, tu le renvoies et tu es remboursé à 100 %.",
+   "conditions": "Achat neuf entre le 01/09/2026 et le 31/03/2027 en France métropolitaine, majeur, 1 dossier par foyer, essai de 60 jours.",
+   "lien": "https://je-participe.fr/offre_personalcare_2026/",
+   "source": "https://anti-crise.fr/les-offres-de-remboursement/offre-dessai-panasonic-rasoir-tondeuse-epilateur-seche-cheveux-ou-brosse-a-dents-satisfait-ou-100-rembourse-4794/",
+   "avis": "Sans risque si tu hésites à acheter une tondeuse, mais il faut tout renvoyer : ce n'est pas un produit gratuit.",
+   "emoji": "🪒",
+   "fiabilite": "Offre de la marque (opération 4794)",
+   "nouveau": true
+  },
+  {
    "id": "mapa",
    "acces": "rembourse",
    "rayon": "hygiene",
@@ -685,6 +1327,79 @@
    "coutNum": 0,
    "sansCarte": true,
    "source": "https://anti-crise.fr/les-offres-de-remboursement/offre-de-remboursement-king-c-gillette-1-soin-satisfait-ou-100-rembourse-33556/"
+  },
+  {
+   "id": "playmobil-3e",
+   "acces": "rembourse",
+   "rayon": "jouets",
+   "type": "remb",
+   "titre": "Playmobil : 3 jouets achetés, le moins cher 100 % remboursé",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Prix de 3 jouets, le moins cher remboursé",
+   "coutNum": null,
+   "sansCarte": false,
+   "qty": "1 demande par foyer",
+   "contenu": [
+    "Tous les jouets Playmobil sauf la gamme Sky Trails"
+   ],
+   "pieges": [
+    "Les 3 jouets doivent être sur le même ticket",
+    "Dernier jour d'achat : 23 novembre 2026",
+    "Seul le moins cher des trois est remboursé"
+   ],
+   "etapes": [
+    "Achète 3 Playmobil sur un même ticket avant le 23 nov. inclus",
+    "Inscris-toi sur le site de l'offre avant le 13 déc. 2026",
+    "Envoie photo du ticket + codes-barres",
+    "Virement sous 4 à 6 semaines"
+   ],
+   "fin": "2026-11-23T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 23 nov.",
+   "desc": "Pour les cadeaux de Noël : le Playmobil le moins cher des trois est remboursé.",
+   "conditions": "Achats du 1er oct. au 23 nov. 2026, inscription en ligne avant le 13 déc. 2026 (opération 32993).",
+   "lien": "https://playmobil2026.offre-promotionnelle.fr/",
+   "source": "https://www.bonne-promo.com/odr/playmobil/6828/3eme-jouet-rembourses",
+   "avis": "Intéressant seulement si tu dois offrir plusieurs Playmobil à Noël, et c'est la dernière ligne droite.",
+   "emoji": "🧸",
+   "fiabilite": "Offre de la marque (opération 32993)",
+   "nouveau": true
+  },
+  {
+   "id": "hisense-induction",
+   "acces": "rembourse",
+   "rayon": "maison",
+   "type": "remb",
+   "titre": "Plaque à induction Hisense : 60 jours satisfait ou remboursé",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "De 249,99 € à 1 599,99 € avancés, remboursés si tu renvoies",
+   "coutNum": 249.99,
+   "sansCarte": false,
+   "qty": "1 plaque par foyer",
+   "contenu": [
+    "13 modèles de plaques à induction Hisense (HI6311BSCE, HI601FM, HI6321BSC…)"
+   ],
+   "pieges": [
+    "Il faut renvoyer la plaque en excellent état, câble intact, dans son emballage",
+    "Le remboursement suppose de démonter la plaque si tu l'as fait installer",
+    "Marketplaces exclues, chaque IBAN une seule fois"
+   ],
+   "etapes": [
+    "Achète un modèle éligible chez un revendeur participant entre le 1er nov. 2026 et le 31 janv. 2027",
+    "Teste-la jusqu'à 60 jours",
+    "Si tu n'es pas convaincu, fais la demande sur promo.hisense.fr avant la fin des 60 jours (facture, n° de série, RIB, 5 lignes d'explication)"
+   ],
+   "fin": "2027-01-31T23:59:00+01:00",
+   "finTxt": "Achats jusqu'au 31 janv. 2027",
+   "desc": "Plaque induction Hisense à essayer 60 jours, remboursée intégralement si tu la rends.",
+   "conditions": "Produit neuf, revendeur participant (magasin ou son site), modèle exact sur la facture.",
+   "lien": "https://promo.hisense.fr",
+   "source": "https://www.bonne-promo.com/odr/hisense/8099/hisense-satisfait-ou-rembourse-plaque-induction",
+   "avis": "Utile seulement si tu as vraiment besoin d'une plaque ; sinon passe ton tour.",
+   "emoji": "🍳",
+   "fiabilite": "Offre de la marque",
+   "nouveau": true
   },
   {
    "id": "cruz",
@@ -989,13 +1704,57 @@
    "lien": "https://www.amazon.fr/amazonprime?primeCampaignId=studentWlpPrimeRedir",
    "source": "https://www.economiematin.fr/?p=242547",
    "prixApres": "3,49 €/mois",
-   "resilierLe": "2027-02-18",
-   "resilierTxt": "avant le 18 févr. 2027 (J+90)",
+   "resilierLe": "2027-02-19",
+   "resilierTxt": "avant le 19 févr. 2027 (J+89, par sécurité)",
    "resilier": "Votre compte Amazon > Gérer mon abonnement Prime > Mettre fin à l'abonnement.",
    "avis": "La meilleure offre livraison pour toi : 3 mois de livraison gratuite sans minimum pendant le Black Friday et Noël.",
    "emoji": "📦",
    "fiabilite": "Amazon",
-   "nouveau": true
+   "nouveau": false
+  },
+  {
+   "acces": "abonnement",
+   "rayon": "services",
+   "type": "essai",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "1 € (carte SIM)",
+   "coutNum": 1,
+   "sansCarte": false,
+   "qty": "3 mois",
+   "contenu": [
+    "Forfait 100 Go 5G offert 3 mois (puis 9,99 €/mois)",
+    "Ou 10 Go (puis 7,99 €) ou 1 Go (puis 1,99 €, SIM à 5 €)"
+   ],
+   "pieges": [
+    "N'oublie pas de te désabonner",
+    "Payant dès le 4e mois",
+    "5 € de frais de résiliation",
+    "Carte bancaire demandée",
+    "Nouveaux clients seulement"
+   ],
+   "etapes": [
+    "Va sur le site Cdiscount Mobile",
+    "Choisis le forfait 100 Go (ou 1 Go si tu veux juste un 2e numéro pas cher)",
+    "Souscris avant le 30 nov.",
+    "Garde ton numéro avec le code RIO si tu changes"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "desc": "3 mois de forfait mobile sans payer, sans engagement.",
+   "conditions": "Nouveaux abonnés, souscription du 19 au 30 nov. 2026",
+   "lien": "https://www.cdiscount-mobile.com/",
+   "source": "https://www.ariase.com/mobile/actualite/black-friday-cdiscount-mobile-offre-trois-mois-gratuits-sur-ses-forfaits-dont-le-100-go-5g",
+   "avis": "Si ton forfait actuel te coûte, ça fait 3 mois de gagnés pour 1 € ; 9,99 € ensuite reste correct pour 100 Go.",
+   "emoji": "📶",
+   "fiabilite": "Ariase + Echos du Net (19-21 nov.)",
+   "nouveau": true,
+   "id": "cdiscount-mobile-3mois",
+   "titre": "Forfait Cdiscount Mobile 100 Go 5G – 3 mois gratuits",
+   "prixApres": "9,99 €/mois (100 Go)",
+   "resilierLe": "2027-02-21",
+   "resilierTxt": "Avant la fin du 3e mois (vers le 22 févr.)",
+   "resilier": "Espace client Cdiscount Mobile ou en partant chez un autre opérateur avec ton RIO (5 € de frais)."
   },
   {
    "contenu": [
@@ -1028,16 +1787,56 @@
    "coutNum": 0,
    "finTxt": "Inscription jusqu'au 31 déc. 2026",
    "desc": "Si tu es étudiant, Google offre 1 an de Google AI Plus.",
-   "lien": "https://gemini.google/mc/students/?hl=fr",
+   "lien": "https://gemini.google/fr/students/?hl=fr-FR",
    "source": "https://selectra.info/telecom/actualites/marche/google-ai-plus-etudiants-un-an-offert-conditions",
    "prixApres": "4,99 €/mois",
-   "resilierLe": "2027-11-20",
-   "resilierTxt": "avant le 20 nov. 2027",
+   "resilierLe": "2027-11-21",
+   "resilierTxt": "avant le 21 nov. 2027 (12 mois − 1 jour, par sécurité)",
    "resilier": "Depuis ton compte Google (Google One > Gérer l'abonnement > Annuler).",
    "avis": "Seulement si tu es étudiant : un an entier gratuit, c'est rare.",
    "emoji": "🎓",
    "fiabilite": "Google",
-   "nouveau": true
+   "nouveau": false
+  },
+  {
+   "contenu": [],
+   "pieges": [
+    "Seulement si tu n'as jamais eu Spotify Premium",
+    "Abonnement Personnel uniquement",
+    "Carte bancaire demandée",
+    "Passe bien par CE lien : la page Premium classique n'affiche que 3 mois (revérifié le 21 nov.)",
+    "N'oublie pas de te désabonner"
+   ],
+   "etapes": [
+    "Ouvre la page de l'offre Spotify",
+    "Choisis Premium Personnel et crée ou connecte ton compte",
+    "Note la date J+120 et résilie avant si tu ne veux pas payer"
+   ],
+   "conditions": "Carte bancaire : Oui",
+   "qty": "4 mois",
+   "gratuit": false,
+   "sansCarte": false,
+   "fin": "2027-11-03T23:59:00+01:00",
+   "id": "spotify",
+   "acces": "abonnement",
+   "rayon": "abo",
+   "type": "essai",
+   "titre": "Spotify Premium – 4 mois",
+   "rarete": "epi",
+   "cout": "0 €",
+   "coutNum": 0,
+   "finTxt": "Offre jusqu'au 3 nov. 2027",
+   "desc": "Offre officielle : 4 mois de Premium offerts aux nouveaux membres (abonnement Personnel), sans engagement.",
+   "lien": "https://www.spotify.com/fr/ppt/hm4m/",
+   "source": "https://www.spotify.com/fr/ppt/hm4m/",
+   "prixApres": "12,14 €/mois",
+   "resilierLe": "2027-03-21",
+   "resilierTxt": "avant le 21 mars 2027 (4 mois − 1 jour, par sécurité)",
+   "resilier": "Sur spotify.com > Compte > Gérer ton abonnement > Annuler Premium.",
+   "avis": "Le plus long essai musique du moment. Seulement si tu n'as jamais eu Premium.",
+   "emoji": "🎵",
+   "fiabilite": "Spotify",
+   "nouveau": false
   },
   {
    "contenu": [
@@ -1074,52 +1873,12 @@
    "lien": "https://www.bouyguestelecom.fr/telephones-mobiles/google-gemini-ai",
    "source": "https://www.edcom.fr/actualites/bouygues-telecom-fait-un-cadeau-a-ses-clients-six-mois-de-google-ai-plus-offerts-meme-chez-b-you",
    "prixApres": "4,99 €/mois",
-   "resilierLe": "2027-05-20",
-   "resilierTxt": "avant le 20 mai 2027 (Bouygues t'envoie un rappel 10 jours avant)",
+   "resilierLe": "2027-05-21",
+   "resilierTxt": "avant le 21 mai 2027 (6 mois − 1 jour, par sécurité)",
    "resilier": "Depuis ton compte Google (Google One > Gérer l'abonnement > Annuler).",
    "avis": "Si tu as un forfait Bouygues ou B&You, c'est 400 Go gratuits pendant 6 mois : prends.",
    "emoji": "🤖",
    "fiabilite": "Bouygues Telecom",
-   "nouveau": true
-  },
-  {
-   "contenu": [],
-   "pieges": [
-    "Seulement si tu n'as jamais eu Spotify Premium",
-    "Abonnement Personnel uniquement",
-    "Carte bancaire demandée",
-    "Passe bien par CE lien : la page Premium classique n'affiche que 3 mois (revérifié le 21 nov.)",
-    "N'oublie pas de te désabonner"
-   ],
-   "etapes": [
-    "Ouvre la page de l'offre Spotify",
-    "Choisis Premium Personnel et crée ou connecte ton compte",
-    "Note la date J+120 et résilie avant si tu ne veux pas payer"
-   ],
-   "conditions": "Carte bancaire : Oui",
-   "qty": "4 mois",
-   "gratuit": false,
-   "sansCarte": false,
-   "fin": "2027-11-03T23:59:00+01:00",
-   "id": "spotify",
-   "acces": "abonnement",
-   "rayon": "abo",
-   "type": "essai",
-   "titre": "Spotify Premium – 4 mois",
-   "rarete": "epi",
-   "cout": "0 €",
-   "coutNum": 0,
-   "finTxt": "Offre jusqu'au 3 nov. 2027",
-   "desc": "Offre officielle : 4 mois de Premium offerts aux nouveaux membres (abonnement Personnel), sans engagement.",
-   "lien": "https://www.spotify.com/fr/ppt/hm4m/",
-   "source": "https://www.spotify.com/fr/ppt/hm4m/",
-   "prixApres": "12,14 €/mois",
-   "resilierLe": "2027-03-20",
-   "resilierTxt": "avant le 20 mars 2027 (J+120)",
-   "resilier": "Sur spotify.com > Compte > Gérer ton abonnement > Annuler Premium.",
-   "avis": "Le plus long essai musique du moment. Seulement si tu n'as jamais eu Premium.",
-   "emoji": "🎵",
-   "fiabilite": "Spotify",
    "nouveau": false
   },
   {
@@ -1170,178 +1929,6 @@
    "resilier": "Dans ton espace client Biotyfull, rubrique abonnement, clique sur résilier et garde l'e-mail de confirmation."
   },
   {
-   "contenu": [
-    "Accès au catalogue de livres audio et podcasts Audible"
-   ],
-   "pieges": [
-    "Nouveaux membres",
-    "Carte bancaire demandée",
-    "5,99 €/mois ensuite si tu ne résilies pas",
-    "Autre offre en ce moment : 0,99 €/mois pendant 3 mois (jusqu'au 28 déc.)",
-    "N'oublie pas de te désabonner"
-   ],
-   "etapes": [
-    "Ouvre la page d'essai Audible",
-    "Connecte-toi avec ton compte Amazon",
-    "Note la date J+30 et résilie avant"
-   ],
-   "conditions": "Carte bancaire : Oui",
-   "qty": "30 jours",
-   "gratuit": false,
-   "sansCarte": false,
-   "fin": "2026-12-28T23:59:00+01:00",
-   "id": "audible",
-   "acces": "abonnement",
-   "rayon": "culture",
-   "type": "essai",
-   "titre": "Audible – 30 jours gratuits (livres audio)",
-   "rarete": "rar",
-   "cout": "0 €",
-   "coutNum": 0,
-   "finTxt": "Offre 0,99 € jusqu'au 28 déc. ; essai 30 jours sans date",
-   "desc": "30 jours de livres audio gratuits sur Audible (60 jours si tu as Prime).",
-   "lien": "https://www.audible.fr/ep/essai-gratuit",
-   "source": "https://www.audible.fr/",
-   "prixApres": "5,99 €/mois",
-   "resilierLe": "2026-12-20",
-   "resilierTxt": "avant le 20 déc. (J+30)",
-   "resilier": "Sur audible.fr > Détails du compte > Résilier l'abonnement (pas depuis l'appli iPhone).",
-   "avis": "Parfait pour les trajets en bus. Si tu prends Prime 18-24 ans avant, tu as 60 jours au lieu de 30.",
-   "emoji": "🎧",
-   "fiabilite": "Audible",
-   "nouveau": true
-  },
-  {
-   "contenu": [],
-   "pieges": [
-    "Ton Premium doit être fini depuis plus de 30 jours",
-    "Pas d'offre fidélité Spotify utilisée ces 24 derniers mois",
-    "Sous réserve de disponibilité",
-    "Carte bancaire demandée",
-    "N'oublie pas de te désabonner"
-   ],
-   "etapes": [
-    "Ouvre la page de l'offre (partenariat Opera)",
-    "Connecte ton ancien compte Spotify",
-    "Note la date J+60 et résilie avant"
-   ],
-   "conditions": "Carte bancaire : Oui",
-   "qty": "2 mois",
-   "gratuit": false,
-   "sansCarte": false,
-   "fin": null,
-   "id": "spotify-anciens",
-   "acces": "abonnement",
-   "rayon": "abo",
-   "type": "essai",
-   "titre": "Spotify Premium – 2 mois pour les anciens abonnés",
-   "rarete": "rar",
-   "cout": "0 €",
-   "coutNum": 0,
-   "finTxt": "Pas de date de fin pour les anciens abonnés",
-   "desc": "Tu as déjà eu Premium ? Cette page officielle t'offre quand même 2 mois (3 mois si tu ne l'as jamais eu).",
-   "lien": "https://www.spotify.com/fr/ppt/opera/",
-   "source": "https://www.spotify.com/fr/ppt/opera/",
-   "prixApres": "12,14 €/mois",
-   "resilierLe": "2027-01-20",
-   "resilierTxt": "avant le 20 janv. 2027 (J+60)",
-   "resilier": "Sur spotify.com > Compte > Gérer ton abonnement > Annuler Premium.",
-   "avis": "Rare : un essai gratuit qui marche aussi pour les anciens abonnés.",
-   "emoji": "🎵",
-   "fiabilite": "Spotify",
-   "nouveau": true
-  },
-  {
-   "contenu": [
-    "Disney+ 3 mois (Pop, Ultra Essentiel, Révolution Light)",
-    "HBO Max 3 mois (Ultra, Ultra Essentiel, Pop)",
-    "Amazon Prime 3 mois (Pop, Ultra Essentiel)",
-    "CANAL+ La Chaîne 3 mois (Pop, Ultra Essentiel)",
-    "Cafeyn (presse) 3 mois",
-    "YouTube Premium 2 mois",
-    "Paramount+ 1 mois"
-   ],
-   "pieges": [
-    "Réservé aux abonnés Freebox, selon la box",
-    "Chaque service devient payant après la période offerte",
-    "Durée limitée, pas de date de fin annoncée",
-    "N'oublie pas de te désabonner"
-   ],
-   "etapes": [
-    "Va dans ton Espace Abonné Freebox",
-    "Active le service voulu",
-    "Note la date de fin de chaque service et résilie avant"
-   ],
-   "conditions": "Abonnement Freebox requis",
-   "qty": "3 mois par service",
-   "gratuit": false,
-   "sansCarte": false,
-   "fin": null,
-   "id": "freebox-streaming",
-   "acces": "abonnement",
-   "rayon": "abo",
-   "type": "essai",
-   "titre": "Abonnés Freebox : Disney+, HBO Max, Prime, Canal+, Cafeyn 3 mois offerts",
-   "rarete": "rar",
-   "cout": "0 € (si tu as une Freebox)",
-   "coutNum": 0,
-   "finTxt": "Durée limitée (annoncé le 11 nov.)",
-   "desc": "Free multiplie les mois offerts pour ses abonnés Freebox : streaming et presse gratuits plusieurs mois.",
-   "lien": "https://portail.free.fr/mag-free/nouveautes/youtube-premium-free-1-mois-offert/",
-   "source": "https://www.universfreebox.com/article601271.html",
-   "prixApres": "6,99 €/mois (Disney+ pub), 6,99 € (Prime), 15,99 € (Canal+), 9,99 € (Cafeyn)",
-   "resilierLe": "2027-02-20",
-   "resilierTxt": "avant le 20 févr. 2027 (J+90)",
-   "resilier": "Dans ton Espace Abonné Freebox, rubrique de chaque service > Résilier.",
-   "avis": "Si tu as une Freebox (ou si ta coloc en a une), active-les un par un pour ne pas tout payer en même temps.",
-   "emoji": "📺",
-   "fiabilite": "Free",
-   "nouveau": true
-  },
-  {
-   "contenu": [
-    "Livraison gratuite Uber Eats dès 12 €",
-    "Jusqu'à −50 % sur les frais de service",
-    "Crédits sur les courses Uber"
-   ],
-   "pieges": [
-    "Réservé aux étudiants (vérification SheerID)",
-    "Première souscription Uber One uniquement",
-    "Commande minimum 12 € pour la livraison gratuite",
-    "N'oublie pas de te désabonner"
-   ],
-   "etapes": [
-    "Ouvre la page Uber One Étudiants",
-    "Fais vérifier ton statut étudiant",
-    "Annule dans l'appli au plus tard 24 h avant la facturation"
-   ],
-   "conditions": "Carte bancaire : Oui ; statut étudiant",
-   "qty": "4 semaines",
-   "gratuit": false,
-   "sansCarte": false,
-   "fin": null,
-   "id": "uber-one-etudiant",
-   "acces": "abonnement",
-   "rayon": "livraison",
-   "type": "essai",
-   "titre": "Uber One étudiant – 4 semaines gratuites",
-   "rarete": "rar",
-   "cout": "0 €",
-   "coutNum": 0,
-   "finTxt": "Pas de date limite",
-   "desc": "Si tu es étudiant : 4 semaines d'Uber One gratuites, puis seulement 3,99 €/mois.",
-   "lien": "https://www.uber.com/fr/fr/uber-one/student/",
-   "source": "https://www.uber.com/fr/fr/uber-one/student/",
-   "prixApres": "3,99 €/mois",
-   "resilierLe": "2026-12-18",
-   "resilierTxt": "avant le 18 déc. (24 h avant la fin)",
-   "resilier": "Dans l'appli Uber > Compte > Uber One > Gérer l'abonnement > Annuler.",
-   "avis": "Si tu commandes de temps en temps sur Uber Eats, ça rembourse vite les frais.",
-   "emoji": "🛵",
-   "fiabilite": "Uber",
-   "nouveau": true
-  },
-  {
    "gratuit": false,
    "sansCarte": false,
    "nouveau": false,
@@ -1388,6 +1975,48 @@
    "resilierLe": "2026-12-12",
    "resilierTxt": "avant le 12 déc.",
    "resilier": "Dans ton compte Blissim, rubrique abonnement, clique sur résilier avant le 12 du mois."
+  },
+  {
+   "contenu": [
+    "Accès au catalogue de livres audio et podcasts Audible"
+   ],
+   "pieges": [
+    "Nouveaux membres",
+    "Carte bancaire demandée",
+    "5,99 €/mois ensuite si tu ne résilies pas",
+    "Autre offre en ce moment : 0,99 €/mois pendant 3 mois (jusqu'au 28 déc.)",
+    "N'oublie pas de te désabonner"
+   ],
+   "etapes": [
+    "Ouvre la page d'essai Audible",
+    "Connecte-toi avec ton compte Amazon",
+    "Note la date J+30 et résilie avant"
+   ],
+   "conditions": "Carte bancaire : Oui",
+   "qty": "30 jours",
+   "gratuit": false,
+   "sansCarte": false,
+   "fin": "2026-12-28T23:59:00+01:00",
+   "id": "audible",
+   "acces": "abonnement",
+   "rayon": "culture",
+   "type": "essai",
+   "titre": "Audible – 30 jours gratuits (livres audio)",
+   "rarete": "rar",
+   "cout": "0 €",
+   "coutNum": 0,
+   "finTxt": "Offre 0,99 € jusqu'au 28 déc. ; essai 30 jours sans date",
+   "desc": "30 jours de livres audio gratuits sur Audible (60 jours si tu as Prime).",
+   "lien": "https://www.audible.fr/ep/essai-gratuit",
+   "source": "https://www.audible.fr/",
+   "prixApres": "5,99 €/mois",
+   "resilierLe": "2026-12-21",
+   "resilierTxt": "avant le 21 déc. (J+29, par sécurité)",
+   "resilier": "Sur audible.fr > Détails du compte > Résilier l'abonnement (pas depuis l'appli iPhone).",
+   "avis": "Parfait pour les trajets en bus. Si tu prends Prime 18-24 ans avant, tu as 60 jours au lieu de 30.",
+   "emoji": "🎧",
+   "fiabilite": "Audible",
+   "nouveau": false
   },
   {
    "gratuit": false,
@@ -1475,6 +2104,136 @@
    "resilierLe": null,
    "resilierTxt": "avant 23 h 59 à la date affichée dans « Mon Menu »",
    "resilier": "Dans ton compte HelloFresh, Paramètres du plan, annule l'abonnement avant la date limite de « Mon Menu »."
+  },
+  {
+   "contenu": [],
+   "pieges": [
+    "Ton Premium doit être fini depuis plus de 30 jours",
+    "Pas d'offre fidélité Spotify utilisée ces 24 derniers mois",
+    "Sous réserve de disponibilité",
+    "Carte bancaire demandée",
+    "N'oublie pas de te désabonner"
+   ],
+   "etapes": [
+    "Ouvre la page de l'offre (partenariat Opera)",
+    "Connecte ton ancien compte Spotify",
+    "Note la date J+60 et résilie avant"
+   ],
+   "conditions": "Carte bancaire : Oui",
+   "qty": "2 mois",
+   "gratuit": false,
+   "sansCarte": false,
+   "fin": null,
+   "id": "spotify-anciens",
+   "acces": "abonnement",
+   "rayon": "abo",
+   "type": "essai",
+   "titre": "Spotify Premium – 2 mois pour les anciens abonnés",
+   "rarete": "rar",
+   "cout": "0 €",
+   "coutNum": 0,
+   "finTxt": "Pas de date de fin pour les anciens abonnés",
+   "desc": "Tu as déjà eu Premium ? Cette page officielle t'offre quand même 2 mois (3 mois si tu ne l'as jamais eu).",
+   "lien": "https://www.spotify.com/fr/ppt/opera/",
+   "source": "https://www.spotify.com/fr/ppt/opera/",
+   "prixApres": "12,14 €/mois",
+   "resilierLe": "2027-01-21",
+   "resilierTxt": "avant le 21 janv. 2027 (2 mois − 1 jour, par sécurité)",
+   "resilier": "Sur spotify.com > Compte > Gérer ton abonnement > Annuler Premium.",
+   "avis": "Rare : un essai gratuit qui marche aussi pour les anciens abonnés.",
+   "emoji": "🎵",
+   "fiabilite": "Spotify",
+   "nouveau": false
+  },
+  {
+   "contenu": [
+    "Disney+ 3 mois (Pop, Ultra Essentiel, Révolution Light)",
+    "HBO Max 3 mois (Ultra, Ultra Essentiel, Pop)",
+    "Amazon Prime 3 mois (Pop, Ultra Essentiel)",
+    "CANAL+ La Chaîne 3 mois (Pop, Ultra Essentiel)",
+    "Cafeyn (presse) 3 mois",
+    "YouTube Premium 2 mois",
+    "Paramount+ 1 mois"
+   ],
+   "pieges": [
+    "Réservé aux abonnés Freebox, selon la box",
+    "Chaque service devient payant après la période offerte",
+    "Durée limitée, pas de date de fin annoncée",
+    "N'oublie pas de te désabonner"
+   ],
+   "etapes": [
+    "Va dans ton Espace Abonné Freebox",
+    "Active le service voulu",
+    "Note la date de fin de chaque service et résilie avant"
+   ],
+   "conditions": "Abonnement Freebox requis",
+   "qty": "3 mois par service",
+   "gratuit": false,
+   "sansCarte": false,
+   "fin": null,
+   "id": "freebox-streaming",
+   "acces": "abonnement",
+   "rayon": "abo",
+   "type": "essai",
+   "titre": "Abonnés Freebox : Disney+, HBO Max, Prime, Canal+, Cafeyn 3 mois offerts",
+   "rarete": "rar",
+   "cout": "0 € (si tu as une Freebox)",
+   "coutNum": 0,
+   "finTxt": "Durée limitée (annoncé le 11 nov.)",
+   "desc": "Free multiplie les mois offerts pour ses abonnés Freebox : streaming et presse gratuits plusieurs mois.",
+   "lien": "https://portail.free.fr/mag-free/bons-plans/disney-plus-3-mois-inclus-freebox/",
+   "source": "https://www.universfreebox.com/article601271.html",
+   "prixApres": "6,99 €/mois (Disney+ pub), 6,99 € (Prime), 15,99 € (Canal+), 9,99 € (Cafeyn)",
+   "resilierLe": "2027-02-21",
+   "resilierTxt": "avant le 21 févr. 2027 (3 mois − 1 jour, par sécurité)",
+   "resilier": "Dans ton Espace Abonné Freebox, rubrique de chaque service > Résilier.",
+   "avis": "Si tu as une Freebox (ou si ta coloc en a une), active-les un par un pour ne pas tout payer en même temps.",
+   "emoji": "📺",
+   "fiabilite": "Free",
+   "nouveau": false
+  },
+  {
+   "contenu": [
+    "Livraison gratuite Uber Eats dès 12 €",
+    "Jusqu'à −50 % sur les frais de service",
+    "Crédits sur les courses Uber"
+   ],
+   "pieges": [
+    "Réservé aux étudiants (vérification SheerID)",
+    "Première souscription Uber One uniquement",
+    "Commande minimum 12 € pour la livraison gratuite",
+    "N'oublie pas de te désabonner"
+   ],
+   "etapes": [
+    "Ouvre la page Uber One Étudiants",
+    "Fais vérifier ton statut étudiant",
+    "Annule dans l'appli au plus tard 24 h avant la facturation"
+   ],
+   "conditions": "Carte bancaire : Oui ; statut étudiant",
+   "qty": "4 semaines",
+   "gratuit": false,
+   "sansCarte": false,
+   "fin": null,
+   "id": "uber-one-etudiant",
+   "acces": "abonnement",
+   "rayon": "livraison",
+   "type": "essai",
+   "titre": "Uber One étudiant – 4 semaines gratuites",
+   "rarete": "rar",
+   "cout": "0 €",
+   "coutNum": 0,
+   "finTxt": "Pas de date limite",
+   "desc": "Si tu es étudiant : 4 semaines d'Uber One gratuites, puis seulement 3,99 €/mois.",
+   "lien": "https://www.uber.com/fr/fr/uber-one/student/",
+   "source": "https://www.uber.com/fr/fr/uber-one/student/",
+   "prixApres": "3,99 €/mois",
+   "resilierLe": "2026-12-19",
+   "resilierTxt": "avant le 19 déc. (J+27, 24 h avant la fin, par sécurité)",
+   "resilier": "Dans l'appli Uber > Compte > Uber One > Gérer l'abonnement > Annuler.",
+   "avis": "Si tu commandes de temps en temps sur Uber Eats, ça rembourse vite les frais.",
+   "emoji": "🛵",
+   "fiabilite": "Uber",
+   "nouveau": false
   },
   {
    "gratuit": false,
@@ -1565,6 +2324,131 @@
    "resilier": "Dans ton compte Tokyo Snack Box, désactive le renouvellement automatique."
   },
   {
+   "id": "lafourche-essai-jepasseaubio",
+   "acces": "abonnement",
+   "rayon": "bouffe",
+   "type": "essai",
+   "titre": "La Fourche : 30 jours d'essai gratuit + -22 € sur l'adhésion",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € pendant 30 jours (courses à payer)",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "30 jours",
+   "contenu": [
+    "30 jours d'adhésion gratuits aux prix membres",
+    "Code JEPASSEAUBIO : l'adhésion passe de 59,90 € à 37,90 € ensuite"
+   ],
+   "pieges": [
+    "N'oublie pas de te désabonner",
+    "L'essai ne donne rien de gratuit : il te donne juste les prix membres sur tes courses",
+    "Le code n'est valable que jusqu'au 30 novembre"
+   ],
+   "etapes": [
+    "Ouvre la page des codes promo",
+    "Clique sur « J'essaye GRATUITEMENT »",
+    "Entre ton e-mail et un mot de passe",
+    "Choisis « J'ai un code promo » et tape JEPASSEAUBIO"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Code jusqu'au 30 nov.",
+   "desc": "Un mois pour tester l'épicerie bio La Fourche aux prix membres, avec 22 € de remise sur l'adhésion si tu restes.",
+   "conditions": "Nouveaux membres. Code JEPASSEAUBIO valable jusqu'au 30/11/2026.",
+   "lien": "https://lafourche.fr/lp/code-promo",
+   "source": "https://lafourche.fr/pages/comment-ca-marche",
+   "prixApres": "37,90 €/an avec le code (59,90 €/an sans)",
+   "resilierLe": "2026-12-21T23:59:00+01:00",
+   "resilierTxt": "avant le 21 déc. (fin des 30 jours)",
+   "resilier": "Annule l'adhésion depuis ton compte La Fourche (rubrique Mon adhésion) avant la fin des 30 jours.",
+   "avis": "Utile seulement si tu fais une grosse commande pendant le mois d'essai. Si tu as droit à l'adhésion offerte (étudiant, CAF), prends plutôt celle-là.",
+   "emoji": "🥕",
+   "fiabilite": "Site officiel",
+   "nouveau": true
+  },
+  {
+   "acces": "abonnement",
+   "rayon": "abo",
+   "type": "essai",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € pendant 7 jours",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "7 jours",
+   "contenu": [
+    "Films d'auteur et classiques choisis à la main"
+   ],
+   "pieges": [
+    "N'oublie pas de te désabonner",
+    "Carte bancaire demandée",
+    "Payant dès le 8e jour"
+   ],
+   "etapes": [
+    "Ouvre la page",
+    "Lance l'essai de 7 jours",
+    "Mets un rappel le 28 nov.",
+    "Résilie dans ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente",
+   "desc": "Une semaine de cinéma d'auteur offerte.",
+   "conditions": "Nouveaux membres",
+   "lien": "https://mubi.com/fr/memberships",
+   "source": "https://mubi.com/fr/memberships",
+   "avis": "Bien pour un week-end ciné, mais pense à couper avant le 29.",
+   "emoji": "🎬",
+   "fiabilite": "Officiel",
+   "nouveau": true,
+   "id": "mubi-7j",
+   "titre": "MUBI – 7 jours gratuits (cinéma d'auteur)",
+   "prixApres": "Environ 10 à 15 €/mois",
+   "resilierLe": "2026-11-28",
+   "resilierTxt": "Avant le 29 nov.",
+   "resilier": "Compte MUBI > Abonnement > Résilier (résiliable à tout moment)."
+  },
+  {
+   "acces": "abonnement",
+   "rayon": "culture",
+   "type": "essai",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € pendant l'essai",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "14 à 30 jours",
+   "contenu": [
+    "Catalogue d'ebooks (et livres audio avec la formule Lire et Écouter)"
+   ],
+   "pieges": [
+    "N'oublie pas de te désabonner",
+    "Carte bancaire et adresse demandées (cartes prépayées refusées)",
+    "Tu perds l'accès aux livres Kobo Plus en résiliant",
+    "Durée d'essai : 14 jours via Fnac, jusqu'à 30 jours selon les sources"
+   ],
+   "etapes": [
+    "Crée un compte Kobo",
+    "Lance l'essai depuis un livre Kobo Plus",
+    "Mets un rappel 2 jours avant la fin",
+    "Résilie dans Mon compte > Mes abonnements"
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente",
+   "desc": "Lis et écoute en illimité pendant l'essai.",
+   "conditions": "Nouveaux abonnés",
+   "lien": "https://help.kobo.com/hc/fr/articles/360018976153",
+   "source": "https://www.spliiit.com/blog/lecture-audiobooks-abonnement-guide-2026",
+   "avis": "Moins utile que les 500 ebooks gratuits de la Fnac, à garder pour plus tard.",
+   "emoji": "📱",
+   "fiabilite": "Aide officielle Kobo",
+   "nouveau": true,
+   "id": "kobo-plus-essai",
+   "titre": "Kobo Plus – essai gratuit (ebooks et livres audio illimités)",
+   "prixApres": "9,99 €/mois",
+   "resilierLe": "2026-12-05",
+   "resilierTxt": "Avant le 6 déc. (si essai de 14 jours)",
+   "resilier": "kobo.com > Mon compte > Mes abonnements > Annuler, ou appli Android > Paramètres > Abonnement Kobo Plus."
+  },
+  {
    "contenu": [
     "Livraison gratuite",
     "Prime Video",
@@ -1600,18 +2484,18 @@
    "lien": "https://www.amazon.fr/amazonprime",
    "source": "https://www.economiematin.fr/?p=242547",
    "prixApres": "6,99 €/mois",
-   "resilierLe": "2026-12-20",
-   "resilierTxt": "avant le 20 déc. (J+30)",
+   "resilierLe": "2026-12-21",
+   "resilierTxt": "avant le 21 déc. (J+29, par sécurité)",
    "resilier": "Votre compte Amazon > Gérer mon abonnement Prime > Mettre fin à l'abonnement.",
    "avis": "Pour toi l'offre 18-24 ans est 3 fois plus longue ; garde celle-ci si elle ne marche pas.",
    "emoji": "📦",
    "fiabilite": "Amazon",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui. Code CELADON à entrer à la commande.",
    "fin": "2026-11-30T23:59:00+01:00",
    "id": "blissim-celadon",
@@ -1655,7 +2539,7 @@
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui. Code ENSORCELANTE à entrer à la commande.",
    "fin": "2026-11-30T23:59:00+01:00",
    "id": "blissim-garancia",
@@ -1699,7 +2583,7 @@
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui",
    "fin": "2026-12-31T23:59:00+01:00",
    "id": "mademoiselle-bio",
@@ -1745,7 +2629,7 @@
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui. Minimum 61 € par commande.",
    "fin": "2027-01-31T23:59:00+01:00",
    "id": "quitoque",
@@ -1816,13 +2700,13 @@
    "lien": "https://portail.free.fr/mag-free/nouveautes/youtube-premium-free-1-mois-offert/",
    "source": "https://portail.free.fr/mag-free/nouveautes/youtube-premium-free-1-mois-offert/",
    "prixApres": "11,99 €/mois",
-   "resilierLe": "2027-01-20",
-   "resilierTxt": "avant le 20 janv. 2027 (J+60)",
+   "resilierLe": "2027-01-21",
+   "resilierTxt": "avant le 21 janv. 2027 (2 mois − 1 jour, par sécurité)",
    "resilier": "Dans ton Espace Abonné Free > Mes options > YouTube Premium > Résilier.",
    "avis": "Ça marche aussi avec le forfait Free Mobile, pas besoin de box.",
    "emoji": "▶️",
    "fiabilite": "Free",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "contenu": [
@@ -1865,7 +2749,7 @@
    "avis": "Prends-le seulement la semaine où tu commandes, et annule direct après l'inscription.",
    "emoji": "🛵",
    "fiabilite": "Uber",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "contenu": [
@@ -1900,13 +2784,13 @@
    "lien": "https://www.cdiscount.com/cdav",
    "source": "https://www.cdiscount.com/cdav",
    "prixApres": "29 €/an",
-   "resilierLe": "2026-11-26",
-   "resilierTxt": "avant le 26 nov.",
+   "resilierLe": "2026-11-27",
+   "resilierTxt": "avant le 27 nov. (J+5, par sécurité)",
    "resilier": "Sur cdiscount.com > Mon compte > Cdiscount à volonté > Résilier.",
    "avis": "Prends-le le jour où tu commandes (ex. le 27 pour le Black Friday), pas avant.",
    "emoji": "🚚",
    "fiabilite": "Cdiscount",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "contenu": [],
@@ -1939,18 +2823,18 @@
    "lien": "https://www.apple.com/fr/apple-tv/",
    "source": "https://www.apple.com/fr/apple-tv/",
    "prixApres": "9,99 €/mois",
-   "resilierLe": "2026-11-27",
-   "resilierTxt": "avant le 27 nov.",
+   "resilierLe": "2026-11-28",
+   "resilierTxt": "avant le 28 nov. (J+6, par sécurité)",
    "resilier": "Réglages > ton nom > Abonnements > Apple TV > Annuler.",
    "avis": "Court, mais assez pour binger une série. Annule dès l'inscription.",
    "emoji": "🍎",
    "fiabilite": "Apple",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui",
    "fin": null,
    "id": "tresors-du-monde",
@@ -1994,7 +2878,7 @@
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui",
    "fin": null,
    "id": "la-the-box",
@@ -2065,8 +2949,8 @@
    "lien": "https://www.qobuz.com/fr-fr/music/streaming/offers",
    "source": "https://www.qobuz.com/fr-fr/music/streaming/offers",
    "prixApres": "à partir de 12,49 €/mois",
-   "resilierLe": "2026-12-20",
-   "resilierTxt": "avant le 20 déc. (J+30)",
+   "resilierLe": "2026-12-21",
+   "resilierTxt": "avant le 21 déc. (J+29, par sécurité)",
    "resilier": "Sur qobuz.com > Mon compte > Mon abonnement > Résilier.",
    "avis": "Son de super qualité, mais seulement 1 mois maintenant (et non plus 60 jours).",
    "emoji": "🎼",
@@ -2104,8 +2988,8 @@
    "lien": "https://www.deezer.com/fr/offers/premium",
    "source": "https://www.deezer.com/fr/offers/premium",
    "prixApres": "11,99 €/mois",
-   "resilierLe": "2026-12-19",
-   "resilierTxt": "avant le 19 déc. (48 h avant la fin)",
+   "resilierLe": "2026-12-20",
+   "resilierTxt": "avant le 20 déc. (48 h avant la fin, par sécurité)",
    "resilier": "Sur deezer.com > Paramètres du compte > Mon abonnement > Résilier.",
    "avis": "Petit essai, mais sans piège si tu résilies 2 jours avant.",
    "emoji": "🎧",
@@ -2147,8 +3031,8 @@
    "lien": "https://www.playstation.com/fr-fr/ps-plus/perks/",
    "source": "https://www.gameblog.fr/jeu-video/ed/news/ps-plus-avantages-reductions-essais-gratuits-abonnes-726332",
    "prixApres": "12,99 €/mois",
-   "resilierLe": "2027-02-20",
-   "resilierTxt": "avant le 20 févr. 2027 (J+90)",
+   "resilierLe": "2027-02-21",
+   "resilierTxt": "avant le 21 févr. 2027 (3 mois − 1 jour, par sécurité)",
    "resilier": "Sur youtube.com/paid_memberships > Gérer l'abonnement > Résilier.",
    "avis": "Seulement si tu as déjà PS Plus. Note la date de fin, sinon YouTube te prélève.",
    "emoji": "▶️",
@@ -2296,6 +3180,85 @@
    "resilier": "Dans ton compte My Little Box, résilie une fois la box de février envoyée."
   },
   {
+   "id": "lio-plus-egal-zero",
+   "acces": "condition",
+   "rayon": "voyage",
+   "type": "reduc",
+   "titre": "Trains liO gratuits en Occitanie dès 11 trajets par mois (18-26 ans)",
+   "rarete": "leg",
+   "gratuit": false,
+   "cout": "-50 % de 1 à 10 trajets, puis 0 €",
+   "coutNum": null,
+   "sansCarte": false,
+   "qty": "Tous les trajets du mois",
+   "contenu": [
+    "0 à 10 trajets/mois : -50 % dès le 1er billet",
+    "11 à 20 trajets/mois : TOUS les trajets du mois deviennent gratuits",
+    "Au-delà : cagnotte pour tes prochains billets",
+    "Tout le réseau liO Train en Occitanie (Carcassonne, Narbonne, Toulouse…)"
+   ],
+   "pieges": [
+    "Carte bancaire à enregistrer dans l'appli Fairtiq",
+    "Il faut valider chaque trajet (start/stop) dans l'appli",
+    "Gratuit seulement si tu fais au moins 11 trajets dans le mois",
+    "Règles d'une expérimentation régionale : relis la page officielle avant"
+   ],
+   "etapes": [
+    "Installe l'appli Fairtiq (version liO Occitanie)",
+    "Inscris-toi avec ton âge (18-26 ans) et ta carte",
+    "Avant de monter : glisse « start », à l'arrivée : « stop »",
+    "Dès 11 trajets dans le mois, tout le mois est remboursé/gratuit"
+   ],
+   "fin": null,
+   "finTxt": "Permanent (jusqu'à tes 27 ans)",
+   "desc": "Avec l'offre +=0, les 18-26 ans paient moitié prix, et tout le mois devient gratuit dès 11 trajets liO.",
+   "conditions": "18-26 ans, appli Fairtiq avec carte bancaire.",
+   "lien": "https://ter.sncf.com/occitanie/tarifs-cartes/billets-cartes-moins-26-ans/plus-egal-zero",
+   "source": "https://webzine.voyage/plus-egal-zero-jeune-train-lio-occitanie/",
+   "avis": "Sans voiture dans l'Aude, c'est LA pépite : un aller-retour Carcassonne-Toulouse 6 fois dans le mois et tout devient gratuit.",
+   "emoji": "🚆",
+   "fiabilite": "Officiel SNCF liO Occitanie",
+   "nouveau": true
+  },
+  {
+   "id": "lafourche-adhesion-offerte",
+   "acces": "condition",
+   "rayon": "bouffe",
+   "type": "reduc",
+   "titre": "La Fourche : adhésion d'un an offerte (étudiants, petits revenus)",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € l'adhésion (au lieu de 59,90 €), courses à payer",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "1 an d'adhésion",
+   "contenu": [
+    "Adhésion annuelle La Fourche offerte pendant 1 an",
+    "Accès aux prix membres : bio jusqu'à 50 % moins cher, rayon anti-gaspi"
+   ],
+   "pieges": [
+    "Il faut un justificatif (voir conditions)",
+    "La demande est vérifiée : ce n'est pas instantané",
+    "Au bout d'un an, l'adhésion devient payante si tu ne renvoies pas de justificatif à jour"
+   ],
+   "etapes": [
+    "Ouvre la page Adhésions offertes",
+    "Remplis le formulaire en ligne",
+    "Envoie ton justificatif (carte étudiante, attestation CAF, RSA…)",
+    "Attends l'e-mail de confirmation"
+   ],
+   "fin": null,
+   "finTxt": "Programme permanent",
+   "desc": "La Fourche, l'épicerie bio en ligne pas chère, offre l'adhésion d'un an aux étudiants, aux moins de 23 ans et aux petits revenus.",
+   "conditions": "Être étudiant, avoir moins de 23 ans, ou avoir un quotient familial CAF de moins de 800 €, le RSA ou l'ASS, l'ARE depuis plus de 6 mois, l'AAH ou une RQTH.",
+   "lien": "https://lafourche.fr/pages/adhesion-offertes",
+   "source": "https://lafourche.fr/pages/adhesion-offertes",
+   "avis": "À 23 ans tu n'entres plus dans la case âge, mais si tu es étudiant ou si ton quotient CAF est sous 800 €, tu as droit à l'adhésion gratuite. C'est 60 € économisés et l'accès au rayon anti-gaspi.",
+   "emoji": "🧺",
+   "fiabilite": "Site officiel",
+   "nouveau": true
+  },
+  {
    "id": "oralb-hs",
    "acces": "condition",
    "rayon": "hygiene",
@@ -2323,7 +3286,7 @@
    ],
    "fin": "2027-06-30T23:59:00+01:00",
    "finTxt": "Jusqu'au 30 juin 2027",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Chez Envie de Plus (P&G) : 1 achat de produits éligibles = 1 dentifrice Oral-B ou 1 shampoing Head & Shoulders 100 % remboursé sur ton prochain achat.",
    "conditions": "Achat préalable de produits éligibles hors promo",
    "lien": "https://www.enviedeplus.com/bon-de-reduction-et-coupons",
@@ -2410,6 +3373,45 @@
    "source": "https://www.paris-friendly.fr/bon_plan_paris_detaille.php?id=3566"
   },
   {
+   "id": "fiveguys-frites-offertes",
+   "acces": "condition",
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "Five Guys : frites offertes à l'inscription au programme Rewards",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Frites gratuites avec l'achat d'un burger, hot-dog ou sandwich",
+   "coutNum": null,
+   "sansCarte": true,
+   "qty": "1 petite ou moyenne frite",
+   "contenu": [
+    "1 portion de frites petite ou moyenne (nature ou cajun) offerte",
+    "Ensuite, une récompense à chaque achat d'au moins 6,95 €"
+   ],
+   "pieges": [
+    "Il faut acheter un burger, un hot-dog ou un sandwich (menus enfants exclus)",
+    "Valable 30 jours, une seule fois",
+    "Seulement au restaurant (pas en livraison ni en Click & Collect)",
+    "Il faut un numéro de téléphone français"
+   ],
+   "etapes": [
+    "Ouvre la page Five Guys Rewards",
+    "Inscris-toi (e-mail + téléphone)",
+    "Ajoute la carte à Google Wallet",
+    "Au restaurant, montre le QR code en commandant ton burger"
+   ],
+   "fin": null,
+   "finTxt": "Bon valable 30 jours après l'inscription",
+   "desc": "Le programme de fidélité de Five Guys offre une frite à l'inscription, sans appli à télécharger.",
+   "conditions": "Achat d'un burger, hot-dog ou sandwich obligatoire. Restaurants Five Guys participants en France.",
+   "lien": "https://www.fiveguys.fr/rewards/",
+   "source": "https://presseagence.fr/paris-restauration-rapide-five-guys-lance-five-guys-rewards-son-premier-programme-de-fidelite/",
+   "avis": "Five Guys est surtout dans les grandes villes : garde ça pour une sortie à Toulouse ou Montpellier. Inscris-toi juste avant d'y aller, car le bon ne dure que 30 jours.",
+   "emoji": "🍟",
+   "fiabilite": "Site officiel",
+   "nouveau": true
+  },
+  {
    "contenu": [
     "Warner TV (canal 170)",
     "Science & Vie TV (canal 560)"
@@ -2441,7 +3443,7 @@
    "avis": "Zéro risque : rien à résilier, ça s'arrête tout seul.",
    "emoji": "📡",
    "fiabilite": "Free",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "lio-1euro-dec",
@@ -2478,12 +3480,12 @@
    "avis": "Sans voiture dans l'Aude, c'est le meilleur plan pour bouger : 1 € le trajet. Guette l'ouverture des ventes vers le 25 nov., ça part vite.",
    "emoji": "🚆",
    "fiabilite": "Région Occitanie / SNCF liO",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui",
    "fin": null,
    "id": "koreastore-antigaspi",
@@ -2556,9 +3558,207 @@
    "fiabilite": "Too Good To Go"
   },
   {
+   "acces": "pascher",
+   "rayon": "abo",
+   "type": "essai",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "3,49 €/mois",
+   "coutNum": 3.49,
+   "sansCarte": false,
+   "qty": "6 mois",
+   "contenu": [
+    "Tout le catalogue anime Crunchyroll sans pub",
+    "Nouveaux épisodes 1 h après le Japon"
+   ],
+   "pieges": [
+    "N'oublie pas de te désabonner",
+    "Repasse à 6,99 €/mois après 6 mois",
+    "Carte bancaire demandée"
+   ],
+   "etapes": [
+    "Ouvre la page",
+    "Choisis la formule Fan",
+    "Paie 3,49 € (offre Black Friday)",
+    "Mets un rappel avant la fin du 6e mois"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "desc": "La moitié du prix pendant 6 mois pour les fans d'anime.",
+   "conditions": "Nouveaux abonnés et anciens abonnés éligibles, sans engagement",
+   "lien": "https://www.crunchyroll.com/premium",
+   "source": "https://www.dealabs.com/bons-plans/abonnement-crunchyroll-fan-pendant-6-mois-puis-699eur-mois-sans-engagement-3460839",
+   "avis": "Si tu regardes des animes, c'est -50 % pendant 6 mois ; sinon passe ton tour.",
+   "emoji": "🍥",
+   "fiabilite": "Dealabs + annonce Crunchyroll (19 nov.)",
+   "nouveau": true,
+   "id": "crunchyroll-fan-bf",
+   "titre": "Crunchyroll Fan à 3,49 €/mois pendant 6 mois",
+   "prixApres": "6,99 €/mois",
+   "resilierLe": null,
+   "resilierTxt": "Avant la fin du 6e mois",
+   "resilier": "Compte Crunchyroll > Abonnement > Annuler (ou dans Google Play > Abonnements si payé via le Play Store)."
+  },
+  {
+   "acces": "pascher",
+   "rayon": "services",
+   "type": "promo",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "14,99 €/mois",
+   "coutNum": 14.99,
+   "sansCarte": false,
+   "qty": "Stock : 5 000 forfaits",
+   "contenu": [
+    "Forfait 170 Go 5G (dont 60 Go en Europe)",
+    "Amazon Prime inclus (vidéo, livraison rapide)"
+   ],
+   "pieges": [
+    "Passe à environ 17,99 €/mois ensuite (prix non garanti à vie)",
+    "Limité aux 5 000 premières souscriptions",
+    "Pas pour les clients B&You déjà abonnés"
+   ],
+   "etapes": [
+    "Ouvre la page",
+    "Choisis le pack Amazon Prime 170 Go",
+    "Souscris avant le 30 nov.",
+    "Active Prime avec ton compte Amazon"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov. ou 5 000 forfaits",
+   "desc": "Gros forfait + Prime dans le même prix, sans engagement.",
+   "conditions": "Nouvelle souscription, sans engagement",
+   "lien": "https://www.bouyguestelecom.fr/packs-divertissement/sans-engagement",
+   "source": "https://www.echosdunet.net/comparateur-forfait-mobile/actualites/black-friday-b-and-you-pack-170-go-amazon-prime-14-99-euros-16-novembre-2026",
+   "avis": "Prime vaut 6,99 € seul : ça revient à ~8 € le forfait 170 Go. Rentable seulement si tu changes de forfait de toute façon.",
+   "emoji": "📱",
+   "fiabilite": "Echos du Net (mentions légales B&You)",
+   "nouveau": true,
+   "id": "byou-prime-170go",
+   "titre": "B&You 170 Go 5G + Amazon Prime inclus à 14,99 €/mois"
+  },
+  {
+   "id": "saucissons-antigaspi-mini-2kg",
+   "acces": "pascher",
+   "rayon": "bouffe",
+   "type": "promo",
+   "titre": "2 kg de mini-saucissons anti-gaspi à 40 € livrés",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "40 € livré (point relais ou domicile)",
+   "coutNum": 40,
+   "sansCarte": false,
+   "qty": "2 kg",
+   "contenu": [
+    "Environ 2 kg de mini-saucissons secs artisanaux des Cévennes, déclassés (défaut d'aspect ou de calibre)",
+    "1 à 4 saveurs selon le lot (surprise)"
+   ],
+   "pieges": [
+    "Assortiment surprise : parfois une seule saveur",
+    "Contient du lait et des fruits à coque (noix, noisettes)",
+    "Quantité limitée selon la production",
+    "Certains avis parlent d'une livraison plus longue que 48-72 h"
+   ],
+   "etapes": [
+    "Ouvre la page du panier",
+    "Ajoute-le au panier",
+    "Choisis la livraison en point relais (gratuite dès 20 €)",
+    "Paie"
+   ],
+   "fin": null,
+   "finTxt": "Stock limité selon la production",
+   "desc": "Un gros colis de 2 kg de mini-saucissons artisanaux juste moches, à 20 €/kg au lieu de 30 €/kg.",
+   "conditions": "Livraison gratuite dès 20 € d'achat. -20 % automatique dès 80 € d'achat.",
+   "lien": "https://laboutiquedessaucissons.fr/products/2-kilos-de-saucissons-snacking-declasses",
+   "source": "https://www.dealabs.com/bons-plans/panier-mini-saucissons-declasses-anti-gaspi-2kg-3429243",
+   "avis": "Hugo, c'est 40 € au lieu de 60 € pour 2 kg, port compris : 20 €/kg pour du saucisson artisanal, c'est un très bon prix. Le saucisson sec se garde bien, donc tu peux faire des réserves. Astuce : avec le panier classique en plus (80 €), tu as -20 %, soit 4 kg pour 64 €.",
+   "emoji": "🥓",
+   "fiabilite": "Site du fabricant",
+   "nouveau": true
+  },
+  {
+   "id": "greenweez-produits-a-sauver",
+   "acces": "pascher",
+   "rayon": "bouffe",
+   "type": "promo",
+   "titre": "Greenweez : produits bio à sauver jusqu'à -50 % + port offert",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "dès 39 € de courses, -10 % et port offert (≈ 35,10 €)",
+   "coutNum": 35.1,
+   "sansCarte": false,
+   "qty": "Au choix",
+   "contenu": [
+    "Exemples vus le 22/11 : purée pomme-banane bio 3 kg à 9,19 € (au lieu de 14,14 €)",
+    "Purée pomme-myrtille bio 3 kg à 12,21 € (au lieu de 18,79 €)",
+    "Riz des Volcans bio 400 g à 2,45 € (-50 %)",
+    "Lait amande-coco bio 1 L à 2,87 € (-50 %)",
+    "Thon bio 160 g à 2,96 € (-32 %)"
+   ],
+   "pieges": [
+    "Code BIENVENUE2026 réservé aux nouveaux clients",
+    "Il faut atteindre 39 € pour avoir le port offert et les -10 %",
+    "Dates courtes : à consommer vite",
+    "Certains produits sont déjà en rupture"
+   ],
+   "etapes": [
+    "Ouvre la page Produits à sauver",
+    "Ajoute pour au moins 39 € (vise les grands formats)",
+    "Crée ton compte",
+    "Entre le code BIENVENUE2026 au paiement"
+   ],
+   "fin": null,
+   "finTxt": "Selon stock (dates courtes)",
+   "desc": "Le rayon anti-gaspi de Greenweez, avec des grands formats à -35 % ou -50 %, livré gratuitement dès 39 €.",
+   "conditions": "Nouveaux clients : livraison offerte et -10 % dès 39 € avec le code BIENVENUE2026.",
+   "lien": "https://www.greenweez.com/categorie/bonnes-affaires",
+   "source": "https://www.greenweez.com/categorie/promotion-dlc-courte",
+   "avis": "Pour toi qui aimes l'anti-gaspi en gros : 3 kg de purée de fruits bio à 9,19 €, c'est 3 €/kg. Avec -10 % et le port offert, tu remplis tes placards pour moins cher qu'en supermarché, et en bio.",
+   "emoji": "🥫",
+   "fiabilite": "Site officiel",
+   "nouveau": true
+  },
+  {
+   "acces": "pascher",
+   "rayon": "voyage",
+   "type": "reduc",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Moitié prix",
+   "coutNum": null,
+   "sansCarte": false,
+   "qty": "Tous les trajets liO",
+   "contenu": [
+    "-50 % sur les trains liO en Occitanie, toute l'année",
+    "Billets à partir de 1 € sur certaines dates"
+   ],
+   "pieges": [
+    "Seulement les trains régionaux liO (pas les TGV)",
+    "La limite d'âge est écrite -26 ou -27 ans selon les pages"
+   ],
+   "etapes": [
+    "Ouvre SNCF Connect",
+    "Cherche ton trajet liO (ex. Carcassonne → Toulouse)",
+    "Indique ton âge pour avoir le tarif jeune",
+    "Paie moitié prix"
+   ],
+   "fin": null,
+   "finTxt": "Toute l'année",
+   "desc": "Le tarif jeune liO divise le prix du train par deux.",
+   "conditions": "Moins de 26/27 ans",
+   "lien": "https://www.sncf-connect.com/ter-occitanie-lio/tarifs",
+   "source": "https://www.sncf-connect.com/ter-occitanie-lio/tarifs",
+   "avis": "Toujours mettre ton âge sur SNCF Connect : sans ça tu paies le double.",
+   "emoji": "🎟️",
+   "fiabilite": "Officiel (SNCF Connect)",
+   "nouveau": true,
+   "id": "lio-jeunes-50",
+   "titre": "Train liO à -50 % toute l'année pour les moins de 27 ans"
+  },
+  {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui",
    "fin": null,
    "id": "amasia-coree",
@@ -2594,7 +3794,7 @@
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui",
    "fin": null,
    "id": "degusta-calendrier",
@@ -2632,7 +3832,7 @@
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui",
    "fin": null,
    "id": "lookfantastic-bf",
@@ -2675,7 +3875,7 @@
   {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui",
    "fin": null,
    "id": "vandb-calendrier",
@@ -2745,7 +3945,7 @@
    "emoji": "🚌",
    "fiabilite": "FlixBus",
    "conditions": "",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "flixbus-toulouse-narbonne",
@@ -2781,7 +3981,7 @@
    "emoji": "🚌",
    "fiabilite": "FlixBus",
    "conditions": "",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "deliveroo",
@@ -2839,7 +4039,7 @@
     "Entre le code dans l'app avant de payer"
    ],
    "fin": null,
-   "finTxt": "Code valable ≈ 21 jours",
+   "finTxt": "Code valable ≈ 9 jours (vu le 22 nov.)",
    "nouveau": false,
    "desc": "Code nouveau client : 10 € de moins sur chacune de tes 2 premières commandes d'au moins 20 €. Étudiant : même offre via UNiDAYS.",
    "conditions": "Carte bancaire : Oui",
@@ -2853,9 +4053,90 @@
    "source": "https://www.dealabs.com/codes-promo/uber-eats"
   },
   {
+   "acces": "pascher",
+   "rayon": "abo",
+   "type": "essai",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "4,99 €/mois",
+   "coutNum": 4.99,
+   "sansCarte": false,
+   "qty": "2 mois",
+   "contenu": [
+    "Standard avec pub 4,99 € (au lieu de 6,99 €)",
+    "Standard 7,99 € (au lieu de 10,99 €)",
+    "Premium 10,99 € (au lieu de 15,99 €)"
+   ],
+   "pieges": [
+    "N'oublie pas de te désabonner",
+    "Repasse au prix normal au 3e mois",
+    "Carte bancaire demandée"
+   ],
+   "etapes": [
+    "Va sur disneyplus.com",
+    "Choisis une formule",
+    "Inscris-toi avant le 24 nov. 23 h 59",
+    "Résilie avant le 3e mois si tu ne veux pas continuer"
+   ],
+   "fin": "2026-11-24T23:59:00+01:00",
+   "finTxt": "Jusqu'au 24 nov. 23h59",
+   "desc": "Réduction Black Friday sur les 3 formules Disney+.",
+   "conditions": "Nouveaux abonnés et anciens abonnés sans abonnement actif",
+   "lien": "https://www.disneyplus.com/",
+   "source": "https://www.universfreebox.com/?p=601311",
+   "avis": "Seulement -2 €/mois : utile si tu voulais Disney+ de toute façon, sinon zappe.",
+   "emoji": "🏰",
+   "fiabilite": "Officiel (relayé par Univers Freebox)",
+   "nouveau": true,
+   "id": "disney-bf-2026",
+   "titre": "Disney+ dès 4,99 €/mois pendant 2 mois",
+   "prixApres": "6,99 €/mois (formule avec pub)",
+   "resilierLe": "2027-01-21",
+   "resilierTxt": "Avant le 22 janv. (fin du 2e mois)",
+   "resilier": "Profil > Compte > Abonnement > Annuler l'abonnement."
+  },
+  {
+   "id": "saucissons-antigaspi-2kg",
+   "acces": "pascher",
+   "rayon": "bouffe",
+   "type": "promo",
+   "titre": "Panier anti-gaspi : 2 kg de saucissons artisanaux à 40 €",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "40 € livré",
+   "coutNum": 40,
+   "sansCarte": false,
+   "qty": "2 kg",
+   "contenu": [
+    "Environ 2 kg de saucissons secs artisanaux de porc français (Cévennes), déclassés pour leur forme, leur aspect ou leur poids",
+    "Saveurs variées ou une seule saveur selon le lot"
+   ],
+   "pieges": [
+    "Assortiment non garanti : ça peut être tout nature",
+    "Contient du lait et des fruits à coque",
+    "Livraison parfois plus lente qu'annoncé"
+   ],
+   "etapes": [
+    "Ouvre la page du panier",
+    "Clique sur Ajouter au panier",
+    "Choisis le point relais (port offert dès 20 €)",
+    "Paie"
+   ],
+   "fin": null,
+   "finTxt": "Stock limité selon la production",
+   "desc": "2 kg de vrais saucissons artisanaux déclassés, livrés gratuitement, pour 20 €/kg.",
+   "conditions": "Livraison gratuite dès 20 €. -20 % dès 80 € d'achat (par exemple avec le panier de mini-saucissons).",
+   "lien": "https://laboutiquedessaucissons.fr/products/panier-saucissons",
+   "source": "https://www.natureetdecouvertes.com/thes-epicerie/epicerie-salee/condiments/box-saucissons-artisanaux-declasses-93063010",
+   "avis": "Même prix que le panier de mini-saucissons, mais en grands saucissons. Le vrai bon plan, c'est de prendre les deux : 80 € moins 20 %, ça fait 4 kg pour 64 €, soit 16 €/kg livré.",
+   "emoji": "🥖",
+   "fiabilite": "Site du fabricant",
+   "nouveau": true
+  },
+  {
    "gratuit": false,
    "sansCarte": false,
-   "nouveau": true,
+   "nouveau": false,
    "conditions": "Carte bancaire : Oui. Code VINDREDI.",
    "fin": "2026-11-30T10:00:00+01:00",
    "id": "lepetitballon",
@@ -2922,7 +4203,7 @@
    "emoji": "🔌",
    "fiabilite": "Anker",
    "conditions": "",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "contenu": [],
@@ -2957,7 +4238,7 @@
    "avis": "1 € le mois, c'est 87 % moins cher : ok si tu as une série à rattraper, et résilie direct.",
    "emoji": "⛰️",
    "fiabilite": "Paramount+",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "ouigo-hiver-19",
@@ -2994,7 +4275,7 @@
    "emoji": "🚄",
    "fiabilite": "OUIGO (SNCF)",
    "conditions": "",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "gratuit": false,
@@ -4082,6 +5363,116 @@
    "source": "https://www.belleaunaturel.fr/le-club-des-testeuses"
   },
   {
+   "id": "samsung-tv-micro-rgb",
+   "acces": "tirage",
+   "rayon": "tech",
+   "type": "cadeau",
+   "titre": "Concours Samsung : TV Micro RGB 75 pouces (3 490 €) à gagner",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 TV",
+   "contenu": [
+    "1 téléviseur Samsung Micro RGB R95H 75\" (3 490 €)"
+   ],
+   "pieges": [
+    "Un seul gagnant",
+    "Les codes promo de consolation demandent un achat"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu",
+    "Remplis le formulaire (newsletter facultative)",
+    "Joue au Match 3 (le score ne compte pas)"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "desc": "Une TV géante de 3 490 € à gagner par tirage au sort, gratuit.",
+   "conditions": "Majeur, France métropolitaine (Corse incluse), 1 participation par personne. Tirage le 1er déc.",
+   "lien": "https://jeu.samsung.fr/tv-micro/0/lbYpn/",
+   "source": "https://bonsplansmania.fr/article/jeu-concours-samsung-tv-micro-rgb-r95h-novembre-2026",
+   "avis": "Une minute à jouer pour un lot énorme : fonce.",
+   "emoji": "📺",
+   "fiabilite": "Jeu officiel Samsung Electronics France",
+   "nouveau": true
+  },
+  {
+   "id": "super-u-incognito",
+   "acces": "tirage",
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "Super U Mission Incognito : 53 000 lots (bons de courses, places de ciné, voyage)",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "53 561 lots",
+   "contenu": [
+    "30 000 × 5 € et 10 000 × 10 € et 2 000 × 50 € sur la Carte U",
+    "7 500 codes Courses U de 10 € ou 20 €",
+    "4 040 duos de places de cinéma",
+    "Séjours Center Parcs, Wonderbox, voyage à Rome"
+   ],
+   "pieges": [
+    "Il faut l'appli Mon Magasin U et une Carte U liée à un magasin",
+    "Gains en euros à utiliser avant le 20 déc."
+   ],
+   "etapes": [
+    "Installe l'appli Mon Magasin U et crée un compte avec Carte U",
+    "Touche la bannière « Mission Incognito »",
+    "Joue au flipper 1 fois par jour (+ parties bonus)"
+   ],
+   "fin": "2026-12-06T23:59:00+01:00",
+   "finTxt": "Jusqu'au 6 déc.",
+   "desc": "Énormément de petits lots : bonnes chances de gagner des euros de courses.",
+   "conditions": "Majeur, France métropolitaine, sans achat, Carte U.",
+   "lien": "https://www.magasins-u.com/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/maisons/jeu-mission-incognito-super-u-plus-de-500-000-e-de-cadeaux-a-gagner/",
+   "avis": "53 000 lots : joue chaque jour, c'est le meilleur ratio de la liste.",
+   "emoji": "🛒",
+   "fiabilite": "Jeu officiel Système U (dans l'appli)",
+   "nouveau": true
+  },
+  {
+   "id": "sopalin-thermomix",
+   "acces": "tirage",
+   "rayon": "maison",
+   "type": "cadeau",
+   "titre": "Sopalin : un Thermomix TM7 + 2 000 € de cadeaux cuisine",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 gros lot + instants gagnants",
+   "contenu": [
+    "Thermomix TM7 (1 600 €)",
+    "2 bons Villeroy & Boch de 500 €",
+    "Set de couteaux premium (jusqu'à 1 000 €)",
+    "Autres lots en instants gagnants"
+   ],
+   "pieges": [
+    "Un seul gros lot",
+    "Le règlement peut prévoir des conditions d'achat : lis-le"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu Sopalin",
+    "Remplis le formulaire et valide"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 déc.",
+   "desc": "Kit cuisine de 3 600 € à gagner.",
+   "conditions": "18 ans et plus, 1 participation.",
+   "lien": "https://concours.sopalin.fr/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/gagnez-un-thermomix-tm7-et-3-600-e-de-cadeaux/",
+   "avis": "Gros lot, ça prend 1 minute.",
+   "emoji": "🍲",
+   "fiabilite": "Jeu officiel Sopalin",
+   "nouveau": true
+  },
+  {
    "id": "yrocher",
    "acces": "tirage",
    "rayon": "beaute",
@@ -4159,42 +5550,395 @@
    "source": "https://bonsplansmania.fr/article/test-produit-lego-botanicals-rocking-plants-14-testeurs-2026"
   },
   {
-   "gratuit": false,
-   "sansCarte": true,
-   "nouveau": true,
-   "conditions": "Carte bancaire : Non. Inscription gratuite.",
-   "fin": "2026-11-25T00:00:00+01:00",
-   "id": "confettis-vip",
+   "id": "entremont-sweats",
    "acces": "tirage",
-   "rayon": "beaute",
+   "rayon": "vetements",
    "type": "cadeau",
-   "titre": "13 abonnements box d'un an + séjour Disneyland à gagner",
+   "titre": "Entremont : 200 sweats « #JPEUXPASJAIRACLETTE » à gagner",
    "rarete": "rar",
-   "cout": "0 €",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
    "coutNum": 0,
-   "qty": "13 abonnements d'un an + 1 séjour Disneyland + 1 robot Moulinex",
+   "sansCarte": true,
+   "qty": "200 sweats",
    "contenu": [
-    "13 abonnements d'un an à la box Mademoiselle Confettis (720 € de produits annoncés chacun)",
-    "1 séjour à Disneyland",
-    "1 robot de cuisine Moulinex"
+    "1 sweat collector (66,40 €)"
    ],
    "pieges": [
-    "Tirage au sort : juste une chance",
-    "Places limitées à 5 000 inscrits",
-    "Règlement pas cliquable lors de la vérification de Toutes les box : lis-le sur le site"
+    "Fin le 29 novembre"
    ],
    "etapes": [
-    "Ouvre la page Liste VIP Black Friday",
-    "Inscris-toi avec ton e-mail",
-    "Attends le tirage du 25 nov."
+    "Ouvre la page du jeu Entremont",
+    "Remplis le formulaire en ligne"
    ],
-   "finTxt": "Tirage le 25 nov.",
-   "desc": "Inscription gratuite à la liste VIP Black Friday de Mademoiselle Confettis : tirage au sort de 13 abonnements d'un an, un séjour Disneyland et un robot Moulinex.",
-   "lien": "https://mademoiselleconfettis.com/pages/landing-page-liste-vip-bf",
-   "source": "https://touteslesbox.fr/mademoiselle-confettis-black-friday-2026-liste-vip-13-abonnements/",
-   "avis": "30 secondes avec ton e-mail pour une petite chance. Rien à payer.",
-   "emoji": "🎉",
-   "fiabilite": "Mademoiselle Confettis"
+   "fin": "2026-11-29T23:59:00+01:00",
+   "finTxt": "Jusqu'au 29 nov.",
+   "desc": "200 sweats raclette à gagner, sans achat.",
+   "conditions": "Gratuit et sans obligation d'achat.",
+   "lien": "https://jeujepeuxpasjairaclette.entremont.com/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/bijoux-accessoires/jeu-concours-entremont-200-sweats-collector-offerts/",
+   "avis": "200 gagnants : bonnes chances pour un sweat à 66 €.",
+   "emoji": "🧀",
+   "fiabilite": "Jeu officiel Entremont",
+   "nouveau": true
+  },
+  {
+   "id": "leclerc-disney",
+   "acces": "tirage",
+   "rayon": "voyage",
+   "type": "cadeau",
+   "titre": "Leclerc : 200 séjours Disneyland Paris pour 4 + 28 000 Fixeez",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "30 € de courses chez Leclerc",
+   "coutNum": 30,
+   "sansCarte": true,
+   "qty": "28 316 lots",
+   "contenu": [
+    "200 séjours Disneyland pour 4 (1 698 €)",
+    "28 116 sets de 24 Fixeez Disney"
+   ],
+   "pieges": [
+    "Il faut 30 € d'achats en magasin pour avoir un code",
+    "Codes à saisir avant le 14 déc."
+   ],
+   "etapes": [
+    "Fais 30 € de courses dans un E.Leclerc",
+    "Récupère le code sur ton ticket",
+    "Saisis-le dans l'appli Mon E.Leclerc > Avantages > jeu Disney"
+   ],
+   "fin": "2026-12-13T23:59:00+01:00",
+   "finTxt": "Jusqu'au 13 déc.",
+   "desc": "Tes courses Leclerc te donnent une chance de gagner Disneyland.",
+   "conditions": "Majeur, achat de 30 € minimum en magasin (hors carburant).",
+   "lien": "https://www.e.leclerc/e/jeu-disney",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/voyages/jeu-disney-leclerc-200-sejours-a-disneyland-paris-a-gagner/",
+   "avis": "Seulement si tu fais déjà tes courses chez Leclerc.",
+   "emoji": "🏰",
+   "fiabilite": "Jeu officiel E.Leclerc",
+   "nouveau": true
+  },
+  {
+   "id": "ucpa-jackpot",
+   "acces": "tirage",
+   "rayon": "voyage",
+   "type": "cadeau",
+   "titre": "UCPA Jackpot Givré : séjours au ski ou sportifs (jusqu'à 1 700 €)",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "3 séjours + 9 lots",
+   "contenu": [
+    "1 séjour neige (1 000 €)",
+    "1 séjour sportif à l'étranger (1 000 €)",
+    "1 séjour Sport Trotter (1 700 €)",
+    "3 caméras embarquées, 3 cartes cadeaux, 3 kits goodies"
+   ],
+   "pieges": [
+    "Transport jusqu'au séjour non inclus",
+    "1 seule participation",
+    "Le code JACKPOT5 (−5 %) n'est qu'une réduction"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu",
+    "Entre prénom, e-mail, date de naissance",
+    "Fais tourner la roue : résultat immédiat"
+   ],
+   "fin": "2026-12-22T23:59:00+01:00",
+   "finTxt": "Jusqu'au 22 déc.",
+   "desc": "Roue gratuite avec séjours UCPA à gagner.",
+   "conditions": "Majeur, sans achat, 1 participation par personne.",
+   "lien": "https://ucpa-winter.com/",
+   "source": "https://bonsplansmania.fr/article/concours-ucpa-jackpot-givre-sejours-decembre-2026",
+   "avis": "Un séjour au ski à gagner en un clic, ça vaut le coup.",
+   "emoji": "🏂",
+   "fiabilite": "Jeu officiel UCPA (règlement sur media.ucpa.com)",
+   "nouveau": true
+  },
+  {
+   "id": "giant-velo",
+   "acces": "tirage",
+   "rayon": "sport",
+   "type": "cadeau",
+   "titre": "Giant : vélo urbain Roam 4 (700 €) à gagner",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 vélo",
+   "contenu": [
+    "Vélo Giant Roam 4 monté au Giant Store choisi"
+   ],
+   "pieges": [
+    "Il faut accepter les cookies pour voir le formulaire",
+    "Vélo à récupérer dans un Giant Store"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu",
+    "Accepte les cookies",
+    "Remplis le formulaire"
+   ],
+   "fin": "2026-12-23T23:59:00+01:00",
+   "finTxt": "Jusqu'au 23 déc.",
+   "desc": "Un vélo de ville à 700 € à gagner.",
+   "conditions": "Formulaire en ligne, gagnant annoncé le 24 déc.",
+   "lien": "https://www.giant-bicycles.com/fr/jeu-concours-giant-noel",
+   "source": "https://www.giant-bicycles.com/fr/jeu-concours-giant-noel",
+   "avis": "Un seul gagnant, mais ça prend 1 minute.",
+   "emoji": "🚲",
+   "fiabilite": "Jeu officiel Giant",
+   "nouveau": true
+  },
+  {
+   "id": "sanex-derma",
+   "acces": "tirage",
+   "rayon": "hygiene",
+   "type": "cadeau",
+   "titre": "Sanex : 1 an de gels douche + 30 coffrets à gagner",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "31 lots",
+   "contenu": [
+    "1 gros lot : 30+ produits Derma Thérapie (gels douche, déos, peignoirs, serviettes, ≥ 500 €)",
+    "30 coffrets découverte de 3 soins douche"
+   ],
+   "pieges": [
+    "Le jeu est hébergé par une agence (web-strategie4.fr), pas sur sanex.fr"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu",
+    "Inscris-toi en suivant les instructions"
+   ],
+   "fin": "2026-12-31T23:00:00+01:00",
+   "finTxt": "Jusqu'au 31 déc. 23h",
+   "desc": "Un an de gel douche à gagner.",
+   "conditions": "Gratuit, sans achat.",
+   "lien": "https://web-strategie4.fr/sanex/grand-jeu-derma-therapie/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/produits-beaute/sanex-gagnez-un-an-de-soins-pour-la-douche-et-des-coffrets-derma-therapie/",
+   "avis": "31 gagnants, et c'est du produit utile.",
+   "emoji": "🚿",
+   "fiabilite": "Jeu de la marque via son agence",
+   "nouveau": true
+  },
+  {
+   "id": "ferrero-rocher-noel",
+   "acces": "tirage",
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "Ferrero Rocher : 200 pyramides de chocolats ou flûtes à gagner",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "200 lots",
+   "contenu": [
+    "100 pyramides de 96 Ferrero Rocher (≈ 60 €)",
+    "100 lots de 4 flûtes à champagne Ferrero Rocher (≈ 40 €)"
+   ],
+   "pieges": [
+    "1 seul gain par personne sur tout le jeu"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu et clique sur « Je participe »",
+    "Entre ton e-mail",
+    "Choisis un chocolat et déballe-le : résultat immédiat",
+    "3 essais par 24 h"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 déc.",
+   "desc": "Instants gagnants gratuits, 3 essais par jour.",
+   "conditions": "Majeur, France métropolitaine, sans achat ni ticket.",
+   "lien": "https://www.ferrerorocher.com/fr/fr/xp/ajoutez-votre-touche-de-magie/",
+   "source": "https://bonsplansmania.fr/article/concours-ferrero-rocher-touche-magie-noel-2026",
+   "avis": "Joue tous les jours jusqu'au 31 déc., 200 lots c'est pas mal.",
+   "emoji": "🍫",
+   "fiabilite": "Jeu officiel Ferrero",
+   "nouveau": true
+  },
+  {
+   "id": "dr-oetker-streaming",
+   "acces": "tirage",
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "Dr. Oetker : 1 an de streaming (150 €) ou kit soirée pizza",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "60 lots",
+   "contenu": [
+    "10 cartes streaming vidéo (≈ 150 €)",
+    "50 kits soirée pizza Ristorante (planche, roulette, gant, bon de réduction)"
+   ],
+   "pieges": [
+    "Les bons du kit sont des réductions, pas des pizzas gratuites"
+   ],
+   "etapes": [
+    "Ouvre la page du concours",
+    "Remplis le formulaire et valide"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 déc.",
+   "desc": "Netflix & co. pendant un an à gagner.",
+   "conditions": "Majeur, France métropolitaine, sans achat.",
+   "lien": "https://www.oetker.fr/concours-pizza",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/nourriture/concours-dr-oetker-gagnez-un-an-de-streaming-video-ou-un-kit-soiree-pizza-ristorante/",
+   "avis": "Un an de streaming gratuit, c'est parfait pour toi.",
+   "emoji": "🍕",
+   "fiabilite": "Jeu officiel Dr. Oetker",
+   "nouveau": true
+  },
+  {
+   "id": "soignon-1000",
+   "acces": "tirage",
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "Soignon / Pavé d'Affinois : 1 000 € ou 250 € par virement",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Prix d'un fromage (achat requis)",
+   "coutNum": null,
+   "sansCarte": true,
+   "qty": "5 gains",
+   "contenu": [
+    "1 virement de 1 000 €",
+    "4 virements de 250 €"
+   ],
+   "pieges": [
+    "Achat obligatoire",
+    "Seul le 2e e-mail de confirmation compte"
+   ],
+   "etapes": [
+    "Achète un fromage Soignon ou Pavé d'Affinois avant le 31 déc.",
+    "Remplis le formulaire et envoie la photo du ticket avant le 7 janv."
+   ],
+   "fin": "2027-01-07T23:59:00+01:00",
+   "finTxt": "Achat avant le 31 déc., inscription avant le 7 janv.",
+   "desc": "Du cash à gagner avec un fromage de chèvre.",
+   "conditions": "Majeur, France métropolitaine.",
+   "lien": "https://soignon-fetes.fr/formulaire.php",
+   "source": "https://bonsplansmania.fr/article/concours-soignon-pave-affinois-listes-noel-2026",
+   "avis": "Peu de gagnants, mais c'est du vrai argent.",
+   "emoji": "🐐",
+   "fiabilite": "Jeu officiel Soignon",
+   "nouveau": true
+  },
+  {
+   "id": "nutella-pulls",
+   "acces": "tirage",
+   "rayon": "vetements",
+   "type": "cadeau",
+   "titre": "Nutella : 1 288 lots de 2 pulls de Noël à gagner",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Prix d'un produit Nutella (achat requis)",
+   "coutNum": null,
+   "sansCarte": true,
+   "qty": "1 288 lots",
+   "contenu": [
+    "2 pulls de Noël collector Nutella par lot",
+    "Perdants : bon de 2 € sur un produit surgelé"
+   ],
+   "pieges": [
+    "Achat d'un produit Nutella éligible obligatoire, garde le ticket",
+    "1 lot par foyer",
+    "Le ticket est vérifié avant l'envoi"
+   ],
+   "etapes": [
+    "Achète un produit Nutella éligible (pot, biscuits, B-ready…)",
+    "Ouvre la page du jeu et clique sur « Je participe »",
+    "Instant gagnant immédiat",
+    "Si tu gagnes, envoie ton ticket"
+   ],
+   "fin": "2027-01-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 janv. 2027",
+   "desc": "14 lots par jour à gagner avec un simple pot de Nutella.",
+   "conditions": "Majeur, France métropolitaine, achat d'un produit éligible.",
+   "lien": "https://www.nutella.com/fr/fr/xp/jeu-pulls-nutella-noel-2026/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/bijoux-accessoires/jeu-nutella-noel-2026-2-576-pulls-de-noel-a-gagner/",
+   "avis": "Seulement si tu achètes déjà du Nutella : beaucoup de lots.",
+   "emoji": "🎄",
+   "fiabilite": "Jeu officiel Nutella (Ferrero)",
+   "nouveau": true
+  },
+  {
+   "id": "delpeyrat-toulouse",
+   "acces": "tirage",
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "Delpeyrat : séjour gastronomique à Toulouse pour 4 (6 300 €) + 50 livres",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Prix d'un produit Delpeyrat (achat requis)",
+   "coutNum": null,
+   "sansCarte": true,
+   "qty": "51 lots",
+   "contenu": [
+    "Séjour 3 nuits 4★ à Toulouse pour 4 avec repas chez Michel Sarran",
+    "50 livres dédicacés Michel Sarran (59 €)",
+    "Fiches recettes pour tous"
+   ],
+   "pieges": [
+    "Achat obligatoire, 1 ticket = 1 participation",
+    "Transport non inclus"
+   ],
+   "etapes": [
+    "Achète un produit Delpeyrat éligible",
+    "Envoie la photo du ticket sur le site du jeu"
+   ],
+   "fin": "2027-01-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 janv. 2027",
+   "desc": "Toulouse est tout près de chez toi : le séjour serait parfait.",
+   "conditions": "Majeur, France + DROM, achat d'un produit éligible.",
+   "lien": "https://www.grandjeu.delpeyrat.fr/formulaire.php",
+   "source": "https://bonsplansmania.fr/article/concours-delpeyrat-gastronomie-sud-ouest-ticket-or-2026",
+   "avis": "Si tu achètes du foie gras pour Noël, envoie le ticket.",
+   "emoji": "🦆",
+   "fiabilite": "Jeu officiel Delpeyrat",
+   "nouveau": true
+  },
+  {
+   "id": "bridelice-1000",
+   "acces": "tirage",
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "Concours Bridélice : 1 000 € de cartes cadeaux + produits",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "5 cartes cadeaux + produits",
+   "contenu": [
+    "5 cartes cadeaux (1 000 € au total)",
+    "Béchamel, crème anglaise et crèmes Bridélice"
+   ],
+   "pieges": [
+    "Instants gagnants : 1 seul lot par personne"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu",
+    "Entre ton e-mail et accepte le règlement",
+    "Joue au mini-jeu de 30 s"
+   ],
+   "fin": "2027-02-28T23:59:00+01:00",
+   "finTxt": "Jusqu'au 28 févr. 2027",
+   "desc": "Mini-jeu gratuit avec instants gagnants, rejouable.",
+   "conditions": "Majeur, France métropolitaine, sans achat.",
+   "lien": "https://www.bridelice.fr/jeu-concours",
+   "source": "https://bonsplansmania.fr/article/concours-bridelice-1000-euros-cartes-cadeaux-hiver-2026-2027",
+   "avis": "Rapide et rejouable, à faire de temps en temps.",
+   "emoji": "🎁",
+   "fiabilite": "Jeu officiel de la marque",
+   "nouveau": true
   },
   {
    "id": "purina",
@@ -4232,6 +5976,44 @@
    "coutNum": 0,
    "sansCarte": true,
    "source": "https://bonsplansmania.fr/article/test-produit-purina-pro-plan-mousse-chat-sterilise-4800-echantillons-2026"
+  },
+  {
+   "gratuit": false,
+   "sansCarte": true,
+   "nouveau": false,
+   "conditions": "Carte bancaire : Non. Inscription gratuite.",
+   "fin": "2026-11-25T00:00:00+01:00",
+   "id": "confettis-vip",
+   "acces": "tirage",
+   "rayon": "beaute",
+   "type": "cadeau",
+   "titre": "13 abonnements box d'un an + séjour Disneyland à gagner",
+   "rarete": "rar",
+   "cout": "0 €",
+   "coutNum": 0,
+   "qty": "13 abonnements d'un an + 1 séjour Disneyland + 1 robot Moulinex",
+   "contenu": [
+    "13 abonnements d'un an à la box Mademoiselle Confettis (720 € de produits annoncés chacun)",
+    "1 séjour à Disneyland",
+    "1 robot de cuisine Moulinex"
+   ],
+   "pieges": [
+    "Tirage au sort : juste une chance",
+    "Places limitées à 5 000 inscrits",
+    "Règlement pas cliquable lors de la vérification de Toutes les box : lis-le sur le site"
+   ],
+   "etapes": [
+    "Ouvre la page Liste VIP Black Friday",
+    "Inscris-toi avec ton e-mail",
+    "Attends le tirage du 25 nov."
+   ],
+   "finTxt": "Tirage le 25 nov.",
+   "desc": "Inscription gratuite à la liste VIP Black Friday de Mademoiselle Confettis : tirage au sort de 13 abonnements d'un an, un séjour Disneyland et un robot Moulinex.",
+   "lien": "https://mademoiselleconfettis.com/pages/landing-page-liste-vip-bf",
+   "source": "https://touteslesbox.fr/mademoiselle-confettis-black-friday-2026-liste-vip-13-abonnements/",
+   "avis": "30 secondes avec ton e-mail pour une petite chance. Rien à payer.",
+   "emoji": "🎉",
+   "fiabilite": "Mademoiselle Confettis"
   },
   {
    "id": "proplan-chien",
@@ -4497,6 +6279,352 @@
    "source": "https://www.mesechantillonsgratuits.fr/tests-de-produits/test-de-soins-corporels/10-coffrets-de-4-huiles-a-levres-baorder-offerts/"
   },
   {
+   "id": "lancome-calendrier",
+   "acces": "tirage",
+   "rayon": "beaute",
+   "type": "cadeau",
+   "titre": "Lancôme : calendrier de l'Avent 2026 (195 €) à gagner",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 calendrier",
+   "contenu": [
+    "24 surprises dont La Vie Est Belle L'Elixir 30 ml, sérum Génifique 20 ml, crème Rénergie 15 ml"
+   ],
+   "pieges": [
+    "Un seul gagnant",
+    "Finit demain soir"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu Lancôme",
+    "Remplis le formulaire",
+    "Clique sur « Je participe »"
+   ],
+   "fin": "2026-11-23T23:59:00+01:00",
+   "finTxt": "Jusqu'au 23 nov.",
+   "desc": "Calendrier de l'Avent beauté de luxe, tirage gratuit.",
+   "conditions": "Majeur, France métropolitaine, sans achat.",
+   "lien": "https://ecampaign.lancome.fr/quiz/1862519_1221/jeuconcours.adventcalendar2026.html",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/produits-beaute/jeu-lancome-un-calendrier-de-lavent-noel-2026-de-195-e-a-gagner-gratuitement/",
+   "avis": "Joue vite, ça ferme demain. Idée cadeau si tu gagnes.",
+   "emoji": "💄",
+   "fiabilite": "Jeu officiel Lancôme",
+   "nouveau": true
+  },
+  {
+   "id": "pisse-dru-smartbox",
+   "acces": "tirage",
+   "rayon": "alcool",
+   "type": "cadeau",
+   "titre": "Pisse-Dru : Smartbox Beaujolais (149,90 €) + accessoires vin",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Smartbox + 50 accessoires",
+   "contenu": [
+    "Smartbox « Terroir et saveurs du Beaujolais »",
+    "20 sommeliers et 30 bouchons/pompes Pisse-Dru"
+   ],
+   "pieges": [
+    "Le règlement se contredit sur le nombre de Smartbox",
+    "1 participation par foyer"
+   ],
+   "etapes": [
+    "Ouvre « La Cave des Lutins »",
+    "Clique sur « Je tente ma chance » et remplis le formulaire",
+    "Joue au mini-jeu"
+   ],
+   "fin": "2026-11-28T23:59:00+01:00",
+   "finTxt": "Jusqu'au 28 nov.",
+   "desc": "Petits lots vin et une Smartbox.",
+   "conditions": "Majeur, France métropolitaine, sans achat.",
+   "lien": "https://primeurs.pisse-dru.fr/la-cave-des-lutins/",
+   "source": "https://bonsplansmania.fr/article/jeu-concours-pisse-dru-cave-lutins-novembre-2026",
+   "avis": "Mini-jeu sympa, lots modestes.",
+   "emoji": "🍷",
+   "fiabilite": "Jeu officiel de la marque",
+   "nouveau": true
+  },
+  {
+   "id": "catit-friandises",
+   "acces": "tirage",
+   "rayon": "animaux",
+   "type": "cadeau",
+   "titre": "Catit : 3 lots de friandises pour chat (39,80 €)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "3 lots",
+   "contenu": [
+    "1 multipack Creamy Bisque + 1 multipack Creamy Broth"
+   ],
+   "pieges": [
+    "Inscription à la newsletter incluse",
+    "Seulement 3 lots"
+   ],
+   "etapes": [
+    "Ouvre le magazine My Cat de novembre",
+    "Remplis le formulaire du concours"
+   ],
+   "fin": "2026-11-30T11:00:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "desc": "Pour ton chat, si tu en as un.",
+   "conditions": "Majeur, France, 1 participation.",
+   "lien": "https://www.catit.com/fr-fr/magazine-catit/my-cat-exclusive-novembre-2026/",
+   "source": "https://bonsplansmania.fr/article/concours-catit-creamy-bisque-broth-novembre-2026",
+   "avis": "Très peu de lots, seulement si tu as un chat.",
+   "emoji": "🐾",
+   "fiabilite": "Jeu officiel Catit",
+   "nouveau": true
+  },
+  {
+   "id": "le-gaulois-poeles",
+   "acces": "tirage",
+   "rayon": "maison",
+   "type": "cadeau",
+   "titre": "Le Gaulois : 30 poêles (169 €) et 70 lots cuisine à gagner",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Prix d'un produit Le Gaulois (achat requis)",
+   "coutNum": null,
+   "sansCarte": true,
+   "qty": "100 lots",
+   "contenu": [
+    "30 poêles multifonctions (169 €)",
+    "70 lots tablier + torchon + gant"
+   ],
+   "pieges": [
+    "Achat d'un produit éligible obligatoire"
+   ],
+   "etapes": [
+    "Achète un produit Le Gaulois éligible",
+    "Envoie la preuve d'achat sur le site du jeu",
+    "Instant gagnant"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "desc": "100 lots cuisine avec un achat de poulet.",
+   "conditions": "Achat d'un produit Le Gaulois éligible.",
+   "lien": "https://jeu.legaulois.fr/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/maisons/concours-le-gaulois-30-poeles-multifonctions-et-70-lots-daccessoires-de-cuisine-a-gagner/",
+   "avis": "Si tu achètes du poulet Le Gaulois, tente.",
+   "emoji": "🍗",
+   "fiabilite": "Jeu officiel Le Gaulois",
+   "nouveau": true
+  },
+  {
+   "id": "lavazza-disney",
+   "acces": "tirage",
+   "rayon": "voyage",
+   "type": "cadeau",
+   "titre": "Lavazza : séjour Disneyland Paris pour 4 à gagner (Instagram)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 séjour",
+   "contenu": [
+    "Séjour Disneyland Paris pour 4 personnes"
+   ],
+   "pieges": [
+    "Concours Instagram : vérifie que c'est bien le compte officiel @lavazzafr (badge bleu)",
+    "Règlement dans la bio Instagram"
+   ],
+   "etapes": [
+    "Abonne-toi à @lavazzafr sur Instagram",
+    "Commente sous la publication du concours"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "desc": "Séjour Disney à gagner sur le compte officiel Lavazza.",
+   "conditions": "Abonnement + commentaire.",
+   "lien": "https://www.instagram.com/lavazzafr/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/voyages/lavazza-vous-fait-gagner-un-sejour-a-disneyland-paris-pour-4-personnes/",
+   "avis": "Méfie-toi des faux comptes qui te contactent en MP après.",
+   "emoji": "☕",
+   "fiabilite": "Compte officiel de la marque",
+   "nouveau": true
+  },
+  {
+   "id": "loreal-coffrets",
+   "acces": "tirage",
+   "rayon": "beaute",
+   "type": "cadeau",
+   "titre": "L'Oréal Paris : 5 coffrets maquillage à gagner (grattage)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "5 coffrets",
+   "contenu": [
+    "3 lots de 5 rouges à lèvres Color Riche",
+    "2 coffrets de 5 produits (mascara, encre à lèvres, stick bronzant, crayon, palette)"
+   ],
+   "pieges": [
+    "Seulement 5 lots"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu",
+    "Remplis le formulaire",
+    "Gratte l'image : résultat immédiat"
+   ],
+   "fin": "2026-12-12T17:00:00+01:00",
+   "finTxt": "Jusqu'au 12 déc. 17h",
+   "desc": "Jeu à gratter gratuit L'Oréal.",
+   "conditions": "Majeur, sans achat.",
+   "lien": "https://ecampaign.loreal-paris.fr/quiz/1868851_1221/OAPAutomne2026.html",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/produits-beaute/jeu-concours-loreal-paris-gagnez-des-coffrets-de-maquillage-et-des-produits-de-beaute/",
+   "avis": "Peu de lots, mais ça prend 30 secondes. Idée cadeau.",
+   "emoji": "💋",
+   "fiabilite": "Jeu officiel L'Oréal Paris",
+   "nouveau": true
+  },
+  {
+   "id": "rts-cinema",
+   "acces": "tirage",
+   "rayon": "culture",
+   "type": "cadeau",
+   "titre": "RTS FM : places de cinéma à gagner (Occitanie)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Places de ciné",
+   "contenu": [
+    "Places dans les cinémas partenaires de RTS"
+   ],
+   "pieges": [
+    "Cinémas partenaires en Occitanie : vérifie qu'il y en a un près de chez toi"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu RTS",
+    "Remplis le formulaire"
+   ],
+   "fin": "2026-12-31T22:59:00+01:00",
+   "finTxt": "Jusqu'au 31 déc. 22h59",
+   "desc": "Radio d'Occitanie (Narbonne, Montpellier…) qui fait gagner des places de ciné.",
+   "conditions": "Formulaire sur rtsfm.com.",
+   "lien": "https://www.rtsfm.com/gagnez-vos-places-de-cinema-toute-l-annee-sur-rts",
+   "source": "https://bonsplansmania.fr/article/concours-rts-fm-novembre-2026",
+   "avis": "Jeu local, donc moins de monde que les jeux nationaux.",
+   "emoji": "🎬",
+   "fiabilite": "Radio locale officielle",
+   "nouveau": true
+  },
+  {
+   "id": "purina-gourmet-coussins",
+   "acces": "tirage",
+   "rayon": "animaux",
+   "type": "cadeau",
+   "titre": "Purina Gourmet : 3 500 coussins pour chat + 7 000 lots découverte",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Prix de 2 produits Gourmet (achat requis)",
+   "coutNum": null,
+   "sansCarte": true,
+   "qty": "10 500 lots",
+   "contenu": [
+    "3 500 coussins sherpa pour chat (≈ 30 €)",
+    "7 000 lots : échantillon Soup' Royale + bons de 0,50 € et 1 €"
+   ],
+   "pieges": [
+    "Achat de 2 produits Gourmet en même temps",
+    "1 participation par foyer"
+   ],
+   "etapes": [
+    "Achète 2 produits Purina Gourmet sur le même ticket",
+    "Inscris-toi sur purina.fr/feeries-etoilees et envoie le ticket",
+    "Résultat immédiat"
+   ],
+   "fin": "2027-01-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 janv. 2027",
+   "desc": "Pour les proprios de chat : beaucoup de lots.",
+   "conditions": "Majeur, France métropolitaine.",
+   "lien": "https://www.purina.fr/feeries-etoilees",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/maisons/jeu-purina-gourmet-feeries-etoilees-3-500-coussins-pour-chats-et-7-000-lots-decouverte-offerts/",
+   "avis": "Utile seulement si tu as un chat.",
+   "emoji": "🐱",
+   "fiabilite": "Jeu officiel Purina",
+   "nouveau": true
+  },
+  {
+   "id": "president-chaussettes",
+   "acces": "tirage",
+   "rayon": "vetements",
+   "type": "cadeau",
+   "titre": "Président : 1 000 paires de chaussettes à gagner",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 000 paires",
+   "contenu": [
+    "500 paires « Fondue Addict »",
+    "500 paires « Tartiflette Lover »"
+   ],
+   "pieges": [
+    "Envoi jusqu'à 8 semaines après"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu Président",
+    "Suis les instructions et valide ta participation"
+   ],
+   "fin": "2027-03-31T23:59:00+02:00",
+   "finTxt": "Jusqu'au 31 mars 2027",
+   "desc": "1 000 paires de chaussettes rigolotes, gratuit.",
+   "conditions": "Gratuit, sans achat.",
+   "lien": "https://www.president.fr/rechauffez-vos-soirees",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/bijoux-accessoires/1-000-paires-de-chaussettes-president-a-gagner-gratuitement/",
+   "avis": "Petit lot mais beaucoup de gagnants.",
+   "emoji": "🧦",
+   "fiabilite": "Jeu officiel Président (Lactalis)",
+   "nouveau": true
+  },
+  {
+   "id": "gallimard-bd",
+   "acces": "tirage",
+   "rayon": "culture",
+   "type": "cadeau",
+   "titre": "Gallimard BD : 50 bandes dessinées à gagner (roue)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "50 BD",
+   "contenu": [
+    "1 BD parmi Nychtémère, Le Fantôme de l'Opéra, Beauvoir made in America, Le Néant électrique, L'Anomalie"
+   ],
+   "pieges": [
+    "Date de fin non indiquée : vérifie le règlement"
+   ],
+   "etapes": [
+    "Ouvre la page du concours",
+    "Clique sur « Je participe », entre ton e-mail",
+    "Fais tourner la roue"
+   ],
+   "fin": null,
+   "finTxt": "Date de fin non indiquée (ouvert le 14 nov.)",
+   "desc": "50 BD à gagner en un tour de roue.",
+   "conditions": "Gratuit, newsletter facultative.",
+   "lien": "https://www.gallimard-bd.fr/actualites/2026/concours-nouveautes-bd-2026.html",
+   "source": "https://bonsplansmania.fr/article/concours-gallimard-nouveautes-bd-50-exemplaires-2026",
+   "avis": "50 lots, joue vite avant que ça ferme.",
+   "emoji": "📚",
+   "fiabilite": "Jeu officiel Gallimard",
+   "nouveau": true
+  },
+  {
    "id": "moulinex-concours",
    "acces": "tirage",
    "rayon": "maison",
@@ -4531,7 +6659,7 @@
    "emoji": "🍲",
    "fiabilite": "Moulinex",
    "conditions": "",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "fnac-roue-bf",
@@ -4568,7 +6696,7 @@
    "emoji": "🎡",
    "fiabilite": "Fnac",
    "conditions": "",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "carplay",
