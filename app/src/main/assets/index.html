@@ -140,6 +140,19 @@ nav.bas .nb{position:absolute;top:2px;left:calc(50% + 6px);background:var(--acc2
 .coul button.on{border-color:#fff}
 .toast{position:fixed;left:50%;bottom:86px;transform:translateX(-50%);background:#fff;color:#000;font-weight:700;padding:9px 14px;border-radius:10px;z-index:10;display:none;white-space:nowrap}
 .toast.on{display:block}
+/* Univers du côté Jeux : Android / Steam / PC */
+.univ{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;padding:0 14px 10px}
+.univ button{border:1px solid var(--line);background:var(--card);border-radius:14px;padding:8px 2px 7px;display:flex;flex-direction:column;align-items:center;gap:2px;font-size:12px;font-weight:800;color:var(--mute)}
+.univ button svg{width:22px;height:22px}
+.univ button i{font-style:normal;font-size:10.5px;font-weight:700;opacity:.8}
+.univ button.on{color:#000;background:linear-gradient(135deg,var(--acc),var(--acc2));border-color:transparent}
+.uhero{display:flex;gap:12px;align-items:center;margin:0 0 12px;padding:12px 14px;border-radius:16px;background:linear-gradient(120deg,color-mix(in srgb,var(--acc) 22%,var(--card)),var(--card) 75%);border:1px solid color-mix(in srgb,var(--acc) 45%,var(--line))}
+.uhero svg{width:34px;height:34px;color:var(--acc);flex:none}
+.uhero b{display:block;font-size:16px}
+.uhero small{color:var(--mute);font-size:12px}
+body[data-o=jeux][data-u=android]{--bg:#06120b;--bg2:#0b1a11;--card:#0f2117;--card2:#153020;--line:#1f3d2a;--acc:#3ddc84;--acc2:#b4f05a;--mute:#8fb39c}
+body[data-o=jeux][data-u=steam]{--bg:#0b141e;--bg2:#101c28;--card:#16232f;--card2:#1b2c3c;--line:#2a475e;--acc:#66c0f4;--acc2:#a4d007;--mute:#8ba3b8}
+body[data-o=jeux][data-u=pc]{--bg:#0c0a16;--bg2:#141024;--card:#1a1530;--card2:#221b3d;--line:#2f2652;--acc:#a855f7;--acc2:#f472b6;--mute:#a69cc8}
 /* Style « tréfonds » : titre dégradé, lueur venue des profondeurs */
 #titre .t2{background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
 body[data-o=jeux],body[data-o=favoris],body[data-o=reglages]{background:radial-gradient(130% 55% at 50% -8%,color-mix(in srgb,var(--acc2) 26%,var(--bg)) 0%,var(--bg) 62%) fixed var(--bg)}
@@ -191,6 +204,7 @@ body[data-o=commandes]{--bg:#f3eadb;--bg2:#fffaf1;--card:#fffdf8;--card2:#efe2cc
     <label class="rech"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input id="q" type="search" placeholder="Rechercher un jeu, un produit…" autocomplete="off"></label>
     <button class="ico" id="btnFiltres" aria-label="Filtres"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 6h16M7 12h10M10 18h4"/></svg><span class="nb" id="nbF" hidden></span></button>
   </div>
+  <div class="univ" id="univ"></div>
   <div class="chips" id="chipsA"></div>
   <div class="chips" id="chips"></div>
 </div>
@@ -252,7 +266,7 @@ let D = {jeux: lsGet('mg-c-jeux', null), produits: lsGet('mg-c-produits', null),
 let onglet = (location.hash || '#jeux').slice(1);
 if (onglet === 'dlc') onglet = 'jeux';
 if (onglet === 'produits') onglet = 'offres';
-const F0 = () => ({acces:'tout', cat:'tout', plat:'tout', rar:'tout', type:'tout', gratuit:false, nouveau:false, bientot:false, nonvu:false, fps:false, sansCarte:false, coutMax:'tout', tri:'reco'});
+const F0 = () => ({acces:'tout', cat:'tout', plat:'tout', rar:'tout', type:'tout', gratuit:false, nouveau:false, bientot:false, nonvu:false, fps:false, sansCarte:false, coutMax:'tout', tri:'reco', u:'tout'});
 let F = {jeux: Object.assign(F0(), lsGet('mg-f-jeux', {})), offres: Object.assign(F0(), lsGet('mg-f-offres', {}))};
 let cmds = lsGet('mg-cmd', []), cmdF = 'cours';
 let q = '', montres = PAS, horsLigne = false, derniereVerif = null;
@@ -291,9 +305,19 @@ function preparer() {
 }
 function catDe(o) { return o._t === 'jeux' ? (o._mob ? 'mobile' : o.cat) : o.rayon; }
 
+const SVGU = {
+  tout:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg>',
+  android:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 10h12v7a2 2 0 0 1-2 2h-1v3h-2v-3h-2v3H9v-3H8a2 2 0 0 1-2-2zm-3 0h2v6H3zm16 0h2v6h-2zM6.5 9a5.5 5.5 0 0 1 11 0zm3-2.2a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6zm5 0a.8.8 0 1 0 0 1.6.8.8 0 0 0 0-1.6zM7.6 2.6l1.6 2.2-.8.6-1.6-2.2zm8.8 0 .8.6-1.6 2.2-.8-.6z"/></svg>',
+  steam:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-9.9 8.6l5.3 2.2a2.8 2.8 0 0 1 1.7-.5l2.4-3.4v-.1a3.8 3.8 0 1 1 3.8 3.8h-.1l-3.4 2.4v.1a2.8 2.8 0 0 1-5.6.4L2.4 14A10 10 0 1 0 12 2zm-4.6 15.1 1.2.5a2.1 2.1 0 1 0 1.1-2.8l-1.2-.5a1.5 1.5 0 1 1-1.1 2.8zM15.3 11a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm0-4.3a1.8 1.8 0 1 1 0 3.6 1.8 1.8 0 0 1 0-3.6z"/></svg>',
+  pc:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></svg>'};
+const UNIV = {tout:['Tout','Tous les jeux, toutes les plateformes'], android:['Android','Jeux gratuits Play Store et cadeaux mobile'], steam:['Steam','Jeux, clés et DLC à mettre dans ta bibliothèque Steam'], pc:['PC','Epic, GOG, Prime, Ubisoft, EA, codes, skins, bêtas…']};
+const MOB = ['android', 'ios', 'ps', 'switch'];
+const dansU = (o, u) => u === 'tout' || (u === 'android' ? o.plateforme === 'android' : u === 'steam' ? o.plateforme === 'steam' : !MOB.includes(o.plateforme));
+const base = t => t === 'jeux' && F.jeux.u !== 'tout' ? cache.jeux.filter(o => dansU(o, F.jeux.u)) : cache[t];
+
 function filtrer(t) {
   const f = F[t], now = Date.now(), qq = norm(q.trim());
-  let l = cache[t].filter(o =>
+  let l = base(t).filter(o =>
     (f.acces === 'tout' || accOf(o) === f.acces) &&
     (f.cat === 'tout' || catDe(o) === f.cat) &&
     (f.plat === 'tout' || o.plateforme === f.plat) &&
@@ -308,7 +332,7 @@ function filtrer(t) {
   else if (f.tri === 'az') l = [...l].sort((a, b) => String(a.titre).localeCompare(String(b.titre), 'fr'));
   return l;
 }
-function nbFiltres(t) { const f = F[t], d = F0(); return Object.keys(d).filter(k => k !== 'cat' && k !== 'tri' && k !== 'acces' && f[k] !== d[k]).length; }
+function nbFiltres(t) { const f = F[t], d = F0(); return Object.keys(d).filter(k => k !== 'cat' && k !== 'tri' && k !== 'acces' && k !== 'u' && f[k] !== d[k]).length; }
 
 function rebours(o) {
   if (o._fin) {
@@ -347,16 +371,18 @@ function carteTop(o) {
 }
 
 function chips() {
-  const el = $('#chips'), ea = $('#chipsA');
+  const el = $('#chips'), ea = $('#chipsA'), eu = $('#univ');
+  eu.hidden = onglet !== 'jeux';
+  if (onglet === 'jeux') eu.innerHTML = Object.keys(UNIV).map(u => `<button class="${F.jeux.u === u ? 'on' : ''}" data-univ="${u}">${SVGU[u]}${UNIV[u][0]}<i>${cache.jeux.filter(o => dansU(o, u)).length}</i></button>`).join('');
   if (onglet !== 'jeux' && onglet !== 'offres') { el.innerHTML = ''; ea.innerHTML = ''; return; }
   {
     const t = onglet, f = F[t], ca = {};
-    for (const o of cache[t]) { const a = accOf(o); ca[a] = (ca[a] || 0) + 1; }
+    for (const o of base(t)) { const a = accOf(o); ca[a] = (ca[a] || 0) + 1; }
     let ha = `<button class="chip a${f.acces === 'tout' ? ' on' : ''}" style="--ac:var(--acc)" data-acc="tout">Tous les accès</button>`;
     for (const k in ACC) if (ca[k]) ha += `<button class="chip a${f.acces === k ? ' on' : ''}" style="--ac:${ACC[k].c}" data-acc="${k}">${ACC[k].i} ${ACC[k][t][0]} <i>${ca[k]}</i></button>`;
     ea.innerHTML = ha;
   }
-  const t = onglet, f = F[t], src = cache[t];
+  const t = onglet, f = F[t], src = base(t);
   const cats = t === 'jeux' ? CATJ : RAY;
   const cnt = {};
   for (const o of src) { const c = catDe(o); cnt[c] = (cnt[c] || 0) + 1; }
@@ -366,15 +392,16 @@ function chips() {
 }
 function vueListe(t) {
   const l = filtrer(t), f = F[t];
-  const tops = (f.cat === 'tout' && !q && nbFiltres(t) === 0) ? cache[t].filter(o => o.cat !== 'avenir' && accOf(o) === 'direct' && (o.rarete === 'leg' || o.rarete === 'epi')).slice(0, 8) : [];
+  const tops = (f.cat === 'tout' && !q && nbFiltres(t) === 0) ? base(t).filter(o => o.cat !== 'avenir' && accOf(o) === 'direct' && (o.rarete === 'leg' || o.rarete === 'epi')).slice(0, 8) : [];
   const actifs = [];
   const lab = {plat: v => PLAT[v]?.[0] || v, rar: v => 'Min. ' + NOMR[t][v], type: v => TYP[v] || v, gratuit: () => 'Sûr et gratuit', nouveau: () => 'Nouveau', bientot: () => 'Finit < 3 j', nonvu: () => 'Pas encore vu', fps: () => 'FPS / multi', sansCarte: () => 'Sans carte', coutMax: v => '≤ ' + v + ' €'};
   const d = F0();
   for (const k in lab) if (f[k] !== d[k]) actifs.push(`<button data-raz="${k}">${esc(lab[k](f[k]))} ✕</button>`);
-  let h = `<div class="resume"><span><b>${l.length}</b> offre${l.length > 1 ? 's' : ''}${q ? ` pour « ${esc(q)} »` : ''}</span><select id="tri" aria-label="Trier"><option value="reco"${f.tri === 'reco' ? ' selected' : ''}>Les meilleures d'abord</option><option value="fin"${f.tri === 'fin' ? ' selected' : ''}>Finit bientôt</option><option value="neuf"${f.tri === 'neuf' ? ' selected' : ''}>Nouveautés</option><option value="az"${f.tri === 'az' ? ' selected' : ''}>A → Z</option></select></div>`;
+  let h = (t === 'jeux' && f.u !== 'tout') ? `<div class="uhero">${SVGU[f.u]}<div><b>Côté ${UNIV[f.u][0]}</b><small>${UNIV[f.u][1]}</small></div></div>` : '';
+  h += `<div class="resume"><span><b>${l.length}</b> offre${l.length > 1 ? 's' : ''}${q ? ` pour « ${esc(q)} »` : ''}</span><select id="tri" aria-label="Trier"><option value="reco"${f.tri === 'reco' ? ' selected' : ''}>Les meilleures d'abord</option><option value="fin"${f.tri === 'fin' ? ' selected' : ''}>Finit bientôt</option><option value="neuf"${f.tri === 'neuf' ? ' selected' : ''}>Nouveautés</option><option value="az"${f.tri === 'az' ? ' selected' : ''}>A → Z</option></select></div>`;
   if (actifs.length) h += `<div class="actifs">${actifs.join('')}<button data-raz="tout">Tout effacer</button></div>`;
   if (tops.length) h += `<h2 class="sec">${t === 'jeux' ? 'Les meilleurs du moment' : 'Les pépites du moment'}</h2><div class="top">${tops.map(carteTop).join('')}</div><h2 class="sec">Tout</h2>`;
-  if (!cache[t].length) h += `<div class="vide"><b>Pas encore de résultats</b>La recherche du jour arrive à 13 h.</div>`;
+  if (!base(t).length) h += `<div class="vide"><b>Pas encore de résultats</b>La recherche du jour arrive à 13 h.</div>`;
   else if (!l.length) h += `<div class="vide"><b>Rien avec ces filtres</b>Essaie d'en enlever un.</div>`;
   else if (f.acces === 'tout' && f.tri === 'reco') {
     let n = 0, cur = null;
@@ -420,7 +447,7 @@ function vueReglages() {
     <button class="sec2" id="raz">Remettre à zéro les « déjà vu »</button><div style="height:12px"></div></section>`;
 }
 function vueFiltres() {
-  const t = onglet, f = F[t], src = cache[t];
+  const t = onglet, f = F[t], src = base(t);
   const opt = (k, v, n) => `<button class="chip${f[k] === v ? ' on' : ''}" data-fk="${k}" data-fv="${esc(v)}">${esc(n)}</button>`;
   const sw = (k, n, s) => `<div class="ligne"><span>${n}${s ? `<small>${s}</small>` : ''}</span><label class="sw"><input type="checkbox" data-fb="${k}" ${f[k] ? 'checked' : ''}><span></span></label></div>`;
   let h = `<div class="poi"></div><h2>Filtres — ${t === 'jeux' ? 'Jeux vidéo' : 'Offres'}</h2>`;
@@ -526,6 +553,7 @@ function badges() {
 }
 function rendre() {
   document.body.dataset.o = onglet;
+  document.body.dataset.u = R.accent === 0 ? F.jeux.u : '';
   $('#l2').style.display = (onglet === 'jeux' || onglet === 'offres') ? '' : 'none';
   chips();
   $('#vue').innerHTML = onglet === 'reglages' ? vueReglages() : onglet === 'commandes' ? vueCommandes() : onglet === 'favoris' ? vueFavoris() : vueListe(onglet);
@@ -679,10 +707,11 @@ document.addEventListener('click', e => {
   if ((el = g('[data-cmdf]'))) { cmdF = el.dataset.cmdf; rendre(); return; }
   if ((el = g('[data-lien]'))) return lien(el.dataset.lien);
   if ((el = g('[data-k]'))) return fiche(el.dataset.k);
+  if ((el = g('[data-univ]'))) { F.jeux.u = el.dataset.univ; F.jeux.cat = 'tout'; F.jeux.plat = 'tout'; montres = PAS; sauverF(); rendre(); window.scrollTo(0, 0); return; }
   if ((el = g('[data-acc]'))) { F[onglet].acces = el.dataset.acc; montres = PAS; sauverF(); rendre(); window.scrollTo(0, 0); return; }
   if ((el = g('[data-cat]'))) { F[onglet].cat = el.dataset.cat; montres = PAS; sauverF(); rendre(); return; }
   if ((el = g('[data-fk]'))) { F[onglet][el.dataset.fk] = el.dataset.fv; montres = PAS; sauverF(); $('#feuille').innerHTML = vueFiltres(); return; }
-  if ((el = g('[data-raz]'))) { const k = el.dataset.raz, d = F0(); if (k === 'tout') { const c = F[onglet].cat, tr = F[onglet].tri; F[onglet] = Object.assign(d, {cat: c, tri: tr}); } else F[onglet][k] = d[k]; sauverF(); if ($('#feuille').classList.contains('on')) $('#feuille').innerHTML = vueFiltres(); else rendre(); return; }
+  if ((el = g('[data-raz]'))) { const k = el.dataset.raz, d = F0(); if (k === 'tout') { const c = F[onglet].cat, tr = F[onglet].tri, u = F[onglet].u; F[onglet] = Object.assign(d, {cat: c, tri: tr, u}); } else F[onglet][k] = d[k]; sauverF(); if ($('#feuille').classList.contains('on')) $('#feuille').innerHTML = vueFiltres(); else rendre(); return; }
   if ((el = g('[data-c]'))) { R.accent = +el.dataset.c; sauver(); accent(); rendre(); return; }
   if (g('#btnFiltres')) { $('#feuille').innerHTML = vueFiltres(); ouvrirFeuille(); return; }
   if (g('#fermer') || e.target.id === 'voile') return fermer();
