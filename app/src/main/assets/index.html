@@ -60,6 +60,7 @@ h2.sec{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--
 .it{display:flex;gap:12px;align-items:center;padding:10px;border-radius:14px;background:var(--card);border:1px solid var(--line);position:relative}
 .it::before{content:"";position:absolute;left:0;top:10px;bottom:10px;width:3px;border-radius:0 3px 3px 0;background:var(--rc)}
 .it.vu{opacity:.5}
+.pris{opacity:.45}.b.pk{background:var(--ink);color:var(--bg)}
 .r-leg{--rc:var(--gold)}.r-epi{--rc:var(--epi)}.r-rar{--rc:var(--rar)}.r-com{--rc:var(--com)}
 .av{flex:none;width:48px;height:48px;border-radius:12px;display:grid;place-items:center;font-size:24px;background:color-mix(in srgb,var(--pc) 28%,var(--card2));color:#fff;font-weight:900}
 .av.txt{font-size:12px;letter-spacing:.02em}
@@ -328,14 +329,16 @@ function prix(o) {
 }
 function ligne(o) {
   const sous = o._t === 'offres' ? (RAY[o.rayon]?.[0] || '') + (o.type && TYP[o.type] ? ' · ' + TYP[o.type] : '') : (PLAT[o.plateforme]?.[0] || '') + ' · ' + (CATJ[catDe(o)]?.[0] || '');
-  return `<div class="it r-${o.rarete || 'com'}${vus.has(o._k) ? ' vu' : ''}" data-k="${esc(o._k)}">${avatar(o)}
-    <div class="ct"><h3>${esc(o.titre)}</h3><div class="mt">${badgeAcc(o)}${o.nouveau && !vus.has(o._k) ? '<span class="b n">NOUVEAU</span>' : ''}${o.rarete && o.rarete !== 'com' ? `<span class="b r">${NOMR[o._t][o.rarete]}</span>` : ''}<span>${esc(sous)}</span>${rebours(o)}</div></div>
+  const pr = cmdDe(o._k);
+  return `<div class="it r-${o.rarete || 'com'}${pr ? ' pris' : vus.has(o._k) ? ' vu' : ''}" data-k="${esc(o._k)}">${avatar(o)}
+    <div class="ct"><h3>${esc(o.titre)}</h3><div class="mt">${pr ? '<span class="b pk">✓ DÉJÀ PRIS</span>' : ''}${badgeAcc(o)}${o.nouveau && !vus.has(o._k) ? '<span class="b n">NOUVEAU</span>' : ''}${o.rarete && o.rarete !== 'com' ? `<span class="b r">${NOMR[o._t][o.rarete]}</span>` : ''}<span>${esc(sous)}</span>${rebours(o)}</div></div>
     <div class="dr">${prix(o)}<button class="fav" data-fav="${esc(o._k)}" aria-label="Favori">${favs[o._k] ? '❤️' : '🤍'}</button></div></div>`;
 }
 function tuile(o) {
-  return `<div class="tu r-${o.rarete || 'com'}${vus.has(o._k) ? ' vu' : ''}" style="--pc:${coul(o)}" data-k="${esc(o._k)}"><div class="im">${esc(o.emoji || RAY[o.rayon]?.[1] || '🎁')}</div>
+  const pr = cmdDe(o._k);
+  return `<div class="tu r-${o.rarete || 'com'}${pr ? ' pris' : vus.has(o._k) ? ' vu' : ''}" style="--pc:${coul(o)}" data-k="${esc(o._k)}"><div class="im">${esc(o.emoji || RAY[o.rayon]?.[1] || '🎁')}</div>
     <button class="fav" data-fav="${esc(o._k)}" aria-label="Favori">${favs[o._k] ? '❤️' : '🤍'}</button>
-    <div class="co"><h3>${esc(o.titre)}</h3><div class="ry">${esc(RAY[o.rayon]?.[0] || '')}${o.qty ? ' · ' + esc(o.qty.slice(0, 26)) : ''}</div>${badgeAcc(o)}
+    <div class="co"><h3>${esc(o.titre)}</h3>${pr ? '<span class="b pk">✓ DÉJÀ COMMANDÉ</span>' : ''}<div class="ry">${esc(RAY[o.rayon]?.[0] || '')}${o.qty ? ' · ' + esc(o.qty.slice(0, 26)) : ''}</div>${badgeAcc(o)}
     <div class="bas2">${prix(o)}<span class="mt" style="margin:0">${o.nouveau && !vus.has(o._k) ? '<span class="b n">NEUF</span>' : ''}${rebours(o)}</span></div></div></div>`;
 }
 function carteTop(o) {
@@ -412,6 +415,7 @@ function vueReglages() {
     <p class="note">La première = une couleur par catégorie (bleu pour les jeux, orange pour les offres).</p></section>
   <section class="reg"><h3>🤖 La recherche</h3>
     <p class="note">Chaque jour à 13 h, Claude fouille tout Internet et met l'appli à jour. Touche ↻ en haut pour récupérer les derniers résultats quand tu veux. Le bouton ↻ fait tout d'un coup : il récupère les dernières offres et, s'il y a une nouvelle version de l'appli, il te propose de l'installer directement. Pour changer quelque chose dans l'appli : dis-le à Claude dans le projet « 📱 Les Tréfonds d'Internet ».</p>
+    <button class="sec2" data-partage="appli">📤 Partager l'appli à un pote</button>
     <button class="sec2" data-lien="https://claude.ai">Ouvrir Claude</button>
     <button class="sec2" id="raz">Remettre à zéro les « déjà vu »</button><div style="height:12px"></div></section>`;
 }
@@ -560,6 +564,7 @@ function fiche(k) {
     ${o.avis ? `<div class="bl"><h4>💬 L'avis de Claude</h4><p style="margin:0">${esc(o.avis)}</p></div>` : ''}
     ${o.lien ? `<button class="go" data-lien="${esc(o.lien)}">${o._t === 'offres' ? 'Je le veux 🎁' : 'Récupérer 🎮'} → ${esc(domaine(o.lien))}</button>` : ''}
     ${o.source && o.source !== o.lien ? `<button class="sec2" data-lien="${esc(o.source)}">📰 Voir où Claude l'a trouvé (${esc(domaine(o.source))})</button>` : ''}
+    <button class="sec2" data-partage="${esc(k)}">📤 Envoyer à un pote</button>
     ${cmdDe(k) ? `<span class="dejacmd">✓ Déjà dans ${o._t === 'jeux' ? 'ta collection' : 'tes commandes'}</span>` : `<button class="sec2" data-cmd="${esc(k)}">${o._t === 'jeux' ? '🎮 Je l\'ai récupéré' : '🛒 Je l\'ai commandé'}</button>`}
     <div class="rang"><button class="sec2" data-fav="${esc(k)}">${favs[k] ? '❤️ Retirer des favoris' : '🤍 Ajouter aux favoris'}</button><button class="sec2" id="fermer">Fermer</button></div>`;
   ouvrirFeuille();
@@ -585,6 +590,17 @@ function programmerRappel(k) {
   window.Android.rappel(k, 'Résilie : ' + o.titre, (o.prixApres ? 'Sinon tu paieras ' + o.prixApres + '. ' : '') + (o.resilier || 'Va dans ton compte et résilie l\'abonnement.'), quand);
   toast('Rappel le ' + new Date(quand).toLocaleDateString('fr-FR', {day:'numeric', month:'long'}) + ' à 18 h');
   fiche(k);
+}
+function partager(k) {
+  let t;
+  if (k === 'appli') t = "Je te partage mon appli « Les Tréfonds d'Internet » : chaque jour elle trouve les jeux gratuits et les offres gratuites ou pas chères. Android seulement : https://github.com/Skuff6/mes-gratuits/releases/download/appli/mes-gratuits.apk";
+  else {
+    const o = cache.tout.get(k); if (!o) return;
+    t = (o._t === 'jeux' ? '🎮 ' : '🎁 ') + o.titre + (o.gratuit ? ' — gratuit' : o.cout ? ' — ' + o.cout : '') + (o.finTxt ? ' (' + o.finTxt + ')' : '') + '\n' + (o.lien || o.source || '') + "\n\nTrouvé avec Les Tréfonds d'Internet";
+  }
+  if (AND && window.Android.partager) window.Android.partager(t);
+  else if (navigator.share) navigator.share({text: t}).catch(() => {});
+  else { try { navigator.clipboard.writeText(t); toast('Copié ✓'); } catch (e) {} }
 }
 function domaine(u) { try { return new URL(u).hostname.replace(/^www\./, ''); } catch (e) { return ''; } }
 function ouvrirFeuille() { $('#feuille').classList.add('on'); $('#voile').classList.add('on'); $('#feuille').scrollTop = 0; }
@@ -652,6 +668,7 @@ document.addEventListener('click', e => {
   if ((el = g('[data-fav]'))) { const k = el.dataset.fav; if (favs[k]) delete favs[k]; else favs[k] = 1; lsSet('mg-favs', favs); toast(favs[k] ? 'Ajouté aux favoris ❤️' : 'Retiré des favoris'); if ($('#feuille').classList.contains('on')) fiche(k); else rendre(); return; }
   if ((el = g('[data-rappel]'))) return programmerRappel(el.dataset.rappel);
   if (g('[data-installer]')) return installerMaj();
+  if ((el = g('[data-partage]'))) return partager(el.dataset.partage);
   if ((el = g('[data-cmd]'))) { ajouterCmd(el.dataset.cmd); fiche(el.dataset.cmd); return; }
   if ((el = g('[data-recu]'))) { const c = cmds.find(x => x.id === el.dataset.recu); if (c) etatCmd(c.id, c.etat === 2 ? 1 : 2); return; }
   if ((el = g('[data-etat]'))) { const [id, e2] = el.dataset.etat.split(':'); return etatCmd(id, +e2); }

@@ -71,6 +71,20 @@ public class Bridge {
         Maj.installer(c);
     }
 
+    /** Ouvre le menu de partage d'Android (WhatsApp, Snap, SMS…). */
+    @JavascriptInterface
+    public void partager(String texte) {
+        try {
+            Intent i = new Intent(Intent.ACTION_SEND);
+            i.setType("text/plain");
+            i.putExtra(Intent.EXTRA_TEXT, texte);
+            Intent ch = Intent.createChooser(i, "Envoyer à…");
+            ch.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            c.startActivity(ch);
+        } catch (Exception ignored) {
+        }
+    }
+
     @JavascriptInterface
     public boolean estAndroid() {
         return true;
