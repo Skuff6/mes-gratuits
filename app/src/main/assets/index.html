@@ -240,6 +240,8 @@ const RAY = {bouffe:['Bouffe','🍔','#f97316'],box:['Box du monde','🌍','#eab
 const TYP = {ech:'Échantillon',test:'Test produit',remb:'Remboursé',essai:'Essai gratuit',box:'Box',reduc:'Réduction',livraison:'Livraison',cadeau:'Cadeau',promo:'Promo'};
 const RANG = {leg:3,epi:2,rar:1,com:0};
 const ACC = {
+  livre:{r:-2,i:'🏠',c:'#10b981',jeux:['Gratuit et livré chez toi','Tu commandes, c\'est livré chez toi gratuitement.'],offres:['Gratuit et livré chez toi','Tu commandes, tu le reçois dans ta boîte aux lettres. 0 € tout compris.'],court:'LIVRÉ GRATUIT'},
+  abolivre:{r:-1,i:'📬',c:'#e11d48',jeux:['Abonnement livré : 1er mois gratuit','Livré chez toi, mais RÉSILIE avant la fin sinon tu paies.'],offres:['Abonnement livré : 1er mois gratuit','Livré chez toi gratuitement le 1er mois. ⚠️ N\'oublie pas de te DÉSABONNER avant la fin, sinon tu paies.'],court:'1ER MOIS OFFERT · À RÉSILIER'},
   direct:{r:0,i:'✅',c:'#22c55e',jeux:['Tu le récupères direct','Tu cliques, il est à toi. Rien à gagner, rien à payer.'],offres:['Sûr à 100 %','Tu commandes, tu le reçois. Rien à gagner, rien à avancer.'],court:'SÛR'},
   port:{r:1,i:'📦',c:'#38bdf8',jeux:['Juste le port','Gratuit, tu paies seulement la livraison.'],offres:['Tu paies juste la livraison','Le produit est offert, seuls les frais de port sont à payer.'],court:'PORT SEUL'},
   rembourse:{r:2,i:'💶',c:'#eab308',jeux:['Remboursé','Tu avances, puis tu es remboursé.'],offres:['Remboursé','Tu avances l\'argent en magasin, puis tu es remboursé.'],court:'REMBOURSÉ'},
@@ -248,7 +250,16 @@ const ACC = {
   pascher:{r:5,i:'💸',c:'#14b8a6',jeux:['Pas cher et rentable','Pas gratuit, mais une vraie bonne affaire.'],offres:['Pas cher et rentable','Pas gratuit, mais ça vaut vraiment le coup selon Claude.'],court:'BON PRIX'},
   selection:{r:6,i:'🙋',c:'#a78bfa',jeux:['Sur demande','Il faut demander l\'accès : pas garanti.'],offres:['Sur candidature','Tu postules : pas sûr d\'être choisi.'],court:'CANDIDATURE'},
   tirage:{r:7,i:'🎲',c:'#94a3b8',jeux:['À gagner','Tirage au sort : juste une chance.'],offres:['À gagner','Tirage au sort : juste une chance, pas plus.'],court:'À GAGNER'}};
-const accOf = o => ACC[o.acces] ? o.acces : (o.gratuit ? 'direct' : 'condition');
+const LIVRE = /livr|domicile|chez (toi|vous)|boite aux lettres|boîte aux lettres|colis|envoy|par la poste|par courrier|recevr|reçoi|reçu chez/i, MAG = /en magasin|en boutique|retrait|sur place|au comptoir|dans l'appli uniquement|code promo|t[ée]l[ée]charg|num[ée]rique|en ligne seulement|pdf|e-?book|streaming|audio|podcast|plugin|logiciel|vst|en ligne|appli/i;
+const NONLIV = ['applis', 'services', 'voyage', 'abo', 'livraison', 'promo', 'culture'];
+const estLivre = o => o._t === 'offres' && (o.livre === true || (o.livre !== false && !NONLIV.includes(o.rayon) && LIVRE.test([o.desc, o.conditions, (o.etapes || []).join(' '), o.titre].join(' ')) && !MAG.test([o.desc, o.conditions, (o.etapes || []).join(' ')].join(' '))));
+const accOf = o => {
+  if (o._a) return o._a;
+  let a = ACC[o.acces] ? o.acces : (o.gratuit ? 'direct' : 'condition');
+  if (estLivre(o)) { if (a === 'direct') a = 'livre'; else if (a === 'abonnement') a = 'abolivre'; }
+  return a;
+};
+const estAbo = o => ['abonnement', 'abolivre'].includes(accOf(o));
 function badgeAcc(o) { const a = ACC[accOf(o)]; return `<span class="b a" style="--ac:${a.c}">${a.i} ${a.court}${accOf(o) === 'direct' && o.gratuit ? ' · GRATUIT' : ''}</span>`; }
 const item = o => o._t === 'offres' ? tuile(o) : ligne(o);
 const boite = t => t === 'offres' ? 'grille' : 'liste';
@@ -290,7 +301,7 @@ function preparer() {
   const now = Date.now();
   const prep = (arr, t) => (arr || []).filter(o => !o.fin || new Date(o.fin).getTime() > now).map(o => {
     const x = Object.assign({}, o);
-    x._k = t + ':' + o.id; x._t = t;
+    x._k = t + ':' + o.id; x._t = t; x._a = accOf(x);
     x._mob = t === 'jeux' && ['android', 'ios'].includes(o.plateforme);
     x._fin = o.fin ? new Date(o.fin).getTime() : null;
     x._s = norm([o.titre, o.desc, o.via, o.plateforme, o.rayon, o.genre, (o.tags || []).join(' '), o.finTxt].join(' '));
@@ -348,7 +359,7 @@ function avatar(o) {
   return `<div class="av txt" style="--pc:${coul(o)}">${esc(PLAT[o.plateforme]?.[2] || '•')}</div>`;
 }
 function prix(o) {
-  if (o._t === 'offres') return o.gratuit ? '<span class="px">0 €</span>' : accOf(o) === 'abonnement' ? `<span class="px ab">${esc(o.cout && !/^0/.test(o.cout) ? o.cout.slice(0, 14) : '0 € 1er mois')}</span>` : accOf(o) === 'tirage' || accOf(o) === 'selection' ? '<span class="px p">0 € si choisi</span>' : accOf(o) === 'rembourse' ? '<span class="px p">0 € après remb.</span>' : `<span class="px p">${esc((o.cout || '?').slice(0, 14))}</span>`;
+  if (o._t === 'offres') return o.gratuit ? '<span class="px">0 €</span>' : estAbo(o) ? `<span class="px ab">${esc(o.cout && !/^0/.test(o.cout) ? o.cout.slice(0, 14) : '0 € 1er mois')}</span>` : accOf(o) === 'tirage' || accOf(o) === 'selection' ? '<span class="px p">0 € si choisi</span>' : accOf(o) === 'rembourse' ? '<span class="px p">0 € après remb.</span>' : `<span class="px p">${esc((o.cout || '?').slice(0, 14))}</span>`;
   return `<span class="px">${o.prix && !/gratuit/i.test(o.prix) ? `<s>${esc(o.prix)}</s>` : ''}0 €</span>`;
 }
 function ligne(o) {
@@ -392,7 +403,7 @@ function chips() {
 }
 function vueListe(t) {
   const l = filtrer(t), f = F[t];
-  const tops = (f.cat === 'tout' && !q && nbFiltres(t) === 0) ? base(t).filter(o => o.cat !== 'avenir' && accOf(o) === 'direct' && (o.rarete === 'leg' || o.rarete === 'epi')).slice(0, 8) : [];
+  const tops = (f.cat === 'tout' && !q && nbFiltres(t) === 0) ? base(t).filter(o => o.cat !== 'avenir' && ['direct', 'livre'].includes(accOf(o)) && (o.rarete === 'leg' || o.rarete === 'epi')).slice(0, 8) : [];
   const actifs = [];
   const lab = {plat: v => PLAT[v]?.[0] || v, rar: v => 'Min. ' + NOMR[t][v], type: v => TYP[v] || v, gratuit: () => 'Sûr et gratuit', nouveau: () => 'Nouveau', bientot: () => 'Finit < 3 j', nonvu: () => 'Pas encore vu', fps: () => 'FPS / multi', sansCarte: () => 'Sans carte', coutMax: v => '≤ ' + v + ' €'};
   const d = F0();
@@ -476,7 +487,7 @@ function ajouterCmd(k) {
   const o = cache.tout.get(k);
   if (!o || cmdDe(k)) return;
   const jeu = o._t === 'jeux';
-  cmds.unshift({id: 'c' + Date.now(), k, titre: o.titre, emoji: jeu ? '🎮' : (o.emoji || RAY[o.rayon]?.[1] || '🎁'), boutique: jeu ? (PLAT[o.plateforme]?.[0] || '') : (o.via || domaine(o.lien || o.source || '')), lien: o.lien || o.source || '', etat: jeu ? 2 : 0, le: Date.now(), recuLe: jeu ? Date.now() : null, suivi: '', note: '', valeur: valeurDe(o), abo: accOf(o) === 'abonnement', resilierLe: o.resilierLe || null, prixApres: o.prixApres || ''});
+  cmds.unshift({id: 'c' + Date.now(), k, titre: o.titre, emoji: jeu ? '🎮' : (o.emoji || RAY[o.rayon]?.[1] || '🎁'), boutique: jeu ? (PLAT[o.plateforme]?.[0] || '') : (o.via || domaine(o.lien || o.source || '')), lien: o.lien || o.source || '', etat: jeu ? 2 : 0, le: Date.now(), recuLe: jeu ? Date.now() : null, suivi: '', note: '', valeur: valeurDe(o), abo: estAbo(o), resilierLe: o.resilierLe || null, prixApres: o.prixApres || ''});
   sauverCmd();
   toast(jeu ? 'Ajouté à ta collection 🎮' : 'Ajouté à tes commandes 📦');
 }
@@ -585,7 +596,7 @@ function fiche(k) {
     <h2>${esc(o.titre)}</h2><p class="d">${esc(o.desc)}</p>
     <div class="grp" style="--ac:${ACC[accOf(o)].c};margin-top:0"><div><b>${ACC[accOf(o)].i} ${ACC[accOf(o)][o._t][0]}</b><small>${ACC[accOf(o)][o._t][1]}</small></div></div>
     <div class="bl"><dl class="inf">${inf.map(([a, b]) => `<dt>${esc(a)}</dt><dd>${esc(b)}</dd>`).join('')}</dl></div>
-    ${accOf(o) === 'abonnement' ? alerteAbo(o) : ''}
+    ${estAbo(o) ? alerteAbo(o) : ''}
     ${o.contenu?.length ? `<div class="bl"><h4>📦 Ce que tu reçois</h4>${li(o.contenu)}</div>` : ''}
     ${o.etapes?.length ? `<div class="bl"><h4>⚡ Comment l'avoir</h4><ol>${o.etapes.map(x => `<li>${esc(x)}</li>`).join('')}</ol></div>` : ''}
     ${(o.conditions || o.pieges?.length) ? `<div class="bl"><h4>⚠️ À savoir</h4>${o.conditions ? `<p style="margin:0 0 6px">${esc(o.conditions)}</p>` : ''}${li(o.pieges)}</div>` : ''}

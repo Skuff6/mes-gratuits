@@ -18,6 +18,13 @@ L'appli range tout par ce champ, en grands groupes séparés. Choisis-le avec so
 
 `gratuit: true` uniquement si `acces` vaut `direct` ET que ça coûte 0 € tout compris.
 
+## Le champ `livre` (OBLIGATOIRE dans produits.json, demande de Hugo du 24 nov.)
+`livre: true` si le produit est ENVOYÉ CHEZ HUGO (colis, courrier, boîte aux lettres), `false` sinon (magasin, code, numérique, service).
+L'appli met TOUT EN HAUT, dans cet ordre :
+1. 🏠 « Gratuit et livré chez toi » = `acces: "direct"` + `livre: true` (0 € tout compris, port inclus).
+2. 📬 « Abonnement livré : 1er mois gratuit » = `acces: "abonnement"` + `livre: true` (box, colis, repas…), avec TOUJOURS prixApres, resilierLe, resilierTxt et resilier remplis : l'appli affiche « N'oublie pas de te désabonner ».
+Puis le reste dans l'ordre habituel. Trie le fichier dans cet ordre aussi.
+
 ## data/jeux.json — tout ce qui touche aux jeux vidéo
 
 ```json
