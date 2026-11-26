@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25T13:55:00+01:00",
+ "maj": "2026-11-26T13:55:00+01:00",
  "offres": [
   {
    "id": "cisse",
@@ -39,6 +39,83 @@
    "sansCarte": true,
    "source": "https://monsieurechantillons.fr/echantillons-gratuits/echantillon-gratuit-parfum-maison-cisse-paris-2-ml/",
    "livre": true
+  },
+  {
+   "nouveau": true,
+   "prix": "",
+   "conditions": "18-25 ans, France métropolitaine, numéro de Sécurité sociale. Ouvert aux hommes depuis le 29 mai 2026.",
+   "pieges": [
+    "Réservé aux 18-25 ans inclus en France métropolitaine, avec un numéro de Sécu",
+    "Pour les hommes : avoir eu une activité sexuelle dans les 12 derniers mois avec au moins un facteur de risque listé",
+    "Une participation forfaitaire de 2 € peut être retenue plus tard sur tes remboursements"
+   ],
+   "etapes": [
+    "Ouvre mon-test-ist.ameli.fr",
+    "Réponds au questionnaire et commande le kit",
+    "Fais le prélèvement chez toi",
+    "Renvoie-le dans l'enveloppe préaffranchie et reçois les résultats"
+   ],
+   "contenu": [
+    "Kit d'autoprélèvement chlamydia et gonocoque",
+    "Enveloppe préaffranchie pour renvoyer le prélèvement au labo"
+   ],
+   "id": "mon-test-ist-ameli-domicile",
+   "acces": "direct",
+   "livre": true,
+   "rayon": "sante",
+   "type": "ech",
+   "titre": "Kit de dépistage IST gratuit livré chez toi (Assurance Maladie, 18-25 ans)",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € d'avance (participation forfaitaire de 2 € possible)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 kit d'autoprélèvement par commande",
+   "fin": null,
+   "finTxt": "Pas de date de fin",
+   "desc": "L'Assurance Maladie envoie chez toi un kit pour te dépister des IST (chlamydia, gonocoque), sans ordonnance et sans avancer d'argent.",
+   "lien": "https://mon-test-ist.ameli.fr/",
+   "source": "https://www.vidal.fr/actualites/37912-depistage-des-ist-a-chlamydia-et-a-gonocoque-le-kit-d-autoprelevement-desormais-accessible-aux-hommes.html",
+   "avis": "Tu as 23 ans : tu y as droit. Discret, livré chez toi, résultats sans passer chez le médecin.",
+   "emoji": "🧪",
+   "fiabilite": "Officiel Assurance Maladie (ameli.fr)"
+  },
+  {
+   "id": "pentesterlab-stickers",
+   "acces": "direct",
+   "livre": true,
+   "rayon": "papeterie",
+   "type": "cadeau",
+   "titre": "Autocollants PentesterLab gratuits envoyés d'Australie",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Un lot de stickers par demande",
+   "contenu": [
+    "Autocollants PentesterLab (site d'apprentissage de la cybersécurité / hacking éthique)"
+   ],
+   "pieges": [
+    "Envoyés d'Australie le vendredi : compte plusieurs semaines",
+    "Le nombre et le modèle exacts ne sont pas précisés"
+   ],
+   "etapes": [
+    "Ouvre la page stickers de PentesterLab pour la France",
+    "Remplis le formulaire « Shipping Details » (nom, adresse)",
+    "Valide et attends le courrier"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin",
+   "nouveau": true,
+   "desc": "PentesterLab envoie gratuitement ses autocollants partout dans le monde, sans rien acheter (« 100% free, no strings attached »).",
+   "conditions": "Livraison dans le monde entier, France comprise.",
+   "lien": "https://pentesterlab.com/stickers/france",
+   "source": "https://pentesterlab.com/stickers/france",
+   "avis": "Petit cadeau sympa pour décorer un PC ou un téléphone, 100 % gratuit, il faut juste être patient.",
+   "emoji": "🏷️",
+   "fiabilite": "Officiel PentesterLab",
+   "prix": ""
   },
   {
    "id": "always-discreet-ech",
@@ -195,6 +272,44 @@
    "livre": true
   },
   {
+   "nouveau": true,
+   "prix": "",
+   "conditions": "Hors collection Archive.",
+   "pieges": [
+    "Collection Archive exclue",
+    "Si le panier affiche des frais de port, abandonne"
+   ],
+   "etapes": [
+    "Ouvre la page Échantillons de papier peint",
+    "Choisis le motif et le coloris",
+    "Clique sur « Sélectionner des échantillons »",
+    "Passe à la caisse et vérifie le total à 0 €"
+   ],
+   "contenu": [
+    "Échantillons de papier peint Farrow & Ball au choix (motif + coloris)"
+   ],
+   "id": "farrow-ball-echantillons-papier-peint",
+   "acces": "direct",
+   "livre": true,
+   "rayon": "maison",
+   "type": "ech",
+   "titre": "Échantillons de papier peint Farrow & Ball gratuits",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 € (vérifie le total au panier)",
+   "coutNum": 0,
+   "sansCarte": null,
+   "qty": "Jusqu'à 3 échantillons à la fois",
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Farrow & Ball envoie gratuitement des échantillons de son papier peint haut de gamme.",
+   "lien": "https://www.farrow-ball.com/fr/papier-peint/echantillons",
+   "source": "https://www.farrow-ball.com/fr/papier-peint/echantillons",
+   "avis": "Joli papier épais, utile pour bricoler, scrapbooking ou tester une déco. Différent du nuancier peinture déjà listé.",
+   "emoji": "🖼️",
+   "fiabilite": "Officiel Farrow & Ball"
+  },
+  {
    "id": "tabac",
    "acces": "direct",
    "rayon": "hygiene",
@@ -309,7 +424,7 @@
    "lien": "https://www.pampers.fr/offres/promotion-pampers-premium-protection",
    "avis": "Pour un bébé dans l'entourage : à offrir à des amis jeunes parents.",
    "fiabilite": "page officielle vérifiée le 25/11 (règlement jusqu'au 30/06/2027)",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "mr-papier-peint-echantillons",
@@ -383,7 +498,7 @@
    "lien": "https://www.whiskas.fr/receivez-un-echantillon-gratuit",
    "avis": "Utile seulement si tu as un chaton (ou un voisin qui en a un). Rapide à faire.",
    "fiabilite": "page officielle vérifiée le 25/11 (aucun message de fin affiché)",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -424,7 +539,7 @@
    "lien": "https://www.moo.com/fr/sample-packs/all-products-sample-pack",
    "avis": "Joli papier, cartes et autocollants sympas à récupérer pour bricoler ou décorer.",
    "fiabilite": "page officielle vérifiée le 25/11 (« gratuit, livraison sans frais »)",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -464,7 +579,7 @@
    "lien": "https://www.vistaprint.fr/cartes-de-visite/kit-d-echantillons-de-cartes-de-visite-gratuit",
    "avis": "Gratuit et sans piège tant que tu restes en livraison standard.",
    "fiabilite": "page officielle vérifiée le 25/11 (« livraison standard incluse »)",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -501,7 +616,7 @@
    "lien": "https://bemz.com/fr-fr/fabrics",
    "avis": "Petits carrés de beau tissu gratuits : bien pour patchs, couture ou déco.",
    "fiabilite": "page officielle vérifiée le 25/11 (« Les 5 premiers échantillons sont gratuits »)",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -537,7 +652,7 @@
    "lien": "https://www.farrow-ball.com/fr/peinture/free-colour-card-french",
    "avis": "Bel objet pour dessiner, choisir des couleurs ou décorer. Vérifie juste le port.",
    "fiabilite": "page officielle vérifiée le 25/11 (prix « Gratuit », port non affiché)",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -575,7 +690,48 @@
    "avis": "Bon dépannage pour un nouveau-né, mais la quantité est petite.",
    "emoji": "👶",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "rarete": "epi",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 licence à vie (version 8)",
+   "contenu": [
+    "Ashampoo COLOR #8, version complète",
+    "Retouche couleur et correction automatique des photos"
+   ],
+   "pieges": [
+    "Il faut installer l'appli Ashampoo et créer un compte gratuit",
+    "Windows 10/11 64 bits uniquement",
+    "Si le prix n'affiche pas 0 €, l'offre est finie : ne paie rien",
+    "Peut s'arrêter sans prévenir"
+   ],
+   "etapes": [
+    "Ouvre la page Techno360 et télécharge le lanceur Ashampoo",
+    "Connecte-toi avec un compte Ashampoo gratuit",
+    "Sur la page COLOR #8, clique sur Obtenir quand le prix est à 0",
+    "Installe-le depuis ta Collection"
+   ],
+   "fin": null,
+   "finTxt": "Peut s'arrêter sans prévenir",
+   "nouveau": true,
+   "desc": "Logiciel de retouche couleur d'Ashampoo, normalement 70 $, offert à vie (version 8).",
+   "conditions": "Compte Ashampoo gratuit, Windows 10/11 64 bits.",
+   "lien": "https://techno360.in/ashampoo-color-8-free-full-version/",
+   "source": "https://techno360.in/ashampoo-color-8-free-full-version/",
+   "avis": "Licence à vie d'un vrai logiciel à 70 $ : ça vaut le coup si tu as un PC Windows.",
+   "emoji": "🎨",
+   "fiabilite": "Ashampoo (éditeur allemand connu) via Techno360, offre du 19/11",
+   "prix": "70 $",
+   "id": "pc-ashampoo-color-8",
+   "titre": "Ashampoo COLOR #8 : retouche photo, version complète à vie (PC)"
   },
   {
    "acces": "direct",
@@ -812,44 +968,161 @@
    "source": "https://musicradar.com/music-tech/plugins/waves-free-plugin-black-friday-2026",
    "avis": "Waves fait ça chaque année et les plugins sont pro. Inscris-toi maintenant pour ne pas rater les licences.",
    "fiabilite": "Article MusicRadar du 4/11/2026 + lien officiel Waves (page non chargée par l'outil), vérifié le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
-   "id": "ios-spamveto",
    "acces": "direct",
+   "livre": false,
    "rayon": "applis",
    "type": "cadeau",
-   "titre": "Spamveto : bloqueur d'appels spam à vie (iPhone)",
    "rarete": "rar",
    "gratuit": true,
    "cout": "0 €",
    "coutNum": 0,
    "sansCarte": true,
-   "qty": "1 appli (licence à vie)",
+   "qty": "1 licence 1 an",
    "contenu": [
-    "Spamveto Filtre d'appels spam, version à vie (29,99 € d'habitude)"
+    "Batch Image Resizer 5.7 (BinaryMark), licence 1 an",
+    "Redimensionne, recadre, tourne et filigrane des centaines de photos d'un coup"
    ],
    "pieges": [
-    "Uniquement sur iPhone/iPad",
-    "Vérifie que c'est bien à 0 € avant de valider"
+    "Giveaway du jour : à télécharger ET activer aujourd'hui",
+    "Licence 1 an seulement, pas à vie",
+    "Windows uniquement"
    ],
    "etapes": [
-    "Ouvre le lien sur ton iPhone",
-    "Appuie sur « Obtenir »",
-    "L'appli reste à toi même après la promo",
-    "Active-le dans Réglages > Téléphone > Blocage et identification des appels"
+    "Ouvre la page Giveaway of the Day",
+    "Clique sur Download, donne ton e-mail",
+    "Installe et active le logiciel le jour même"
    ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov.",
-   "desc": "Bloque les appels non vérifiés et le démarchage. Normalement 29,99 €.",
-   "conditions": "iPhone, compte Apple",
-   "lien": "https://apps.apple.com/fr/app/filtre-dappels-spam-spamveto/id6811833735",
-   "source": "https://www.iphon.fr/post/selection-applis-iphone-gratuites-promo",
-   "avis": "Grosse valeur (30 €) si tu as un iPhone. Inutile sur Android.",
-   "emoji": "📵",
-   "fiabilite": "iPhon.fr (21 nov. 2026)",
-   "nouveau": false,
-   "livre": false
+   "fin": "2026-11-26T23:59:00+01:00",
+   "finTxt": "Aujourd'hui seulement (26 nov.)",
+   "nouveau": true,
+   "desc": "Un logiciel pour redimensionner et retoucher des photos en lot, normalement 55,95 $, offert pour 1 an.",
+   "conditions": "Windows 7 à 11. Activation le jour du giveaway.",
+   "lien": "https://www.giveawayoftheday.com/batch-image-resizer-2/",
+   "source": "https://www.giveawayoftheday.com/",
+   "avis": "Pratique si tu dois réduire plein de photos (annonces, réseaux). Prends-le aujourd'hui, sinon c'est fini.",
+   "emoji": "🖼️",
+   "fiabilite": "Giveaway of the Day (site historique), vérifié le 26/11",
+   "prix": "55,95 $",
+   "id": "pc-batch-image-resizer-gotd",
+   "titre": "Batch Image Resizer 5.7 : licence 1 an offerte (PC)"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Plus de 10 certifications",
+   "contenu": [
+    "Certifications gratuites : Marketing digital, Réseaux sociaux, Content marketing, Inbound, Vente…",
+    "Vidéos + quiz + examen, certificat à mettre sur LinkedIn"
+   ],
+   "pieges": [
+    "Beaucoup de cours sont en anglais (une partie existe en français sur academy.hubspot.fr)",
+    "Les certificats expirent au bout d'un certain temps"
+   ],
+   "etapes": [
+    "Ouvre la page des certifications HubSpot",
+    "Crée un compte gratuit",
+    "Suis les leçons puis passe l'examen"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée",
+   "nouveau": true,
+   "desc": "Des certifications reconnues en marketing digital, réseaux sociaux et vente, 100 % gratuites.",
+   "conditions": "Compte gratuit.",
+   "lien": "https://academy.hubspot.com/certification",
+   "source": "https://academy.hubspot.com/certification",
+   "avis": "Bien pour un CV si tu vises le marketing, la com ou la vente. 3 à 8 h par certif.",
+   "emoji": "🎓",
+   "fiabilite": "HubSpot (officiel), vérifié le 26/11",
+   "prix": "",
+   "id": "hubspot-academy-certifs",
+   "titre": "HubSpot Academy : certifications marketing et vente gratuites"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 plugin",
+   "contenu": [
+    "Valhalla Supermassive 6.0 : réverb et delay, 23 modes",
+    "Nouveau mode Helios + 20 nouveaux presets",
+    "VST2, VST3, AAX, AU (PC et Mac)"
+   ],
+   "pieges": [
+    "Il faut un logiciel de musique (DAW) pour l'utiliser"
+   ],
+   "etapes": [
+    "Ouvre la page Supermassive chez Valhalla",
+    "Ajoute-le au panier à 0 $ et donne ton e-mail",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée",
+   "nouveau": true,
+   "desc": "Une des réverbs gratuites les plus connues, mise à jour le 25 nov. avec un nouveau mode.",
+   "conditions": "E-mail pour le téléchargement.",
+   "lien": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
+   "source": "https://bedroomproducersblog.com/2026/11/25/valhalla-supermassive-helios/",
+   "avis": "Incontournable si tu fais de la musique sur ordi. Gratuit pour toujours.",
+   "emoji": "🎚️",
+   "fiabilite": "Valhalla DSP via Bedroom Producers Blog, article du 25/11",
+   "prix": "",
+   "id": "plugin-valhalla-supermassive-6",
+   "titre": "Valhalla Supermassive 6 : réverb pro gratuite (nouveau mode Helios)"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "9 synthés",
+   "contenu": [
+    "9 synthétiseurs inspirés de modèles vintage",
+    "Formats VST3, AU et version autonome (standalone)"
+   ],
+   "pieges": [
+    "Gros téléchargement : environ 850 Mo",
+    "Les banques de sons en plus sont payantes (pas obligatoires)",
+    "macOS 11 minimum sur Mac"
+   ],
+   "etapes": [
+    "Ouvre la page du plugin Synth Palace",
+    "Entre ton e-mail pour recevoir le lien",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée",
+   "nouveau": true,
+   "desc": "Une collection de 9 synthés vintage, gratuits à garder, qui marchent même sans logiciel de musique.",
+   "conditions": "E-mail demandé.",
+   "lien": "https://www.synth-palace.com/plugin/",
+   "source": "https://bedroomproducersblog.com/2026/11/25/the-synth-palace-collection/",
+   "avis": "Version autonome : tu peux jouer sans DAW. Sympa pour découvrir les synthés.",
+   "emoji": "🎹",
+   "fiabilite": "Bedroom Producers Blog, article du 25/11",
+   "prix": "",
+   "id": "plugin-synth-palace-collection",
+   "titre": "Synth Palace : 9 synthés vintage gratuits à vie (PC/Mac)"
   },
   {
    "acces": "direct",
@@ -886,7 +1159,7 @@
    "source": "https://bedroomproducersblog.com/black-friday/",
    "avis": "Petit effet créatif sympa, gratuit quelques jours.",
    "fiabilite": "Liste des cadeaux Black Friday de Bedroom Producers Blog, vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -923,7 +1196,7 @@
    "source": "https://bedroomproducersblog.com/black-friday/",
    "avis": "Seulement pour les utilisateurs d'Ableton, mais 49 $ économisés.",
    "fiabilite": "Liste des cadeaux Black Friday de Bedroom Producers Blog, vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -962,7 +1235,7 @@
    "source": "https://www.dealabs.com/bons-plans/plugin-gforce-axxess-gratuit-dematerialise-3438118",
    "avis": "Un vrai synthé d'éditeur connu, gratuit quelques jours. À prendre si tu fais de la musique.",
    "fiabilite": "Annonce Dealabs (fin 1er déc.), page officielle non chargée, vérifié le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -1641,42 +1914,272 @@
    "livre": false
   },
   {
-   "id": "pc-vovsoft-picture-downloader",
    "acces": "direct",
-   "rayon": "tech",
+   "livre": false,
+   "rayon": "applis",
    "type": "cadeau",
-   "titre": "Vovsoft Picture Downloader : licence à vie (PC)",
    "rarete": "com",
    "gratuit": true,
    "cout": "0 €",
    "coutNum": 0,
    "sansCarte": true,
-   "qty": "1 licence à vie",
+   "qty": "1 licence 1 an",
    "contenu": [
-    "Picture Downloader (19 $ d'habitude)"
+    "Coolmuster PDF to ePub Converter, licence 1 an pour 1 PC",
+    "Transforme tes PDF en ebooks ePub lisibles sur liseuse"
    ],
    "pieges": [
-    "Windows seulement",
-    "Pas de mises à jour gratuites vers les versions suivantes",
-    "Passe par le site partenaire Tickcoupon",
-    "Installe avant le 25 nov."
+    "Il faut cliquer sur un bouton de partage Facebook/Twitter pour voir le code",
+    "Licence 1 an seulement",
+    "Windows uniquement"
    ],
    "etapes": [
-    "Ouvre la page Vovsoft et clique « Join Giveaway »",
-    "Récupère la licence sur Tickcoupon",
-    "Installe et active avant le 25 nov."
+    "Ouvre la page giveaway de Coolmuster",
+    "Entre ton nom, ton e-mail et le captcha",
+    "Clique sur partager pour afficher le code et note-le",
+    "Installe le logiciel, clique sur la clé et entre e-mail + code"
    ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov.",
-   "desc": "Télécharge d'un coup toutes les images d'une page web.",
-   "conditions": "PC Windows",
-   "lien": "https://vovsoft.com/giveaway/free-picture-downloader-2026/",
-   "source": "https://vovsoft.com/giveaway/",
-   "avis": "Pratique pour sauvegarder des photos ou fonds d'écran en masse.",
-   "emoji": "🖼️",
-   "fiabilite": "Officiel Vovsoft, page vérifiée le 23 nov. 2026",
-   "nouveau": false,
-   "livre": false
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov. environ",
+   "nouveau": true,
+   "desc": "Convertisseur PDF vers ePub (15,95 $/an) offert pour un an.",
+   "conditions": "Windows 7 à 11.",
+   "lien": "https://www.coolmuster.com/giveaway/pdf-to-epub-converter.html",
+   "source": "https://techno360.in/coolmuster-pdf-to-epub-converter-free-license-windows/",
+   "avis": "Utile si tu lis des PDF sur une liseuse ou un téléphone. Simple à récupérer.",
+   "emoji": "📚",
+   "fiabilite": "Coolmuster (éditeur) via Techno360, vérifié le 26/11",
+   "prix": "15,95 $/an",
+   "id": "pc-coolmuster-pdf-epub",
+   "titre": "Coolmuster PDF to ePub : licence 1 an offerte (PC)"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 licence 1 an",
+   "contenu": [
+    "Epubor KClippings, licence 1 an",
+    "Exporte et range tes surlignages et notes Kindle et Kobo"
+   ],
+   "pieges": [
+    "Le code doit être activé vite (environ 7 jours)",
+    "Licence 1 an seulement",
+    "Pas de date de fin annoncée : peut s'arrêter à tout moment"
+   ],
+   "etapes": [
+    "Ouvre la page Techno360 et copie l'e-mail + le code (Windows ou Mac)",
+    "Télécharge KClippings sur le site officiel d'Epubor",
+    "Ouvre « Register » et colle l'e-mail et le code"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée (fais-le vite)",
+   "nouveau": true,
+   "desc": "Logiciel pour récupérer les notes de ta liseuse (14,99 $), offert pour un an.",
+   "conditions": "Windows 10/11 ou macOS 10.14+.",
+   "lien": "https://techno360.in/epubor-kclippings-free-for-1-year-manage-kindle-and-kobo-notes-and-highlights-windows-mac/",
+   "source": "https://techno360.in/category/free-stuff/",
+   "avis": "Seulement utile si tu as une liseuse Kindle ou Kobo.",
+   "emoji": "📝",
+   "fiabilite": "Epubor via Techno360, code testé le 21/11",
+   "prix": "14,99 $",
+   "id": "pc-mac-epubor-kclippings",
+   "titre": "Epubor KClippings : licence 1 an (PC/Mac) pour gérer tes notes Kindle/Kobo"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Une quinzaine de cours",
+   "contenu": [
+    "Cours courts : Python, Pandas, SQL, Machine Learning, Deep Learning…",
+    "Certificat de fin de cours Kaggle (Google)"
+   ],
+   "pieges": [
+    "Cours en anglais"
+   ],
+   "etapes": [
+    "Ouvre Kaggle Learn",
+    "Crée un compte gratuit (ou avec Google)",
+    "Termine un cours pour télécharger le certificat"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée",
+   "nouveau": true,
+   "desc": "Des mini-cours de 3 à 8 h en programmation et IA, avec certificat gratuit.",
+   "conditions": "Compte Kaggle gratuit.",
+   "lien": "https://www.kaggle.com/learn",
+   "source": "https://trabajarporelmundo.org/kaggle-cursos-gratuitos/",
+   "avis": "Très bon pour débuter en code ou en IA, à ton rythme.",
+   "emoji": "💻",
+   "fiabilite": "Kaggle (Google), vérifié le 26/11",
+   "prix": "",
+   "id": "kaggle-learn-certifs",
+   "titre": "Kaggle Learn : cours Python, SQL et IA gratuits avec certificat"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Plusieurs cours",
+   "contenu": [
+    "Cours « Networking Basics » et autres (cybersécurité, IT Essentials…)",
+    "Badge numérique Cisco (Credly) gratuit"
+   ],
+   "pieges": [
+    "Certains cours sont en anglais"
+   ],
+   "etapes": [
+    "Ouvre la page du cours sur netacad.com",
+    "Crée un compte gratuit",
+    "Termine le cours et l'examen pour le badge"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée",
+   "nouveau": true,
+   "desc": "Des cours d'informatique et réseau de Cisco, gratuits, avec un badge à afficher sur ton CV.",
+   "conditions": "Compte gratuit.",
+   "lien": "https://www.netacad.com/courses/networking-basics",
+   "source": "https://www.credly.com/org/cisco/badge/networking-basics",
+   "avis": "Badge reconnu dans l'informatique, utile pour un CV technique.",
+   "emoji": "🌐",
+   "fiabilite": "Cisco / Credly (« Cost Free »), vérifié le 26/11",
+   "prix": "",
+   "id": "cisco-netacad-networking-basics",
+   "titre": "Cisco Networking Academy : cours réseau gratuits avec badge officiel"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 plugin",
+   "contenu": [
+    "Kaleidon Spark : 4 pistes d'effets rythmiques",
+    "4 effets intégrés, peut aussi charger tes plugins",
+    "VST3 (PC), VST3/AU (Mac)"
+   ],
+   "pieges": [
+    "Il faut installer Pulse Downloader et créer un compte Pulse",
+    "Pas de date dite pour la gratuité"
+   ],
+   "etapes": [
+    "Ouvre la page Kaleidon Spark",
+    "Passe la commande à 0",
+    "Installe Pulse, connecte-toi et entre la clé reçue"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée",
+   "nouveau": true,
+   "desc": "Un plugin qui transforme tes effets en motifs rythmiques, gratuit.",
+   "conditions": "Compte Pulse gratuit.",
+   "lien": "https://www.dylanmixermusic.com/store-1/p/kaleidon-spark-free",
+   "source": "https://bedroomproducersblog.com/2026/11/26/kaleidon-spark-free/",
+   "avis": "Pour les bidouilleurs de son. Un peu de paperasse pour l'installer.",
+   "emoji": "🎛️",
+   "fiabilite": "Bedroom Producers Blog, article du 26/11",
+   "prix": "",
+   "id": "plugin-kaleidon-spark",
+   "titre": "Kaleidon Spark : séquenceur d'effets gratuit (PC/Mac)"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 plugin",
+   "contenu": [
+    "BR108 : tranche de console (EQ, compression, saturation)",
+    "Mac (AU, VST3, AAX), Windows (VST3, AAX), Linux (VST3)",
+    "Utilisable en commercial"
+   ],
+   "pieges": [
+    "Pas de date dite pour la gratuité"
+   ],
+   "etapes": [
+    "Ouvre la page BR108",
+    "Télécharge la version pour ton système",
+    "Installe-le dans ton logiciel de musique"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée",
+   "nouveau": true,
+   "desc": "Un plugin de console qui était réservé aux soutiens payants, maintenant gratuit.",
+   "conditions": "",
+   "lien": "https://plugins.boxofrules.com/plugins/br108",
+   "source": "https://bedroomproducersblog.com/2026/11/26/box-of-rules-br108/",
+   "avis": "Petit bonus gratuit pour tes mix.",
+   "emoji": "🎚️",
+   "fiabilite": "Bedroom Producers Blog, article du 26/11",
+   "prix": "",
+   "id": "plugin-box-of-rules-br108",
+   "titre": "Box Of Rules BR108 : tranche console gratuite (ex-réservée aux payants)"
+  },
+  {
+   "acces": "direct",
+   "livre": false,
+   "rayon": "culture",
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Des centaines de cours",
+   "contenu": [
+    "Cours en ligne d'universités et grandes écoles françaises",
+    "Badge de suivi gratuit si tu réussis les évaluations à temps"
+   ],
+   "pieges": [
+    "Le vrai certificat (examen surveillé) est payant et optionnel",
+    "Les cours ont des dates de session : inscris-toi pendant qu'ils sont ouverts"
+   ],
+   "etapes": [
+    "Ouvre FUN MOOC",
+    "Crée un compte gratuit",
+    "Inscris-toi à un cours ouvert et fais les évaluations pour le badge"
+   ],
+   "fin": null,
+   "finTxt": "Pas de date de fin annoncée",
+   "nouveau": true,
+   "desc": "La plateforme publique française de cours en ligne, gratuite, en français.",
+   "conditions": "Compte gratuit.",
+   "lien": "https://www.fun-mooc.fr/",
+   "source": "https://www.fun-mooc.fr/en/faq/",
+   "avis": "Tout en français et sérieux (universités). Le badge gratuit suffit pour montrer ta motivation.",
+   "emoji": "🏫",
+   "fiabilite": "FUN MOOC (FAQ officielle), vérifié le 26/11",
+   "prix": "",
+   "id": "fun-mooc-cours-gratuits",
+   "titre": "FUN MOOC : cours gratuits des universités françaises (badge de suivi offert)"
   },
   {
    "id": "plugin-audio-spices-black-pepper",
@@ -2767,7 +3270,7 @@
    "source": "https://bedroomproducersblog.com/2026/11/22/mrmoustache-black-friday/",
    "avis": "Petit plugin simple et gratuit pour donner de la chaleur à une voix ou un mix.",
    "fiabilite": "Article Bedroom Producers Blog du 22/11/2026, page officielle non chargée, vérifié le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -2803,7 +3306,7 @@
    "source": "https://bedroomproducersblog.com/free-vst-plugins/",
    "avis": "Gratuit pour toujours, simple et efficace.",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -2840,7 +3343,7 @@
    "source": "https://www.musicradar.com/music-tech/plugins/9-free-black-friday-plugins",
    "avis": "La meilleure boîte à outils gratuite pour débuter en musique.",
    "fiabilite": "Fiche officielle citée par MusicRadar (page non chargée par l'outil), vérifié le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -2876,7 +3379,7 @@
    "source": "https://www.musicradar.com/music-tech/plugins/9-free-black-friday-plugins",
    "avis": "Simple et pro, parfait pour les voix.",
    "fiabilite": "Fiche officielle citée par MusicRadar (dispo toute l'année), vérifié le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -2913,7 +3416,7 @@
    "source": "https://cnil.fr/fr/comprendre-le-rgpd/le-mooc-de-la-cnil",
    "avis": "Bon plus sur un CV (admin, informatique, commerce). Officiel et sans piège.",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -2951,7 +3454,7 @@
    "source": "https://www.freecodecamp.org/news/freecodecamp-certifications/",
    "avis": "La référence gratuite pour apprendre à coder. Sérieux et sans pub.",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "acces": "direct",
@@ -2988,7 +3491,7 @@
    "source": "https://cifar.ca/fr/ia/objectifia",
    "avis": "Court, en français, et le certificat peut aller sur un CV.",
    "fiabilite": "Page CIFAR (partenaire) vérifiée le 25/11 ; page OpenClassrooms non chargée par l'outil",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "blissim-black7",
@@ -3403,6 +3906,96 @@
    "livre": true
   },
   {
+   "id": "blissim-garancia-ensorcelante",
+   "acces": "abonnement",
+   "livre": true,
+   "rayon": "beaute",
+   "type": "box",
+   "titre": "Box Blissim + huile Garancia (39,90 €) offerte, code ENSORCELANTE",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "18,90 € livraison comprise",
+   "coutNum": 18.9,
+   "sansCarte": false,
+   "qty": "1 box de 5 produits + 1 huile 29 ml",
+   "contenu": [
+    "Box beauté Blissim de novembre (5 produits, jusqu'à 75 € annoncés : Polaar, SVR, Mimitika, Davines…)",
+    "Huile Ensorcelante aux Super Pouvoirs Garancia 29 ml (valeur annoncée 39,90 €)"
+   ],
+   "pieges": [
+    "Ça active un abonnement à 18,90 €/mois",
+    "Commande passée après le 12 novembre : la box de décembre est aussi comptée (37,80 € pour 2 box) d'après Toutes les Box",
+    "Dans la limite des stocks",
+    "Moins rentable que le code BLACK7 (box à 7 €) déjà dans l'appli : les codes ne se cumulent pas",
+    "N'oublie pas de te désabonner avant le 12 décembre"
+   ],
+   "etapes": [
+    "Ouvre la page de l'offre Blissim",
+    "Choisis la box et entre le code ENSORCELANTE",
+    "Paie",
+    "Va dans Mon compte > Mon abonnement > Résilier avant le 12 décembre"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov. (ou fin du stock)",
+   "nouveau": true,
+   "desc": "La box Blissim de novembre avec une huile Garancia de 39,90 € en cadeau, grâce au code ENSORCELANTE.",
+   "conditions": "Abonnement mensuel à 18,90 € ; carte bancaire obligatoire.",
+   "lien": "https://blissim.fr/box-novembre-cadeau-garancia",
+   "source": "https://touteslesbox.fr/blissim-novembre-2026-huile-garancia-offerte-code-ensorcelante/",
+   "prixApres": "18,90 €/mois",
+   "resilierLe": "2026-12-12",
+   "resilierTxt": "avant le 12 déc. (sinon box de janvier prélevée)",
+   "resilier": "Sur blissim.fr > Mon compte > Mon abonnement > Résilier.",
+   "avis": "Bien seulement si tu veux l'huile Garancia. Pour juste une box pas chère, le code BLACK7 à 7 € est bien mieux.",
+   "emoji": "💄",
+   "fiabilite": "Toutes les Box (article du mois de nov. 2026)",
+   "prix": "18,90 €"
+  },
+  {
+   "id": "glowria-skin-cycling-1re-box",
+   "acces": "abonnement",
+   "livre": true,
+   "rayon": "beaute",
+   "type": "box",
+   "titre": "Glowria : 1re box beauté « Skin Cycling » à 16,50 €",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "16,50 €",
+   "coutNum": 16.5,
+   "sansCarte": false,
+   "qty": "1 box beauté",
+   "contenu": [
+    "Box beauté Glowria de novembre « Skin Cycling » (soins visage)"
+   ],
+   "pieges": [
+    "Ensuite 24,90 €/mois sans engagement (ou 19,90 €/mois si tu choisis 12 mois d'engagement : évite-le)",
+    "Prélèvement le 1er de chaque mois",
+    "Prix vérifié le 23 nov. par Bons Plans Mania, peut changer",
+    "N'oublie pas de te désabonner avant le 30 novembre (juste après ta commande, c'est le plus sûr)"
+   ],
+   "etapes": [
+    "Ouvre l'offre Glowria",
+    "Choisis la formule SANS engagement",
+    "Paie 16,50 €",
+    "Résilie tout de suite dans ton espace client (avant le 1er décembre)"
+   ],
+   "fin": null,
+   "finTxt": "Prix du 23 nov., sans date de fin annoncée",
+   "nouveau": true,
+   "desc": "La première box Glowria « Skin Cycling » à 16,50 € au lieu de 24,90 €.",
+   "conditions": "Abonnement mensuel, carte bancaire obligatoire.",
+   "lien": "https://bonsplansmania.fr/go/glowria-box-skin-cycling-novembre-2026",
+   "source": "https://bonsplansmania.fr/article/box-beaute-novembre-2026-comparatif",
+   "prixApres": "24,90 €/mois",
+   "resilierLe": "2026-11-30",
+   "resilierTxt": "avant le 1er déc. (prélèvement le 1er du mois)",
+   "resilier": "Dans ton espace client Glowria, rubrique abonnement, se désabonner avant le dernier jour du mois.",
+   "avis": "Pas une pépite : prends-la seulement si tu veux offrir une box beauté. Blissim BLACK7 à 7 € est plus rentable.",
+   "emoji": "🧴",
+   "fiabilite": "Bons Plans Mania (prix vérifié le 23/11), Toutes les Box",
+   "prix": "24,90 €"
+  },
+  {
    "gratuit": false,
    "sansCarte": false,
    "nouveau": false,
@@ -3585,7 +4178,7 @@
    "resilierLe": "2027-01-19",
    "resilierTxt": "après la box de janvier, avant le 20 janv. 2027",
    "resilier": "Dans ton compte Gambettes Box : « Mon abonnement » puis « Résilier mon abonnement », avant le 20 du mois (une box déjà prélevée reste due).",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "gratuit": false,
@@ -3907,7 +4500,7 @@
    "resilierLe": "2026-12-15",
    "resilierTxt": "avant le 15 déc. (les recharges partent 21 jours après l'achat)",
    "resilier": "Dans ton compte Estrid : annuler l'abonnement (tu peux aussi suspendre ou sauter une livraison), à tout moment.",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "nespresso-machine-1euro",
@@ -3956,7 +4549,7 @@
    "resilierLe": "2027-10-25",
    "resilierTxt": "rétractation avant le 9 déc. 2026, sinon recommandé 1 mois avant la date anniversaire",
    "resilier": "Pendant 14 jours : par téléphone au 0 800 55 52 53, sans frais. Ensuite : lettre recommandée avec accusé de réception 1 mois avant la date anniversaire.",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -3997,7 +4590,7 @@
    "avis": "Correct si tu penses à annuler.",
    "emoji": "🌿",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "freeprints-45-tirages",
@@ -4223,7 +4816,7 @@
    "lien": "https://home.gerflor.fr/pages/simulez-votre-projet-de-renovation",
    "avis": "Utile seulement si tu refais un sol. Sinon, pas la peine de payer 5 €.",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -4260,7 +4853,7 @@
    "lien": "https://www.bricoflor.fr/free-samples",
    "avis": "Seulement si tu as un vrai projet déco : sinon c'est 6 € pour des bouts de papier peint.",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -4298,7 +4891,7 @@
    "lien": "https://www.babybio.fr/fr/laits-infantiles-bio/848-kit-d-essai-offert-optima-2eme-age.html",
    "avis": "Seulement pour des parents d'un bébé de 6-12 mois.",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -4336,7 +4929,7 @@
    "avis": "Utile pour tester, regarde bien le panier.",
    "emoji": "🍼",
    "fiabilite": "page officielle lue le 25/11 (montant du port non visible)",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "entremont",
@@ -5218,6 +5811,93 @@
   },
   {
    "acces": "abonnement",
+   "livre": false,
+   "rayon": "abo",
+   "type": "essai",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € pendant 30 jours",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "30 jours",
+   "contenu": [
+    "Prime Video (films et séries)",
+    "Livraison rapide gratuite",
+    "Amazon Music Prime, Prime Reading, Amazon Photos",
+    "Pratique pour les offres Black Friday réservées aux membres Prime"
+   ],
+   "pieges": [
+    "Ensuite 6,99 €/mois (ou 69,90 €/an) si tu ne résilies pas",
+    "Seulement si tu n'as pas eu Prime récemment",
+    "N'oublie pas de te désabonner avant le 25 décembre"
+   ],
+   "etapes": [
+    "Ouvre la page Amazon Prime",
+    "Clique sur Essai gratuit et ajoute ta carte",
+    "Va dans Votre compte > Prime > Mettre fin à l'abonnement avant le 25 déc."
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente",
+   "nouveau": true,
+   "desc": "Un mois de Prime gratuit : séries, films et livraisons gratuites, idéal pendant le Black Friday.",
+   "conditions": "Nouveaux membres, carte bancaire.",
+   "lien": "https://www.amazon.fr/amazonprime",
+   "source": "https://www.ariase.com/streaming/actualite/cette-plateforme-de-streaming-est-gratuite-pendant-un-mois-decouvrez-laquelle",
+   "avis": "Parfait pour le Black Friday : livraisons gratuites + Prime Video. Résilie juste après l'avoir activé, tu gardes les 30 jours.",
+   "emoji": "📦",
+   "fiabilite": "Amazon (offre permanente), Ariase / Dealabs",
+   "prix": "6,99 €/mois",
+   "id": "amazon-prime-essai-30j",
+   "titre": "Amazon Prime – 30 jours gratuits (Prime Video, livraison, Prime Reading)",
+   "prixApres": "6,99 €/mois",
+   "resilierLe": "2026-12-25",
+   "resilierTxt": "avant le 25 déc.",
+   "resilier": "Sur amazon.fr > Votre compte > Gérer Prime > Mettre fin à l'abonnement (tu gardes Prime jusqu'au bout des 30 jours)."
+  },
+  {
+   "acces": "abonnement",
+   "livre": false,
+   "rayon": "abo",
+   "type": "essai",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € pendant 90 jours",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "90 jours",
+   "contenu": [
+    "Tous les avantages Prime : Prime Video, livraison gratuite, Music Prime, Prime Reading"
+   ],
+   "pieges": [
+    "Réservé aux étudiants (adresse e-mail étudiante ou justificatif)",
+    "Ensuite payant (moitié prix de Prime) si tu ne résilies pas",
+    "N'oublie pas de te désabonner avant le 23 février"
+   ],
+   "etapes": [
+    "Ouvre la page Prime Student",
+    "Inscris-toi avec ton e-mail étudiant",
+    "Résilie avant le 23 février si tu ne veux pas payer"
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente",
+   "nouveau": true,
+   "desc": "Si tu es étudiant : 3 mois de Prime gratuits.",
+   "conditions": "Être étudiant, carte bancaire.",
+   "lien": "https://www.amazon.fr/amazonprime?primeCampaignId=studentWlpPrimeRedir",
+   "source": "https://www.dealabs.com/magazine/?p=57338",
+   "avis": "Seulement si tu es étudiant. Trois fois plus long que l'essai normal.",
+   "emoji": "🎓",
+   "fiabilite": "Amazon via Dealabs Magazine",
+   "prix": "",
+   "id": "amazon-prime-student-90j",
+   "titre": "Prime Student – 90 jours gratuits (étudiants)",
+   "prixApres": "moitié prix de Prime (environ 3,49 €/mois)",
+   "resilierLe": "2027-02-23",
+   "resilierTxt": "avant le 23 fév.",
+   "resilier": "Sur amazon.fr > Votre compte > Gérer Prime Student > Mettre fin."
+  },
+  {
+   "acces": "abonnement",
    "rayon": "abo",
    "type": "essai",
    "gratuit": false,
@@ -5566,6 +6246,218 @@
    "fiabilite": "Uber",
    "nouveau": false,
    "livre": false
+  },
+  {
+   "acces": "abonnement",
+   "livre": false,
+   "rayon": "abo",
+   "type": "essai",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € pendant l'essai",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "30 jours minimum",
+   "contenu": [
+    "Plus de 100 millions de titres sans pub, en HD",
+    "Écoute hors ligne"
+   ],
+   "pieges": [
+    "Ensuite 10,99 €/mois avec Prime, plus cher sans Prime, si tu ne résilies pas",
+    "Seulement pour les nouveaux abonnés Music Unlimited",
+    "N'oublie pas de te désabonner avant le 25 décembre"
+   ],
+   "etapes": [
+    "Ouvre la page Amazon Music Unlimited",
+    "Lance l'essai gratuit",
+    "Résilie dans les paramètres Amazon Music avant le 25 déc."
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente (parfois 3-4 mois offerts en promo)",
+   "nouveau": true,
+   "desc": "Un mois de musique sans pub gratuit chez Amazon.",
+   "conditions": "Nouveaux abonnés, carte bancaire.",
+   "lien": "https://www.amazon.fr/music/unlimited",
+   "source": "https://www.dealabs.com/magazine/?p=57338",
+   "avis": "Si tu as déjà eu Spotify et Deezer, c'est une autre façon d'avoir de la musique gratuite un mois.",
+   "emoji": "🎧",
+   "fiabilite": "Amazon via Dealabs Magazine",
+   "prix": "",
+   "id": "amazon-music-unlimited-essai",
+   "titre": "Amazon Music Unlimited – essai gratuit (30 jours)",
+   "prixApres": "10,99 €/mois (avec Prime)",
+   "resilierLe": "2026-12-25",
+   "resilierTxt": "avant le 25 déc.",
+   "resilier": "Sur amazon.fr > Vos abonnements Amazon Music > Annuler l'abonnement."
+  },
+  {
+   "acces": "abonnement",
+   "livre": false,
+   "rayon": "culture",
+   "type": "essai",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € pendant l'essai",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "14 à 30 jours",
+   "contenu": [
+    "Des milliers de livres audio et ebooks en français",
+    "Écoute hors ligne dans l'appli"
+   ],
+   "pieges": [
+    "Ensuite 9,99 € à 17,99 €/mois selon la formule si tu ne résilies pas",
+    "L'essai peut être limité en heures d'écoute",
+    "Une seule fois par personne",
+    "N'oublie pas de te désabonner avant la fin de l'essai (au plus tard le 9 déc. pour un essai de 14 jours)"
+   ],
+   "etapes": [
+    "Ouvre Storytel",
+    "Choisis une formule et lance l'essai",
+    "Résilie dans les paramètres du compte avant la fin de l'essai"
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente",
+   "nouveau": true,
+   "desc": "Livres audio en illimité gratuits pendant 14 à 30 jours.",
+   "conditions": "Nouveaux utilisateurs, moyen de paiement valide.",
+   "lien": "https://www.storytel.com/fr",
+   "source": "https://www.spliiit.com/blog/lecture-audiobooks-abonnement-guide-2026",
+   "avis": "Une bonne alternative si tu as déjà fait l'essai Audible.",
+   "emoji": "🎧",
+   "fiabilite": "Conditions Storytel (officiel) + Spliiit",
+   "prix": "",
+   "id": "storytel-essai",
+   "titre": "Storytel – essai gratuit (livres audio et ebooks)",
+   "prixApres": "à partir de 9,99 €/mois",
+   "resilierLe": "2026-12-09",
+   "resilierTxt": "avant le 9 déc. (essai de 14 jours)",
+   "resilier": "Paramètres du compte sur storytel.com (ou dans l'appli si tu t'y es abonné). Résilier pendant l'essai l'arrête tout de suite."
+  },
+  {
+   "acces": "abonnement",
+   "livre": false,
+   "rayon": "culture",
+   "type": "essai",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € pendant l'essai",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "Jusqu'à 2 mois",
+   "contenu": [
+    "Livres audio et ebooks en streaming"
+   ],
+   "pieges": [
+    "Ensuite 9,99 €/mois (Basique) ou 14,99 € (Premium) si tu ne résilies pas",
+    "La durée exacte de l'essai dépend de l'offre affichée",
+    "N'oublie pas de te désabonner avant la fin de l'essai (vérifie la date dans ton compte)"
+   ],
+   "etapes": [
+    "Ouvre BookBeat",
+    "Crée un compte et lance l'essai",
+    "Note la date de fin et résilie avant"
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente",
+   "nouveau": true,
+   "desc": "Livres audio gratuits pendant l'essai, souvent plus long que chez les autres.",
+   "conditions": "Nouveaux clients, carte bancaire.",
+   "lien": "https://www.bookbeat.com/fr",
+   "source": "https://www.spliiit.com/blog/lecture-audiobooks-abonnement-guide-2026",
+   "avis": "Essai parmi les plus longs pour les livres audio.",
+   "emoji": "📖",
+   "fiabilite": "Spliiit (guide mai 2026)",
+   "prix": "",
+   "id": "bookbeat-essai",
+   "titre": "BookBeat – essai gratuit (livres audio)",
+   "prixApres": "9,99 €/mois",
+   "resilierLe": null,
+   "resilierTxt": "avant la fin de l'essai (date dans ton compte)",
+   "resilier": "Sur bookbeat.com > Mon compte > Abonnement > Annuler."
+  },
+  {
+   "acces": "abonnement",
+   "livre": false,
+   "rayon": "culture",
+   "type": "essai",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € pendant 30 jours",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "30 jours",
+   "contenu": [
+    "Ebooks, livres audio et magazines"
+   ],
+   "pieges": [
+    "Ensuite environ 8,99 €/mois si tu ne résilies pas",
+    "Beaucoup de contenu en anglais",
+    "N'oublie pas de te désabonner avant le 25 décembre"
+   ],
+   "etapes": [
+    "Ouvre Everand",
+    "Lance l'essai gratuit",
+    "Résilie dans le compte avant le 25 déc."
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente",
+   "nouveau": true,
+   "desc": "Un mois de livres, livres audio et magazines gratuits.",
+   "conditions": "Nouveaux clients, carte bancaire.",
+   "lien": "https://www.everand.com/",
+   "source": "https://www.spliiit.com/blog/lecture-audiobooks-abonnement-guide-2026",
+   "avis": "Surtout utile si tu lis en anglais.",
+   "emoji": "📚",
+   "fiabilite": "Spliiit (guide mai 2026)",
+   "prix": "",
+   "id": "everand-essai-30j",
+   "titre": "Everand (ex-Scribd) – 30 jours gratuits",
+   "prixApres": "environ 8,99 €/mois",
+   "resilierLe": "2026-12-25",
+   "resilierTxt": "avant le 25 déc.",
+   "resilier": "Sur everand.com > Compte > Gérer l'abonnement > Annuler."
+  },
+  {
+   "acces": "abonnement",
+   "livre": false,
+   "rayon": "culture",
+   "type": "essai",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € pendant 14 jours",
+   "coutNum": 0,
+   "sansCarte": false,
+   "qty": "14 jours",
+   "contenu": [
+    "Séries audio, podcasts exclusifs et livres audio en français"
+   ],
+   "pieges": [
+    "Ensuite 3,99 €/mois si tu ne résilies pas",
+    "N'oublie pas de te désabonner avant le 9 décembre"
+   ],
+   "etapes": [
+    "Ouvre Sybel",
+    "Lance l'essai de 14 jours",
+    "Résilie avant le 9 déc."
+   ],
+   "fin": null,
+   "finTxt": "Offre permanente",
+   "nouveau": true,
+   "desc": "Deux semaines de séries audio et livres audio gratuits.",
+   "conditions": "Nouveaux clients.",
+   "lien": "https://www.sybel.co/",
+   "source": "https://www.spliiit.com/blog/lecture-audiobooks-abonnement-guide-2026",
+   "avis": "Pas cher même après l'essai, sympa pour les trajets.",
+   "emoji": "🎙️",
+   "fiabilite": "Spliiit (guide mai 2026)",
+   "prix": "",
+   "id": "sybel-essai-14j",
+   "titre": "Sybel – 14 jours gratuits (séries audio et livres audio)",
+   "prixApres": "3,99 €/mois",
+   "resilierLe": "2026-12-09",
+   "resilierTxt": "avant le 9 déc.",
+   "resilier": "Dans ton compte Sybel (ou dans les abonnements de ton téléphone si tu t'es abonné via l'appli)."
   },
   {
    "acces": "abonnement",
@@ -5985,7 +6877,7 @@
    "resilierLe": null,
    "resilierTxt": "Avant la fin de l'essai (date affichée à l'inscription)",
    "resilier": "youtube.com/paid_memberships > Gérer l'abonnement > Résilier. L'accès dure jusqu'à la fin de l'essai.",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "ancv-depart-1825",
@@ -6465,6 +7357,86 @@
    "livre": false
   },
   {
+   "id": "bk-kingdom-bienvenue-anniv",
+   "acces": "condition",
+   "livre": false,
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "Burger King Kingdom : -10 % à l'inscription + 40 couronnes à ton anniversaire",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Gratuit à rejoindre (il faut acheter au resto)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1 coupon -10 % (1 mois) + 40 couronnes par an à l'anniversaire",
+   "contenu": [
+    "Coupon -10 % sur ta 1re commande, valable 1 mois après l'inscription",
+    "40 couronnes offertes le jour de ton anniversaire (compte de plus de 3 mois), valables 1 semaine",
+    "Tu cumules des couronnes à chaque commande pour avoir des produits offerts"
+   ],
+   "pieges": [
+    "Il faut aller dans un Burger King (pas de livraison chez toi via le programme)",
+    "Coupons à usage unique, non cumulables, perdus si pas utilisés à temps",
+    "Anniversaire : seulement si ton compte a plus de 3 mois"
+   ],
+   "etapes": [
+    "Télécharge l'appli Burger King France",
+    "Crée ton compte Kingdom avec ta date de naissance",
+    "Utilise le coupon -10 % dans le mois au resto ou en click & collect"
+   ],
+   "fin": null,
+   "finTxt": "Programme permanent",
+   "nouveau": true,
+   "desc": "Le programme de fidélité gratuit de Burger King donne -10 % sur ta 1re commande et des couronnes offertes pour ton anniversaire.",
+   "conditions": "Plus de 15 ans, France métropolitaine, 1 compte par personne. Il faut commander dans un restaurant.",
+   "lien": "https://www.burgerking.fr/page/programme-de-fidelite-kingdom",
+   "source": "https://milesopedia.fr/programme-fidelite/burger-king/",
+   "avis": "Petit plus si tu passes déjà au Burger King de Carcassonne ou Narbonne. Pas la peine de te déplacer juste pour ça.",
+   "emoji": "🍔",
+   "fiabilite": "Burger King (règles relevées via Milesopedia, CGU mises à jour le 24 sept. 2026)",
+   "prix": ""
+  },
+  {
+   "id": "kfc-colonel-club-50-points",
+   "acces": "condition",
+   "livre": false,
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "KFC Colonel Club : 50 points offerts à l'inscription",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Gratuit à rejoindre (il faut acheter au resto)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "50 points (1re récompense à 150 points)",
+   "contenu": [
+    "50 points offerts dès la création du compte",
+    "Points à cumuler pour des produits offerts (1er palier à 150 points)"
+   ],
+   "pieges": [
+    "50 points ne suffisent pas pour un produit : il faut encore acheter",
+    "Commandes Uber Eats / Deliveroo ne rapportent pas de points",
+    "Maximum 3 passages par jour comptés, plafond 2 500 points",
+    "Numéro de téléphone demandé (SMS)"
+   ],
+   "etapes": [
+    "Télécharge l'appli KFC France",
+    "Crée ton compte Colonel Club (e-mail, téléphone, date de naissance)",
+    "Tes 50 points de bienvenue s'ajoutent"
+   ],
+   "fin": null,
+   "finTxt": "Programme permanent",
+   "nouveau": true,
+   "desc": "L'appli KFC offre 50 points à l'inscription au Colonel Club, qui comptent pour ta 1re récompense gratuite.",
+   "conditions": "Gratuit. Moins de 18 ans : accord des parents. Il faut commander chez KFC pour cumuler.",
+   "lien": "https://www.kfc.fr/programme-fidelite-colonel-club",
+   "source": "https://milesopedia.fr/programme-fidelite/kfc/",
+   "avis": "Utile seulement si tu manges déjà chez KFC. Rien de gratuit tout de suite.",
+   "emoji": "🍗",
+   "fiabilite": "KFC (règles relevées via Milesopedia, CGU de juillet 2026 ; page KFC non chargée de mon côté)",
+   "prix": ""
+  },
+  {
    "id": "lego-set-noel-offert-75",
    "acces": "condition",
    "rayon": "jouets",
@@ -6575,7 +7547,7 @@
    "avis": "Intéressant seulement si tu achètes déjà de la lessive.",
    "emoji": "🧺",
    "fiabilite": "règlement cité par l'article du 23/11, non relu directement",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "boursobank-welcome-160",
@@ -6693,7 +7665,7 @@
    "avis": "Facile si une boutique est près de chez toi.",
    "emoji": "🎂",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": false,
@@ -6729,7 +7701,7 @@
    "avis": "Demande poliment, ça marche souvent.",
    "emoji": "🧴",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -6765,50 +7737,46 @@
    "avis": "Utile seulement si tu cherches un fond de teint.",
    "emoji": "💄",
    "fiabilite": "page officielle lue le 25/11 (frais d'envoi non précisés)",
-   "nouveau": true
+   "nouveau": false
   },
   {
-   "id": "trainline-carte-avantage-jeune-bf26",
    "acces": "pascher",
-   "rayon": "voyage",
-   "type": "reduc",
-   "titre": "Carte Avantage Jeune SNCF à 44 € au lieu de 49 € (code BLACKFRIDAY26)",
+   "livre": false,
+   "rayon": "abo",
+   "type": "promo",
    "rarete": "epi",
    "gratuit": false,
-   "cout": "44 € (au lieu de 49 €)",
-   "coutNum": 44,
+   "cout": "4 € pour 4 mois",
+   "coutNum": 4,
    "sansCarte": false,
-   "qty": "1 carte valable 1 an",
+   "qty": "4 mois de Deezer Premium",
    "contenu": [
-    "Carte Avantage Jeune (12-27 ans) valable 1 an",
-    "-30 % sur les TGV INOUI et Intercités, réductions sur les trains liO",
-    "Bonus : code de 5 € pour un billet TGV INOUI, Intercités ou TER si tu t'abonnes à la newsletter Trainline avant d'acheter"
+    "Deezer Premium individuel : musique sans pub, hors ligne, sauts illimités",
+    "4 mois à 1 €/mois au lieu de 11,99 €"
    ],
    "pieges": [
-    "Seulement 6 000 codes : premier arrivé, premier servi",
-    "Code valable uniquement sur le site ou l'appli Trainline, pas sur SNCF Connect",
-    "Non cumulable avec une autre promo Trainline",
-    "Vérifie que le total affiche bien 44 € avant de payer",
-    "Méfie-toi des faux mails « carte Avantage à 2,45 € » : c'est de l'arnaque"
+    "Réservé à ceux qui n'ont JAMAIS eu d'essai, de promo ou d'abonnement payant Deezer",
+    "Passe à 11,99 €/mois après 4 mois si tu ne résilies pas (résilie au moins 48 h avant)",
+    "Carte bancaire obligatoire"
    ],
    "etapes": [
-    "Ouvre la page Black Friday de Trainline (ou l'appli)",
-    "Choisis la Carte Avantage Jeune",
-    "Tape le code BLACKFRIDAY26 au paiement",
-    "Choisis une date de début (jusqu'à plusieurs mois plus tard)",
-    "Enregistre le numéro de carte dans ton compte SNCF Connect si tu y réserves"
+    "Ouvre la page des offres Deezer",
+    "Choisis Premium avec l'offre 1 € pendant 4 mois",
+    "Mets un rappel pour résilier avant la fin du 4e mois"
    ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov. (6 000 codes)",
-   "nouveau": false,
-   "desc": "La carte de réduction SNCF des 12-27 ans passe à 44 € sur Trainline avec le code BLACKFRIDAY26, jusqu'au 25 novembre.",
-   "conditions": "Avoir moins de 28 ans à la date de début. Achat sur Trainline avec le code. Paiement par carte.",
-   "lien": "https://www.thetrainline.com/fr/offres-reductions/black-friday",
-   "source": "https://www.voyagerentrain.fr/promo-carte-avantage-black-friday-2026",
-   "avis": "Si tu prends le TGV ou l'Intercités au moins 2 fois dans l'année (Toulouse, Montpellier, Paris), elle est remboursée. 5 € d'économie, et tu peux la faire démarrer plus tard.",
-   "emoji": "🚄",
-   "fiabilite": "Page officielle Trainline, vérifié le 24/11",
-   "livre": false
+   "fin": "2026-12-02T23:59:00+01:00",
+   "finTxt": "Jusqu'au 2 déc.",
+   "nouveau": true,
+   "desc": "Deezer Premium à 1 € par mois pendant 4 mois, soit 4 € au lieu de 48 €.",
+   "conditions": "Nouveaux clients Deezer seulement, sans engagement.",
+   "lien": "https://www.deezer.com/fr/offers/premium",
+   "source": "https://www.clubic.com/bons-plans-639718-black-friday-deezer-premium-passe-a-1-par-mois-pendant-4-mois.html",
+   "avis": "Si tu n'as jamais eu Deezer : 4 mois de musique pour 4 €, c'est imbattable. Résilie fin mars.",
+   "emoji": "🎵",
+   "fiabilite": "Clubic (23/11) + Méga Bonnes Affaires",
+   "prix": "11,99 €/mois",
+   "id": "deezer-bf-1-euro-4-mois",
+   "titre": "Deezer Premium : 4 mois à 1 €/mois (Black Friday)"
   },
   {
    "id": "lio-1euro-dec",
@@ -6964,6 +7932,90 @@
    "emoji": "📦",
    "fiabilite": "Too Good To Go",
    "livre": true
+  },
+  {
+   "id": "lookfantastic-edition-black-friday-2026",
+   "acces": "pascher",
+   "livre": true,
+   "rayon": "beaute",
+   "type": "box",
+   "titre": "Box Lookfantastic Black Friday : 7 produits (230 € annoncés) à 50 €, sans abonnement",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "50 € (+3,95 € de port sous 60 €)",
+   "coutNum": 53.95,
+   "sansCarte": false,
+   "qty": "7 produits dont 6 en grand format",
+   "contenu": [
+    "Gouttes au collagène Rodial 30 ml (93 €)",
+    "Elasticizer Philip Kingsley 150 ml (50 €)",
+    "Mascara ICONIC London Triple Threat 9 ml (27 €)",
+    "Patchs yeux MZ Skin Hydra Bright Gold, 1 paire (26 €)",
+    "Brume PDRN Anua 30 ml (16 €)",
+    "Lip Volume KIKO Milano 6,5 ml (13 €)",
+    "Gel avoine Aveeno Calm & Restore 15 ml"
+   ],
+   "pieges": [
+    "Port de 3,95 € sous 60 € d'achat",
+    "Stock limité : vérifié dispo début novembre, peut être épuisé",
+    "La valeur de 230 € est celle annoncée par la marque, pas ce que tu économises vraiment"
+   ],
+   "etapes": [
+    "Ouvre la page de la box sur Lookfantastic",
+    "Ajoute au panier et paie"
+   ],
+   "fin": null,
+   "finTxt": "Jusqu'à épuisement du stock",
+   "nouveau": true,
+   "desc": "7 produits de beauté de marque (dont des gouttes Rodial à 93 €) pour 50 €, achat unique sans abonnement.",
+   "conditions": "Achat unique, pas d'abonnement.",
+   "lien": "https://www.lookfantastic.fr/p/beauty-box/l-edition-black-friday-d-une-valeur-de-plus-de-225/17691452/",
+   "source": "https://touteslesbox.fr/lookfantastic-edition-black-friday-2026-50-euros-rodial/",
+   "avis": "Rentable en valeur (environ 4 fois le prix) et sans piège d'abonnement, mais 50 € c'est un budget : idéal comme cadeau de Noël.",
+   "emoji": "🎁",
+   "fiabilite": "Toutes les Box (10/11) et Bons Plans Mania (6/11)",
+   "prix": "230 € (valeur annoncée)"
+  },
+  {
+   "id": "tgtg-paniers-surprise-magasin",
+   "acces": "pascher",
+   "livre": false,
+   "rayon": "bouffe",
+   "type": "promo",
+   "titre": "Too Good To Go : paniers surprise anti-gaspi à moitié prix ou moins",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "Environ 3 à 6 € le panier (au moins -50 %)",
+   "coutNum": null,
+   "sansCarte": false,
+   "qty": "1 panier surprise par réservation",
+   "contenu": [
+    "Invendus du jour d'une boulangerie, supermarché, resto ou café près de chez toi",
+    "Contenu surprise, vendu au moins 50 % moins cher que son prix normal"
+   ],
+   "pieges": [
+    "Il faut aller chercher le panier sur place, à un créneau précis",
+    "Contenu surprise : tu ne choisis pas",
+    "Paiement dans l'appli (carte ou PayPal)",
+    "Peu de commerces dans les petits villages : regarde autour de toi dans l'appli"
+   ],
+   "etapes": [
+    "Télécharge l'appli Too Good To Go",
+    "Regarde l'onglet Découvrir autour de chez toi",
+    "Réserve et paie un panier",
+    "Va le chercher au créneau indiqué et montre le reçu"
+   ],
+   "fin": null,
+   "finTxt": "Tous les jours, selon les commerces",
+   "nouveau": true,
+   "desc": "Les commerces vendent leurs invendus du jour en paniers surprise à moitié prix ou moins, à récupérer sur place.",
+   "conditions": "Retrait en magasin obligatoire pendant le créneau.",
+   "lien": "https://www.toogoodtogo.com/fr/how-does-the-app-work",
+   "source": "https://www.toogoodtogo.com/fr/how-does-the-app-work",
+   "avis": "Très rentable pour manger pas cher si un commerce proche ou sur ton trajet en propose. Sans voiture, choisis un magasin où tu passes déjà.",
+   "emoji": "🥐",
+   "fiabilite": "Officiel Too Good To Go",
+   "prix": ""
   },
   {
    "acces": "pascher",
@@ -7868,6 +8920,84 @@
    "livre": true
   },
   {
+   "id": "phenix-paniers-antigaspi",
+   "acces": "pascher",
+   "livre": false,
+   "rayon": "bouffe",
+   "type": "promo",
+   "titre": "Phenix : paniers anti-gaspi à petit prix (+1 € offert avec un code ami)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "Quelques euros le panier",
+   "coutNum": null,
+   "sansCarte": false,
+   "qty": "1 panier par réservation, +1 € (100 points) avec un code parrain",
+   "contenu": [
+    "Paniers d'invendus de supermarchés et commerces à prix réduit",
+    "1 € en points de fidélité si tu entres un code ami et valides ta 1re commande"
+   ],
+   "pieges": [
+    "Retrait sur place chez le commerçant",
+    "Le bonus de 1 € n'arrive qu'après ta 1re commande validée",
+    "Il faut taper le code ami toi-même à l'inscription"
+   ],
+   "etapes": [
+    "Télécharge l'appli Phenix",
+    "Entre un code ami (d'un proche) à l'inscription si tu en as un",
+    "Réserve un panier près de chez toi et récupère-le au créneau"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "nouveau": true,
+   "desc": "Comme Too Good To Go : des paniers d'invendus à petit prix, à récupérer en magasin.",
+   "conditions": "Retrait en magasin. Bonus parrainage de 1 € après la 1re commande.",
+   "lien": "https://apps.apple.com/FR/app/id1437997699",
+   "source": "https://intercom.help/phenix/fr/articles/2623298-comment-parrainer-des-amis-sur-phenix",
+   "avis": "À installer en plus de Too Good To Go : souvent d'autres magasins (supermarchés). Utile si un magasin participe près de toi.",
+   "emoji": "🧺",
+   "fiabilite": "Phenix (aide officielle pour le parrainage)",
+   "prix": ""
+  },
+  {
+   "acces": "pascher",
+   "livre": false,
+   "rayon": "abo",
+   "type": "promo",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "1 €",
+   "coutNum": 1,
+   "sansCarte": false,
+   "qty": "1 mois",
+   "contenu": [
+    "Animation Digital Network : catalogue d'animés en streaming",
+    "1er mois à 1 €"
+   ],
+   "pieges": [
+    "Ensuite 6,99 €/mois (ou 3,99 € en formule Starter) si tu ne résilies pas",
+    "Durée de l'offre non précisée",
+    "Carte bancaire demandée"
+   ],
+   "etapes": [
+    "Ouvre ADN (appli ou site)",
+    "Choisis l'abonnement avec l'offre 1er mois à 1 €",
+    "Résilie avant la fin du mois si tu ne veux pas continuer"
+   ],
+   "fin": null,
+   "finTxt": "Durée de l'offre non précisée",
+   "nouveau": true,
+   "desc": "Un mois d'animés en illimité sur ADN pour 1 €.",
+   "conditions": "Nouveaux abonnés, renouvellement automatique.",
+   "lien": "https://apps.apple.com/fr/app/id667935767",
+   "source": "https://apps.apple.com/fr/app/id667935767",
+   "avis": "Bien pour binge un animé précis pendant un mois. Pense à résilier.",
+   "emoji": "🍥",
+   "fiabilite": "Fiche App Store officielle d'ADN, vue le 26/11",
+   "prix": "6,99 €/mois",
+   "id": "adn-1er-mois-1-euro",
+   "titre": "ADN (animés) : 1er mois à 1 €"
+  },
+  {
    "gratuit": false,
    "sansCarte": false,
    "nouveau": false,
@@ -8764,7 +9894,7 @@
    "lien": "https://www.ultrapremiumdirect.com/produits/echantillons/chat/",
    "avis": "Bien pour tester avant de changer de croquettes, mais ce n'est pas gratuit.",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -8801,7 +9931,7 @@
    "lien": "https://www.4murs.com/pages/echantillons",
    "avis": "Presque gratuit, utile si tu veux tester une couleur avant de peindre.",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -8836,7 +9966,7 @@
    "avis": "Pas gratuit, mais 2,50 € pour tester avant d'acheter un gros sac.",
    "emoji": "🐈",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "livre": true,
@@ -8871,7 +10001,7 @@
    "avis": "Bon moyen de tester avant un sac de 12 kg.",
    "emoji": "🐕",
    "fiabilite": "page officielle vérifiée le 25/11",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "free-forfait-2-euros-booster",
@@ -8912,7 +10042,7 @@
    "emoji": "📞",
    "fiabilite": "page officielle vérifiée le 25/11",
    "prix": "2 €/mois",
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "zalando-black-friday-2026",
@@ -8952,7 +10082,7 @@
    "emoji": "👕",
    "fiabilite": "page officielle vérifiée le 25/11",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "opinagora-proj",
@@ -8993,85 +10123,84 @@
    "livre": true
   },
   {
-   "id": "peggysage",
+   "nouveau": true,
+   "gratuit": false,
+   "prix": "",
+   "sansCarte": true,
+   "livre": true,
+   "conditions": "Sur candidature, envoi aux testeurs retenus.",
+   "id": "calor-kerastraight-test",
    "acces": "selection",
    "rayon": "beaute",
-   "titre": "2 soins ongles Peggy Sage à tester",
+   "type": "test",
+   "titre": "Lisseur Calor Air KeraStraight 3 en 1 à tester (Mamadvisor)",
    "rarete": "epi",
-   "gratuit": false,
    "cout": "0 €",
-   "qty": "1 soin par test, 30 places × 2 tests",
+   "coutNum": 0,
+   "qty": "Nombre de testeurs non indiqué",
    "contenu": [
-    "Pearl Blossom : soin ongles transparent à fines paillettes violettes (30 places, jusqu'au 25 nov.)",
-    "CC Nails Peach Bloom : soin anti-stries à l'extrait de sarrasin (30 places, jusqu'au 25 nov.)",
-    "Formats des produits non précisés"
+    "1 lisseur-sécheur Calor Air KeraStraight 3 en 1"
    ],
    "pieges": [
-    "Sélection non garantie : 30 places par produit",
-    "Avis obligatoire dans l'espace ambassadeur Peggy Sage ET sur Bleu Libellule",
-    "Questionnaire pendant l'essai",
-    "Aucune obligation réseaux sociaux annoncée",
-    "Il faut candidater à chaque test séparément (même compte Trustt)"
+    "Sur sélection : pas sûr d'être choisi",
+    "Site pensé pour les parents (MagicMaman), compte à créer",
+    "Avis à rédiger après le test"
    ],
    "etapes": [
-    "Ouvre la page « Devenez testeur » Peggy Sage",
-    "Dans « Campagnes en cours », choisis Pearl Blossom et connecte-toi (compte Trustt)",
-    "Refais pareil pour CC Nails Peach Bloom avant le 25 nov."
+    "Ouvre la page du test sur Mamadvisor",
+    "Crée un compte ou connecte-toi",
+    "Remplis le formulaire de candidature"
    ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov.",
-   "nouveau": false,
-   "desc": "Encore 2 campagnes Peggy Sage ouvertes sur Trustt, 30 places chacune : soin ongles Pearl Blossom et CC Nails Peach Bloom, envoyés à domicile (SplendiLift et Flash Repair Oil sont fermés depuis hier soir).",
-   "conditions": "",
-   "lien": "https://www.peggysage.com/fr-FR/devenir-testeur",
-   "avis": "Marque de beauté connue, 60 places, et rien à poster sur les réseaux : juste des avis. Candidate aux deux + à la crème de jour Peggy Sage pour multiplier tes chances.",
-   "emoji": "💅",
-   "fiabilite": "Peggy Sage · Trustt",
-   "type": "test",
-   "coutNum": 0,
-   "sansCarte": true,
-   "source": "https://bonsplansmania.fr/article/test-gratuit-peggy-sage-pearl-blossom-novembre-2026",
-   "livre": true
+   "fin": null,
+   "finTxt": "Pas de date de fin indiquée",
+   "desc": "Mamadvisor (MagicMaman) cherche des testeurs pour le nouveau lisseur 3 en 1 de Calor, envoyé gratuitement à domicile.",
+   "lien": "https://mamadvisor.magicmaman.com/air-kerastraight-le-lisseur-3-en-1-de-calor,163597.asp",
+   "source": "https://www.testons-ensemble.com/2026/11/testez-gratuitement-le-lisseur-air-kerastraight3-en-1-de-calor",
+   "avis": "Un appareil coiffure à plus de 100 € en jeu : ça vaut 2 minutes de candidature, même pour l'offrir.",
+   "emoji": "💇",
+   "fiabilite": "Mamadvisor / MagicMaman (lien relevé via Testons Ensemble, page non chargée de mon côté)"
   },
   {
-   "id": "lnp",
    "acces": "selection",
-   "rayon": "beaute",
-   "titre": "2 masques La Nouvelle Peau : W01 au riz + R01 Rejuskin",
+   "livre": true,
+   "type": "test",
    "rarete": "epi",
    "gratuit": false,
-   "cout": "0 €",
-   "qty": "1 masque par test, 20 places × 2 tests",
-   "contenu": [
-    "Masque hydrogel W01 Phyto-Rice au riz et niacinamide (20 places)",
-    "Masque R01 Rejuskin (20 places)",
-    "Chaque test est séparé : candidate aux deux"
-   ],
-   "pieges": [
-    "Sélection sur profil",
-    "Questionnaire et avis pendant le test (10-16 déc.)",
-    "Photos avant/après possibles",
-    "La marque peut réutiliser tes avis"
-   ],
-   "etapes": [
-    "Ouvre la page « Devenir ambassadeur » La Nouvelle Peau",
-    "Connecte-toi ou crée ton compte ambassadeur (Trustt)",
-    "Candidate au W01 et au R01 avant le 25 nov. minuit"
-   ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov.",
-   "nouveau": false,
-   "desc": "20 masques éclat au riz et niacinamide envoyés aux ambassadeurs retenus, test du 10 au 16 déc. Un 2e test (masque R01 Rejuskin, 20 places) est ouvert en même temps.",
-   "conditions": "",
-   "lien": "https://www.lanouvellepeau.fr/pages/devenir-ambassadeur",
-   "avis": "Rien à poster sur les réseaux : questionnaire et avis sur l'espace de la marque.",
-   "emoji": "🍚",
-   "fiabilite": "La Nouvelle Peau",
-   "type": "test",
+   "cout": "0 € si choisi",
    "coutNum": 0,
    "sansCarte": true,
-   "source": "https://bonsplansmania.fr/article/test-la-nouvelle-peau-w01-masque-riz-novembre-2026",
-   "livre": true
+   "nouveau": true,
+   "prix": "≈ 50 €",
+   "fiabilite": "Programme officiel Philips",
+   "id": "philips-product-tester",
+   "rayon": "tech",
+   "titre": "Philips Product Tester : rasoir OneBlade 360 et autres produits à tester",
+   "qty": "Selon les campagnes",
+   "contenu": [
+    "Philips OneBlade 360 QP2734/23 (hommes)",
+    "OneBlade Intimate (femmes 30-45 ans)",
+    "Écoute-bébé vidéo Philips Avent (parents)"
+   ],
+   "pieges": [
+    "Pas sûr d'être choisi : sélection selon ton profil",
+    "Il faut enregistrer le produit chez Philips et laisser un avis",
+    "Les campagnes ferment sans prévenir quand il y a assez de candidats",
+    "Philips ne paie jamais pour un avis : méfie-toi des faux mails"
+   ],
+   "etapes": [
+    "Ouvre le site Philips Product Tester",
+    "Crée ton compte gratuit et remplis ton profil",
+    "Candidate au OneBlade 360 (profil homme)",
+    "Si choisi : utilise-le et laisse ton avis via le lien reçu par mail"
+   ],
+   "fin": null,
+   "finTxt": "Permanent (campagnes qui changent)",
+   "desc": "Le programme officiel de Philips envoie gratuitement des produits (comme le rasoir OneBlade 360) à tester et à garder.",
+   "conditions": "Avis sincère après l'essai. Tu gardes le produit.",
+   "lien": "https://philipsb2c.my.site.com/producttesterprogram/s/?language=en_US&locale=fr_FR",
+   "source": "https://bonsplansmania.fr/article/test-gratuit-philips-product-tester-2026",
+   "avis": "Le OneBlade 360 vaut environ 50 € et sert vraiment à un mec de 23 ans. Programme officiel Philips : inscris-toi.",
+   "emoji": "🪒"
   },
   {
    "id": "peggysage-jour",
@@ -9314,7 +10443,7 @@
    "emoji": "💋",
    "fiabilite": "Article détaillé vérifié le 25/11 (bonsplansmania) ; formulaire Trustt non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "opinagora-the",
@@ -9431,120 +10560,242 @@
    "emoji": "👶",
    "fiabilite": "Lien ConsoBaby relevé sur testons-ensemble le 25/11 ; page ConsoBaby non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
-   "id": "azeane-pain",
+   "acces": "selection",
+   "livre": true,
+   "type": "test",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € si choisi",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "prix": "",
+   "fiabilite": "Formulaire Google de Vista Pets",
+   "id": "vista-pets-complement-chat",
+   "rayon": "animaux",
+   "titre": "Étude Vista Pets : complément pour chat offert à tester",
+   "qty": "1 complément (places non précisées)",
+   "contenu": [
+    "Complément alimentaire en pâte pour chat, à mélanger aux croquettes",
+    "Friandises pour chat envoyées après le test"
+   ],
+   "pieges": [
+    "Seulement si tu as un chat adulte en bonne santé",
+    "Il faut peser les restes de croquettes pendant 9 jours",
+    "Pré-inscription ≠ sélection"
+   ],
+   "etapes": [
+    "Ouvre le formulaire",
+    "Pré-inscris-toi avant le 2 déc.",
+    "Si choisi, fais le protocole de 9 jours avant le 27 déc."
+   ],
+   "fin": "2026-12-02T23:59:00+01:00",
+   "finTxt": "Jusqu'au 2 déc.",
+   "desc": "Un complément pour chat et des friandises envoyés aux foyers choisis pour une petite étude.",
+   "conditions": "Chat adulte (+12 mois), seul à manger dans sa gamelle, croquettes uniquement pendant l'étude.",
+   "lien": "https://docs.google.com/forms/d/e/1FAIpQLSeu0XcHkrHXl9iy39EpqHTNAXt2KiLBtvgV9nKaNAOlEYo1Jw/viewform",
+   "source": "https://bonsplansmania.fr/article/test-vista-pets-complement-alimentaire-chats-decembre-2026",
+   "avis": "Seulement si tu as un chat. Même organisme que l'étude croquettes déjà dans l'appli.",
+   "emoji": "🐱"
+  },
+  {
+   "acces": "selection",
+   "livre": true,
+   "type": "test",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € si choisi",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "prix": "",
+   "fiabilite": "Formulaire Trustt de la marque Eye Care Cosmetics",
+   "id": "eyecare-gommage-eclat-trustt",
+   "rayon": "beaute",
+   "titre": "Gommage Éclat du Teint Eye Care à tester (25 places)",
+   "qty": "1 gommage (25 places)",
+   "contenu": [
+    "Gommage Éclat du Teint Eye Care Cosmetics"
+   ],
+   "pieges": [
+    "Pas sûr d'être choisi (sélection sur profil)",
+    "Avis complet obligatoire dans l'espace ambassadeur, sinon pas gratuit",
+    "Interdit de publier sur les réseaux sur ce test",
+    "Il faut être dispo pour l'essai du 22 au 28 déc."
+   ],
+   "etapes": [
+    "Ouvre le lien",
+    "Remplis le formulaire Trustt avant le 7 déc. minuit",
+    "Si tu es choisi, teste du 22 au 28 déc. puis donne ton avis"
+   ],
+   "fin": "2026-12-07T23:59:00+01:00",
+   "finTxt": "Jusqu'au 7 déc. minuit",
+   "desc": "25 gommages visage Eye Care offerts aux testeurs choisis, contre un avis.",
+   "conditions": "Avis complet et sincère dans l'espace ambassadeur Eye Care.",
+   "lien": "https://bonsplansmania.fr/go/test-produit-eye-care-gommage-eclat-teint-25-places-decembre-2026",
+   "source": "https://bonsplansmania.fr/article/test-produit-eye-care-gommage-eclat-teint-25-places-decembre-2026",
+   "avis": "Marque française de pharmacie, test simple sans réseaux sociaux. Postule, ça prend 2 minutes.",
+   "emoji": "🧴"
+  },
+  {
+   "acces": "selection",
+   "livre": true,
+   "type": "test",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € si choisi",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "prix": "",
+   "fiabilite": "Formulaire Trustt de la marque Eye Care Cosmetics",
+   "id": "eyecare-infini-cils-atida",
+   "rayon": "beaute",
+   "titre": "Soin cils et sourcils Infini-Cils Eye Care à tester (25 places)",
+   "qty": "1 soin (25 places)",
+   "contenu": [
+    "Infini-Cils Eye Care : soin cils et sourcils, double applicateur"
+   ],
+   "pieges": [
+    "Pas sûr d'être choisi (sélection sur profil)",
+    "Avis complet obligatoire dans l'espace ambassadeur, sinon pas gratuit",
+    "Interdit de publier sur les réseaux sur ce test",
+    "Essai de 4 semaines (22 déc. – 18 janv.) + avis aussi sur Atida"
+   ],
+   "etapes": [
+    "Ouvre le lien",
+    "Remplis le formulaire Trustt avant le 7 déc. minuit",
+    "Si tu es choisi, teste 4 semaines et laisse 2 avis"
+   ],
+   "fin": "2026-12-07T23:59:00+01:00",
+   "finTxt": "Jusqu'au 7 déc. minuit",
+   "desc": "25 soins Infini-Cils offerts aux testeurs choisis contre un avis.",
+   "conditions": "Avis dans l'espace ambassadeur Eye Care et sur Atida.",
+   "lien": "https://bonsplansmania.fr/go/test-produit-eye-care-infini-cils-atida-25-places-decembre-2026",
+   "source": "https://bonsplansmania.fr/article/test-produit-eye-care-infini-cils-atida-25-places-decembre-2026",
+   "avis": "Produit cher en pharmacie, test sans réseaux sociaux. Plutôt pour une copine si tu ne t'en sers pas.",
+   "emoji": "👁️"
+  },
+  {
+   "acces": "selection",
+   "livre": true,
+   "type": "test",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € si choisi",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "prix": "",
+   "fiabilite": "Formulaire Trustt de la marque Eye Care Cosmetics",
+   "id": "eyecare-mascara-volumateur-trustt",
+   "rayon": "beaute",
+   "titre": "Mascara volumateur Eye Care à tester (25 places)",
+   "qty": "1 mascara (25 places)",
+   "contenu": [
+    "Mascara volumateur Eye Care Cosmetics"
+   ],
+   "pieges": [
+    "Pas sûr d'être choisi (sélection sur profil)",
+    "Avis complet obligatoire dans l'espace ambassadeur, sinon pas gratuit",
+    "Interdit de publier sur les réseaux sur ce test",
+    "Il faut être dispo pour l'essai du 22 au 28 déc."
+   ],
+   "etapes": [
+    "Ouvre le lien",
+    "Remplis le formulaire Trustt avant le 7 déc. minuit",
+    "Si tu es choisi, teste du 22 au 28 déc. puis donne ton avis"
+   ],
+   "fin": "2026-12-07T23:59:00+01:00",
+   "finTxt": "Jusqu'au 7 déc. minuit",
+   "desc": "25 mascaras Eye Care offerts aux testeurs choisis contre un avis.",
+   "conditions": "Avis complet dans l'espace ambassadeur Eye Care.",
+   "lien": "https://bonsplansmania.fr/go/test-produit-eye-care-mascara-volumateur-25-places-decembre-2026",
+   "source": "https://bonsplansmania.fr/article/test-produit-eye-care-mascara-volumateur-25-places-decembre-2026",
+   "avis": "Test sans réseaux sociaux, facile. Utile surtout pour offrir.",
+   "emoji": "💄"
+  },
+  {
+   "acces": "selection",
+   "livre": true,
+   "type": "test",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € si choisi",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "prix": "",
+   "fiabilite": "Formulaire Trustt de la marque Eye Care Cosmetics",
+   "id": "eyecare-kit-hydratation-tiktok",
+   "rayon": "beaute",
+   "titre": "Kit Hydratation Eye Care : 4 soins pour créateurs TikTok (20 places)",
+   "qty": "4 soins (20 places)",
+   "contenu": [
+    "Soin yeux Uniflow",
+    "Masque Hydratant Apaisant",
+    "Crème Nutritive Douceur",
+    "Baume Lèvres Nourrissant"
+   ],
+   "pieges": [
+    "Vidéo TikTok obligatoire (compte public) avant le 28 déc.",
+    "Pas sûr d'être choisi",
+    "La marque peut réutiliser ta vidéo"
+   ],
+   "etapes": [
+    "Ouvre le lien",
+    "Remplis le formulaire Trustt avant le 7 déc. minuit",
+    "Si tu es choisi, publie une vidéo TikTok entre le 22 et le 28 déc."
+   ],
+   "fin": "2026-12-07T23:59:00+01:00",
+   "finTxt": "Jusqu'au 7 déc. minuit",
+   "desc": "4 soins Eye Care offerts à 20 créateurs TikTok choisis, contre une vidéo.",
+   "conditions": "Compte TikTok public, pas de minimum d'abonnés annoncé.",
+   "lien": "https://bonsplansmania.fr/go/test-eye-care-kit-hydratation-4-soins-20-createurs-decembre-2026",
+   "source": "https://bonsplansmania.fr/article/test-eye-care-kit-hydratation-4-soins-20-createurs-decembre-2026",
+   "avis": "4 produits d'un coup, et aucun minimum d'abonnés : ça vaut le coup si tu as un TikTok.",
+   "emoji": "💧"
+  },
+  {
+   "nouveau": true,
+   "gratuit": false,
+   "prix": "",
+   "sansCarte": true,
+   "livre": true,
+   "conditions": "Sur candidature, envoi à domicile aux personnes choisies.",
+   "id": "coslys-ambassadeur-hygiene",
    "acces": "selection",
    "rayon": "hygiene",
-   "titre": "Pain dermatologique Azéane (ACM)",
+   "type": "test",
+   "titre": "Produits d'hygiène bio Coslys à tester (dentifrice, gel intime, gel mains)",
    "rarete": "rar",
-   "gratuit": false,
    "cout": "0 €",
-   "qty": "1 pain (60 places)",
+   "coutNum": 0,
+   "qty": "1 produit par testeur sélectionné (nombre de places non indiqué)",
    "contenu": [
-    "Pain dermatologique Azéane, Laboratoire ACM (format non précisé)"
+    "Selon la campagne : dentifrice 8 en 1 Protection intégrale, gel intime fraîcheur ou gel lavant mains lavande-citron Coslys"
    ],
    "pieges": [
-    "Photo de ta peau AVANT le test demandée dès la candidature",
-    "Avis + photos avant/après si tu es pris",
-    "Sélection non garantie, 60 places",
-    "Aucune obligation réseaux sociaux annoncée"
+    "Pas sûr d'être choisi",
+    "Nombre de places et date de fin non indiqués",
+    "Il faudra sans doute donner ton avis après le test"
    ],
    "etapes": [
-    "Ouvre le lien de la campagne",
-    "Connecte-toi ou crée ton espace ambassadeur ACM",
-    "Réponds aux questions, ajoute la photo avant et valide avant le 25 nov."
+    "Ouvre la page « Devenez ambassadeur Coslys »",
+    "Remplis le formulaire en ligne",
+    "Si tu es choisi, le produit arrive chez toi"
    ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov.",
-   "nouveau": false,
-   "desc": "60 pains dermatologiques Azéane (nettoyant sans savon pour peaux à imperfections) envoyés à domicile aux ambassadeurs retenus.",
-   "conditions": "",
-   "lien": "https://bonsplansmania.fr/go/test-gratuit-acm-azeane-pain-dermatologique-novembre-2026",
-   "avis": "Marche pour homme et femme, et pas de TikTok obligatoire contrairement au Stick ACM. Il faut juste accepter d'envoyer une photo de ta peau.",
-   "emoji": "🧼",
-   "fiabilite": "Laboratoire ACM · Trustt",
-   "type": "test",
-   "coutNum": 0,
-   "sansCarte": true,
-   "source": "https://bonsplansmania.fr/article/test-gratuit-acm-azeane-pain-dermatologique-novembre-2026",
-   "livre": true
-  },
-  {
-   "id": "patyka",
-   "acces": "selection",
-   "rayon": "beaute",
-   "titre": "Sérum Bonne Mine bio Patyka",
-   "rarete": "rar",
-   "gratuit": false,
-   "cout": "0 €",
-   "qty": "1 sérum 30 ml (20 places)",
-   "contenu": [
-    "Sérum Bonne Mine bio Patyka 30 ml (valeur 34,90 €)"
-   ],
-   "pieges": [
-    "Le formulaire demande date de naissance, téléphone et Instagram",
-    "Tu acceptes de recevoir leurs e-mails",
-    "Les abonnées à leur box passent en priorité"
-   ],
-   "etapes": [
-    "Ouvre l'article puis le formulaire",
-    "Remplis ton profil (type de peau, besoins)",
-    "Si tu es pris : avis détaillé après usage"
-   ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov.",
-   "nouveau": false,
-   "desc": "20 sérums 30 ml offerts aux testeuses retenues par le Club des Testeuses Belle au Naturel.",
-   "conditions": "",
-   "lien": "https://www.belleaunaturel.fr/club-des-testeuses/99-20-serums-bonne-mine-bio-de-patyka-a-tester",
-   "avis": "Le formulaire demande ton Instagram et l'accord pour recevoir leurs e-mails. Les abonnées à leur box sont prioritaires.",
-   "emoji": "✨",
-   "fiabilite": "Belle au Naturel",
-   "type": "test",
-   "coutNum": 0,
-   "sansCarte": true,
-   "source": "https://www.belleaunaturel.fr/le-club-des-testeuses",
-   "livre": true
-  },
-  {
-   "id": "belesa",
-   "acces": "selection",
-   "rayon": "beaute",
-   "titre": "Crème hydratante Esclaire Belesa",
-   "rarete": "rar",
-   "gratuit": false,
-   "cout": "0 €",
-   "qty": "1 crème 25 ml (20 places)",
-   "contenu": [
-    "Crème hydratante visage Esclaire Belesa 25 ml (valeur 19,90 €)"
-   ],
-   "pieges": [
-    "Le formulaire demande date de naissance, téléphone et Instagram",
-    "Case obligatoire : tu acceptes les e-mails de Belle au Naturel",
-    "Les abonnées à leur box passent en priorité",
-    "Avis détaillé demandé après usage"
-   ],
-   "etapes": [
-    "Ouvre l'article puis le formulaire",
-    "Remplis ton profil (type de peau, âge, besoins)",
-    "Si tu es pris : avis détaillé après usage"
-   ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov.",
-   "nouveau": false,
-   "desc": "20 crèmes hydratantes visage 100 % d'origine naturelle (25 ml) offertes aux testeuses retenues.",
-   "conditions": "",
-   "lien": "https://www.belleaunaturel.fr/club-des-testeuses/97-20-cremes-hydratantes-naturelles-de-belesa-a-tester",
-   "avis": "Petite crème de marque bio, mais seulement 20 places et formulaire qui demande pas mal de données.",
-   "emoji": "🌼",
-   "fiabilite": "Belle au Naturel",
-   "type": "test",
-   "coutNum": 0,
-   "sansCarte": true,
-   "source": "https://www.belleaunaturel.fr/le-club-des-testeuses",
-   "livre": true
+   "fin": null,
+   "finTxt": "Pas de date de fin indiquée",
+   "desc": "Coslys, marque bio française, cherche des ambassadeurs pour tester gratuitement son dentifrice, son gel intime et son gel lavant mains.",
+   "lien": "https://www.coslys.fr/fr/content/12-devenez-ambassadeur-coslys",
+   "source": "https://www.testons-ensemble.com/2026/11/testez-gratuitement-le-dentifrice-8-en-1-protection-integrale-de-coslys",
+   "avis": "Ça coûte rien de postuler, et un dentifrice bio c'est toujours utile. Mais rien n'est garanti.",
+   "emoji": "🪥",
+   "fiabilite": "Formulaire officiel Coslys (relevé via Testons Ensemble, page de la marque non chargée de mon côté)"
   },
   {
    "id": "vista-pets-chats",
@@ -9777,7 +11028,7 @@
    "emoji": "🧴",
    "fiabilite": "Article détaillé vérifié le 25/11 (bonsplansmania) ; formulaire Trustt non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "boiron-stoplants-adultes",
@@ -9816,7 +11067,7 @@
    "emoji": "🍯",
    "fiabilite": "Article détaillé vérifié le 25/11 (bonsplansmania) ; formulaire Trustt non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "peggysage-ms",
@@ -9894,44 +11145,47 @@
    "emoji": "🤲",
    "fiabilite": "Lien officiel obtenu par la redirection de l'article le 25/11 ; page testerdesproduits non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
-   "id": "aloesol",
    "acces": "selection",
-   "rayon": "hygiene",
-   "titre": "Gel d'aloe vera bio Aloesol",
+   "livre": true,
+   "type": "test",
    "rarete": "com",
    "gratuit": false,
-   "cout": "0 €",
-   "qty": "1 gel 100 ml (20 places)",
-   "contenu": [
-    "Gel d'aloe vera bio Aloesol 100 ml"
-   ],
-   "pieges": [
-    "Même formulaire Belle au Naturel : Instagram, téléphone, e-mails",
-    "Abonnées box prioritaires",
-    "Avis détaillé demandé"
-   ],
-   "etapes": [
-    "Ouvre l'article puis le formulaire",
-    "Remplis ton profil",
-    "Si tu es pris : avis après usage"
-   ],
-   "fin": "2026-11-25T23:59:00+01:00",
-   "finTxt": "Jusqu'au 25 nov.",
-   "nouveau": false,
-   "desc": "20 gels d'aloe vera bio offerts aux testeuses retenues par le Club des Testeuses Belle au Naturel.",
-   "conditions": "",
-   "lien": "https://www.belleaunaturel.fr/club-des-testeuses/98-20-gels-d-aloe-vera-bio-de-aloesol-a-tester",
-   "avis": "Utile au quotidien (peau, après-rasage). À cocher en même temps que Patyka et Belesa.",
-   "emoji": "🌵",
-   "fiabilite": "Belle au Naturel",
-   "type": "test",
+   "cout": "0 € si choisi",
    "coutNum": 0,
    "sansCarte": true,
-   "source": "https://www.belleaunaturel.fr/le-club-des-testeuses",
-   "livre": true
+   "nouveau": true,
+   "prix": "",
+   "fiabilite": "Panel de tests pour animaux",
+   "id": "milou-duchesse-moi-panel",
+   "rayon": "animaux",
+   "titre": "Milou, Duchesse et Moi : nourriture pour chien ou chat à tester",
+   "qty": "Selon les études",
+   "contenu": [
+    "Repas ou friandises pour ton chien ou chat, selon les études",
+    "Petits cadeaux annoncés"
+   ],
+   "pieges": [
+    "Il faut un chien ou un chat",
+    "Aucune étude garantie : tu reçois des invitations par mail selon ton profil",
+    "Études confidentielles"
+   ],
+   "etapes": [
+    "Ouvre le site",
+    "Inscris-toi gratuitement",
+    "Remplis le profil de ton animal",
+    "Accepte les études qu'on te propose par mail"
+   ],
+   "fin": null,
+   "finTxt": "Permanent",
+   "desc": "Une communauté gratuite qui envoie de la nourriture pour animaux à tester chez toi.",
+   "conditions": "Avoir un chien ou un chat.",
+   "lien": "https://www.milouduchesseetmoi.com/",
+   "source": "https://bonsplansmania.fr/article/milou-duchesse-moi-tests-produits-gratuits-chien-chat",
+   "avis": "Utile seulement si tu as un animal. Inscription gratuite, sans engagement.",
+   "emoji": "🐶"
   },
   {
    "id": "eno-enoliss-test",
@@ -10115,7 +11369,7 @@
    "emoji": "🧒",
    "fiabilite": "Article détaillé vérifié le 25/11 (bonsplansmania) ; formulaire Trustt non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "boiron-pastilles",
@@ -10190,7 +11444,7 @@
    "emoji": "🌿",
    "fiabilite": "Lien officiel trnd relevé sur testons-ensemble le 25/11 ; date de fin vue sur moins-depenser ; page trnd non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "lea-nature-club-testeurs",
@@ -10336,7 +11590,7 @@
    "emoji": "🦭",
    "fiabilite": "Lien ConsoBaby relevé sur testons-ensemble le 25/11 ; page non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "mamadvisor-chanceliere-donebydeer",
@@ -10374,7 +11628,7 @@
    "emoji": "🧸",
    "fiabilite": "Lien relevé sur testons-ensemble le 25/11 ; page Mam'Advisor non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
   },
   {
    "id": "mamadvisor-cybex-laya",
@@ -10412,7 +11666,84 @@
    "emoji": "🍼",
    "fiabilite": "Article détaillé vérifié le 25/11 (bonsplansmania) ; formulaire Mam'Advisor non consultable",
    "prix": null,
-   "nouveau": true
+   "nouveau": false
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "Majeur, France métropolitaine, 1 participation par jour.",
+   "prix": "",
+   "pieges": [
+    "Il faut un compte Qui veut du fromage",
+    "Bons seulement pour les rayons frais Carrefour",
+    "La page parle d'achat mais le règlement dit « sans obligation d'achat »"
+   ],
+   "etapes": [
+    "Ouvre le jeu",
+    "Crée ton compte gratuit",
+    "Joue une fois par jour"
+   ],
+   "contenu": [
+    "10 lots de 1 000 € en bons Carrefour",
+    "400 lots de 100 € en bons Carrefour (instants gagnants)"
+   ],
+   "id": "quiveutdufromage-carrefour-1000",
+   "rayon": "bouffe",
+   "titre": "Qui veut du fromage : 410 bons Carrefour (100 € à 1 000 €) à gagner",
+   "qty": "410 lots",
+   "fin": "2026-12-09T23:59:00+01:00",
+   "finTxt": "Jusqu'au 9 déc.",
+   "desc": "400 bons de 100 € et 10 de 1 000 € pour les courses chez Carrefour.",
+   "lien": "https://www.quiveutdufromage.com/mesavantages/jeu/rse-carrefour",
+   "source": "https://bonsplansmania.fr/article/concours-quiveutdufromage-carrefour-bons-achat-9-decembre-2026",
+   "avis": "Beaucoup de lots (410) et 100 € de courses, ça compte. Joue tous les jours.",
+   "emoji": "🧀",
+   "fiabilite": "Jeu officiel Qui veut du fromage x Carrefour"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "epi",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "Majeur, France métropolitaine hors Corse, sans achat.",
+   "prix": "",
+   "pieges": [
+    "Seulement 2 gagnants",
+    "Une seule participation"
+   ],
+   "etapes": [
+    "Ouvre le jeu",
+    "Réponds aux 5 questions de sécurité routière",
+    "Remplis le formulaire"
+   ],
+   "contenu": [
+    "Pack vélo électrique Toplife E-4600 V2 + casque + gilet + antivol Michelin (1 028 €)",
+    "Pack trottinette Xiaomi Scooter 6 + casque + gilet + antivol (676 €)"
+   ],
+   "id": "carrefour-assurance-velo-trottinette",
+   "rayon": "sport",
+   "titre": "Carrefour Assurance : vélo électrique (1 028 €) ou trottinette Xiaomi à gagner",
+   "qty": "2 lots",
+   "fin": "2026-12-21T23:59:00+01:00",
+   "finTxt": "Jusqu'au 21 déc. (tirage le 22)",
+   "desc": "Un vélo électrique ou une trottinette électrique à gagner, gratuitement, en 5 questions.",
+   "lien": "https://bonsplansmania.fr/go/concours-carrefour-assurance-suivez-le-fil-velo-trottinette-2026",
+   "source": "https://bonsplansmania.fr/article/concours-carrefour-assurance-suivez-le-fil-velo-trottinette-2026",
+   "avis": "Parfait sans voiture ! Peu de gagnants mais 2 minutes pour participer.",
+   "emoji": "🚲",
+   "fiabilite": "Jeu officiel Carrefour Assurance"
   },
   {
    "id": "samsung-tv-micro-rgb",
@@ -10603,6 +11934,243 @@
    "sansCarte": true,
    "source": "https://bonsplansmania.fr/article/test-produit-lego-botanicals-rocking-plants-14-testeurs-2026",
    "livre": true
+  },
+  {
+   "nouveau": true,
+   "gratuit": false,
+   "prix": "78 € + 6 mois de box",
+   "sansCarte": true,
+   "livre": true,
+   "conditions": "Résidents en France. Gagnant tiré au sort le 29 novembre.",
+   "id": "mlb-laneige-concours",
+   "acces": "tirage",
+   "rayon": "beaute",
+   "type": "cadeau",
+   "titre": "Concours My Little Box x Laneige : 4 soins (78 €) + 6 mois de box",
+   "rarete": "rar",
+   "cout": "0 €",
+   "coutNum": 0,
+   "qty": "1 gagnant",
+   "contenu": [
+    "Masque de nuit repulpant Laneige",
+    "Masque de nuit yeux Laneige",
+    "Brume Cream Skin Mist",
+    "Masque en tissu hydratant",
+    "6 mois d'abonnement My Little Box"
+   ],
+   "pieges": [
+    "Tirage au sort : une seule chance",
+    "Il faut un compte Instagram",
+    "Méfie-toi des faux comptes qui t'écrivent « tu as gagné » avec un lien"
+   ],
+   "etapes": [
+    "Ouvre le compte Instagram @my_little_box et trouve le post du concours Laneige",
+    "Like le post",
+    "Abonne-toi à @my_little_box et @laneige_eu",
+    "Identifie 2 amis en commentaire"
+   ],
+   "fin": "2026-11-29T12:00:00+01:00",
+   "finTxt": "Tirage le 29 nov.",
+   "desc": "My Little Box et Laneige font gagner un lot de 4 soins et 6 mois de box beauté sur Instagram.",
+   "lien": "https://www.instagram.com/my_little_box/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/produits-beaute/concours-my-little-box-x-laneige-un-lot-de-soins-et-6-mois-dabonnement-a-gagner/",
+   "avis": "Gros lot pour 3 clics, mais un seul gagnant.",
+   "emoji": "🎁",
+   "fiabilite": "Instagram officiel My Little Box (post relevé via Mes Échantillons Gratuits)"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "Majeur, France métropolitaine Corse incluse.",
+   "prix": "",
+   "pieges": [
+    "Une seule participation par foyer",
+    "Réponse à la question : « 30 ans »"
+   ],
+   "etapes": [
+    "Ouvre le formulaire",
+    "Réponds « 30 ans » à la question",
+    "Valide avant le 1er déc."
+   ],
+   "contenu": [
+    "Lot 1 : gamme LEGO Pokémon SMART PLAY + 20 boosters Couronne Stellaire",
+    "Lot 2 : collection Ultra-Premium Dracaufeu",
+    "Lots 3-7 : coffret Dresseur d'Élite + 10 boosters + peluche",
+    "Lots 8-20 : peluche Pokémon 20 cm + 10 boosters"
+   ],
+   "id": "king-jouet-lego-pokemon",
+   "rayon": "jouets",
+   "titre": "King Jouet : 20 lots LEGO Pokémon, peluches et boosters à gagner",
+   "qty": "20 lots",
+   "fin": "2026-12-01T23:59:00+01:00",
+   "finTxt": "Jusqu'au 1er déc. (tirage le 2)",
+   "desc": "20 lots Pokémon (LEGO, cartes, peluches) à gagner chez King Jouet, sans achat.",
+   "lien": "https://interview.eloquant.cloud/kingjouet/itw/answer/s/JwkkpT1STE/k/JC_LEGO_Pokemon_KJNO26",
+   "source": "https://bonsplansmania.fr/article/concours-king-jouet-lego-pokemon-20-lots-1-decembre-2026",
+   "avis": "20 gagnants seulement mais les boosters se revendent bien. Participe vite, fin le 1er déc.",
+   "emoji": "⚡",
+   "fiabilite": "Jeu officiel King Jouet x Pokémon"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "Majeur, France métropolitaine, 1 participation par jour.",
+   "prix": "",
+   "pieges": [
+    "Utile surtout si tu peux changer ton thermostat (locataire : demande au proprio)"
+   ],
+   "etapes": [
+    "Ouvre le jeu",
+    "Remplis le formulaire",
+    "Fais le puzzle (1 fois par jour)"
+   ],
+   "contenu": [
+    "4 thermostats Smarther with Netatmo (≈ 260 €)",
+    "4 caméras intérieures Bticino Advance Pro (≈ 296 € HT)"
+   ],
+   "id": "legrand-smarther-cameras",
+   "rayon": "maison",
+   "titre": "Legrand : 4 thermostats connectés et 4 caméras à gagner",
+   "qty": "8 lots",
+   "fin": "2026-12-16T23:59:00+01:00",
+   "finTxt": "Jusqu'au 16 déc. (tirage le 17)",
+   "desc": "8 objets connectés Legrand à gagner par tirage au sort, sans achat.",
+   "lien": "https://www.legrand-jeu.fr/smarther-with-netatmo/0/RzDg2/",
+   "source": "https://bonsplansmania.fr/article/concours-legrand-smarther-netatmo-thermostats-cameras-2026",
+   "avis": "La caméra se revend bien. Jouable chaque jour.",
+   "emoji": "🌡️",
+   "fiabilite": "Jeu officiel Legrand"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "France métropolitaine, sans achat, 1 participation par jour.",
+   "prix": "",
+   "pieges": [
+    "Seulement 12 gagnants",
+    "Bons Fiers de nos Terres et Déguisetoi seulement en ligne (port parfois en plus)"
+   ],
+   "etapes": [
+    "Ouvre le jeu",
+    "Joue une fois par jour (instant gagnant)",
+    "Le résultat s'affiche tout de suite"
+   ],
+   "contenu": [
+    "1 lot : 4 entrées Parc Astérix + carte La Halle 150 € (422 €)",
+    "2 lots : coffret JouéClub 100 € + carte La Halle 50 €",
+    "2 lots : bon Fiers de nos Terres 100 € + carte 50 €",
+    "2 lots : bon Déguisetoi 100 € + carte 50 €",
+    "3 cartes La Halle 150 €, 2 cartes 100 €"
+   ],
+   "id": "la-halle-noel-asterix",
+   "rayon": "vetements",
+   "titre": "La Halle : 12 lots (Parc Astérix + cartes cadeaux jusqu'à 422 €)",
+   "qty": "12 lots",
+   "fin": "2026-12-20T23:59:00+01:00",
+   "finTxt": "Jusqu'au 20 déc.",
+   "desc": "Instant gagnant La Halle : cartes cadeaux vêtements et entrées au Parc Astérix, 1 partie par jour.",
+   "lien": "https://bonsplansmania.fr/go/concours-la-halle-noel-parc-asterix-joueclub-2026",
+   "source": "https://bonsplansmania.fr/article/concours-la-halle-noel-parc-asterix-joueclub-2026",
+   "avis": "Une carte La Halle de 100-150 €, c'est des vêtements chauds pour l'hiver. Joue chaque jour.",
+   "emoji": "🎁",
+   "fiabilite": "Jeu officiel La Halle (règlement Kimple)"
+  },
+  {
+   "acces": "tirage",
+   "livre": false,
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "16 ans et plus, sans achat.",
+   "prix": "",
+   "pieges": [
+    "Lots à retirer en magasin NORMAL sous 7 jours (avec ton téléphone)",
+    "Inscription newsletter obligatoire"
+   ],
+   "etapes": [
+    "Ouvre le jeu",
+    "Inscris-toi avec ton e-mail et confirme",
+    "Fais le défi du jour chaque jour"
+   ],
+   "contenu": [
+    "Lots immédiats à retirer en magasin NORMAL : bonbons, savon, pastilles, cotons, piles, masques…",
+    "Grand prix : carte cadeau NORMAL de 1 234 €"
+   ],
+   "id": "normal-jeu-des-noel",
+   "rayon": "hygiene",
+   "titre": "NORMAL : 99 999 petits cadeaux en magasin + carte cadeau 1 234 €",
+   "qty": "+99 999 lots",
+   "fin": "2026-12-24T23:59:00+01:00",
+   "finTxt": "Jusqu'au 24 déc.",
+   "desc": "Un défi par jour chez NORMAL : beaucoup de petits cadeaux à retirer en magasin et une carte de 1 234 €.",
+   "lien": "https://jeu.normal.fr/jeudedes",
+   "source": "https://bonsplansmania.fr/article/concours-normal-jeu-des-des-noel-2026",
+   "avis": "Énormément de lots : bonnes chances de gagner un petit truc si tu passes près d'un NORMAL (Carcassonne, Narbonne).",
+   "emoji": "🎲",
+   "fiabilite": "Jeu officiel NORMAL"
+  },
+  {
+   "acces": "tirage",
+   "livre": false,
+   "type": "cadeau",
+   "rarete": "rar",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "Majeur, 1 participation par mois, sans achat.",
+   "prix": "",
+   "pieges": [
+    "1 participation par mois : le tirage de décembre ne compte que les inscriptions de décembre",
+    "Seulement dans les restos qui acceptent TheFork PAY",
+    "Jeu d'une marque de champagne : il faut être majeur"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu",
+    "Remplis le formulaire (1 fois en novembre, puis 1 fois en décembre)",
+    "Attends le tirage du 1er mercredi du mois suivant"
+   ],
+   "contenu": [
+    "E-carte cadeau TheFork de 150 € pour un restaurant"
+   ],
+   "id": "nicolas-feuillatte-thefork-150",
+   "rayon": "bouffe",
+   "titre": "Nicolas Feuillatte : 50 cartes TheFork de 150 € (resto) à gagner",
+   "qty": "50 cartes (7 en décembre)",
+   "fin": "2026-12-31T10:00:00+01:00",
+   "finTxt": "Jusqu'au 31 déc. 10h (tirage chaque mois)",
+   "desc": "Tirages mensuels de cartes TheFork de 150 € pour aller au restaurant, sans achat.",
+   "lien": "https://nicolas-feuillatte.com/pages/nicolas-feuillatte-50-ans-dhistoires-partagees",
+   "source": "https://bonsplansmania.fr/article/concours-nicolas-feuillatte-50-ans-cartes-thefork-2026",
+   "avis": "Inscris-toi maintenant pour le tirage de novembre, puis rejoue en décembre : 2 chances.",
+   "emoji": "🍽️",
+   "fiabilite": "Jeu officiel Nicolas Feuillatte"
   },
   {
    "id": "entremont-sweats",
@@ -11423,6 +12991,345 @@
    "sansCarte": true,
    "source": "https://www.mesechantillonsgratuits.fr/tests-de-produits/test-de-soins-corporels/10-coffrets-de-4-huiles-a-levres-baorder-offerts/",
    "livre": true
+  },
+  {
+   "nouveau": true,
+   "gratuit": false,
+   "prix": "",
+   "sansCarte": true,
+   "livre": true,
+   "conditions": "Tirage au sort le lundi 30 novembre.",
+   "id": "nivea-men-calendrier-oneclinic",
+   "acces": "tirage",
+   "rayon": "homme",
+   "type": "cadeau",
+   "titre": "Calendrier de l'Avent NIVEA MEN (24 soins homme) à gagner",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "qty": "1 seul gagnant",
+   "contenu": [
+    "1 calendrier de l'Avent NIVEA MEN : 24 surprises soins pour homme"
+   ],
+   "pieges": [
+    "1 seul gagnant",
+    "Compte Instagram obligatoire",
+    "Concours organisé par une clinique (One Clinic), pas par Nivea directement"
+   ],
+   "etapes": [
+    "Ouvre le compte Instagram @oneclinic_fr et trouve le post Movember / NIVEA MEN",
+    "Like le post",
+    "Abonne-toi à @oneclinic_fr et @pointgyn_",
+    "Identifie 2 personnes en commentaire"
+   ],
+   "fin": "2026-11-30T12:00:00+01:00",
+   "finTxt": "Tirage le 30 nov.",
+   "desc": "Pour Movember, One Clinic et NIVEA MEN font gagner un calendrier de l'Avent de soins homme sur Instagram.",
+   "lien": "https://www.instagram.com/oneclinic_fr/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/produits-beaute/un-calendrier-de-lavent-nivea-men-a-gagner/",
+   "avis": "Peu de participants sur ce genre de petit compte : tes chances sont meilleures que sur les gros concours.",
+   "emoji": "🧔",
+   "fiabilite": "Instagram One Clinic (relevé via Mes Échantillons Gratuits)"
+  },
+  {
+   "nouveau": true,
+   "gratuit": false,
+   "prix": "",
+   "sansCarte": true,
+   "livre": true,
+   "conditions": "France métropolitaine.",
+   "id": "garancia-colibri-concours",
+   "acces": "tirage",
+   "rayon": "beaute",
+   "type": "cadeau",
+   "titre": "Concours Garancia x Maison Colibri : coffrets de Noël (300 € de lots)",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "qty": "Nombre de gagnants non indiqué",
+   "contenu": [
+    "Coffrets de Noël Garancia (150 € au total)",
+    "Bon d'achat Maison Colibri de 150 €"
+   ],
+   "pieges": [
+    "Tirage au sort",
+    "Compte Instagram obligatoire",
+    "Méfie-toi des faux comptes « gagnant » qui demandent ta carte"
+   ],
+   "etapes": [
+    "Ouvre le compte Instagram @maison_colibri et trouve le post du concours",
+    "Like le post",
+    "Abonne-toi à @maison_colibri et @garanciabeauty",
+    "Identifie une personne en commentaire (partage en story = chance en plus)"
+   ],
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "desc": "Garancia et Maison Colibri font gagner des coffrets de soins de Noël et un bon d'achat sur Instagram.",
+   "lien": "https://www.instagram.com/maison_colibri/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/produits-beaute/des-coffrets-de-noel-garancia-de-150-e-a-gagner/",
+   "avis": "Petite chance, mais ça prend 1 minute.",
+   "emoji": "🎄",
+   "fiabilite": "Instagram Maison Colibri (relevé via Mes Échantillons Gratuits)"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "France métropolitaine, sans achat.",
+   "prix": "",
+   "pieges": [
+    "Il faut un compte MaFamilleZen (gratuit)",
+    "Envoyées à l'adresse de ton compte sans vérif : mets la bonne"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu",
+    "Connecte-toi ou crée ton compte",
+    "Réponds au quiz avant le 1er déc."
+   ],
+   "contenu": [
+    "Invitation pour 2 personnes au cinéma : Astérix – Le Royaume de Nubie"
+   ],
+   "id": "mafamillezen-asterix-nubie",
+   "rayon": "culture",
+   "titre": "MaFamilleZen : 4 invitations pour 2 au film Astérix – Le Royaume de Nubie",
+   "qty": "4 invitations pour 2",
+   "fin": "2026-12-01T23:59:00+01:00",
+   "finTxt": "Jusqu'au 1er déc. (tirage le 2)",
+   "desc": "Des places de ciné pour 2 pour le nouvel Astérix, envoyées par courrier.",
+   "lien": "https://www.mafamillezen.com/concours-jeux/a-gagner-des-places-pour-asterix-le-royaume-de-nubie/",
+   "source": "https://bonsplansmania.fr/article/concours-mafamillezen-asterix-royaume-nubie-2026",
+   "avis": "Peu de lots mais 1 minute pour une sortie ciné gratuite.",
+   "emoji": "🎬",
+   "fiabilite": "Jeu MaFamilleZen"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "France métropolitaine.",
+   "prix": "",
+   "pieges": [
+    "Seulement 5 gagnants",
+    "Compte Familiscope à créer"
+   ],
+   "etapes": [
+    "Ouvre la page Familiscope",
+    "Clique sur Participer et réponds à la question",
+    "Connecte-toi ou crée ton compte"
+   ],
+   "contenu": [
+    "Livre-jeu Le calendrier de l'Avent dont tu es le héros (16,90 €)"
+   ],
+   "id": "familiscope-calendrier-heros",
+   "rayon": "culture",
+   "titre": "Familiscope : 5 livres-jeux « Le calendrier de l'Avent dont tu es le héros »",
+   "qty": "5 livres",
+   "fin": "2026-12-06T23:59:00+01:00",
+   "finTxt": "Jusqu'au 6 déc.",
+   "desc": "Un livre-jeu de Noël à gagner par tirage au sort, sans achat.",
+   "lien": "https://bonsplansmania.fr/go/concours-familiscope-calendrier-avent-dont-tu-es-le-heros-2026",
+   "source": "https://bonsplansmania.fr/article/concours-familiscope-calendrier-avent-dont-tu-es-le-heros-2026",
+   "avis": "Petit lot, idée cadeau pour un neveu ou une nièce. Même compte que l'autre concours Familiscope.",
+   "emoji": "📖",
+   "fiabilite": "Jeu Familiscope"
+  },
+  {
+   "nouveau": true,
+   "prix": "",
+   "conditions": "France métropolitaine uniquement.",
+   "pieges": [
+    "Simple tirage au sort",
+    "Méfie-toi des faux comptes qui t'écrivent en privé pour « réclamer ton lot » : seul @gardengourmetfr est officiel"
+   ],
+   "etapes": [
+    "Ouvre le compte Instagram @gardengourmetfr",
+    "Abonne-toi et trouve la publication du concours air fryer",
+    "Like la publication et identifie quelqu'un en commentaire"
+   ],
+   "contenu": [
+    "1 air fryer Ninja Crispi Pro par gagnant"
+   ],
+   "id": "garden-gourmet-air-fryer-ninja",
+   "acces": "tirage",
+   "livre": true,
+   "rayon": "maison",
+   "type": "cadeau",
+   "titre": "Garden Gourmet : 5 air fryers Ninja Crispi Pro à gagner (Instagram)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "5 gagnants",
+   "fin": "2026-12-07T00:00:00+01:00",
+   "finTxt": "Tirage le 7 déc.",
+   "desc": "Garden Gourmet fait gagner 5 friteuses sans huile Ninja Crispi Pro sur Instagram.",
+   "lien": "https://www.instagram.com/gardengourmetfr/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/maisons/concours-garden-gourmet-5-air-fryers-ninja-crispi-pro-a-gagner/",
+   "avis": "Participation en 30 secondes, peu de lots mais un bel appareil de cuisine.",
+   "emoji": "🍟",
+   "fiabilite": "Concours Instagram de la marque (lien exact du post non relevé)"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "Majeur, 1 participation par personne.",
+   "prix": "",
+   "pieges": [
+    "Seulement 4 gagnants",
+    "Tu ne choisis pas le calendrier"
+   ],
+   "etapes": [
+    "Ouvre le jeu",
+    "Remplis le formulaire (instant gagnant)"
+   ],
+   "contenu": [
+    "Calendrier Kiehl's (135 €)",
+    "Calendrier Lancôme (195 €)",
+    "Calendrier NYX (99,95 €)",
+    "Calendrier L'Oréal Paris (89,99 €)"
+   ],
+   "id": "kiehls-calendriers-avent",
+   "rayon": "beaute",
+   "titre": "4 calendriers de l'Avent beauté (Kiehl's, Lancôme, NYX, L'Oréal) à gagner",
+   "qty": "4 lots",
+   "fin": "2026-12-15T23:59:00+01:00",
+   "finTxt": "Jusqu'au 15 déc.",
+   "desc": "4 calendriers de l'Avent beauté à gagner en instant gagnant.",
+   "lien": "https://kiehls-fr.beauty-campaigns.com/quiz/1869781_1221/jeuconcours.advent2026.html",
+   "source": "https://bonsplansmania.fr/article/concours-kiehls-calendriers-avent-novembre-2026",
+   "avis": "Peu de lots, mais idée de cadeau de Noël gratuite.",
+   "emoji": "💄",
+   "fiabilite": "Jeu officiel L'Oréal (beauty-campaigns)"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "Majeur, France métropolitaine, 1 participation par foyer.",
+   "prix": "",
+   "pieges": [
+    "Les 11 meilleurs scores gagnent (pas un tirage)",
+    "Une seule participation"
+   ],
+   "etapes": [
+    "Ouvre le jeu",
+    "Fais le Memory avec le moins de clics possible",
+    "Remplis le formulaire"
+   ],
+   "contenu": [
+    "Litière autonettoyante MOVA MeowgicPod LR10 Prime (499 €)"
+   ],
+   "id": "wamiz-memory-mova",
+   "rayon": "animaux",
+   "titre": "Wamiz : 11 litières autonettoyantes MOVA (499 €) à gagner",
+   "qty": "11 lots",
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 déc.",
+   "desc": "Les 11 meilleurs au Memory de Noël Wamiz gagnent une litière à 499 €.",
+   "lien": "https://jeu.wamiz.com/quiz/1858169_4355/jeu-de-noel-memory-game-2026.html",
+   "source": "https://bonsplansmania.fr/article/concours-wamiz-noel-memory-litieres-mova-2026",
+   "avis": "Pour chat seulement (ou à revendre). Concentre-toi : un seul essai.",
+   "emoji": "🐈",
+   "fiabilite": "Jeu officiel Wamiz"
+  },
+  {
+   "acces": "tirage",
+   "livre": true,
+   "type": "cadeau",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 € (tirage au sort)",
+   "coutNum": 0,
+   "sansCarte": true,
+   "nouveau": true,
+   "conditions": "Majeur, résident en France, sans achat.",
+   "prix": "",
+   "pieges": [
+    "Magazine déco : utile seulement si ça t'intéresse"
+   ],
+   "etapes": [
+    "Ouvre le jeu",
+    "Remplis le formulaire gratuit une fois"
+   ],
+   "contenu": [
+    "Abonnement 1 an au magazine Maison Créative (déco, bricolage), livré chez toi"
+   ],
+   "id": "maison-creative-abonnements",
+   "rayon": "culture",
+   "titre": "Maison Créative : 25 abonnements d'un an au magazine (40 €) à gagner",
+   "qty": "25 abonnements",
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 déc.",
+   "desc": "25 abonnements d'un an au magazine Maison Créative à gagner par tirage au sort.",
+   "lien": "https://bonsplansmania.fr/go/concours-maison-creative-25-abonnements-1-an-2026",
+   "source": "https://bonsplansmania.fr/article/concours-maison-creative-25-abonnements-1-an-2026",
+   "avis": "25 gagnants, ça laisse une petite chance. Des idées déco pas chères pour ton appart.",
+   "emoji": "📰",
+   "fiabilite": "Jeu Maison Créative"
+  },
+  {
+   "nouveau": true,
+   "prix": "",
+   "conditions": "",
+   "pieges": [
+    "Simple tirage au sort",
+    "Date de fin non précisée : le calendrier commence le 1er déc., participe vite",
+    "Méfie-toi des faux comptes qui t'écrivent en privé"
+   ],
+   "etapes": [
+    "Ouvre le compte Instagram @amossweets_fr",
+    "Abonne-toi et trouve la publication du concours",
+    "Like et identifie une personne en commentaire"
+   ],
+   "contenu": [
+    "Calendrier de l'Avent AMOS avec 1,5 kg de bonbons"
+   ],
+   "id": "amos-calendrier-avent-bonbons",
+   "acces": "tirage",
+   "livre": true,
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "AMOS : calendrier de l'Avent avec 1,5 kg de bonbons à gagner (Instagram)",
+   "rarete": "com",
+   "gratuit": false,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "Nombre de gagnants non précisé",
+   "fin": null,
+   "finTxt": "Fin non précisée (probablement avant le 1er déc.)",
+   "desc": "La marque de bonbons AMOS fait gagner un calendrier de l'Avent rempli de 1,5 kg de bonbons.",
+   "lien": "https://www.instagram.com/amossweets_fr/",
+   "source": "https://www.mesechantillonsgratuits.fr/jeux-concours/nourriture/un-calendrier-de-lavent-amos-de-15-kg-de-gourmandises-a-gagner/",
+   "avis": "Petit concours vite fait pour les gourmands.",
+   "emoji": "🍬",
+   "fiabilite": "Concours Instagram de la marque (lien exact du post non relevé)"
   },
   {
    "id": "pisse-dru-smartbox",
