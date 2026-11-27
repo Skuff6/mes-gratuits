@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26T13:20:00+01:00",
+ "maj": "2026-11-27T13:45:00+01:00",
  "offres": [
   {
    "id": "falloutnv",
@@ -32,36 +32,6 @@
     "Stock limité"
    ],
    "source": "https://www.ggrecon.com/articles/fallout-new-vegas-free-steam-lenovo/"
-  },
-  {
-   "id": "markofthedeep",
-   "cat": "jeu",
-   "titre": "Mark of the Deep",
-   "plateforme": "epic",
-   "via": "",
-   "rarete": "epi",
-   "acces": "direct",
-   "gratuit": true,
-   "prix": "19,99 $",
-   "fin": "2026-11-26T17:00:00+01:00",
-   "finTxt": "Jusqu'au 26 nov. 17h",
-   "nouveau": false,
-   "desc": "Le jeu gratuit de la semaine sur Epic (PC + appli mobile) : action-aventure metroidvania en 3D façon pirate, à garder à vie.",
-   "conditions": "",
-   "pieges": [],
-   "etapes": [
-    "Page Jeux gratuits Epic",
-    "« Obtenir »"
-   ],
-   "fiabilite": "Officiel",
-   "lien": "https://store.epicgames.com/fr/p/mark-of-the-deep-f7dc08",
-   "avis": "Disponible maintenant : ajoute-le à ta bibliothèque Epic.",
-   "emoji": "",
-   "genre": "Action-aventure pirate · metroidvania 3D",
-   "tags": [
-    "Officiel"
-   ],
-   "source": "https://steamdb.com/en/promo-codes/alien-isolation-free-epic"
   },
   {
    "id": "gigabash",
@@ -135,7 +105,7 @@
    "gratuit": false,
    "prix": "Pack dès ~45 $",
    "fin": "2026-11-27T21:00:00+01:00",
-   "finTxt": "En cours → 27 nov. 21h",
+   "finTxt": "Dernier jour : jusqu'au 27 nov. au soir",
    "nouveau": false,
    "desc": "Le jeu spatial est jouable gratuitement pendant le salon IAE : vaisseaux à tester, combats spatiaux et FPS.",
    "conditions": "",
@@ -216,38 +186,6 @@
     "Officiel"
    ],
    "source": ""
-  },
-  {
-   "cat": "jeu",
-   "plateforme": "android",
-   "via": "Epic Games Store mobile",
-   "genre": "Aventure cozy / puzzle",
-   "tags": [
-    "Solo",
-    "Mobile"
-   ],
-   "acces": "direct",
-   "rarete": "rar",
-   "gratuit": true,
-   "prix": "4,99 $",
-   "fin": "2026-11-26T17:00:00+01:00",
-   "finTxt": "Jusqu'au 26 nov. 17h",
-   "nouveau": false,
-   "desc": "Le jeu mobile gratuit de la semaine dans l'appli Epic Games Store pour Android : aventure-puzzle mignonne façon Zelda cozy, à garder.",
-   "conditions": "Il faut installer l'appli Epic Games Store sur Android (pas le Play Store).",
-   "pieges": [],
-   "etapes": [
-    "Installe l'appli Epic Games Store sur ton Android",
-    "Connecte-toi",
-    "Va dans Jeux gratuits → Lonesome Village → Obtenir"
-   ],
-   "fiabilite": "Officiel",
-   "lien": "https://store.epicgames.com/p/lonesome-village",
-   "source": "https://www.gamerpower.com/lonesome-village-mobile-giveaway",
-   "avis": "Bonus facile pour ton téléphone, à prendre avant le 26.",
-   "emoji": "",
-   "id": "lonesomevillage",
-   "titre": "Lonesome Village (mobile)"
   },
   {
    "cat": "jeu",
@@ -511,16 +449,16 @@
    "rarete": "rar",
    "acces": "direct",
    "gratuit": true,
-   "prix": "4,99 € (dès le 12 janv.)",
-   "fin": "2027-01-12T19:00:00+01:00",
-   "finTxt": "Gratuit à garder jusqu'au 12 janv.",
+   "prix": "4,99 € (dès le 1er janv.)",
+   "fin": "2027-01-01T00:00:00+01:00",
+   "finTxt": "Gratuit à garder jusqu'au 31 déc.",
    "nouveau": false,
    "desc": "Seul humain épargné par une invasion alien : récolte, construis des robots et défends ta base la nuit (solo ou coop).",
    "conditions": "",
    "pieges": [],
    "etapes": [
     "Ouvre la page Steam",
-    "Ajoute-le à ta bibliothèque avant le 12 janv."
+    "Ajoute-le à ta bibliothèque avant le 31 déc."
    ],
    "fiabilite": "Vérifié via sources",
    "lien": "https://store.steampowered.com/app/4901850/I_Missed_the_Apocalypse/",
@@ -629,34 +567,37 @@
    "plateforme": "android"
   },
   {
-   "id": "strangeantiquities",
-   "cat": "avenir",
-   "titre": "Strange Antiquities",
-   "plateforme": "epic",
+   "cat": "beta",
    "via": "",
-   "genre": "Puzzle / gestion de boutique occulte",
-   "tags": [
-    "Solo",
-    "À garder"
-   ],
-   "acces": "direct",
    "rarete": "rar",
+   "acces": "direct",
    "gratuit": false,
-   "prix": "~15 €",
-   "fin": "2026-12-10T17:00:00+01:00",
-   "finTxt": "3 déc. 17h → 10 déc. 17h",
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Playtest en cours (fin non annoncée)",
    "nouveau": true,
-   "desc": "Prochain jeu gratuit Epic (après Bread & Fred) : tu tiens une boutique d'antiquités magiques et tu identifies des objets étranges pour tes clients. Par les créateurs de Strange Horticulture.",
-   "conditions": "Pas encore réclamable : à partir du 3 déc. 17h.",
+   "desc": "FPS multijoueur indé free-to-play (mode battle royale en préparation) : le playtest est ouvert, bouton « Rejoindre le playtest » sur Steam.",
+   "conditions": "",
    "pieges": [],
    "etapes": [
-    "Le 3 déc. après 17h : ouvre la page du jeu sur Epic",
-    "« Obtenir »"
+    "Ouvre la page Steam",
+    "Clique sur « Rejoindre le playtest »",
+    "Installe-le depuis ta bibliothèque"
    ],
-   "fiabilite": "Fiable (annoncé par les agrégateurs, à confirmer par Epic)",
-   "lien": "https://store.epicgames.com/fr/p/strange-antiquities-e37660",
-   "source": "https://drophunter.app/free-games",
-   "avis": "Petit jeu d'énigmes très bien noté, ça vaut le clic gratuit."
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/4624380",
+   "avis": "Nouveau FPS multi à tester gratuitement, pile ton genre.",
+   "emoji": "",
+   "genre": "FPS multijoueur",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Playtest"
+   ],
+   "source": "https://store.steampowered.com/app/4624380",
+   "plateforme": "steam",
+   "id": "slammer",
+   "titre": "Slammer – playtest Steam ouvert"
   },
   {
    "id": "arkheron",
@@ -671,7 +612,7 @@
    "fin": "2026-11-29T23:59:00+01:00",
    "finTxt": "Gratuit du 27 au 29 nov. (jusqu'au 6 déc. via Discord partenaire)",
    "nouveau": false,
-   "desc": "Nouveau concept multijoueur de Bonfire (ex-Blizzard) : des équipes s'affrontent en grimpant une tour, mélange battle royale et action-RPG façon Diablo. Accès anticipé le 27 nov. ; tout le monde peut jouer au jeu complet gratuitement du 27 au 29 nov. Ensuite, le « Friend Pass » gratuit permet de jouer avec un ami qui possède le jeu.",
+   "desc": "Nouveau concept multijoueur de Bonfire (ex-Blizzard) : des équipes s'affrontent en grimpant une tour, mélange battle royale et action-RPG façon Diablo. Accès anticipé le 27 nov. ; tout le monde peut jouer au jeu complet gratuitement du 27 au 29 nov. Ensuite, le « Friend Pass » gratuit permet de jouer avec un ami qui possède le jeu. Puis du 30 nov. au 6 déc. : « Partner Server Free Play Week » (rejoins un serveur Discord partenaire et lie ton compte).",
    "conditions": "",
    "pieges": [],
    "etapes": [
@@ -755,6 +696,36 @@
     "Site connu"
    ],
    "source": ""
+  },
+  {
+   "id": "strangeantiquities",
+   "cat": "avenir",
+   "titre": "Strange Antiquities",
+   "plateforme": "epic",
+   "via": "",
+   "genre": "Puzzle / gestion de boutique occulte",
+   "tags": [
+    "Solo",
+    "À garder"
+   ],
+   "acces": "direct",
+   "rarete": "rar",
+   "gratuit": false,
+   "prix": "~15 €",
+   "fin": "2026-12-10T17:00:00+01:00",
+   "finTxt": "3 déc. 17h → 10 déc. 17h",
+   "nouveau": false,
+   "desc": "Prochain jeu gratuit Epic (après Bread & Fred) : tu tiens une boutique d'antiquités magiques et tu identifies des objets étranges pour tes clients. Par les créateurs de Strange Horticulture.",
+   "conditions": "Pas encore réclamable : à partir du 3 déc. 17h.",
+   "pieges": [],
+   "etapes": [
+    "Le 3 déc. après 17h : ouvre la page du jeu sur Epic",
+    "« Obtenir »"
+   ],
+   "fiabilite": "Fiable (annoncé par les agrégateurs, à confirmer par Epic)",
+   "lien": "https://store.epicgames.com/fr/p/strange-antiquities-e37660",
+   "source": "https://drophunter.app/free-games",
+   "avis": "Petit jeu d'énigmes très bien noté, ça vaut le clic gratuit."
   },
   {
    "id": "wotamd",
@@ -2340,22 +2311,22 @@
    "fin": null,
    "finTxt": "Tant que l'offre dure",
    "nouveau": false,
-   "desc": "Petit jeu indé offert à 100 % sur itch.io, repéré par Nerdzap.",
+   "desc": "Visual novel fantasy d'environ 1 h (Winterjam), offert à 100 % sur itch.io (normalement 2 $).",
    "conditions": "",
    "pieges": [],
    "etapes": [
-    "Liste Nerdzap",
-    "Page itch.io → « Download »"
+    "Ouvre la page itch.io",
+    "Clique sur « Download Now » puis « No thanks, just take me to the downloads »"
    ],
    "fiabilite": "Site connu",
-   "lien": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway",
+   "lien": "https://galengames.itch.io/academy-carols",
    "avis": "Petit bonus pour ta bibliothèque itch.io.",
    "emoji": "",
-   "genre": "Petit jeu indé",
+   "genre": "Visual novel",
    "tags": [
     "Site connu"
    ],
-   "source": ""
+   "source": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
   },
   {
    "id": "dieyoung",
@@ -2721,6 +2692,68 @@
    "emoji": "",
    "id": "packsgacha21",
    "titre": "Packs cadeaux : Aniimo, Reverse: 1999, Arknights: Endfield, Neverwinter, Crystal Saga Nova"
+  },
+  {
+   "cat": "pack",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": "2026-12-17T23:59:00+01:00",
+   "finTxt": "Jusqu'au 17 déc.",
+   "nouveau": true,
+   "desc": "Événement gratuit en jeu : fais des missions en escouade pour débloquer des récompenses par paliers.",
+   "conditions": "",
+   "pieges": [],
+   "etapes": [
+    "Lance Delta Force",
+    "Onglet Événements → Rally",
+    "Joue en escouade et réclame les paliers"
+   ],
+   "fiabilite": "Vérifié via sources",
+   "lien": "https://store.steampowered.com/app/2507950/Delta_Force/",
+   "avis": "Si tu joues déjà à Delta Force avec des potes, c'est du gratuit en plus.",
+   "emoji": "",
+   "genre": "FPS extraction / grande échelle",
+   "tags": [
+    "FPS",
+    "Multijoueur"
+   ],
+   "source": "https://buttondown.com/warhogy/archive/tarkov-untar-control-season-gaming-news-107/",
+   "plateforme": "steam",
+   "id": "deltaforcerally",
+   "titre": "Delta Force – événement « Rally » (récompenses en escouade)"
+  },
+  {
+   "cat": "code",
+   "via": "",
+   "rarete": "com",
+   "acces": "direct",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Fin non annoncée",
+   "nouveau": true,
+   "desc": "50 Astrites, 2 potions de résonance, 2 inhalateurs, 2 sacs d'énergie et 10 000 crédits.",
+   "conditions": "",
+   "pieges": [],
+   "etapes": [
+    "En jeu : Terminal → Réglages → Autres réglages → Échanger",
+    "Entre WUTHERINGGIFT"
+   ],
+   "fiabilite": "Site connu",
+   "lien": "https://wutheringwaves.kurogames.com/",
+   "avis": "Code simple pour tout le monde.",
+   "emoji": "",
+   "genre": "Action-RPG",
+   "tags": [
+    "Code"
+   ],
+   "source": "https://levvvel.com/wuthering-waves-codes/",
+   "plateforme": "autre",
+   "id": "wuwagift",
+   "titre": "Wuthering Waves – code WUTHERINGGIFT"
   },
   {
    "id": "vaultbreakersdemo",
@@ -3692,42 +3725,6 @@
    "source": ""
   },
   {
-   "id": "dwarvenrealms",
-   "cat": "cle",
-   "titre": "Dwarven Realms (clé Steam)",
-   "plateforme": "steam",
-   "via": "Alienware Arena",
-   "genre": "Action-RPG façon Diablo",
-   "tags": [
-    "Solo",
-    "Coop",
-    "Stock limité",
-    "À garder"
-   ],
-   "acces": "condition",
-   "rarete": "epi",
-   "gratuit": false,
-   "prix": "9,75 €",
-   "fin": null,
-   "finTxt": "Jusqu'à épuisement des clés",
-   "nouveau": true,
-   "desc": "Action-RPG hack'n'slash (style Diablo) de 2024 en clé Steam à garder, distribué sur Alienware Arena.",
-   "conditions": "Compte Alienware Arena gratuit avec au moins 10 ARP (points obtenus en se connectant / faisant des petites quêtes).",
-   "pieges": [
-    "Stock de clés limité",
-    "Il faut d'abord gagner 10 ARP sur le site"
-   ],
-   "etapes": [
-    "Ouvre la page de l'offre (redirige vers Alienware Arena)",
-    "Connecte-toi / crée un compte",
-    "Clique sur « Get Key » puis active la clé dans Steam"
-   ],
-   "fiabilite": "Fiable",
-   "lien": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway",
-   "source": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
-   "avis": "Bon petit ARPG coop, ça vaut les 10 ARP."
-  },
-  {
    "id": "wrcgen",
    "cat": "jeu",
    "titre": "WRC Generations",
@@ -3793,7 +3790,7 @@
   {
    "id": "primeautres",
    "cat": "jeu",
-   "titre": "Autres jeux Prime (WarBreeds, Trash Goblin, Squirrel with a Gun, Caravan SandWitch, KIBORG, Ad Infinitum…)",
+   "titre": "Autres jeux Prime (Trash Goblin, KIBORG, Squirrel with a Gun, Caravan SandWitch, CLeM, WarBreeds…)",
    "plateforme": "prime",
    "via": "",
    "rarete": "epi",
@@ -3801,9 +3798,9 @@
    "gratuit": false,
    "prix": "15–40 €",
    "fin": "2027-01-08T23:59:00+01:00",
-   "finTxt": "25 nov. → 8 janv.",
+   "finTxt": "KIBORG et Trash Goblin finissent le 2 déc.",
    "nouveau": false,
-   "desc": "Plein de petits jeux à garder avec Prime : Ad Infinitum (horreur WW1, jusqu'au 25 nov.), Time Travel: Escape Room (25 nov.), Trash Goblin et KIBORG (2 déc.), Squirrel with a Gun (9 déc.), Caravan SandWitch (16 déc.), WarBreeds sur GOG (8 janv.).",
+   "desc": "Petits jeux à garder avec Prime : Trash Goblin et KIBORG (jusqu'au 2 déc.), Squirrel with a Gun (9 déc.), Caravan SandWitch (16 déc.), CLeM (23 déc.), WarBreeds sur GOG (8 janv.).",
    "conditions": "Prime",
    "pieges": [],
    "etapes": [
@@ -3888,6 +3885,42 @@
    "nouveau": false
   },
   {
+   "id": "dwarvenrealms",
+   "cat": "cle",
+   "titre": "Dwarven Realms (clé Steam)",
+   "plateforme": "steam",
+   "via": "Alienware Arena",
+   "genre": "Action-RPG façon Diablo",
+   "tags": [
+    "Solo",
+    "Coop",
+    "Stock limité",
+    "À garder"
+   ],
+   "acces": "condition",
+   "rarete": "epi",
+   "gratuit": false,
+   "prix": "9,75 €",
+   "fin": null,
+   "finTxt": "Jusqu'à épuisement des clés",
+   "nouveau": false,
+   "desc": "Action-RPG hack'n'slash (style Diablo) de 2024 en clé Steam à garder, distribué sur Alienware Arena.",
+   "conditions": "Compte Alienware Arena gratuit avec au moins 10 ARP (points obtenus en se connectant / faisant des petites quêtes).",
+   "pieges": [
+    "Stock de clés limité",
+    "Il faut d'abord gagner 10 ARP sur le site"
+   ],
+   "etapes": [
+    "Ouvre la page de l'offre (redirige vers Alienware Arena)",
+    "Connecte-toi / crée un compte",
+    "Clique sur « Get Key » puis active la clé dans Steam"
+   ],
+   "fiabilite": "Fiable",
+   "lien": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway",
+   "source": "https://www.gamerpower.com/dwarven-realms-steam-key-giveaway",
+   "avis": "Bon petit ARPG coop, ça vaut les 10 ARP."
+  },
+  {
    "id": "gearsanniv",
    "cat": "pack",
    "titre": "Gears of War: E-Day – 12 skins d'armes anniversaire + RAAM",
@@ -3918,37 +3951,6 @@
    "source": "https://www.analyticsinsight.net/news/gears-of-war-e-day-gets-a-special-xbox-anniversary-surprise-with-12-free-weapon-skins",
    "avis": "Seulement si tu as le jeu.",
    "nouveau": false
-  },
-  {
-   "cat": "pack",
-   "via": "",
-   "rarete": "rar",
-   "acces": "condition",
-   "gratuit": false,
-   "fin": "2026-11-26T23:59:00+01:00",
-   "nouveau": false,
-   "conditions": "Lier son Embark ID à Twitch + regarder",
-   "pieges": [],
-   "fiabilite": "Fiable",
-   "emoji": "",
-   "tags": [
-    "FPS",
-    "Multijoueur"
-   ],
-   "source": "https://www.thefinals.wiki/wiki/Twitch_Drops",
-   "id": "finalsdrops",
-   "titre": "THE FINALS – skins STREAM TANGERINE (Twitch Drops)",
-   "plateforme": "autre",
-   "genre": "FPS",
-   "prix": "Gratuit",
-   "finTxt": "Jusqu'au 26 nov.",
-   "desc": "Skins d'armes (Dagger 1 h, CB-01 2 h, SA1216 4 h) en regardant des streams THE FINALS avec drops.",
-   "lien": "https://www.twitch.tv/drops/campaigns",
-   "avis": "FPS multi destruction : mets un stream en fond.",
-   "etapes": [
-    "Ouvre la page",
-    "Récupère-le"
-   ]
   },
   {
    "id": "bethesda",
@@ -4138,6 +4140,71 @@
     "Site connu"
    ],
    "source": "https://drophunter.app/drops"
+  },
+  {
+   "cat": "essai",
+   "via": "",
+   "rarete": "com",
+   "acces": "condition",
+   "gratuit": false,
+   "prix": "Essai gratuit",
+   "fin": "2026-11-29T23:59:00+01:00",
+   "finTxt": "Jusqu'au 29 nov.",
+   "nouveau": true,
+   "desc": "Deux jeux jouables gratuitement ce week-end avec un Game Pass (pas de shooter cette semaine).",
+   "conditions": "Game Pass Ultimate, Premium ou Essential",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page Free Play Days",
+    "Installe le jeu",
+    "Joue jusqu'au 29 nov."
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.xbox.com/fr-FR/games/free-play-days",
+   "avis": "Bof pour toi : stratégie seulement.",
+   "emoji": "",
+   "genre": "Stratégie",
+   "tags": [
+    "Essai",
+    "Game Pass"
+   ],
+   "source": "https://news.xbox.com/en-us/2026/11/26/free-play-days-11-26-2026/",
+   "plateforme": "xbox",
+   "id": "freeplaydays1126",
+   "titre": "Free Play Days Xbox : Warhammer 40K Mechanicus + Little Rocket Lab"
+  },
+  {
+   "cat": "pack",
+   "via": "",
+   "rarete": "com",
+   "acces": "condition",
+   "gratuit": false,
+   "prix": "Inclus Game Pass PC / Ultimate",
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "nouveau": true,
+   "desc": "Charme d'arme doré offert aux abonnés EA Play.",
+   "conditions": "Game Pass PC/Ultimate ou EA Play",
+   "pieges": [],
+   "etapes": [
+    "Page Avantages en jeu Game Pass",
+    "Réclame l'avantage Apex",
+    "Récupère-le en jeu"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.xbox.com/fr-FR/xbox-game-pass/in-game-benefits",
+   "avis": "Petit bonus si tu as déjà le Game Pass.",
+   "emoji": "",
+   "genre": "Battle royale FPS",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Game Pass"
+   ],
+   "source": "https://purexbox.com/guides/xbox-adds-more-perks-for-game-pass-members-november-2026",
+   "plateforme": "xbox",
+   "id": "apexcharmea",
+   "titre": "Apex Legends – charme d'arme « Hanging In There » (EA Play / Game Pass)"
   },
   {
    "cat": "pack",
@@ -4604,36 +4671,95 @@
    ]
   },
   {
-   "id": "back4blood-90",
    "cat": "jeu",
-   "titre": "Back 4 Blood Ultimate Edition à -90 %",
-   "plateforme": "epic",
    "via": "",
    "rarete": "rar",
    "acces": "pascher",
    "gratuit": false,
-   "prix": "~100 € → 9,99 €",
-   "fin": "2026-11-26T17:00:00+01:00",
-   "finTxt": "Jusqu'au 26 nov. 17h",
-   "nouveau": false,
-   "desc": "Shooter coop zombies à 4 (par les créateurs de Left 4 Dead) avec tous les DLC, à -90 % sur Epic.",
+   "prix": "~3,30 € au lieu de 39,99 €",
+   "fin": null,
+   "finTxt": "Black Friday Fanatical (durée limitée)",
+   "nouveau": true,
+   "desc": "Édition Définitive avec tous les DLC, clé Steam.",
    "conditions": "Payant (petit prix)",
    "pieges": [],
    "etapes": [
-    "Ouvre la page",
-    "Récupère-le"
+    "Ouvre la page Fanatical",
+    "Ajoute au panier, paie, active la clé sur Steam"
    ],
    "fiabilite": "Officiel",
-   "lien": "https://store.epicgames.com/p/back-4-blood",
-   "source": "https://www.shacknews.com/article/151449/weekend-pc-download-deals-for-nov-20-more-black-friday-sales-reporting-in",
-   "avis": "Parfait pour jouer à plusieurs pour 10 €.",
+   "lien": "https://www.fanatical.com/en/game/shadow-of-the-tomb-raider-definitive-edition",
+   "avis": "Gros jeu complet pour le prix d'un café.",
    "emoji": "",
-   "genre": "FPS coop zombies",
+   "genre": "Action-aventure",
    "tags": [
-    "FPS",
+    "Solo"
+   ],
+   "source": "https://fanatical.com/en/black-friday",
+   "plateforme": "fanat",
+   "id": "sottr-fanat",
+   "titre": "Shadow of the Tomb Raider Definitive à -92 %"
+  },
+  {
+   "cat": "jeu",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "~8,30 € au lieu de 57 €",
+   "fin": null,
+   "finTxt": "Black Friday Fanatical (durée limitée)",
+   "nouveau": true,
+   "desc": "Jeu de base + extension Iceborne, clé Steam, coop jusqu'à 4.",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page Fanatical",
+    "Ajoute au panier, paie, active la clé sur Steam"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.fanatical.com/en/game/monster-hunter-world-iceborne-master-edition",
+   "avis": "Des centaines d'heures de coop pour 8 €.",
+   "emoji": "",
+   "genre": "Action-RPG coop",
+   "tags": [
     "Coop",
-    "Pas cher"
-   ]
+    "Multijoueur"
+   ],
+   "source": "https://fanatical.com/en/black-friday",
+   "plateforme": "fanat",
+   "id": "mhwiceborne-fanat",
+   "titre": "Monster Hunter World: Iceborne Master Edition à -86 %"
+  },
+  {
+   "cat": "jeu",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "~2 € au lieu de 23 €",
+   "fin": null,
+   "finTxt": "Black Friday Fanatical",
+   "nouveau": true,
+   "desc": "Clé Steam, édition complète.",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page Fanatical",
+    "Paie, active sur Steam"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.fanatical.com/en/game/rise-of-the-tomb-raider-20-year-celebration",
+   "avis": "2 € pour un gros jeu.",
+   "emoji": "",
+   "genre": "Action-aventure",
+   "tags": [
+    "Solo"
+   ],
+   "source": "https://fanatical.com/en/black-friday",
+   "plateforme": "fanat",
+   "id": "riseoftr-fanat2",
+   "titre": "Rise of the Tomb Raider 20 Year Celebration à -92 %"
   },
   {
    "cat": "jeu",
@@ -5275,38 +5401,6 @@
    "nouveau": false
   },
   {
-   "id": "riseoftr-92",
-   "cat": "jeu",
-   "titre": "Rise of the Tomb Raider 20 Year Celebration à -92 %",
-   "plateforme": "fanat",
-   "via": "Fanatical",
-   "genre": "Action-aventure",
-   "tags": [
-    "Solo"
-   ],
-   "acces": "pascher",
-   "rarete": "rar",
-   "gratuit": false,
-   "prix": "≈ 2 € au lieu de 19,99 £",
-   "fin": null,
-   "finTxt": "Black Friday Fanatical",
-   "desc": "Version complète avec tous les DLC, en clé Steam.",
-   "conditions": "Payant : ≈ 2 €",
-   "pieges": [
-    "Prix vu en livres"
-   ],
-   "etapes": [
-    "Page Fanatical Black Friday",
-    "Acheter la clé",
-    "Activer sur Steam"
-   ],
-   "fiabilite": "Moyenne",
-   "lien": "https://fanatical.com/en/black-friday",
-   "source": "Fanatical (24/11/2026)",
-   "avis": "Excellente aventure complète pour 2 €.",
-   "nouveau": false
-  },
-  {
    "cat": "jeu",
    "via": "",
    "rarete": "rar",
@@ -5586,37 +5680,6 @@
    "tags": [
     "Bêta"
    ]
-  },
-  {
-   "cat": "beta",
-   "via": "",
-   "rarete": "rar",
-   "acces": "selection",
-   "gratuit": false,
-   "prix": "0 €",
-   "fin": "2026-11-26T18:00:00+01:00",
-   "finTxt": "Jusqu'au 26 nov. 18h",
-   "nouveau": false,
-   "desc": "La plus grosse alpha du jeu, dernier jour demain.",
-   "conditions": "Demande d'accès Steam, pas garanti.",
-   "pieges": [],
-   "etapes": [
-    "Page Steam",
-    "Clique « Demander l'accès »"
-   ],
-   "fiabilite": "Vérifié via sources",
-   "lien": "https://store.steampowered.com/app/3086590/Gods_Death__Reapers/",
-   "avis": "Gratuit si tu es pris.",
-   "emoji": "",
-   "genre": "Extraction RPG dark fantasy PvPvE",
-   "tags": [
-    "Multijoueur",
-    "Extraction"
-   ],
-   "source": "https://uberstrategist.com/press-releases/dark-fantasy-extraction-rpg-gods-death-reapers-enters-its-biggest-closed-alpha-yet-on-november-20",
-   "id": "godsdeathreapers",
-   "titre": "Gods, Death & Reapers – alpha fermée",
-   "plateforme": "steam"
   },
   {
    "cat": "beta",
