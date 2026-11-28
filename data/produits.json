@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-27T13:35:00+01:00",
+ "maj": "2026-11-28T13:40:00+01:00",
  "offres": [
   {
    "id": "purina-one-protein-extra-chat-wamiz",
@@ -31,7 +31,7 @@
    ],
    "fin": "2026-12-20T23:59:00+01:00",
    "finTxt": "Jusqu'au 20 déc. (ou fin des 3 000 packs)",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Wamiz et Purina envoient gratuitement un pack de croquettes PURINA ONE Protein Extra pour chat, recette saumon ou poulet, à 3 000 personnes.",
    "conditions": "Personne majeure résidant en France métropolitaine, 1 demande par personne, dans la limite de 3 000 packs.",
    "lien": "https://jeu.wamiz.com/quiz/1881263_4355/Wamiz-FR-Sampling-PurinaOne-ProteinExtra-Inscription.html",
@@ -761,7 +761,7 @@
    ],
    "fin": "2026-11-30T23:59:00+01:00",
    "finTxt": "Jusqu'au 30 nov.",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Piano à queue virtuel avec styles de jeu et accompagnements automatiques, offert par UJAM pour le Black Friday.",
    "conditions": "",
    "lien": "https://www.ujam.com/campaigns/vogue-free/",
@@ -800,7 +800,7 @@
    ],
    "fin": "2026-11-30T23:59:00+01:00",
    "finTxt": "Du 27 au 30 nov.",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Pour le Black Friday, DAZN diffuse gratuitement tous les matchs de Liga, Serie A et Eredivisie du vendredi 27 au lundi 30 novembre. Un compte gratuit suffit.",
    "conditions": "",
    "lien": "https://www.dazn.com/fr-FR/",
@@ -1048,45 +1048,6 @@
    "nouveau": false
   },
   {
-   "id": "pc-transcribeit-softorbits",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "TranscribeIt : transcription audio/vidéo en texte, 6 mois (PC)",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence 6 mois SoftOrbits TranscribeIt 1.3.0"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement",
-    "Offre du jour : elle peut se terminer dans la journée",
-    "Il faut installer et activer avant la fin de l'offre",
-    "Licence de 6 mois seulement"
-   ],
-   "etapes": [
-    "Ouvre la page Giveaway of the Day",
-    "Clique sur Download Now et laisse ton e-mail",
-    "Installe et enregistre le logiciel tout de suite"
-   ],
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Aujourd'hui seulement (offre du jour)",
-   "nouveau": true,
-   "desc": "Transforme tes enregistrements audio et vidéos en texte automatiquement. Offert 6 mois par Giveaway of the Day.",
-   "conditions": "",
-   "lien": "https://www.giveawayoftheday.com/transcribeit-audio-video-to-text-transcriber/",
-   "source": "https://www.giveawayoftheday.com/",
-   "avis": "Super pour transcrire des cours ou des vidéos, mais il faut le prendre AUJOURD'HUI.",
-   "emoji": "📝",
-   "fiabilite": "Page Giveaway of the Day, vérifiée le 27/11",
-   "prix": "14,99 $/mois"
-  },
-  {
    "id": "plugin-schulz-jp-me-1",
    "acces": "direct",
    "livre": false,
@@ -1114,7 +1075,7 @@
    ],
    "fin": "2026-11-30T23:59:00+01:00",
    "finTxt": "Jusqu'au 30 nov. (fin de la bêta ouverte)",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Réverb numérique modélisée sur une machine 12 bits (gated, reverse, hall, plate, delay). Licence gratuite gardée après la bêta.",
    "conditions": "",
    "lien": "https://schulz.audio/products/jp-me-1/",
@@ -1123,317 +1084,6 @@
    "emoji": "🌌",
    "fiabilite": "Loop Kitchen (liste mise à jour le 26/11/2026) + Audio Plugin Guy ; page officielle non ouverte",
    "prix": "39 £"
-  },
-  {
-   "id": "plugin-gforce-mtron-select-2",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "GForce M-Tron Select 2 : Mellotron virtuel offert à vie (PC/Mac)",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence permanente M-Tron Select 2 (Mac et Windows)"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte GForce nécessaire"
-   ],
-   "etapes": [
-    "Ouvre la page M-Tron Select 2 de GForce",
-    "Réclame la licence gratuite (panier à 0)",
-    "Télécharge et active avec ton compte GForce"
-   ],
-   "fin": "2026-12-01T23:59:00+01:00",
-   "finTxt": "Jusqu'au 1er déc.",
-   "nouveau": true,
-   "desc": "Instrument inspiré du Mellotron M400 : cordes, flûtes, chœurs et cuivres sur bande, licence permanente offerte.",
-   "conditions": "",
-   "lien": "https://www.gforcesoftware.com/product/m-tron-select-2/",
-   "source": "https://loopkitchen.co.uk/blogs/loop-kitchen-blog/best-free-black-friday-plugins-2026",
-   "avis": "Le son des Beatles et de Radiohead, gratuit à vie si tu le prends avant le 1er déc.",
-   "emoji": "🎻",
-   "fiabilite": "Loop Kitchen (liste mise à jour le 26/11/2026) + Audio Plugin Guy ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-newfangled-obliterate-2",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Newfangled Obliterate 2 : distorsion + réverb gratuite (PC/Mac)",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Plugin Obliterate 2 (VST/VST3/AAX, AU sur Mac)",
-    "Plus de 30 nouveaux presets"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Il faut créer un compte Newfangled gratuit pour l'activer (connexion Internet la 1re fois)"
-   ],
-   "etapes": [
-    "Ouvre la page Obliterate de Newfangled Audio",
-    "Télécharge la version Windows ou Mac",
-    "Crée un compte gratuit et active le plugin depuis sa fenêtre de licence"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Nouvelle version gratuite du plugin de distorsion de Newfangled Audio (marque d'Eventide) : 6 nouveaux modes, bruits, réverb et morphing.",
-   "conditions": "",
-   "lien": "https://www.newfangledaudio.com/obliterate",
-   "source": "https://bedroomproducersblog.com/2026/11/27/newfangled-audio-obliterate-2/",
-   "avis": "Une vraie distorsion de marque pro, gratuite pour toujours. Si tu fais du son, prends-la.",
-   "emoji": "🎸",
-   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
-   "prix": ""
-  },
-  {
-   "id": "samples-kate-mcgill-toplines",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "3 chansons vocales complètes de Kate McGill offertes (pack de samples)",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "3 toplines vocales : Cruel, How'd You Feel About This Love, Polar Night",
-    "Stems WAV dry/wet, démos, paroles, MIDI piano"
-   ],
-   "pieges": [
-    "Fichier lourd : 952 Mo",
-    "Sur Gumroad, mets 0 dans le prix",
-    "Tu peux sortir tes morceaux, mais pas revendre les voix seules ni taguer l'artiste sur Spotify"
-   ],
-   "etapes": [
-    "Ouvre la page Gumroad Kate McGill Vocals",
-    "Mets 0 € et entre ton e-mail",
-    "Télécharge le ZIP"
-   ],
-   "fin": null,
-   "finTxt": "Offre exclusive BPB, durée non précisée",
-   "nouveau": true,
-   "desc": "Pack gratuit de 3 voix féminines complètes (pistes sèches et avec effets, paroles, démos), libres de droits pour tes morceaux.",
-   "conditions": "",
-   "lien": "https://bpb.gumroad.com/l/katemcgill",
-   "source": "https://bedroomproducersblog.com/2026/11/27/kate-mcgill-free-vocal-toplines/",
-   "avis": "Rare d'avoir des vraies voix pro gratuites et utilisables en sortie commerciale.",
-   "emoji": "🎤",
-   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
-   "prix": ""
-  },
-  {
-   "id": "pc-ascomp-backup-maker-pro",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "BackUp Maker Professional : sauvegarde automatique, licence à vie (PC)",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence privée BackUp Maker Professional, valable à vie",
-    "Mises à jour gratuites 30 jours"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement",
-    "Tu es inscrit à la newsletter ASCOMP (désinscription possible)",
-    "Usage perso seulement",
-    "L'offre peut s'arrêter sans prévenir"
-   ],
-   "etapes": [
-    "Ouvre la page de l'offre ASCOMP (la clé est déjà dans le lien)",
-    "Entre ton nom, ton e-mail et ton pays, puis Envoyer",
-    "Clique sur le lien de confirmation reçu par e-mail",
-    "Note ton numéro client à 10 chiffres et télécharge la version complète",
-    "Lance le logiciel et colle ton numéro client pour le débloquer"
-   ],
-   "fin": null,
-   "finTxt": "Peut s'arrêter à tout moment",
-   "nouveau": true,
-   "desc": "Logiciel de sauvegarde automatique de tes fichiers (vers disque, clé USB, cloud), version Pro offerte par l'éditeur ASCOMP.",
-   "conditions": "",
-   "lien": "https://www.ascompsoftware.com/fullversion/?ref=a39&l=TDLEB-V2KUF-D6582-WINPC",
-   "source": "https://techno360.in/ascomp-backup-maker-pro-free-license-windows/",
-   "avis": "Une vraie sauvegarde automatique, à vie, d'un éditeur sérieux. Utile pour ne jamais perdre tes photos et docs.",
-   "emoji": "💾",
-   "fiabilite": "Techno360, article du 27/11/2026 (lien officiel ascompsoftware.com, non ouvert)",
-   "prix": "39,90 $"
-  },
-  {
-   "id": "pc-nero-video-2026-se",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Nero Video 2026 SE : montage vidéo, licence permanente (PC)",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Nero Video 2026 SE (montage, titres, effets, export)",
-    "Licence permanente pour 1 PC"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement 10 ou 11",
-    "Compte Nero gratuit obligatoire et installation de Nero Start",
-    "Certaines fonctions IA restent payantes",
-    "Le mail d'installation peut arriver en allemand ou en tchèque"
-   ],
-   "etapes": [
-    "Ouvre la page promo Nero",
-    "Clique sur Register et crée ton compte",
-    "Ouvre le mail Nero et installe Nero Start",
-    "Connecte-toi avec le même compte et installe Nero Video depuis « Available in your plan »"
-   ],
-   "fin": null,
-   "finTxt": "Peut s'arrêter à tout moment",
-   "nouveau": true,
-   "desc": "Édition spéciale du logiciel de montage Nero Video offerte via une promo du magazine CHIP, avec licence permanente.",
-   "conditions": "",
-   "lien": "https://www.nero.com/eng/promotions/CHIP-Czech/VideoSE.php?vlang=us&__c=1",
-   "source": "https://techno360.in/nero-video-2026-se-free-license/",
-   "avis": "Montage vidéo complet et gratuit à vie : parfait pour tes vidéos perso.",
-   "emoji": "🎬",
-   "fiabilite": "Techno360, article du 27/11/2026 (page Nero non ouverte)",
-   "prix": ""
-  },
-  {
-   "id": "plugin-tone-empire-optored",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Tone Empire OptoRED : compresseur vintage offert (code OPTOBF26)",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence complète OptoRED"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Prends la licence complète, PAS l'essai 15 jours",
-    "Vérifie que le total affiche 0 $ avant de valider"
-   ],
-   "etapes": [
-    "Ouvre la page OptoRED de Tone Empire",
-    "Ajoute la licence complète au panier",
-    "Entre le code OPTOBF26",
-    "Valide la commande à 0 $ et télécharge"
-   ],
-   "fin": null,
-   "finTxt": "Fin non annoncée",
-   "nouveau": true,
-   "desc": "Compresseur optique style vintage avec filtre sidechain et dosage wet/dry, gratuit avec un code.",
-   "conditions": "",
-   "lien": "https://tone-empire.com/shop/optored/",
-   "source": "https://loopkitchen.co.uk/blogs/loop-kitchen-blog/best-free-black-friday-plugins-2026",
-   "avis": "Un compresseur à 79 $ pour 0 $ : prends-le tant que le code marche.",
-   "emoji": "🔴",
-   "fiabilite": "Loop Kitchen (liste mise à jour le 26/11/2026) + Audio Plugin Guy ; page officielle non ouverte",
-   "prix": "79 $"
-  },
-  {
-   "id": "plugin-xfer-shrub",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Xfer Shrub : nouveau plugin gratuit de Xfer (créateur de Serum), en bêta",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Plugin Shrub (version bêta)"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Version bêta"
-   ],
-   "etapes": [
-    "Ouvre le site shrub.audio",
-    "Télécharge la version pour ton système",
-    "Installe le plugin"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit (bêta)",
-   "nouveau": true,
-   "desc": "Nouveau plugin gratuit de Xfer Records, l'éditeur du célèbre synthé Serum, sorti en bêta le 16 novembre.",
-   "conditions": "",
-   "lien": "https://shrub.audio/",
-   "source": "https://plugindeals.net/the-latest-free-audio-plugins/",
-   "avis": "Un plugin gratuit de la marque de Serum, ça se teste.",
-   "emoji": "🌿",
-   "fiabilite": "PluginDeals.net (liste des plugins gratuits, nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-sonuscore-score-elements",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Sonuscore The Score Elements : orchestre de film gratuit",
-   "rarete": "rar",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Instrument The Score Elements"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Sonuscore demandé",
-    "Fichiers lourds à télécharger"
-   ],
-   "etapes": [
-    "Ouvre la page The Score Elements chez Sonuscore",
-    "Ajoute-le au panier à 0 € et crée ton compte",
-    "Télécharge-le"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Instrument gratuit de Sonuscore pour composer de la musique de film (sons orchestraux).",
-   "conditions": "",
-   "lien": "https://www.sonuscore.com/shop/the-score-elements/",
-   "source": "https://plugindeals.net/the-latest-free-audio-plugins/",
-   "avis": "Du son de film épique sans payer.",
-   "emoji": "🎼",
-   "fiabilite": "PluginDeals.net (liste des plugins gratuits, nov. 2026) ; page officielle non ouverte",
-   "prix": ""
   },
   {
    "acces": "direct",
@@ -1508,6 +1158,43 @@
    "avis": "Seulement pour les utilisateurs d'Ableton, mais 49 $ économisés.",
    "fiabilite": "Liste des cadeaux Black Friday de Bedroom Producers Blog, vérifiée le 25/11",
    "nouveau": false
+  },
+  {
+   "id": "plugin-gforce-mtron-select-2",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "GForce M-Tron Select 2 : Mellotron virtuel offert à vie (PC/Mac)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Licence permanente M-Tron Select 2 (Mac et Windows)"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte GForce nécessaire"
+   ],
+   "etapes": [
+    "Ouvre la page M-Tron Select 2 de GForce",
+    "Réclame la licence gratuite (panier à 0)",
+    "Télécharge et active avec ton compte GForce"
+   ],
+   "fin": "2026-12-01T23:59:00+01:00",
+   "finTxt": "Jusqu'au 1er déc.",
+   "nouveau": false,
+   "desc": "Instrument inspiré du Mellotron M400 : cordes, flûtes, chœurs et cuivres sur bande, licence permanente offerte.",
+   "conditions": "",
+   "lien": "https://www.gforcesoftware.com/product/m-tron-select-2/",
+   "source": "https://loopkitchen.co.uk/blogs/loop-kitchen-blog/best-free-black-friday-plugins-2026",
+   "avis": "Le son des Beatles et de Radiohead, gratuit à vie si tu le prends avant le 1er déc.",
+   "emoji": "🎻",
+   "fiabilite": "Loop Kitchen (liste mise à jour le 26/11/2026) + Audio Plugin Guy ; page officielle non ouverte",
+   "prix": ""
   },
   {
    "acces": "direct",
@@ -1732,6 +1419,280 @@
    "fiabilite": "Techno360 (17 nov. 2026)",
    "nouveau": false,
    "livre": false
+  },
+  {
+   "id": "plugin-newfangled-obliterate-2",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Newfangled Obliterate 2 : distorsion + réverb gratuite (PC/Mac)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Plugin Obliterate 2 (VST/VST3/AAX, AU sur Mac)",
+    "Plus de 30 nouveaux presets"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Il faut créer un compte Newfangled gratuit pour l'activer (connexion Internet la 1re fois)"
+   ],
+   "etapes": [
+    "Ouvre la page Obliterate de Newfangled Audio",
+    "Télécharge la version Windows ou Mac",
+    "Crée un compte gratuit et active le plugin depuis sa fenêtre de licence"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Nouvelle version gratuite du plugin de distorsion de Newfangled Audio (marque d'Eventide) : 6 nouveaux modes, bruits, réverb et morphing.",
+   "conditions": "",
+   "lien": "https://www.newfangledaudio.com/obliterate",
+   "source": "https://bedroomproducersblog.com/2026/11/27/newfangled-audio-obliterate-2/",
+   "avis": "Une vraie distorsion de marque pro, gratuite pour toujours. Si tu fais du son, prends-la.",
+   "emoji": "🎸",
+   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
+   "prix": ""
+  },
+  {
+   "id": "samples-kate-mcgill-toplines",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "3 chansons vocales complètes de Kate McGill offertes (pack de samples)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "3 toplines vocales : Cruel, How'd You Feel About This Love, Polar Night",
+    "Stems WAV dry/wet, démos, paroles, MIDI piano"
+   ],
+   "pieges": [
+    "Fichier lourd : 952 Mo",
+    "Sur Gumroad, mets 0 dans le prix",
+    "Tu peux sortir tes morceaux, mais pas revendre les voix seules ni taguer l'artiste sur Spotify"
+   ],
+   "etapes": [
+    "Ouvre la page Gumroad Kate McGill Vocals",
+    "Mets 0 € et entre ton e-mail",
+    "Télécharge le ZIP"
+   ],
+   "fin": null,
+   "finTxt": "Offre exclusive BPB, durée non précisée",
+   "nouveau": false,
+   "desc": "Pack gratuit de 3 voix féminines complètes (pistes sèches et avec effets, paroles, démos), libres de droits pour tes morceaux.",
+   "conditions": "",
+   "lien": "https://bpb.gumroad.com/l/katemcgill",
+   "source": "https://bedroomproducersblog.com/2026/11/27/kate-mcgill-free-vocal-toplines/",
+   "avis": "Rare d'avoir des vraies voix pro gratuites et utilisables en sortie commerciale.",
+   "emoji": "🎤",
+   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
+   "prix": ""
+  },
+  {
+   "id": "pc-ascomp-backup-maker-pro",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "BackUp Maker Professional : sauvegarde automatique, licence à vie (PC)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Licence privée BackUp Maker Professional, valable à vie",
+    "Mises à jour gratuites 30 jours"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement",
+    "Tu es inscrit à la newsletter ASCOMP (désinscription possible)",
+    "Usage perso seulement",
+    "L'offre peut s'arrêter sans prévenir"
+   ],
+   "etapes": [
+    "Ouvre la page de l'offre ASCOMP (la clé est déjà dans le lien)",
+    "Entre ton nom, ton e-mail et ton pays, puis Envoyer",
+    "Clique sur le lien de confirmation reçu par e-mail",
+    "Note ton numéro client à 10 chiffres et télécharge la version complète",
+    "Lance le logiciel et colle ton numéro client pour le débloquer"
+   ],
+   "fin": null,
+   "finTxt": "Peut s'arrêter à tout moment",
+   "nouveau": false,
+   "desc": "Logiciel de sauvegarde automatique de tes fichiers (vers disque, clé USB, cloud), version Pro offerte par l'éditeur ASCOMP.",
+   "conditions": "",
+   "lien": "https://www.ascompsoftware.com/fullversion/?ref=a39&l=TDLEB-V2KUF-D6582-WINPC",
+   "source": "https://techno360.in/ascomp-backup-maker-pro-free-license-windows/",
+   "avis": "Une vraie sauvegarde automatique, à vie, d'un éditeur sérieux. Utile pour ne jamais perdre tes photos et docs.",
+   "emoji": "💾",
+   "fiabilite": "Techno360, article du 27/11/2026 (lien officiel ascompsoftware.com, non ouvert)",
+   "prix": "39,90 $"
+  },
+  {
+   "id": "pc-nero-video-2026-se",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Nero Video 2026 SE : montage vidéo, licence permanente (PC)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Nero Video 2026 SE (montage, titres, effets, export)",
+    "Licence permanente pour 1 PC"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement 10 ou 11",
+    "Compte Nero gratuit obligatoire et installation de Nero Start",
+    "Certaines fonctions IA restent payantes",
+    "Le mail d'installation peut arriver en allemand ou en tchèque"
+   ],
+   "etapes": [
+    "Ouvre la page promo Nero",
+    "Clique sur Register et crée ton compte",
+    "Ouvre le mail Nero et installe Nero Start",
+    "Connecte-toi avec le même compte et installe Nero Video depuis « Available in your plan »"
+   ],
+   "fin": null,
+   "finTxt": "Peut s'arrêter à tout moment",
+   "nouveau": false,
+   "desc": "Édition spéciale du logiciel de montage Nero Video offerte via une promo du magazine CHIP, avec licence permanente.",
+   "conditions": "",
+   "lien": "https://www.nero.com/eng/promotions/CHIP-Czech/VideoSE.php?vlang=us&__c=1",
+   "source": "https://techno360.in/nero-video-2026-se-free-license/",
+   "avis": "Montage vidéo complet et gratuit à vie : parfait pour tes vidéos perso.",
+   "emoji": "🎬",
+   "fiabilite": "Techno360, article du 27/11/2026 (page Nero non ouverte)",
+   "prix": ""
+  },
+  {
+   "id": "plugin-tone-empire-optored",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Tone Empire OptoRED : compresseur vintage offert (code OPTOBF26)",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Licence complète OptoRED"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Prends la licence complète, PAS l'essai 15 jours",
+    "Vérifie que le total affiche 0 $ avant de valider"
+   ],
+   "etapes": [
+    "Ouvre la page OptoRED de Tone Empire",
+    "Ajoute la licence complète au panier",
+    "Entre le code OPTOBF26",
+    "Valide la commande à 0 $ et télécharge"
+   ],
+   "fin": null,
+   "finTxt": "Fin non annoncée",
+   "nouveau": false,
+   "desc": "Compresseur optique style vintage avec filtre sidechain et dosage wet/dry, gratuit avec un code.",
+   "conditions": "",
+   "lien": "https://tone-empire.com/shop/optored/",
+   "source": "https://loopkitchen.co.uk/blogs/loop-kitchen-blog/best-free-black-friday-plugins-2026",
+   "avis": "Un compresseur à 79 $ pour 0 $ : prends-le tant que le code marche.",
+   "emoji": "🔴",
+   "fiabilite": "Loop Kitchen (liste mise à jour le 26/11/2026) + Audio Plugin Guy ; page officielle non ouverte",
+   "prix": "79 $"
+  },
+  {
+   "id": "plugin-xfer-shrub",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Xfer Shrub : nouveau plugin gratuit de Xfer (créateur de Serum), en bêta",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Plugin Shrub (version bêta)"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Version bêta"
+   ],
+   "etapes": [
+    "Ouvre le site shrub.audio",
+    "Télécharge la version pour ton système",
+    "Installe le plugin"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit (bêta)",
+   "nouveau": false,
+   "desc": "Nouveau plugin gratuit de Xfer Records, l'éditeur du célèbre synthé Serum, sorti en bêta le 16 novembre.",
+   "conditions": "",
+   "lien": "https://shrub.audio/",
+   "source": "https://plugindeals.net/the-latest-free-audio-plugins/",
+   "avis": "Un plugin gratuit de la marque de Serum, ça se teste.",
+   "emoji": "🌿",
+   "fiabilite": "PluginDeals.net (liste des plugins gratuits, nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-sonuscore-score-elements",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Sonuscore The Score Elements : orchestre de film gratuit",
+   "rarete": "rar",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Instrument The Score Elements"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Sonuscore demandé",
+    "Fichiers lourds à télécharger"
+   ],
+   "etapes": [
+    "Ouvre la page The Score Elements chez Sonuscore",
+    "Ajoute-le au panier à 0 € et crée ton compte",
+    "Télécharge-le"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Instrument gratuit de Sonuscore pour composer de la musique de film (sons orchestraux).",
+   "conditions": "",
+   "lien": "https://www.sonuscore.com/shop/the-score-elements/",
+   "source": "https://plugindeals.net/the-latest-free-audio-plugins/",
+   "avis": "Du son de film épique sans payer.",
+   "emoji": "🎼",
+   "fiabilite": "PluginDeals.net (liste des plugins gratuits, nov. 2026) ; page officielle non ouverte",
+   "prix": ""
   },
   {
    "acces": "direct",
@@ -2340,156 +2301,41 @@
    "livre": false
   },
   {
-   "id": "ios-resume-maker",
+   "id": "pc-vovsoft-json-csv",
    "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
+   "rayon": "tech",
    "type": "cadeau",
-   "titre": "Resume Maker : créateur de CV gratuit aujourd'hui (iPhone)",
+   "titre": "Vovsoft JSON to CSV Converter : licence à vie (PC)",
    "rarete": "com",
    "gratuit": true,
    "cout": "0 €",
    "coutNum": 0,
    "sansCarte": true,
-   "qty": "1",
+   "qty": "1 licence à vie",
    "contenu": [
-    "L'appli complète, à garder à vie"
+    "JSON to CSV Converter (19 $ d'habitude)"
    ],
    "pieges": [
-    "Gratuit aujourd'hui seulement",
-    "Sur l'App Store, vérifie que le bouton dit « Obtenir »",
-    "Si un prix s'affiche, n'achète pas"
+    "Windows seulement",
+    "Pas de mises à jour gratuites vers les versions suivantes",
+    "Installe avant le 29 nov."
    ],
    "etapes": [
-    "Ouvre la page Giveaway of the Day de l'appli",
-    "Clique sur le lien vers le store",
-    "Télécharge-la tant qu'elle est gratuite"
+    "Ouvre la page Vovsoft",
+    "Télécharge et installe",
+    "Entre la clé 4GZAB-M6VD1-XFUTA"
    ],
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Aujourd'hui seulement",
-   "nouveau": true,
-   "desc": "Appli pour faire un CV propre depuis ton iPhone, avec modèles.",
-   "conditions": "",
-   "lien": "https://iphone.giveawayoftheday.com/resume-maker?lang=en",
-   "source": "https://www.giveawayoftheday.com/",
-   "avis": "Petit cadeau du jour, ça ne coûte rien de le prendre.",
-   "emoji": "📄",
-   "fiabilite": "Giveaway of the Day (page d'accueil vérifiée le 27/11, « free today »)",
-   "prix": "4,99 $"
-  },
-  {
-   "id": "ios-zip-unzip-unrar-pro",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Zip Unzip - Unrar Tool PRO : gratuit aujourd'hui (iPhone)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "L'appli complète, à garder à vie"
-   ],
-   "pieges": [
-    "Gratuit aujourd'hui seulement",
-    "Sur l'App Store, vérifie que le bouton dit « Obtenir »",
-    "Si un prix s'affiche, n'achète pas"
-   ],
-   "etapes": [
-    "Ouvre la page Giveaway of the Day de l'appli",
-    "Clique sur le lien vers le store",
-    "Télécharge-la tant qu'elle est gratuite"
-   ],
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Aujourd'hui seulement",
-   "nouveau": true,
-   "desc": "Ouvre et crée des fichiers ZIP et RAR sur ton iPhone.",
-   "conditions": "",
-   "lien": "https://iphone.giveawayoftheday.com/zip-unzip-unrar-tool-pro?lang=en",
-   "source": "https://www.giveawayoftheday.com/",
-   "avis": "Petit cadeau du jour, ça ne coûte rien de le prendre.",
-   "emoji": "🗜️",
-   "fiabilite": "Giveaway of the Day (page d'accueil vérifiée le 27/11, « free today »)",
-   "prix": "0,99 $"
-  },
-  {
-   "id": "ios-sleep-well-baby",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Sleep Well Baby : bruit blanc gratuit aujourd'hui (iPhone)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "L'appli complète, à garder à vie"
-   ],
-   "pieges": [
-    "Gratuit aujourd'hui seulement",
-    "Sur l'App Store, vérifie que le bouton dit « Obtenir »",
-    "Si un prix s'affiche, n'achète pas"
-   ],
-   "etapes": [
-    "Ouvre la page Giveaway of the Day de l'appli",
-    "Clique sur le lien vers le store",
-    "Télécharge-la tant qu'elle est gratuite"
-   ],
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Aujourd'hui seulement",
-   "nouveau": true,
-   "desc": "Sons apaisants et bruit blanc pour s'endormir (bébé… ou toi).",
-   "conditions": "",
-   "lien": "https://iphone.giveawayoftheday.com/sleep-well-baby-white-noise?lang=en",
-   "source": "https://www.giveawayoftheday.com/",
-   "avis": "Petit cadeau du jour, ça ne coûte rien de le prendre.",
-   "emoji": "😴",
-   "fiabilite": "Giveaway of the Day (page d'accueil vérifiée le 27/11, « free today »)",
-   "prix": "0,99 $"
-  },
-  {
-   "id": "android-fit-two-watch-face",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Fit TWO Watch Face : cadran montre gratuit aujourd'hui (Wear OS)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "L'appli complète, à garder à vie"
-   ],
-   "pieges": [
-    "Gratuit aujourd'hui seulement",
-    "Seulement pour les montres Wear OS",
-    "Si un prix s'affiche, n'achète pas"
-   ],
-   "etapes": [
-    "Ouvre la page Giveaway of the Day de l'appli",
-    "Clique sur le lien vers le store",
-    "Télécharge-la tant qu'elle est gratuite"
-   ],
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Aujourd'hui seulement",
-   "nouveau": true,
-   "desc": "Cadran sport pour montre connectée Wear OS.",
-   "conditions": "",
-   "lien": "https://android.giveawayoftheday.com/fit-two-watch-face?lang=en",
-   "source": "https://www.giveawayoftheday.com/",
-   "avis": "Petit cadeau du jour, ça ne coûte rien de le prendre.",
-   "emoji": "⌚",
-   "fiabilite": "Giveaway of the Day (page d'accueil vérifiée le 27/11, « free today »)",
-   "prix": "1,79 $"
+   "fin": "2026-11-29T23:59:00+01:00",
+   "finTxt": "Jusqu'au 29 nov.",
+   "desc": "Convertit des fichiers de données JSON en tableau CSV (Excel).",
+   "conditions": "PC Windows",
+   "lien": "https://vovsoft.com/giveaway/free-json-to-csv-converter-2026/",
+   "source": "https://vovsoft.com/giveaway/",
+   "avis": "Outil de niche, seulement si tu touches un peu à l'informatique.",
+   "emoji": "🧮",
+   "fiabilite": "Officiel Vovsoft, page vérifiée le 23 nov. 2026",
+   "nouveau": false,
+   "livre": false
   },
   {
    "id": "pc-coolmuster-pdf-creator-pro",
@@ -2518,7 +2364,7 @@
    ],
    "fin": "2026-11-30T23:59:00+01:00",
    "finTxt": "Jusqu'au 30 nov.",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Transforme tes documents Word, pages web, ebooks ePub/MOBI et images en PDF, en lot.",
    "conditions": "",
    "lien": "https://www.coolmuster.com/giveaway/pdf-creator-pro.html",
@@ -2555,7 +2401,7 @@
    ],
    "fin": "2026-11-30T23:59:00+01:00",
    "finTxt": "Jusqu'au 30 nov. 23h59",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "12 réponses impulsionnelles de baffles de guitare (dont 10 tirées des packs payants) pour ton simulateur d'ampli.",
    "conditions": "",
    "lien": "https://www.forward-audio.com/sales/bfcm-2026-cab-sampler",
@@ -2564,1372 +2410,6 @@
    "emoji": "🎸",
    "fiabilite": "Loop Kitchen (liste mise à jour le 26/11/2026) + Audio Plugin Guy ; page officielle non ouverte",
    "prix": ""
-  },
-  {
-   "id": "pc-hushtype-pro-2-mois",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Hushtype Pro : dictée vocale 2 mois offerts (Windows)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "1 code Microsoft Store pour l'appli"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement (Microsoft Store)",
-    "Stock limité : 100 codes au total, premier arrivé premier servi",
-    "1 code par e-mail et par appli",
-    "Code à utiliser avant le 31 déc. 2026"
-   ],
-   "etapes": [
-    "Ouvre la page du giveaway Techno360",
-    "Entre ton e-mail dans le formulaire de l'appli voulue",
-    "Récupère le code reçu par mail (regarde les spams)",
-    "Dans le Microsoft Store : profil > Utiliser un code, colle le code"
-   ],
-   "fin": "2026-12-15T19:29:00+01:00",
-   "finTxt": "Jusqu'au 15 déc. ou épuisement des codes",
-   "nouveau": true,
-   "desc": "Dicte ton texte à voix haute et il s'écrit dans tes applis Windows (reconnaissance vocale sur ton PC).",
-   "conditions": "",
-   "lien": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
-   "source": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
-   "avis": "Petit cadeau sans carte bancaire, mais vite parti : fonce si ça te sert.",
-   "emoji": "🎁",
-   "fiabilite": "Page du giveaway Techno360, vérifiée le 27/11 (codes Microsoft Store)",
-   "prix": "~4 €/mois"
-  },
-  {
-   "id": "pc-clickloop-app",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "ClickLoop : auto-clicker et macros, appli complète offerte (Windows)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "1 code Microsoft Store pour l'appli"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement (Microsoft Store)",
-    "Stock limité : 25 codes seulement, premier arrivé premier servi",
-    "1 code par e-mail et par appli",
-    "Code à utiliser avant le 31 déc. 2026"
-   ],
-   "etapes": [
-    "Ouvre la page du giveaway Techno360",
-    "Entre ton e-mail dans le formulaire de l'appli voulue",
-    "Récupère le code reçu par mail (regarde les spams)",
-    "Dans le Microsoft Store : profil > Utiliser un code, colle le code"
-   ],
-   "fin": "2026-12-15T19:29:00+01:00",
-   "finTxt": "Jusqu'au 15 déc. ou épuisement des codes",
-   "nouveau": true,
-   "desc": "Clique, appuie sur des touches et enregistre des macros automatiquement.",
-   "conditions": "",
-   "lien": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
-   "source": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
-   "avis": "Petit cadeau sans carte bancaire, mais vite parti : fonce si ça te sert.",
-   "emoji": "🎁",
-   "fiabilite": "Page du giveaway Techno360, vérifiée le 27/11 (codes Microsoft Store)",
-   "prix": "4,99 $"
-  },
-  {
-   "id": "pc-glideprompt-app",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "GlidePrompt : téléprompteur offert (Windows)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "1 code Microsoft Store pour l'appli"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement (Microsoft Store)",
-    "Stock limité : 25 codes seulement, premier arrivé premier servi",
-    "1 code par e-mail et par appli",
-    "Code à utiliser avant le 31 déc. 2026"
-   ],
-   "etapes": [
-    "Ouvre la page du giveaway Techno360",
-    "Entre ton e-mail dans le formulaire de l'appli voulue",
-    "Récupère le code reçu par mail (regarde les spams)",
-    "Dans le Microsoft Store : profil > Utiliser un code, colle le code"
-   ],
-   "fin": "2026-12-15T19:29:00+01:00",
-   "finTxt": "Jusqu'au 15 déc. ou épuisement des codes",
-   "nouveau": true,
-   "desc": "Téléprompteur qui flotte au-dessus de tes appels vidéo ou enregistrements : tu lis ton texte en regardant la caméra.",
-   "conditions": "",
-   "lien": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
-   "source": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
-   "avis": "Petit cadeau sans carte bancaire, mais vite parti : fonce si ça te sert.",
-   "emoji": "🎁",
-   "fiabilite": "Page du giveaway Techno360, vérifiée le 27/11 (codes Microsoft Store)",
-   "prix": "9,99 $"
-  },
-  {
-   "id": "pc-leawo-dvd-copy",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Leawo DVD Copy : copie de DVD, licence à vie (PC)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence à vie Leawo DVD Copy"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement",
-    "Inutile si tu n'as pas de lecteur DVD",
-    "Inscription par e-mail sur la page Leawo"
-   ],
-   "etapes": [
-    "Ouvre la page giveaway de Leawo",
-    "Inscris-toi avec ton e-mail pour recevoir le code",
-    "Télécharge DVD Copy sur leawo.com et active-le"
-   ],
-   "fin": "2026-12-15T23:59:00+01:00",
-   "finTxt": "Jusqu'au 15 déc.",
-   "nouveau": true,
-   "desc": "Copie et sauvegarde tes DVD sur ton PC (ISO, dossier, disque vierge), licence à vie offerte par Leawo.",
-   "conditions": "",
-   "lien": "https://www.leawo.org/promotion/giveaway/",
-   "source": "https://notecoupon.com/leawo-dvd-copy-registration-code-for-free/",
-   "avis": "Seulement si tu as des DVD à sauvegarder.",
-   "emoji": "📀",
-   "fiabilite": "NoteCoupon, article du 27/11/2026 (page Leawo non ouverte)",
-   "prix": "29,95 $"
-  },
-  {
-   "id": "pc-geekersoft-watermark-remover",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Geekersoft Watermark Remover : licence 1 an (PC)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence 1 an pour 1 PC",
-    "Clé : OTL95J-ZPL7HU-HXIAK0-OR6U-8MMV99"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement",
-    "Clé partagée : elle peut être épuisée",
-    "À activer avant le 31 déc. 2026"
-   ],
-   "etapes": [
-    "Ouvre la page de l'offre et télécharge Geekersoft Watermark Remover",
-    "Installe-le",
-    "Entre la clé OTL95J-ZPL7HU-HXIAK0-OR6U-8MMV99"
-   ],
-   "fin": "2026-12-31T23:59:00+01:00",
-   "finTxt": "Clé à utiliser avant le 31 déc.",
-   "nouveau": true,
-   "desc": "Efface filigranes, logos, textes ou personnes de tes photos et vidéos grâce à l'IA.",
-   "conditions": "",
-   "lien": "https://notecoupon.com/geekersoft-watermark-remover-free-license-key/",
-   "source": "https://notecoupon.com/geekersoft-watermark-remover-free-license-key/",
-   "avis": "Sympa pour nettoyer tes photos. Clé partagée, essaie vite.",
-   "emoji": "🧽",
-   "fiabilite": "NoteCoupon, article du 23/11/2026",
-   "prix": ""
-  },
-  {
-   "id": "plugin-bpb-microspace",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "BPB Microspace : réverb à convolution gratuite (PC/Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Plugin Microspace VST3 / AU (Windows et Mac)"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Sur Gumroad, mets 0 dans le champ prix avant de valider"
-   ],
-   "etapes": [
-    "Ouvre la page Gumroad de BPB Microspace",
-    "Mets 0 € dans le prix et entre ton e-mail",
-    "Télécharge et installe le plugin"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Petite réverb gratuite tirée d'une machine vintage (Microverb II) : 16 modes, pré-délai, filtres et effet « Dirt » lo-fi.",
-   "conditions": "",
-   "lien": "https://bpb.gumroad.com/l/bpb-microspace",
-   "source": "https://bedroomproducersblog.com/2026/11/26/bpb-microspace/",
-   "avis": "Réverb simple et gratuite, sortie hier. Sympa pour un son rétro.",
-   "emoji": "🎛️",
-   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
-   "prix": ""
-  },
-  {
-   "id": "plugin-sacred-audio-mantra",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Sacred Audio Mantra : trance gate / LFO gratuit (PC/Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Plugin Mantra (VST3 Windows ; VST3/AU/standalone Mac)",
-    "11 banques et 35 patterns"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Sacred Audio gratuit avec confirmation par e-mail obligatoire",
-    "Sur Windows : VST3 64 bits seulement"
-   ],
-   "etapes": [
-    "Ouvre la page Mantra de Sacred Audio",
-    "Crée un compte gratuit et confirme ton e-mail",
-    "Télécharge le plugin"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Plugin gratuit à vie qui découpe tes sons en rythmes (basses psytrance, pads), avec filtre, ducking et export MIDI.",
-   "conditions": "",
-   "lien": "https://sacredaudioplugins.com/products/mantra",
-   "source": "https://bedroomproducersblog.com/2026/11/27/sacred-audio-mantra/",
-   "avis": "Gratuit pour toujours, sans clé ni limite. Bien pour la techno/trance.",
-   "emoji": "🌀",
-   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
-   "prix": ""
-  },
-  {
-   "id": "plugin-westwood-roots-bad-batch",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Roots Bad Batch : instrument de percussions gratuit (PC/Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Plugin Roots Bad Batch (AU, VST, VST3)"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Pas besoin de Kontakt",
-    "Un e-mail peut être demandé pour le téléchargement"
-   ],
-   "etapes": [
-    "Ouvre la page Roots Bad Batch de Westwood Instruments",
-    "Clique sur le téléchargement gratuit",
-    "Installe le plugin"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Instrument de batterie gratuit enregistré en studio à Leeds : 3 kits mixables, réglages Trash, Filter, Smack, Echo, Reverb, Gate.",
-   "conditions": "",
-   "lien": "https://www.westwoodinstruments.com/instruments/roots-bad-batch",
-   "source": "https://bedroomproducersblog.com/2026/11/27/westwood-instruments-releases-roots-bad-batch-a-free-edgy-percussion-instrument-for-macos-and-windows/",
-   "avis": "Des batteries qui cognent, gratuites, sans Kontakt. Bon pour le hip-hop et le rock.",
-   "emoji": "🥁",
-   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
-   "prix": ""
-  },
-  {
-   "id": "pc-softorbits-event-log-viewer",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Windows Event Log Viewer : licence 6 mois offerte (PC)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence complète 6 mois, usage perso",
-    "Clé : ELV3-ZEMEN-LGZEW-ABKLW"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement",
-    "Licence de 6 mois seulement, pas à vie",
-    "Pas de mises à jour gratuites",
-    "Il faut l'installateur « giveaway », pas la version d'essai"
-   ],
-   "etapes": [
-    "Ouvre l'article de l'offre et télécharge l'installateur giveaway SoftOrbits",
-    "Installe et lance le programme",
-    "Clique sur « I have a key… »",
-    "Colle la clé ELV3-ZEMEN-LGZEW-ABKLW avec ton e-mail, puis Activate"
-   ],
-   "fin": null,
-   "finTxt": "Peut s'arrêter à tout moment",
-   "nouveau": true,
-   "desc": "Outil SoftOrbits qui explique en clair les journaux de Windows (plantages, redémarrages, disque) pour diagnostiquer ton PC.",
-   "conditions": "",
-   "lien": "https://techno360.in/softorbits-windows-event-log-viewer-free-license/",
-   "source": "https://techno360.in/softorbits-windows-event-log-viewer-free-license/",
-   "avis": "Utile seulement si ton PC plante souvent et que tu veux comprendre pourquoi.",
-   "emoji": "🩺",
-   "fiabilite": "Techno360, article du 27/11/2026 (page éditeur softorbits.net)",
-   "prix": "39,99 $/mois"
-  },
-  {
-   "id": "pc-xenarmor-browser-password-recovery",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "XenArmor Browser Password Recovery Pro : licence 1 an (PC)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence 1 an, édition Basic"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement",
-    "Confirme ton e-mail sous 48 h sinon la licence est désactivée",
-    "Ne marche que pour TES mots de passe déjà enregistrés"
-   ],
-   "etapes": [
-    "Ouvre la page cadeau XenArmor et entre ton e-mail",
-    "Clique sur le lien de vérification reçu",
-    "Récupère la clé dans le mail « Your Free Gift »",
-    "Installe le logiciel et active avec ton e-mail + la clé"
-   ],
-   "fin": null,
-   "finTxt": "Durée non annoncée",
-   "nouveau": true,
-   "desc": "Retrouve les mots de passe que tu as enregistrés dans tes navigateurs (140+ navigateurs) sur ton PC, et les exporte.",
-   "conditions": "",
-   "lien": "https://xenarmor.com/browserpasswordrecoverypro-free-full-version-software/",
-   "source": "https://techno360.in/xenarmor-browser-password-recovery-pro-free-license/",
-   "avis": "Pratique si tu changes de PC et veux récupérer tes mots de passe oubliés.",
-   "emoji": "🔑",
-   "fiabilite": "Techno360, article du 27/11/2026 (page xenarmor.com non ouverte)",
-   "prix": "29,95 $"
-  },
-  {
-   "id": "pc-mobikin-doctor-ios",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "MobiKin Doctor for iOS : récupération de données iPhone, licence 1 an (PC)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Licence 1 an (e-mail et code fournis sur la page)"
-   ],
-   "pieges": [
-    "Logiciel pour PC Windows uniquement",
-    "Utile seulement si tu as un iPhone",
-    "Pas de mises à jour ni support gratuits"
-   ],
-   "etapes": [
-    "Ouvre la page de l'offre",
-    "Télécharge l'installateur officiel sur mobikin.com",
-    "Active avec l'e-mail et le code donnés sur la page"
-   ],
-   "fin": null,
-   "finTxt": "Durée non annoncée",
-   "nouveau": true,
-   "desc": "Récupère SMS, contacts, photos et historique d'appels depuis les sauvegardes iTunes de ton iPhone.",
-   "conditions": "",
-   "lien": "https://notecoupon.com/mobikin-doctor-for-ios-license-code-free/",
-   "source": "https://notecoupon.com/mobikin-doctor-for-ios-license-code-free/",
-   "avis": "À garder sous le coude si tu perds des données d'iPhone.",
-   "emoji": "📱",
-   "fiabilite": "NoteCoupon, article du 25/11/2026",
-   "prix": ""
-  },
-  {
-   "id": "plugin-audiomodern-filterstep-2",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Audiomodern Filterstep 2 : filtre rythmique gratuit (PC/Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Plugin Filterstep 2 (VST3, AU, AAX)"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Audiomodern probablement demandé"
-   ],
-   "etapes": [
-    "Ouvre la page Filterstep de la boutique Audiomodern",
-    "Ajoute-le au panier à 0 € et valide",
-    "Télécharge le plugin"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Filtre rythmique gratuit avec 5 modes de séquence, aléatoire et effets Drive, Crush, Comb et Lo-Fi.",
-   "conditions": "",
-   "lien": "https://audiomodern.com/shop/plugins/filterstep/",
-   "source": "https://loopkitchen.co.uk/blogs/loop-kitchen-blog/best-free-black-friday-plugins-2026",
-   "avis": "Donne du mouvement à tes sons en deux clics. Gratuit pour toujours.",
-   "emoji": "🎚️",
-   "fiabilite": "Loop Kitchen (liste mise à jour le 26/11/2026) + Audio Plugin Guy ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-puremagnetik-studies",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Puremagnetik Studies : plugin gratuit (PC/Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Plugin Studies"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "E-mail demandé pour le téléchargement"
-   ],
-   "etapes": [
-    "Ouvre la page Studies Free de Puremagnetik",
-    "Ajoute-le au panier à 0 € et entre ton e-mail",
-    "Télécharge le plugin"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Plugin d'effets expérimental offert par Puremagnetik, sorti début novembre.",
-   "conditions": "",
-   "lien": "https://puremagnetik.com/products/studies-free",
-   "source": "https://plugindeals.net/the-latest-free-audio-plugins/",
-   "avis": "Pour les sons ambiants et lo-fi, gratuit.",
-   "emoji": "🧪",
-   "fiabilite": "PluginDeals.net (liste des plugins gratuits, nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-steinberg-classic-collection",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Steinberg Classic Collection : pack de plugins classiques gratuit",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin, licence gratuite à vie"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Plugin Boutique gratuit à créer",
-    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
-   ],
-   "etapes": [
-    "Ouvre la page du produit sur Plugin Boutique",
-    "Ajoute-le au panier (0 €) et valide avec ton compte",
-    "Télécharge-le depuis ton compte"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Pack gratuit de plugins classiques de Steinberg (l'éditeur de Cubase).",
-   "conditions": "",
-   "lien": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17665-Steinberg-Classic-Collection",
-   "source": "https://blog.dubspot.com/black-friday/free-plugins",
-   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
-   "emoji": "🎛️",
-   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-uad-explore-bundle",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "UAD Explore Bundle : plugins Universal Audio gratuits",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin, licence gratuite à vie"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Plugin Boutique gratuit à créer",
-    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
-   ],
-   "etapes": [
-    "Ouvre la page du produit sur Plugin Boutique",
-    "Ajoute-le au panier (0 €) et valide avec ton compte",
-    "Télécharge-le depuis ton compte"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Pack gratuit de plugins Universal Audio, marque pro des studios.",
-   "conditions": "",
-   "lien": "https://www.pluginboutique.com/product/81-Bundles/141-Free-Bundles/17253-UAD-Explore-Bundle",
-   "source": "https://blog.dubspot.com/black-friday/free-plugins",
-   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
-   "emoji": "🎚️",
-   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-arturia-analog-lab-play",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Arturia Analog Lab Play : synthés vintage gratuits",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin, licence gratuite à vie"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Plugin Boutique gratuit à créer",
-    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
-   ],
-   "etapes": [
-    "Ouvre la page du produit sur Plugin Boutique",
-    "Ajoute-le au panier (0 €) et valide avec ton compte",
-    "Télécharge-le depuis ton compte"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Version gratuite d'Analog Lab : des centaines de sons de synthés et claviers vintage d'Arturia.",
-   "conditions": "",
-   "lien": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11581-Analog-Lab-Play",
-   "source": "https://blog.dubspot.com/black-friday/free-plugins",
-   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
-   "emoji": "🎹",
-   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-izotope-ozone-imager-2",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "iZotope Ozone Imager 2 : élargisseur stéréo gratuit",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin, licence gratuite à vie"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Plugin Boutique gratuit à créer",
-    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
-   ],
-   "etapes": [
-    "Ouvre la page du produit sur Plugin Boutique",
-    "Ajoute-le au panier (0 €) et valide avec ton compte",
-    "Télécharge-le depuis ton compte"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Plugin gratuit d'iZotope pour élargir ou resserrer la stéréo de ton mix.",
-   "conditions": "",
-   "lien": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/5997-Ozone-Imager-2",
-   "source": "https://blog.dubspot.com/black-friday/free-plugins",
-   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
-   "emoji": "🔊",
-   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-izotope-vinyl",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "iZotope Vinyl : effet vinyle lo-fi gratuit",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin, licence gratuite à vie"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Plugin Boutique gratuit à créer",
-    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
-   ],
-   "etapes": [
-    "Ouvre la page du produit sur Plugin Boutique",
-    "Ajoute-le au panier (0 €) et valide avec ton compte",
-    "Télécharge-le depuis ton compte"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Plugin gratuit d'iZotope pour donner un son de vieux disque vinyle (craquements, usure).",
-   "conditions": "",
-   "lien": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl",
-   "source": "https://blog.dubspot.com/black-friday/free-plugins",
-   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
-   "emoji": "💿",
-   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-bfd-player",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "BFD Player : batterie acoustique gratuite",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin, licence gratuite à vie"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Plugin Boutique gratuit à créer",
-    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
-   ],
-   "etapes": [
-    "Ouvre la page du produit sur Plugin Boutique",
-    "Ajoute-le au panier (0 €) et valide avec ton compte",
-    "Télécharge-le depuis ton compte"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Lecteur gratuit de batterie acoustique réaliste avec un kit offert.",
-   "conditions": "",
-   "lien": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11402-BFD-Player",
-   "source": "https://blog.dubspot.com/black-friday/free-plugins",
-   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
-   "emoji": "🥁",
-   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-cherry-audio-mg1-plus",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Cherry Audio Surrealistic MG-1 Plus : synthé gratuit",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin, licence gratuite à vie"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Plugin Boutique gratuit à créer",
-    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
-   ],
-   "etapes": [
-    "Ouvre la page du produit sur Plugin Boutique",
-    "Ajoute-le au panier (0 €) et valide avec ton compte",
-    "Télécharge-le depuis ton compte"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Synthé analogique virtuel gratuit inspiré du Moog Realistic MG-1.",
-   "conditions": "",
-   "lien": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
-   "source": "https://blog.dubspot.com/black-friday/free-plugins",
-   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
-   "emoji": "🎹",
-   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-baby-audio-magic-switch",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Baby Audio Magic Switch : chorus années 80 gratuit",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin, licence gratuite à vie"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Compte Plugin Boutique gratuit à créer",
-    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
-   ],
-   "etapes": [
-    "Ouvre la page du produit sur Plugin Boutique",
-    "Ajoute-le au panier (0 €) et valide avec ton compte",
-    "Télécharge-le depuis ton compte"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit pour toujours",
-   "nouveau": true,
-   "desc": "Effet chorus gratuit inspiré du bouton magique des synthés Roland des années 80.",
-   "conditions": "",
-   "lien": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/6975-Magic-Switch",
-   "source": "https://blog.dubspot.com/black-friday/free-plugins",
-   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
-   "emoji": "✨",
-   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "android-reminder-pro",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Reminder Pro : rappels et alarmes, version payante gratuite (Android)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
-   ],
-   "pieges": [
-    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
-    "Si un prix s'affiche, la promo est finie : n'achète pas"
-   ],
-   "etapes": [
-    "Ouvre la page de l'appli sur Google Play",
-    "Vérifie que le bouton dit « Installer » (pas de prix)",
-    "Installe-la : elle reste à toi même après la promo"
-   ],
-   "fin": null,
-   "finTxt": "Promo de quelques jours, peut finir à tout moment",
-   "nouveau": true,
-   "desc": "Appli de rappels et d'alarmes pour ne rien oublier (rendez-vous, médocs, factures), version Pro sans pub.",
-   "conditions": "",
-   "lien": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro",
-   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
-   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
-   "emoji": "⏰",
-   "fiabilite": "9to5Toys (26/11) + Giveaway of the Day « free today » (27/11)",
-   "prix": "3,75 $"
-  },
-  {
-   "id": "android-xeno-launcher",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Xeno, The DIY Launcher : lanceur personnalisable gratuit (Android)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
-   ],
-   "pieges": [
-    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
-    "Si un prix s'affiche, la promo est finie : n'achète pas"
-   ],
-   "etapes": [
-    "Ouvre la page de l'appli sur Google Play",
-    "Vérifie que le bouton dit « Installer » (pas de prix)",
-    "Installe-la : elle reste à toi même après la promo"
-   ],
-   "fin": null,
-   "finTxt": "Promo de quelques jours, peut finir à tout moment",
-   "nouveau": true,
-   "desc": "Lanceur d'écran d'accueil à construire toi-même pour un téléphone unique et minimaliste.",
-   "conditions": "",
-   "lien": "https://play.google.com/store/apps/details?id=com.xeno.launcher",
-   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
-   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
-   "emoji": "🧩",
-   "fiabilite": "9to5Toys, article du 26/11/2026 (Google Play non ouvert)",
-   "prix": "1 $"
-  },
-  {
-   "id": "android-chillio-cleaning",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Chillio : planning de ménage gratuit au lieu de 10 $ (Android)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
-   ],
-   "pieges": [
-    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
-    "Si un prix s'affiche, la promo est finie : n'achète pas"
-   ],
-   "etapes": [
-    "Ouvre la page de l'appli sur Google Play",
-    "Vérifie que le bouton dit « Installer » (pas de prix)",
-    "Installe-la : elle reste à toi même après la promo"
-   ],
-   "fin": null,
-   "finTxt": "Promo de quelques jours, peut finir à tout moment",
-   "nouveau": true,
-   "desc": "Appli pour organiser les tâches ménagères (planning, rappels, partage avec les colocs).",
-   "conditions": "",
-   "lien": "https://play.google.com/store/apps/details?id=chillio.cleaning.app",
-   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
-   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
-   "emoji": "🧹",
-   "fiabilite": "9to5Toys, article du 26/11/2026 (Google Play non ouvert)",
-   "prix": "10 $"
-  },
-  {
-   "id": "android-blend-photos",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Blend Photos : fusion et montage photo, gratuit (Android)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
-   ],
-   "pieges": [
-    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
-    "Si un prix s'affiche, la promo est finie : n'achète pas"
-   ],
-   "etapes": [
-    "Ouvre la page de l'appli sur Google Play",
-    "Vérifie que le bouton dit « Installer » (pas de prix)",
-    "Installe-la : elle reste à toi même après la promo"
-   ],
-   "fin": null,
-   "finTxt": "Promo de quelques jours, peut finir à tout moment",
-   "nouveau": true,
-   "desc": "Mélange deux photos en une (double exposition, effets) facilement.",
-   "conditions": "",
-   "lien": "https://play.google.com/store/apps/details?id=com.tapuniverse.blendphotos",
-   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
-   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
-   "emoji": "🖼️",
-   "fiabilite": "9to5Toys, article du 26/11/2026 (Google Play non ouvert)",
-   "prix": "3 $"
-  },
-  {
-   "id": "android-fintaroflow",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "FintaroFlow : gestion de budget gratuite au lieu de 6 $ (Android)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
-   ],
-   "pieges": [
-    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
-    "Si un prix s'affiche, la promo est finie : n'achète pas"
-   ],
-   "etapes": [
-    "Ouvre la page de l'appli sur Google Play",
-    "Vérifie que le bouton dit « Installer » (pas de prix)",
-    "Installe-la : elle reste à toi même après la promo"
-   ],
-   "fin": null,
-   "finTxt": "Promo de quelques jours, peut finir à tout moment",
-   "nouveau": true,
-   "desc": "Appli de suivi des dépenses et de budget pour garder un œil sur ton argent.",
-   "conditions": "",
-   "lien": "https://play.google.com/store/apps/details?id=com.fintaroflow.app",
-   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
-   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
-   "emoji": "💶",
-   "fiabilite": "9to5Toys, article du 26/11/2026 (Google Play non ouvert)",
-   "prix": "6 $"
-  },
-  {
-   "id": "plugin-mercurial-tones-siren",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Mercurial Tones Siren : autotune gratuit avec éditeur de notes (PC/Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin ou pack, gratuit"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Il faut installer le Mercurial Tones Hub et passer une commande gratuite",
-    "Sur PC : processeur compatible AVX2 nécessaire"
-   ],
-   "etapes": [
-    "Ouvre la page officielle",
-    "Récupère-le gratuitement (panier à 0 si demandé)",
-    "Télécharge et installe"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Correcteur de justesse vocale gratuit : tuning automatique (style naturel ou « autotune » dur) et éditeur graphique des notes.",
-   "conditions": "",
-   "lien": "https://shop.mercurialtones.com/products/siren",
-   "source": "https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/",
-   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
-   "emoji": "🎤",
-   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-dystopian-waves-rheton",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Dystopian Waves RHETON Free : accords en grattage de guitare (PC/Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin ou pack, gratuit"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Sur Gumroad, mets 0 dans le prix",
-    "Outil MIDI : il faut un instrument derrière"
-   ],
-   "etapes": [
-    "Ouvre la page officielle",
-    "Récupère-le gratuitement (panier à 0 si demandé)",
-    "Télécharge et installe"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Transforme tes accords en rythmiques de guitare, arpèges ou piano : 14 styles et 30 presets.",
-   "conditions": "",
-   "lien": "https://dystopianwaves.gumroad.com/l/prhetonfree",
-   "source": "https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/",
-   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
-   "emoji": "🎸",
-   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-dystopian-waves-dbot",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Dystopian Waves DBot : humanise tes notes MIDI (PC/Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin ou pack, gratuit"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Sur Gumroad, mets 0 dans le prix",
-    "Outil MIDI : il faut un instrument derrière"
-   ],
-   "etapes": [
-    "Ouvre la page officielle",
-    "Récupère-le gratuitement (panier à 0 si demandé)",
-    "Télécharge et installe"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Rend tes rythmes MIDI plus humains en jouant sur le timing et la force des notes.",
-   "conditions": "",
-   "lien": "https://dystopianwaves.gumroad.com/l/pdbot",
-   "source": "https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/",
-   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
-   "emoji": "🤖",
-   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-soundroll-fuzz",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Soundroll Fuzz : pédale fuzz gratuite (Mac)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin ou pack, gratuit"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Mac uniquement pour l'instant (pas de version Windows)"
-   ],
-   "etapes": [
-    "Ouvre la page officielle",
-    "Récupère-le gratuitement (panier à 0 si demandé)",
-    "Télécharge et installe"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Effet fuzz gratuit à 3 circuits (germanium, silicium, lampe) avec EQ et noise gate, sans compte.",
-   "conditions": "",
-   "lien": "https://store.soundroll.com/fuzz/",
-   "source": "https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/",
-   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
-   "emoji": "🔥",
-   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-reasonable-audio-preamble",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Reasonable Audio Preamble : distorsion préampli gratuite (PC/Mac/Linux)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin ou pack, gratuit"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Commande gratuite avec nom + e-mail et compte pour activer (sans carte)",
-    "Processeur AVX2 requis"
-   ],
-   "etapes": [
-    "Ouvre la page officielle",
-    "Récupère-le gratuitement (panier à 0 si demandé)",
-    "Télécharge et installe"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Distorsion qui imite l'étage d'entrée d'une pédale de delay analogique, avec filtres et mix.",
-   "conditions": "",
-   "lien": "https://reasonableaudio.com/preamble",
-   "source": "https://bedroomproducersblog.com/2026/11/11/reasonable-audio-preamble/",
-   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
-   "emoji": "⚡",
-   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-tinyant-purpl",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "TinyAnt PURPL : réverb gratuite pour toujours",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin ou pack, gratuit"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien"
-   ],
-   "etapes": [
-    "Ouvre la page officielle",
-    "Récupère-le gratuitement (panier à 0 si demandé)",
-    "Télécharge et installe"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Réverb gratuite de TinyAnt, que l'éditeur promet de garder gratuite.",
-   "conditions": "",
-   "lien": "https://tinyantproductions.com/purpl",
-   "source": "https://www.dixonbeats.com/blogs/music-production-news/the-best-black-friday-plugin-deals-2026-plus-3-free-plugins",
-   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
-   "emoji": "💜",
-   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "presets-dixonbeats-blackout-lite",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Blackout LITE : pack de presets Serum gratuit",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin ou pack, gratuit"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Il faut avoir le synthé Serum (payant) pour s'en servir",
-    "Commande à 0 £ avec ton e-mail"
-   ],
-   "etapes": [
-    "Ouvre la page officielle",
-    "Récupère-le gratuitement (panier à 0 si demandé)",
-    "Télécharge et installe"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Pack de sons gratuits pour le synthé Serum (à 0 £ sur la boutique DixonBeats).",
-   "conditions": "",
-   "lien": "https://www.dixonbeats.com/products/dixonbeats-blackout-lite-free-serum-pack",
-   "source": "https://www.dixonbeats.com/blogs/music-production-news/the-best-black-friday-plugin-deals-2026-plus-3-free-plugins",
-   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
-   "emoji": "🖤",
-   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "presets-dixonbeats-redemption-lite",
-   "acces": "direct",
-   "livre": false,
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Redemption LITE : pack de presets Vital gratuit",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1",
-   "contenu": [
-    "Le plugin ou pack, gratuit"
-   ],
-   "pieges": [
-    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
-    "Il faut le synthé Vital (version gratuite OK)",
-    "Commande à 0 £ avec ton e-mail"
-   ],
-   "etapes": [
-    "Ouvre la page officielle",
-    "Récupère-le gratuitement (panier à 0 si demandé)",
-    "Télécharge et installe"
-   ],
-   "fin": null,
-   "finTxt": "Gratuit",
-   "nouveau": true,
-   "desc": "Pack de sons gratuits pour le synthé Vital (lui-même gratuit), à 0 £.",
-   "conditions": "",
-   "lien": "https://www.dixonbeats.com/products/dixonbeats-redemption-free-vital-preset-pack",
-   "source": "https://www.dixonbeats.com/blogs/music-production-news/the-best-black-friday-plugin-deals-2026-plus-3-free-plugins",
-   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
-   "emoji": "🎹",
-   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
-   "prix": ""
-  },
-  {
-   "id": "plugin-karanyi-brigade",
-   "acces": "direct",
-   "rayon": "applis",
-   "type": "cadeau",
-   "titre": "Karanyi Sounds Brigade : plugin musique offert (Black Friday)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1 plugin (licence à vie)",
-   "contenu": [
-    "Plugin Brigade de Karanyi Sounds (49 $ d'habitude)"
-   ],
-   "pieges": [
-    "Il faut s'inscrire avec ton e-mail pour recevoir le lien",
-    "Lien envoyé le 27 nov. à 12 h",
-    "Pour PC/Mac avec logiciel de musique (VST/AU)"
-   ],
-   "etapes": [
-    "Ouvre la page et inscris ton e-mail",
-    "Le 27 nov. à midi, clique le lien reçu"
-   ],
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Jusqu'au 27 nov.",
-   "desc": "Plugin de son pour faire de la musique sur ordinateur.",
-   "conditions": "E-mail, PC ou Mac",
-   "lien": "https://karanyisounds.com/pages/brigade",
-   "source": "https://bedroomproducersblog.com/black-friday/free/",
-   "avis": "Utile seulement si tu fais de la musique (FL Studio, Ableton…).",
-   "emoji": "🎹",
-   "fiabilite": "Bedroom Producers Blog (liste Black Friday 2026) ; page de l'éditeur non vérifiée",
-   "nouveau": false,
-   "livre": false
-  },
-  {
-   "id": "pc-vovsoft-json-csv",
-   "acces": "direct",
-   "rayon": "tech",
-   "type": "cadeau",
-   "titre": "Vovsoft JSON to CSV Converter : licence à vie (PC)",
-   "rarete": "com",
-   "gratuit": true,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "1 licence à vie",
-   "contenu": [
-    "JSON to CSV Converter (19 $ d'habitude)"
-   ],
-   "pieges": [
-    "Windows seulement",
-    "Pas de mises à jour gratuites vers les versions suivantes",
-    "Installe avant le 29 nov."
-   ],
-   "etapes": [
-    "Ouvre la page Vovsoft",
-    "Télécharge et installe",
-    "Entre la clé 4GZAB-M6VD1-XFUTA"
-   ],
-   "fin": "2026-11-29T23:59:00+01:00",
-   "finTxt": "Jusqu'au 29 nov.",
-   "desc": "Convertit des fichiers de données JSON en tableau CSV (Excel).",
-   "conditions": "PC Windows",
-   "lien": "https://vovsoft.com/giveaway/free-json-to-csv-converter-2026/",
-   "source": "https://vovsoft.com/giveaway/",
-   "avis": "Outil de niche, seulement si tu touches un peu à l'informatique.",
-   "emoji": "🧮",
-   "fiabilite": "Officiel Vovsoft, page vérifiée le 23 nov. 2026",
-   "nouveau": false,
-   "livre": false
   },
   {
    "acces": "direct",
@@ -4079,6 +2559,164 @@
    "livre": false
   },
   {
+   "id": "pc-hushtype-pro-2-mois",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Hushtype Pro : dictée vocale 2 mois offerts (Windows)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "1 code Microsoft Store pour l'appli"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement (Microsoft Store)",
+    "Stock limité : 100 codes au total, premier arrivé premier servi",
+    "1 code par e-mail et par appli",
+    "Code à utiliser avant le 31 déc. 2026"
+   ],
+   "etapes": [
+    "Ouvre la page du giveaway Techno360",
+    "Entre ton e-mail dans le formulaire de l'appli voulue",
+    "Récupère le code reçu par mail (regarde les spams)",
+    "Dans le Microsoft Store : profil > Utiliser un code, colle le code"
+   ],
+   "fin": "2026-12-15T19:29:00+01:00",
+   "finTxt": "Jusqu'au 15 déc. ou épuisement des codes",
+   "nouveau": false,
+   "desc": "Dicte ton texte à voix haute et il s'écrit dans tes applis Windows (reconnaissance vocale sur ton PC).",
+   "conditions": "",
+   "lien": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
+   "source": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
+   "avis": "Petit cadeau sans carte bancaire, mais vite parti : fonce si ça te sert.",
+   "emoji": "🎁",
+   "fiabilite": "Page du giveaway Techno360, vérifiée le 27/11 (codes Microsoft Store)",
+   "prix": "~4 €/mois"
+  },
+  {
+   "id": "pc-clickloop-app",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "ClickLoop : auto-clicker et macros, appli complète offerte (Windows)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "1 code Microsoft Store pour l'appli"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement (Microsoft Store)",
+    "Stock limité : 25 codes seulement, premier arrivé premier servi",
+    "1 code par e-mail et par appli",
+    "Code à utiliser avant le 31 déc. 2026"
+   ],
+   "etapes": [
+    "Ouvre la page du giveaway Techno360",
+    "Entre ton e-mail dans le formulaire de l'appli voulue",
+    "Récupère le code reçu par mail (regarde les spams)",
+    "Dans le Microsoft Store : profil > Utiliser un code, colle le code"
+   ],
+   "fin": "2026-12-15T19:29:00+01:00",
+   "finTxt": "Jusqu'au 15 déc. ou épuisement des codes",
+   "nouveau": false,
+   "desc": "Clique, appuie sur des touches et enregistre des macros automatiquement.",
+   "conditions": "",
+   "lien": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
+   "source": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
+   "avis": "Petit cadeau sans carte bancaire, mais vite parti : fonce si ça te sert.",
+   "emoji": "🎁",
+   "fiabilite": "Page du giveaway Techno360, vérifiée le 27/11 (codes Microsoft Store)",
+   "prix": "4,99 $"
+  },
+  {
+   "id": "pc-glideprompt-app",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "GlidePrompt : téléprompteur offert (Windows)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "1 code Microsoft Store pour l'appli"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement (Microsoft Store)",
+    "Stock limité : 25 codes seulement, premier arrivé premier servi",
+    "1 code par e-mail et par appli",
+    "Code à utiliser avant le 31 déc. 2026"
+   ],
+   "etapes": [
+    "Ouvre la page du giveaway Techno360",
+    "Entre ton e-mail dans le formulaire de l'appli voulue",
+    "Récupère le code reçu par mail (regarde les spams)",
+    "Dans le Microsoft Store : profil > Utiliser un code, colle le code"
+   ],
+   "fin": "2026-12-15T19:29:00+01:00",
+   "finTxt": "Jusqu'au 15 déc. ou épuisement des codes",
+   "nouveau": false,
+   "desc": "Téléprompteur qui flotte au-dessus de tes appels vidéo ou enregistrements : tu lis ton texte en regardant la caméra.",
+   "conditions": "",
+   "lien": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
+   "source": "https://techno360.in/hushtype-clickloop-glideprompt-giveaway/",
+   "avis": "Petit cadeau sans carte bancaire, mais vite parti : fonce si ça te sert.",
+   "emoji": "🎁",
+   "fiabilite": "Page du giveaway Techno360, vérifiée le 27/11 (codes Microsoft Store)",
+   "prix": "9,99 $"
+  },
+  {
+   "id": "pc-leawo-dvd-copy",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Leawo DVD Copy : copie de DVD, licence à vie (PC)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Licence à vie Leawo DVD Copy"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement",
+    "Inutile si tu n'as pas de lecteur DVD",
+    "Inscription par e-mail sur la page Leawo"
+   ],
+   "etapes": [
+    "Ouvre la page giveaway de Leawo",
+    "Inscris-toi avec ton e-mail pour recevoir le code",
+    "Télécharge DVD Copy sur leawo.com et active-le"
+   ],
+   "fin": "2026-12-15T23:59:00+01:00",
+   "finTxt": "Jusqu'au 15 déc.",
+   "nouveau": false,
+   "desc": "Copie et sauvegarde tes DVD sur ton PC (ISO, dossier, disque vierge), licence à vie offerte par Leawo.",
+   "conditions": "",
+   "lien": "https://www.leawo.org/promotion/giveaway/",
+   "source": "https://notecoupon.com/leawo-dvd-copy-registration-code-for-free/",
+   "avis": "Seulement si tu as des DVD à sauvegarder.",
+   "emoji": "📀",
+   "fiabilite": "NoteCoupon, article du 27/11/2026 (page Leawo non ouverte)",
+   "prix": "29,95 $"
+  },
+  {
    "id": "pc-smart-defrag-pro",
    "acces": "direct",
    "rayon": "tech",
@@ -4114,6 +2752,1141 @@
    "fiabilite": "Techno360 (18 nov. 2026)",
    "nouveau": false,
    "livre": false
+  },
+  {
+   "id": "pc-geekersoft-watermark-remover",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Geekersoft Watermark Remover : licence 1 an (PC)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Licence 1 an pour 1 PC",
+    "Clé : OTL95J-ZPL7HU-HXIAK0-OR6U-8MMV99"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement",
+    "Clé partagée : elle peut être épuisée",
+    "À activer avant le 31 déc. 2026"
+   ],
+   "etapes": [
+    "Ouvre la page de l'offre et télécharge Geekersoft Watermark Remover",
+    "Installe-le",
+    "Entre la clé OTL95J-ZPL7HU-HXIAK0-OR6U-8MMV99"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Clé à utiliser avant le 31 déc.",
+   "nouveau": false,
+   "desc": "Efface filigranes, logos, textes ou personnes de tes photos et vidéos grâce à l'IA.",
+   "conditions": "",
+   "lien": "https://notecoupon.com/geekersoft-watermark-remover-free-license-key/",
+   "source": "https://notecoupon.com/geekersoft-watermark-remover-free-license-key/",
+   "avis": "Sympa pour nettoyer tes photos. Clé partagée, essaie vite.",
+   "emoji": "🧽",
+   "fiabilite": "NoteCoupon, article du 23/11/2026",
+   "prix": ""
+  },
+  {
+   "id": "plugin-bpb-microspace",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "BPB Microspace : réverb à convolution gratuite (PC/Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Plugin Microspace VST3 / AU (Windows et Mac)"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Sur Gumroad, mets 0 dans le champ prix avant de valider"
+   ],
+   "etapes": [
+    "Ouvre la page Gumroad de BPB Microspace",
+    "Mets 0 € dans le prix et entre ton e-mail",
+    "Télécharge et installe le plugin"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Petite réverb gratuite tirée d'une machine vintage (Microverb II) : 16 modes, pré-délai, filtres et effet « Dirt » lo-fi.",
+   "conditions": "",
+   "lien": "https://bpb.gumroad.com/l/bpb-microspace",
+   "source": "https://bedroomproducersblog.com/2026/11/26/bpb-microspace/",
+   "avis": "Réverb simple et gratuite, sortie hier. Sympa pour un son rétro.",
+   "emoji": "🎛️",
+   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
+   "prix": ""
+  },
+  {
+   "id": "plugin-sacred-audio-mantra",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Sacred Audio Mantra : trance gate / LFO gratuit (PC/Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Plugin Mantra (VST3 Windows ; VST3/AU/standalone Mac)",
+    "11 banques et 35 patterns"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Sacred Audio gratuit avec confirmation par e-mail obligatoire",
+    "Sur Windows : VST3 64 bits seulement"
+   ],
+   "etapes": [
+    "Ouvre la page Mantra de Sacred Audio",
+    "Crée un compte gratuit et confirme ton e-mail",
+    "Télécharge le plugin"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Plugin gratuit à vie qui découpe tes sons en rythmes (basses psytrance, pads), avec filtre, ducking et export MIDI.",
+   "conditions": "",
+   "lien": "https://sacredaudioplugins.com/products/mantra",
+   "source": "https://bedroomproducersblog.com/2026/11/27/sacred-audio-mantra/",
+   "avis": "Gratuit pour toujours, sans clé ni limite. Bien pour la techno/trance.",
+   "emoji": "🌀",
+   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
+   "prix": ""
+  },
+  {
+   "id": "plugin-westwood-roots-bad-batch",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Roots Bad Batch : instrument de percussions gratuit (PC/Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Plugin Roots Bad Batch (AU, VST, VST3)"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Pas besoin de Kontakt",
+    "Un e-mail peut être demandé pour le téléchargement"
+   ],
+   "etapes": [
+    "Ouvre la page Roots Bad Batch de Westwood Instruments",
+    "Clique sur le téléchargement gratuit",
+    "Installe le plugin"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Instrument de batterie gratuit enregistré en studio à Leeds : 3 kits mixables, réglages Trash, Filter, Smack, Echo, Reverb, Gate.",
+   "conditions": "",
+   "lien": "https://www.westwoodinstruments.com/instruments/roots-bad-batch",
+   "source": "https://bedroomproducersblog.com/2026/11/27/westwood-instruments-releases-roots-bad-batch-a-free-edgy-percussion-instrument-for-macos-and-windows/",
+   "avis": "Des batteries qui cognent, gratuites, sans Kontakt. Bon pour le hip-hop et le rock.",
+   "emoji": "🥁",
+   "fiabilite": "Bedroom Producers Blog, article du 26-27/11/2026 (page officielle non ouverte)",
+   "prix": ""
+  },
+  {
+   "id": "pc-softorbits-event-log-viewer",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Windows Event Log Viewer : licence 6 mois offerte (PC)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Licence complète 6 mois, usage perso",
+    "Clé : ELV3-ZEMEN-LGZEW-ABKLW"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement",
+    "Licence de 6 mois seulement, pas à vie",
+    "Pas de mises à jour gratuites",
+    "Il faut l'installateur « giveaway », pas la version d'essai"
+   ],
+   "etapes": [
+    "Ouvre l'article de l'offre et télécharge l'installateur giveaway SoftOrbits",
+    "Installe et lance le programme",
+    "Clique sur « I have a key… »",
+    "Colle la clé ELV3-ZEMEN-LGZEW-ABKLW avec ton e-mail, puis Activate"
+   ],
+   "fin": null,
+   "finTxt": "Peut s'arrêter à tout moment",
+   "nouveau": false,
+   "desc": "Outil SoftOrbits qui explique en clair les journaux de Windows (plantages, redémarrages, disque) pour diagnostiquer ton PC.",
+   "conditions": "",
+   "lien": "https://techno360.in/softorbits-windows-event-log-viewer-free-license/",
+   "source": "https://techno360.in/softorbits-windows-event-log-viewer-free-license/",
+   "avis": "Utile seulement si ton PC plante souvent et que tu veux comprendre pourquoi.",
+   "emoji": "🩺",
+   "fiabilite": "Techno360, article du 27/11/2026 (page éditeur softorbits.net)",
+   "prix": "39,99 $/mois"
+  },
+  {
+   "id": "pc-xenarmor-browser-password-recovery",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "XenArmor Browser Password Recovery Pro : licence 1 an (PC)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Licence 1 an, édition Basic"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement",
+    "Confirme ton e-mail sous 48 h sinon la licence est désactivée",
+    "Ne marche que pour TES mots de passe déjà enregistrés"
+   ],
+   "etapes": [
+    "Ouvre la page cadeau XenArmor et entre ton e-mail",
+    "Clique sur le lien de vérification reçu",
+    "Récupère la clé dans le mail « Your Free Gift »",
+    "Installe le logiciel et active avec ton e-mail + la clé"
+   ],
+   "fin": null,
+   "finTxt": "Durée non annoncée",
+   "nouveau": false,
+   "desc": "Retrouve les mots de passe que tu as enregistrés dans tes navigateurs (140+ navigateurs) sur ton PC, et les exporte.",
+   "conditions": "",
+   "lien": "https://xenarmor.com/browserpasswordrecoverypro-free-full-version-software/",
+   "source": "https://techno360.in/xenarmor-browser-password-recovery-pro-free-license/",
+   "avis": "Pratique si tu changes de PC et veux récupérer tes mots de passe oubliés.",
+   "emoji": "🔑",
+   "fiabilite": "Techno360, article du 27/11/2026 (page xenarmor.com non ouverte)",
+   "prix": "29,95 $"
+  },
+  {
+   "id": "pc-mobikin-doctor-ios",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "MobiKin Doctor for iOS : récupération de données iPhone, licence 1 an (PC)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Licence 1 an (e-mail et code fournis sur la page)"
+   ],
+   "pieges": [
+    "Logiciel pour PC Windows uniquement",
+    "Utile seulement si tu as un iPhone",
+    "Pas de mises à jour ni support gratuits"
+   ],
+   "etapes": [
+    "Ouvre la page de l'offre",
+    "Télécharge l'installateur officiel sur mobikin.com",
+    "Active avec l'e-mail et le code donnés sur la page"
+   ],
+   "fin": null,
+   "finTxt": "Durée non annoncée",
+   "nouveau": false,
+   "desc": "Récupère SMS, contacts, photos et historique d'appels depuis les sauvegardes iTunes de ton iPhone.",
+   "conditions": "",
+   "lien": "https://notecoupon.com/mobikin-doctor-for-ios-license-code-free/",
+   "source": "https://notecoupon.com/mobikin-doctor-for-ios-license-code-free/",
+   "avis": "À garder sous le coude si tu perds des données d'iPhone.",
+   "emoji": "📱",
+   "fiabilite": "NoteCoupon, article du 25/11/2026",
+   "prix": ""
+  },
+  {
+   "id": "plugin-audiomodern-filterstep-2",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Audiomodern Filterstep 2 : filtre rythmique gratuit (PC/Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Plugin Filterstep 2 (VST3, AU, AAX)"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Audiomodern probablement demandé"
+   ],
+   "etapes": [
+    "Ouvre la page Filterstep de la boutique Audiomodern",
+    "Ajoute-le au panier à 0 € et valide",
+    "Télécharge le plugin"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Filtre rythmique gratuit avec 5 modes de séquence, aléatoire et effets Drive, Crush, Comb et Lo-Fi.",
+   "conditions": "",
+   "lien": "https://audiomodern.com/shop/plugins/filterstep/",
+   "source": "https://loopkitchen.co.uk/blogs/loop-kitchen-blog/best-free-black-friday-plugins-2026",
+   "avis": "Donne du mouvement à tes sons en deux clics. Gratuit pour toujours.",
+   "emoji": "🎚️",
+   "fiabilite": "Loop Kitchen (liste mise à jour le 26/11/2026) + Audio Plugin Guy ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-puremagnetik-studies",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Puremagnetik Studies : plugin gratuit (PC/Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Plugin Studies"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "E-mail demandé pour le téléchargement"
+   ],
+   "etapes": [
+    "Ouvre la page Studies Free de Puremagnetik",
+    "Ajoute-le au panier à 0 € et entre ton e-mail",
+    "Télécharge le plugin"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Plugin d'effets expérimental offert par Puremagnetik, sorti début novembre.",
+   "conditions": "",
+   "lien": "https://puremagnetik.com/products/studies-free",
+   "source": "https://plugindeals.net/the-latest-free-audio-plugins/",
+   "avis": "Pour les sons ambiants et lo-fi, gratuit.",
+   "emoji": "🧪",
+   "fiabilite": "PluginDeals.net (liste des plugins gratuits, nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-steinberg-classic-collection",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Steinberg Classic Collection : pack de plugins classiques gratuit",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin, licence gratuite à vie"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Plugin Boutique gratuit à créer",
+    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
+   ],
+   "etapes": [
+    "Ouvre la page du produit sur Plugin Boutique",
+    "Ajoute-le au panier (0 €) et valide avec ton compte",
+    "Télécharge-le depuis ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Pack gratuit de plugins classiques de Steinberg (l'éditeur de Cubase).",
+   "conditions": "",
+   "lien": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17665-Steinberg-Classic-Collection",
+   "source": "https://blog.dubspot.com/black-friday/free-plugins",
+   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
+   "emoji": "🎛️",
+   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-uad-explore-bundle",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "UAD Explore Bundle : plugins Universal Audio gratuits",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin, licence gratuite à vie"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Plugin Boutique gratuit à créer",
+    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
+   ],
+   "etapes": [
+    "Ouvre la page du produit sur Plugin Boutique",
+    "Ajoute-le au panier (0 €) et valide avec ton compte",
+    "Télécharge-le depuis ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Pack gratuit de plugins Universal Audio, marque pro des studios.",
+   "conditions": "",
+   "lien": "https://www.pluginboutique.com/product/81-Bundles/141-Free-Bundles/17253-UAD-Explore-Bundle",
+   "source": "https://blog.dubspot.com/black-friday/free-plugins",
+   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
+   "emoji": "🎚️",
+   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-arturia-analog-lab-play",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Arturia Analog Lab Play : synthés vintage gratuits",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin, licence gratuite à vie"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Plugin Boutique gratuit à créer",
+    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
+   ],
+   "etapes": [
+    "Ouvre la page du produit sur Plugin Boutique",
+    "Ajoute-le au panier (0 €) et valide avec ton compte",
+    "Télécharge-le depuis ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Version gratuite d'Analog Lab : des centaines de sons de synthés et claviers vintage d'Arturia.",
+   "conditions": "",
+   "lien": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11581-Analog-Lab-Play",
+   "source": "https://blog.dubspot.com/black-friday/free-plugins",
+   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
+   "emoji": "🎹",
+   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-izotope-ozone-imager-2",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "iZotope Ozone Imager 2 : élargisseur stéréo gratuit",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin, licence gratuite à vie"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Plugin Boutique gratuit à créer",
+    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
+   ],
+   "etapes": [
+    "Ouvre la page du produit sur Plugin Boutique",
+    "Ajoute-le au panier (0 €) et valide avec ton compte",
+    "Télécharge-le depuis ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Plugin gratuit d'iZotope pour élargir ou resserrer la stéréo de ton mix.",
+   "conditions": "",
+   "lien": "https://www.pluginboutique.com/product/2-Effects/27-Stereo-Width/5997-Ozone-Imager-2",
+   "source": "https://blog.dubspot.com/black-friday/free-plugins",
+   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
+   "emoji": "🔊",
+   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-izotope-vinyl",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "iZotope Vinyl : effet vinyle lo-fi gratuit",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin, licence gratuite à vie"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Plugin Boutique gratuit à créer",
+    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
+   ],
+   "etapes": [
+    "Ouvre la page du produit sur Plugin Boutique",
+    "Ajoute-le au panier (0 €) et valide avec ton compte",
+    "Télécharge-le depuis ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Plugin gratuit d'iZotope pour donner un son de vieux disque vinyle (craquements, usure).",
+   "conditions": "",
+   "lien": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/7091-Vinyl",
+   "source": "https://blog.dubspot.com/black-friday/free-plugins",
+   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
+   "emoji": "💿",
+   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-bfd-player",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "BFD Player : batterie acoustique gratuite",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin, licence gratuite à vie"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Plugin Boutique gratuit à créer",
+    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
+   ],
+   "etapes": [
+    "Ouvre la page du produit sur Plugin Boutique",
+    "Ajoute-le au panier (0 €) et valide avec ton compte",
+    "Télécharge-le depuis ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Lecteur gratuit de batterie acoustique réaliste avec un kit offert.",
+   "conditions": "",
+   "lien": "https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/11402-BFD-Player",
+   "source": "https://blog.dubspot.com/black-friday/free-plugins",
+   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
+   "emoji": "🥁",
+   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-cherry-audio-mg1-plus",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Cherry Audio Surrealistic MG-1 Plus : synthé gratuit",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin, licence gratuite à vie"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Plugin Boutique gratuit à créer",
+    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
+   ],
+   "etapes": [
+    "Ouvre la page du produit sur Plugin Boutique",
+    "Ajoute-le au panier (0 €) et valide avec ton compte",
+    "Télécharge-le depuis ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Synthé analogique virtuel gratuit inspiré du Moog Realistic MG-1.",
+   "conditions": "",
+   "lien": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/7117-Surrealistic-MG-1-Plus-Synthesizer",
+   "source": "https://blog.dubspot.com/black-friday/free-plugins",
+   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
+   "emoji": "🎹",
+   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-baby-audio-magic-switch",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Baby Audio Magic Switch : chorus années 80 gratuit",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin, licence gratuite à vie"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Compte Plugin Boutique gratuit à créer",
+    "Le site te proposera des achats : n'ajoute rien d'autre au panier"
+   ],
+   "etapes": [
+    "Ouvre la page du produit sur Plugin Boutique",
+    "Ajoute-le au panier (0 €) et valide avec ton compte",
+    "Télécharge-le depuis ton compte"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit pour toujours",
+   "nouveau": false,
+   "desc": "Effet chorus gratuit inspiré du bouton magique des synthés Roland des années 80.",
+   "conditions": "",
+   "lien": "https://www.pluginboutique.com/product/2-Effects/11-Chorus/6975-Magic-Switch",
+   "source": "https://blog.dubspot.com/black-friday/free-plugins",
+   "avis": "Un classique gratuit d'une grande marque, à avoir dans ta boîte à outils.",
+   "emoji": "✨",
+   "fiabilite": "Dubspot (liste Black Friday 2026, vérifiée jusqu'au 7 déc.) ; page Plugin Boutique non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "android-reminder-pro",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Reminder Pro : rappels et alarmes, version payante gratuite (Android)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
+   ],
+   "pieges": [
+    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
+    "Si un prix s'affiche, la promo est finie : n'achète pas"
+   ],
+   "etapes": [
+    "Ouvre la page de l'appli sur Google Play",
+    "Vérifie que le bouton dit « Installer » (pas de prix)",
+    "Installe-la : elle reste à toi même après la promo"
+   ],
+   "fin": null,
+   "finTxt": "Promo de quelques jours, peut finir à tout moment",
+   "nouveau": false,
+   "desc": "Appli de rappels et d'alarmes pour ne rien oublier (rendez-vous, médocs, factures), version Pro sans pub.",
+   "conditions": "",
+   "lien": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro",
+   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
+   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
+   "emoji": "⏰",
+   "fiabilite": "9to5Toys (26/11) + Giveaway of the Day « free today » (27/11)",
+   "prix": "3,75 $"
+  },
+  {
+   "id": "android-xeno-launcher",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Xeno, The DIY Launcher : lanceur personnalisable gratuit (Android)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
+   ],
+   "pieges": [
+    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
+    "Si un prix s'affiche, la promo est finie : n'achète pas"
+   ],
+   "etapes": [
+    "Ouvre la page de l'appli sur Google Play",
+    "Vérifie que le bouton dit « Installer » (pas de prix)",
+    "Installe-la : elle reste à toi même après la promo"
+   ],
+   "fin": null,
+   "finTxt": "Promo de quelques jours, peut finir à tout moment",
+   "nouveau": false,
+   "desc": "Lanceur d'écran d'accueil à construire toi-même pour un téléphone unique et minimaliste.",
+   "conditions": "",
+   "lien": "https://play.google.com/store/apps/details?id=com.xeno.launcher",
+   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
+   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
+   "emoji": "🧩",
+   "fiabilite": "9to5Toys, article du 26/11/2026 (Google Play non ouvert)",
+   "prix": "1 $"
+  },
+  {
+   "id": "android-chillio-cleaning",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Chillio : planning de ménage gratuit au lieu de 10 $ (Android)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
+   ],
+   "pieges": [
+    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
+    "Si un prix s'affiche, la promo est finie : n'achète pas"
+   ],
+   "etapes": [
+    "Ouvre la page de l'appli sur Google Play",
+    "Vérifie que le bouton dit « Installer » (pas de prix)",
+    "Installe-la : elle reste à toi même après la promo"
+   ],
+   "fin": null,
+   "finTxt": "Promo de quelques jours, peut finir à tout moment",
+   "nouveau": false,
+   "desc": "Appli pour organiser les tâches ménagères (planning, rappels, partage avec les colocs).",
+   "conditions": "",
+   "lien": "https://play.google.com/store/apps/details?id=chillio.cleaning.app",
+   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
+   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
+   "emoji": "🧹",
+   "fiabilite": "9to5Toys, article du 26/11/2026 (Google Play non ouvert)",
+   "prix": "10 $"
+  },
+  {
+   "id": "android-blend-photos",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Blend Photos : fusion et montage photo, gratuit (Android)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
+   ],
+   "pieges": [
+    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
+    "Si un prix s'affiche, la promo est finie : n'achète pas"
+   ],
+   "etapes": [
+    "Ouvre la page de l'appli sur Google Play",
+    "Vérifie que le bouton dit « Installer » (pas de prix)",
+    "Installe-la : elle reste à toi même après la promo"
+   ],
+   "fin": null,
+   "finTxt": "Promo de quelques jours, peut finir à tout moment",
+   "nouveau": false,
+   "desc": "Mélange deux photos en une (double exposition, effets) facilement.",
+   "conditions": "",
+   "lien": "https://play.google.com/store/apps/details?id=com.tapuniverse.blendphotos",
+   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
+   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
+   "emoji": "🖼️",
+   "fiabilite": "9to5Toys, article du 26/11/2026 (Google Play non ouvert)",
+   "prix": "3 $"
+  },
+  {
+   "id": "android-fintaroflow",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "FintaroFlow : gestion de budget gratuite au lieu de 6 $ (Android)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "L'appli complète, à garder à vie dans ta bibliothèque Google Play"
+   ],
+   "pieges": [
+    "Promo courte : vérifie que le Play Store affiche bien « Installer » (0 €) avant de valider",
+    "Si un prix s'affiche, la promo est finie : n'achète pas"
+   ],
+   "etapes": [
+    "Ouvre la page de l'appli sur Google Play",
+    "Vérifie que le bouton dit « Installer » (pas de prix)",
+    "Installe-la : elle reste à toi même après la promo"
+   ],
+   "fin": null,
+   "finTxt": "Promo de quelques jours, peut finir à tout moment",
+   "nouveau": false,
+   "desc": "Appli de suivi des dépenses et de budget pour garder un œil sur ton argent.",
+   "conditions": "",
+   "lien": "https://play.google.com/store/apps/details?id=com.fintaroflow.app",
+   "source": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free",
+   "avis": "Gratuit et à vie une fois installée : prends-la même si tu ne t'en sers pas tout de suite.",
+   "emoji": "💶",
+   "fiabilite": "9to5Toys, article du 26/11/2026 (Google Play non ouvert)",
+   "prix": "6 $"
+  },
+  {
+   "id": "plugin-mercurial-tones-siren",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Mercurial Tones Siren : autotune gratuit avec éditeur de notes (PC/Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin ou pack, gratuit"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Il faut installer le Mercurial Tones Hub et passer une commande gratuite",
+    "Sur PC : processeur compatible AVX2 nécessaire"
+   ],
+   "etapes": [
+    "Ouvre la page officielle",
+    "Récupère-le gratuitement (panier à 0 si demandé)",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Correcteur de justesse vocale gratuit : tuning automatique (style naturel ou « autotune » dur) et éditeur graphique des notes.",
+   "conditions": "",
+   "lien": "https://shop.mercurialtones.com/products/siren",
+   "source": "https://bedroomproducersblog.com/2026/11/22/mercurial-tones-siren/",
+   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
+   "emoji": "🎤",
+   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-dystopian-waves-rheton",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Dystopian Waves RHETON Free : accords en grattage de guitare (PC/Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin ou pack, gratuit"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Sur Gumroad, mets 0 dans le prix",
+    "Outil MIDI : il faut un instrument derrière"
+   ],
+   "etapes": [
+    "Ouvre la page officielle",
+    "Récupère-le gratuitement (panier à 0 si demandé)",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Transforme tes accords en rythmiques de guitare, arpèges ou piano : 14 styles et 30 presets.",
+   "conditions": "",
+   "lien": "https://dystopianwaves.gumroad.com/l/prhetonfree",
+   "source": "https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/",
+   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
+   "emoji": "🎸",
+   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-dystopian-waves-dbot",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Dystopian Waves DBot : humanise tes notes MIDI (PC/Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin ou pack, gratuit"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Sur Gumroad, mets 0 dans le prix",
+    "Outil MIDI : il faut un instrument derrière"
+   ],
+   "etapes": [
+    "Ouvre la page officielle",
+    "Récupère-le gratuitement (panier à 0 si demandé)",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Rend tes rythmes MIDI plus humains en jouant sur le timing et la force des notes.",
+   "conditions": "",
+   "lien": "https://dystopianwaves.gumroad.com/l/pdbot",
+   "source": "https://bedroomproducersblog.com/2026/11/16/dystopian-waves-dbot/",
+   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
+   "emoji": "🤖",
+   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-soundroll-fuzz",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Soundroll Fuzz : pédale fuzz gratuite (Mac)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin ou pack, gratuit"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Mac uniquement pour l'instant (pas de version Windows)"
+   ],
+   "etapes": [
+    "Ouvre la page officielle",
+    "Récupère-le gratuitement (panier à 0 si demandé)",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Effet fuzz gratuit à 3 circuits (germanium, silicium, lampe) avec EQ et noise gate, sans compte.",
+   "conditions": "",
+   "lien": "https://store.soundroll.com/fuzz/",
+   "source": "https://bedroomproducersblog.com/2026/11/25/soundroll-fuzz-macos/",
+   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
+   "emoji": "🔥",
+   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-reasonable-audio-preamble",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Reasonable Audio Preamble : distorsion préampli gratuite (PC/Mac/Linux)",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin ou pack, gratuit"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Commande gratuite avec nom + e-mail et compte pour activer (sans carte)",
+    "Processeur AVX2 requis"
+   ],
+   "etapes": [
+    "Ouvre la page officielle",
+    "Récupère-le gratuitement (panier à 0 si demandé)",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Distorsion qui imite l'étage d'entrée d'une pédale de delay analogique, avec filtres et mix.",
+   "conditions": "",
+   "lien": "https://reasonableaudio.com/preamble",
+   "source": "https://bedroomproducersblog.com/2026/11/11/reasonable-audio-preamble/",
+   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
+   "emoji": "⚡",
+   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "plugin-tinyant-purpl",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "TinyAnt PURPL : réverb gratuite pour toujours",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin ou pack, gratuit"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien"
+   ],
+   "etapes": [
+    "Ouvre la page officielle",
+    "Récupère-le gratuitement (panier à 0 si demandé)",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Réverb gratuite de TinyAnt, que l'éditeur promet de garder gratuite.",
+   "conditions": "",
+   "lien": "https://tinyantproductions.com/purpl",
+   "source": "https://www.dixonbeats.com/blogs/music-production-news/the-best-black-friday-plugin-deals-2026-plus-3-free-plugins",
+   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
+   "emoji": "💜",
+   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "presets-dixonbeats-blackout-lite",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Blackout LITE : pack de presets Serum gratuit",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin ou pack, gratuit"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Il faut avoir le synthé Serum (payant) pour s'en servir",
+    "Commande à 0 £ avec ton e-mail"
+   ],
+   "etapes": [
+    "Ouvre la page officielle",
+    "Récupère-le gratuitement (panier à 0 si demandé)",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Pack de sons gratuits pour le synthé Serum (à 0 £ sur la boutique DixonBeats).",
+   "conditions": "",
+   "lien": "https://www.dixonbeats.com/products/dixonbeats-blackout-lite-free-serum-pack",
+   "source": "https://www.dixonbeats.com/blogs/music-production-news/the-best-black-friday-plugin-deals-2026-plus-3-free-plugins",
+   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
+   "emoji": "🖤",
+   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
+   "prix": ""
+  },
+  {
+   "id": "presets-dixonbeats-redemption-lite",
+   "acces": "direct",
+   "livre": false,
+   "rayon": "applis",
+   "type": "cadeau",
+   "titre": "Redemption LITE : pack de presets Vital gratuit",
+   "rarete": "com",
+   "gratuit": true,
+   "cout": "0 €",
+   "coutNum": 0,
+   "sansCarte": true,
+   "qty": "1",
+   "contenu": [
+    "Le plugin ou pack, gratuit"
+   ],
+   "pieges": [
+    "C'est un plugin pour logiciel de musique (FL Studio, Ableton, Reaper…) : seul, il ne sert à rien",
+    "Il faut le synthé Vital (version gratuite OK)",
+    "Commande à 0 £ avec ton e-mail"
+   ],
+   "etapes": [
+    "Ouvre la page officielle",
+    "Récupère-le gratuitement (panier à 0 si demandé)",
+    "Télécharge et installe"
+   ],
+   "fin": null,
+   "finTxt": "Gratuit",
+   "nouveau": false,
+   "desc": "Pack de sons gratuits pour le synthé Vital (lui-même gratuit), à 0 £.",
+   "conditions": "",
+   "lien": "https://www.dixonbeats.com/products/dixonbeats-redemption-free-vital-preset-pack",
+   "source": "https://www.dixonbeats.com/blogs/music-production-news/the-best-black-friday-plugin-deals-2026-plus-3-free-plugins",
+   "avis": "Gratuit et utile si tu fais de la musique sur ordi.",
+   "emoji": "🎹",
+   "fiabilite": "Article de blog spécialisé (nov. 2026) ; page officielle non ouverte",
+   "prix": ""
   },
   {
    "acces": "direct",
@@ -5635,97 +5408,50 @@
    "resilier": "Depuis ton compte My Little Box, rubrique Abonnement, bouton Résilier (en un clic), une fois la box de janvier payée."
   },
   {
+   "id": "disney-club-hachette-colis-offerts",
    "acces": "abonnement",
    "livre": true,
-   "gratuit": false,
-   "nouveau": true,
-   "sansCarte": false,
-   "conditions": "Code valable sur tout le site. Formule mensuelle sans engagement selon Kube.",
-   "prix": "20,90 €",
-   "fin": null,
-   "id": "kube-cadeaux26",
    "rayon": "culture",
    "type": "box",
-   "titre": "Kube : box livre de poche choisie par un libraire à 18,81 € (−10 %, code CADEAUX26)",
+   "titre": "Disney Club (Hachette) : premiers colis de livres Disney offerts, tu paies le port",
    "rarete": "rar",
-   "cout": "18,81 € livraison comprise",
-   "coutNum": 18.81,
-   "qty": "1 livre par mois (box Kube Originale)",
-   "contenu": [
-    "1 livre de poche choisi pour toi par un libraire selon tes goûts",
-    "Emballage cadeau Kube",
-    "Livraison incluse en France métropolitaine"
-   ],
-   "pieges": [
-    "Code CADEAUX26 sans date de fin affichée : vérifie le prix au panier",
-    "Vérifie que tu prends bien la formule mensuelle sans engagement (pas l'annuelle à 206,91 €)",
-    "N'oublie pas de te désabonner avant le prochain prélèvement (fin décembre) si tu ne veux qu'un seul livre"
-   ],
-   "etapes": [
-    "Ouvre la page « Je m'abonne à Kube »",
-    "Choisis Kube Originale, formule mensuelle",
-    "Remplis ton profil de lecture",
-    "Entre le code CADEAUX26 au paiement et vérifie 18,81 €",
-    "Résilie depuis ton espace Kube après réception si tu veux t'arrêter là"
-   ],
-   "finTxt": "Black Friday, pas de date de fin affichée",
-   "desc": "La box Kube t'envoie chaque mois un livre choisi par un libraire selon tes goûts. Avec CADEAUX26, la box mensuelle passe à 18,81 €.",
-   "lien": "https://www.lakube.com/commander-kube",
-   "source": "https://touteslesbox.fr/kube-black-friday-2026-code-cadeaux26-10-pourcent/",
-   "avis": "Pas donné pour un livre de poche, mais c'est un vrai libraire qui choisit pour toi. À prendre seulement si tu aimes lire et veux un cadeau.",
-   "emoji": "📚",
-   "fiabilite": "Page officielle Kube vérifiée le 27/11 (code CADEAUX26 affiché) + Toutes les Box (23/11)",
-   "prixApres": "environ 19,20 à 20,90 €/mois",
-   "resilierLe": null,
-   "resilierTxt": "avant le prochain prélèvement (fin du 1er mois)",
-   "resilier": "Depuis ton espace client Kube (monespace.lakube.com), rubrique abonnement."
-  },
-  {
-   "acces": "abonnement",
-   "livre": true,
    "gratuit": false,
-   "nouveau": true,
+   "cout": "Frais de port seulement (environ 3,90 €)",
+   "coutNum": 3.9,
    "sansCarte": false,
-   "conditions": "Nouveaux clients. Sans engagement, résiliable à tout moment depuis l'Espace Membre.",
-   "prix": "",
-   "fin": null,
-   "id": "japhy-black-friday",
-   "rayon": "animaux",
-   "type": "box",
-   "titre": "Japhy : croquettes sur mesure −60 % + cadeau sur l'offre découverte (chien ou chat)",
-   "rarete": "rar",
-   "cout": "Variable selon ton animal (−60 % sur l'offre découverte)",
-   "coutNum": null,
-   "qty": "1 colis découverte (10 à 15 jours de croquettes)",
+   "qty": "1er colis offert (2 premiers colis selon l'offre repérée sur Dealabs le 27-28 nov.)",
    "contenu": [
-    "Croquettes sur mesure Made in France pour ton chien ou chat (10 à 15 jours)",
-    "Cadeau Black Friday (non détaillé)",
-    "Topper « jus de poulet » mentionné sur la page"
+    "Un classique Disney en édition collector (Le Roi Lion, La Belle et la Bête ou Aladdin au choix)",
+    "Une figurine Disney",
+    "Une histoire de Mickey et ses amis"
    ],
    "pieges": [
-    "Le prix exact ne s'affiche qu'après le questionnaire sur ton animal",
-    "Ensuite l'abonnement continue (livraison toutes les 4 à 6 semaines) au prix plein",
-    "N'oublie pas de te désabonner ou de mettre en pause avant la 2e livraison si tu ne veux pas continuer",
-    "Conditions et date de fin du −60 % pas précisées"
+    "N'oublie pas de te désabonner avant l'envoi du premier colis payant, sinon environ 16,90 €/mois",
+    "Carte bancaire demandée pour le port et la suite de la collection",
+    "Collection pensée pour les enfants : bien pour un cadeau de Noël",
+    "Le nombre de colis offerts (1 ou 2) est à vérifier sur la page avant de valider"
    ],
    "etapes": [
-    "Ouvre japhy.fr",
-    "Remplis le questionnaire sur ton chien ou ton chat",
-    "Vérifie que la remise −60 % Black Friday est appliquée",
-    "Commande l'offre découverte",
-    "Dans ton Espace Membre, mets en pause ou désactive avant la 2e livraison"
+    "Ouvre la page Disney Club de Hachette Collections",
+    "Choisis ton premier livre",
+    "Paie seulement les frais de port",
+    "Note tout de suite dans ton agenda la date pour résilier"
    ],
-   "finTxt": "Black Friday (date de fin non affichée)",
-   "desc": "Japhy fabrique des croquettes adaptées à ton animal ; pour le Black Friday, l'offre découverte est à −60 % avec un cadeau.",
-   "lien": "https://japhy.fr/sur-mesure/",
-   "source": "https://japhy.fr/sur-mesure/",
-   "avis": "Seulement si tu as un chien ou un chat. Bonne occasion pour tester des croquettes de qualité pas cher, mais pense à couper l'abonnement.",
-   "emoji": "🐶",
-   "fiabilite": "Page officielle Japhy vérifiée le 27/11 (bannière « Exclu Black Friday −60 % + cadeau »)",
-   "prixApres": "prix plein selon ton animal (calculé sur le site)",
+   "fin": null,
+   "finTxt": "Pas de date de fin affichée",
+   "nouveau": true,
+   "desc": "Hachette Collections offre le premier colis Disney Club (livre collector + figurine + histoire), tu ne paies que le port ; une offre repérée cette semaine annonce même les 2 premiers colis offerts.",
+   "conditions": "Abonnement sans engagement, livraison en France. Après les colis offerts : environ 16,90 €/mois port compris.",
+   "lien": "https://www.hachette-collections.com/fr-fr/collection-disney-club/",
+   "source": "https://www.dealabs.com/bons-plans/les-2-premiers-colis-offert-disney-club-3446721",
+   "avis": "Sympa pour faire un cadeau de Noël à un enfant presque gratuitement, à condition de résilier à temps.",
+   "emoji": "📚",
+   "fiabilite": "Site officiel Hachette Collections ; titre Dealabs du 27-28 nov. et fiche Toutes les Box (ancienne) : détails exacts à vérifier sur la page",
+   "prix": "16,90 €/mois",
+   "prixApres": "Environ 16,90 €/mois port compris",
    "resilierLe": null,
-   "resilierTxt": "avant la 2e livraison (environ 10 à 15 jours)",
-   "resilier": "Dans ton Espace Membre Japhy : mettre en pause ou désactiver l'abonnement."
+   "resilierTxt": "Avant l'envoi du premier colis payant (date dans ton espace client)",
+   "resilier": "Sans engagement : arrête la collection depuis ton espace client Hachette Collections ou en appelant le service client."
   },
   {
    "gratuit": false,
@@ -5867,6 +5593,99 @@
    "livre": true
   },
   {
+   "acces": "abonnement",
+   "livre": true,
+   "gratuit": false,
+   "nouveau": false,
+   "sansCarte": false,
+   "conditions": "Code valable sur tout le site. Formule mensuelle sans engagement selon Kube.",
+   "prix": "20,90 €",
+   "fin": null,
+   "id": "kube-cadeaux26",
+   "rayon": "culture",
+   "type": "box",
+   "titre": "Kube : box livre de poche choisie par un libraire à 18,81 € (−10 %, code CADEAUX26)",
+   "rarete": "rar",
+   "cout": "18,81 € livraison comprise",
+   "coutNum": 18.81,
+   "qty": "1 livre par mois (box Kube Originale)",
+   "contenu": [
+    "1 livre de poche choisi pour toi par un libraire selon tes goûts",
+    "Emballage cadeau Kube",
+    "Livraison incluse en France métropolitaine"
+   ],
+   "pieges": [
+    "Code CADEAUX26 sans date de fin affichée : vérifie le prix au panier",
+    "Vérifie que tu prends bien la formule mensuelle sans engagement (pas l'annuelle à 206,91 €)",
+    "N'oublie pas de te désabonner avant le prochain prélèvement (fin décembre) si tu ne veux qu'un seul livre"
+   ],
+   "etapes": [
+    "Ouvre la page « Je m'abonne à Kube »",
+    "Choisis Kube Originale, formule mensuelle",
+    "Remplis ton profil de lecture",
+    "Entre le code CADEAUX26 au paiement et vérifie 18,81 €",
+    "Résilie depuis ton espace Kube après réception si tu veux t'arrêter là"
+   ],
+   "finTxt": "Black Friday, pas de date de fin affichée",
+   "desc": "La box Kube t'envoie chaque mois un livre choisi par un libraire selon tes goûts. Avec CADEAUX26, la box mensuelle passe à 18,81 €.",
+   "lien": "https://www.lakube.com/commander-kube",
+   "source": "https://touteslesbox.fr/kube-black-friday-2026-code-cadeaux26-10-pourcent/",
+   "avis": "Pas donné pour un livre de poche, mais c'est un vrai libraire qui choisit pour toi. À prendre seulement si tu aimes lire et veux un cadeau.",
+   "emoji": "📚",
+   "fiabilite": "Page officielle Kube vérifiée le 27/11 (code CADEAUX26 affiché) + Toutes les Box (23/11)",
+   "prixApres": "environ 19,20 à 20,90 €/mois",
+   "resilierLe": null,
+   "resilierTxt": "avant le prochain prélèvement (fin du 1er mois)",
+   "resilier": "Depuis ton espace client Kube (monespace.lakube.com), rubrique abonnement."
+  },
+  {
+   "acces": "abonnement",
+   "livre": true,
+   "gratuit": false,
+   "nouveau": false,
+   "sansCarte": false,
+   "conditions": "Nouveaux clients. Sans engagement, résiliable à tout moment depuis l'Espace Membre.",
+   "prix": "",
+   "fin": null,
+   "id": "japhy-black-friday",
+   "rayon": "animaux",
+   "type": "box",
+   "titre": "Japhy : croquettes sur mesure −60 % + cadeau sur l'offre découverte (chien ou chat)",
+   "rarete": "rar",
+   "cout": "Variable selon ton animal (−60 % sur l'offre découverte)",
+   "coutNum": null,
+   "qty": "1 colis découverte (10 à 15 jours de croquettes)",
+   "contenu": [
+    "Croquettes sur mesure Made in France pour ton chien ou chat (10 à 15 jours)",
+    "Cadeau Black Friday (non détaillé)",
+    "Topper « jus de poulet » mentionné sur la page"
+   ],
+   "pieges": [
+    "Le prix exact ne s'affiche qu'après le questionnaire sur ton animal",
+    "Ensuite l'abonnement continue (livraison toutes les 4 à 6 semaines) au prix plein",
+    "N'oublie pas de te désabonner ou de mettre en pause avant la 2e livraison si tu ne veux pas continuer",
+    "Conditions et date de fin du −60 % pas précisées"
+   ],
+   "etapes": [
+    "Ouvre japhy.fr",
+    "Remplis le questionnaire sur ton chien ou ton chat",
+    "Vérifie que la remise −60 % Black Friday est appliquée",
+    "Commande l'offre découverte",
+    "Dans ton Espace Membre, mets en pause ou désactive avant la 2e livraison"
+   ],
+   "finTxt": "Black Friday (date de fin non affichée)",
+   "desc": "Japhy fabrique des croquettes adaptées à ton animal ; pour le Black Friday, l'offre découverte est à −60 % avec un cadeau.",
+   "lien": "https://japhy.fr/sur-mesure/",
+   "source": "https://japhy.fr/sur-mesure/",
+   "avis": "Seulement si tu as un chien ou un chat. Bonne occasion pour tester des croquettes de qualité pas cher, mais pense à couper l'abonnement.",
+   "emoji": "🐶",
+   "fiabilite": "Page officielle Japhy vérifiée le 27/11 (bannière « Exclu Black Friday −60 % + cadeau »)",
+   "prixApres": "prix plein selon ton animal (calculé sur le site)",
+   "resilierLe": null,
+   "resilierTxt": "avant la 2e livraison (environ 10 à 15 jours)",
+   "resilier": "Dans ton Espace Membre Japhy : mettre en pause ou désactiver l'abonnement."
+  },
+  {
    "gratuit": false,
    "sansCarte": false,
    "nouveau": false,
@@ -5955,100 +5774,6 @@
    "resilierTxt": "avant le prochain renouvellement",
    "resilier": "Dans ton compte Tokyo Snack Box, désactive le renouvellement automatique.",
    "livre": true
-  },
-  {
-   "acces": "abonnement",
-   "livre": true,
-   "gratuit": false,
-   "nouveau": true,
-   "sansCarte": false,
-   "conditions": "Nouveaux clients. Sans engagement. Sacs de moins de 3 kg exclus de la livraison offerte.",
-   "prix": "",
-   "fin": null,
-   "id": "hector-kitchen-50",
-   "rayon": "animaux",
-   "type": "box",
-   "titre": "Hector Kitchen : −50 % sur la 1re commande de croquettes + kit de bienvenue, livraison offerte",
-   "rarete": "com",
-   "cout": "Variable selon ton animal (−50 %, livraison offerte)",
-   "coutNum": null,
-   "qty": "1 colis (2 premières semaines de repas)",
-   "contenu": [
-    "Recette personnalisée de croquettes (et pâtée selon le profil) pour chien ou chat",
-    "Kit de bienvenue personnalisé",
-    "Livraison offerte"
-   ],
-   "pieges": [
-    "Le prix exact dépend du poids de ton animal",
-    "Le compte à rebours « 24 h » sur le site se remet à zéro : ce n'est pas une vraie date limite",
-    "Livraison mensuelle ensuite au prix plein",
-    "N'oublie pas de te désabonner avant la 2e livraison si tu veux juste tester"
-   ],
-   "etapes": [
-    "Ouvre hectorkitchen.com",
-    "Remplis le profil de ton animal",
-    "Vérifie la remise −50 % au panier",
-    "Commande",
-    "Résilie depuis ton espace client avant la livraison suivante"
-   ],
-   "finTxt": "Offre permanente (pas de date de fin)",
-   "desc": "Hector Kitchen fait des croquettes adaptées à ton chien ou chat, livrées chaque mois ; la 1re commande est à moitié prix.",
-   "lien": "https://www.hectorkitchen.com/",
-   "source": "https://touteslesbox.fr/hector-kitchen/",
-   "avis": "Seulement si tu as un animal. −50 % c'est correct mais pas énorme ; Japhy est plus intéressant pendant le Black Friday.",
-   "emoji": "🐱",
-   "fiabilite": "Page officielle Hector Kitchen vérifiée le 27/11",
-   "prixApres": "environ 1,20 à 2 €/jour selon le poids",
-   "resilierLe": null,
-   "resilierTxt": "avant la 2e livraison (environ 2 semaines)",
-   "resilier": "Depuis ton espace client Hector Kitchen, en quelques clics, sans pénalité."
-  },
-  {
-   "acces": "abonnement",
-   "livre": true,
-   "gratuit": false,
-   "nouveau": true,
-   "sansCarte": false,
-   "conditions": "Nouveaux abonnés, sans engagement. Code non cumulable avec les packs découverte.",
-   "prix": "",
-   "fin": null,
-   "id": "franklin-abo10",
-   "rayon": "animaux",
-   "type": "box",
-   "titre": "Franklin : −30 % sur tes 3 premières commandes de croquettes en abonnement + jouet de Noël (code ABO10)",
-   "rarete": "com",
-   "cout": "Variable (−30 %) ; port offert en point relais dès 49 €, sinon environ 3,90 €",
-   "coutNum": null,
-   "qty": "3 premières livraisons à −30 %",
-   "contenu": [
-    "Croquettes ou pâtées Franklin pour chien ou chat (au choix)",
-    "1 jouet de Noël offert (code ABO10)",
-    "Black Friday : 1 friandise + 1 jouet de Noël offerts pour toute commande"
-   ],
-   "pieges": [
-    "La remise ne marche pas sur les packs découverte (déjà à −40 %)",
-    "Port offert seulement dès 49 € en point relais (sinon environ 3,90 €)",
-    "L'abonnement continue après les 3 commandes à −30 % (puis −20 %)",
-    "N'oublie pas de te désabonner avant la 2e livraison si tu veux juste tester"
-   ],
-   "etapes": [
-    "Ouvre franklinpetfood.com",
-    "Choisis les croquettes de ton animal en mode abonnement",
-    "Entre le code ABO10 au panier et vérifie la remise −30 %",
-    "Choisis la livraison en point relais",
-    "Résilie depuis ton compte (Franklin, rubrique abonnements) quand tu veux"
-   ],
-   "finTxt": "Black Friday (pas de date de fin affichée)",
-   "desc": "Franklin, marque française de croquettes sans céréales, fait −30 % sur les 3 premières commandes en abonnement avec un jouet de Noël offert.",
-   "lien": "https://franklinpetfood.com/pages/chien",
-   "source": "https://franklinpetfood.com/products/pack-decouverte-chat",
-   "avis": "Seulement si tu as un animal. Moins fort que Japhy (−60 %), mais la remise dure 3 commandes.",
-   "emoji": "🐾",
-   "fiabilite": "Page officielle Franklin vérifiée le 27/11 (codes ABO10 et cadeau Black Friday affichés)",
-   "prixApres": "prix normal −20 % en abonnement",
-   "resilierLe": null,
-   "resilierTxt": "avant la livraison suivante",
-   "resilier": "Depuis ton compte Franklin (franklinpetfood.com/tools/recurring/login), gérer ou annuler l'abonnement."
   },
   {
    "id": "blissim-garancia-ensorcelante",
@@ -6324,6 +6049,100 @@
    "livre": true
   },
   {
+   "acces": "abonnement",
+   "livre": true,
+   "gratuit": false,
+   "nouveau": false,
+   "sansCarte": false,
+   "conditions": "Nouveaux clients. Sans engagement. Sacs de moins de 3 kg exclus de la livraison offerte.",
+   "prix": "",
+   "fin": null,
+   "id": "hector-kitchen-50",
+   "rayon": "animaux",
+   "type": "box",
+   "titre": "Hector Kitchen : −50 % sur la 1re commande de croquettes + kit de bienvenue, livraison offerte",
+   "rarete": "com",
+   "cout": "Variable selon ton animal (−50 %, livraison offerte)",
+   "coutNum": null,
+   "qty": "1 colis (2 premières semaines de repas)",
+   "contenu": [
+    "Recette personnalisée de croquettes (et pâtée selon le profil) pour chien ou chat",
+    "Kit de bienvenue personnalisé",
+    "Livraison offerte"
+   ],
+   "pieges": [
+    "Le prix exact dépend du poids de ton animal",
+    "Le compte à rebours « 24 h » sur le site se remet à zéro : ce n'est pas une vraie date limite",
+    "Livraison mensuelle ensuite au prix plein",
+    "N'oublie pas de te désabonner avant la 2e livraison si tu veux juste tester"
+   ],
+   "etapes": [
+    "Ouvre hectorkitchen.com",
+    "Remplis le profil de ton animal",
+    "Vérifie la remise −50 % au panier",
+    "Commande",
+    "Résilie depuis ton espace client avant la livraison suivante"
+   ],
+   "finTxt": "Offre permanente (pas de date de fin)",
+   "desc": "Hector Kitchen fait des croquettes adaptées à ton chien ou chat, livrées chaque mois ; la 1re commande est à moitié prix.",
+   "lien": "https://www.hectorkitchen.com/",
+   "source": "https://touteslesbox.fr/hector-kitchen/",
+   "avis": "Seulement si tu as un animal. −50 % c'est correct mais pas énorme ; Japhy est plus intéressant pendant le Black Friday.",
+   "emoji": "🐱",
+   "fiabilite": "Page officielle Hector Kitchen vérifiée le 27/11",
+   "prixApres": "environ 1,20 à 2 €/jour selon le poids",
+   "resilierLe": null,
+   "resilierTxt": "avant la 2e livraison (environ 2 semaines)",
+   "resilier": "Depuis ton espace client Hector Kitchen, en quelques clics, sans pénalité."
+  },
+  {
+   "acces": "abonnement",
+   "livre": true,
+   "gratuit": false,
+   "nouveau": false,
+   "sansCarte": false,
+   "conditions": "Nouveaux abonnés, sans engagement. Code non cumulable avec les packs découverte.",
+   "prix": "",
+   "fin": null,
+   "id": "franklin-abo10",
+   "rayon": "animaux",
+   "type": "box",
+   "titre": "Franklin : −30 % sur tes 3 premières commandes de croquettes en abonnement + jouet de Noël (code ABO10)",
+   "rarete": "com",
+   "cout": "Variable (−30 %) ; port offert en point relais dès 49 €, sinon environ 3,90 €",
+   "coutNum": null,
+   "qty": "3 premières livraisons à −30 %",
+   "contenu": [
+    "Croquettes ou pâtées Franklin pour chien ou chat (au choix)",
+    "1 jouet de Noël offert (code ABO10)",
+    "Black Friday : 1 friandise + 1 jouet de Noël offerts pour toute commande"
+   ],
+   "pieges": [
+    "La remise ne marche pas sur les packs découverte (déjà à −40 %)",
+    "Port offert seulement dès 49 € en point relais (sinon environ 3,90 €)",
+    "L'abonnement continue après les 3 commandes à −30 % (puis −20 %)",
+    "N'oublie pas de te désabonner avant la 2e livraison si tu veux juste tester"
+   ],
+   "etapes": [
+    "Ouvre franklinpetfood.com",
+    "Choisis les croquettes de ton animal en mode abonnement",
+    "Entre le code ABO10 au panier et vérifie la remise −30 %",
+    "Choisis la livraison en point relais",
+    "Résilie depuis ton compte (Franklin, rubrique abonnements) quand tu veux"
+   ],
+   "finTxt": "Black Friday (pas de date de fin affichée)",
+   "desc": "Franklin, marque française de croquettes sans céréales, fait −30 % sur les 3 premières commandes en abonnement avec un jouet de Noël offert.",
+   "lien": "https://franklinpetfood.com/pages/chien",
+   "source": "https://franklinpetfood.com/products/pack-decouverte-chat",
+   "avis": "Seulement si tu as un animal. Moins fort que Japhy (−60 %), mais la remise dure 3 commandes.",
+   "emoji": "🐾",
+   "fiabilite": "Page officielle Franklin vérifiée le 27/11 (codes ABO10 et cadeau Black Friday affichés)",
+   "prixApres": "prix normal −20 % en abonnement",
+   "resilierLe": null,
+   "resilierTxt": "avant la livraison suivante",
+   "resilier": "Depuis ton compte Franklin (franklinpetfood.com/tools/recurring/login), gérer ou annuler l'abonnement."
+  },
+  {
    "id": "glowria-skin-cycling-1re-box",
    "acces": "abonnement",
    "livre": true,
@@ -6490,7 +6309,7 @@
     "Commande la box de novembre à 19,90 €",
     "Désabonne-toi dans ton espace client avant le 24 nov. inclus"
    ],
-   "finTxt": "Box de novembre, selon stock · résilier avant le 24 nov.",
+   "finTxt": "Box du mois, selon stock (la date de résiliation de novembre, le 24 nov., est passée : vérifie celle de décembre)",
    "desc": "1re box à 19,90 € sans engagement : shampoing Biothalys, masque cheveux Poreia, masque lèvres Lyos, eye-liner Joséphine et bougie Erth Skin.",
    "lien": "https://www.prescriptionlab.com/landing/black-week",
    "source": "https://touteslesbox.fr/box-beaute-decembre-2026-comparatif-prix-dates-offres/",
@@ -9177,45 +8996,6 @@
    "livre": false
   },
   {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "",
-   "conditions": "",
-   "emoji": "🎂",
-   "id": "rituals-cadeau-anniversaire-classic",
-   "acces": "condition",
-   "livre": false,
-   "rayon": "beaute",
-   "type": "cadeau",
-   "titre": "Rituals : cadeau d'anniversaire en boutique avec My Rituals (même sans achat avant)",
-   "rarete": "rar",
-   "cout": "0 € (passage en boutique)",
-   "coutNum": 0,
-   "qty": "1 cadeau par an",
-   "contenu": [
-    "Cadeau d'anniversaire « Classic » pour les membres qui ont fait 0 à 2 achats",
-    "Cadeau plus beau (Premium / Deluxe) si tu as déjà acheté plusieurs fois"
-   ],
-   "pieges": [
-    "Le cadeau se récupère dans une boutique Rituals : il n'y en a pas partout, vérifie la plus proche (Narbonne, Perpignan, Montpellier, Toulouse…)",
-    "La page ne dit pas combien de temps le cadeau reste valable : passe vite après ton anniversaire",
-    "Renseigne bien ta date de naissance à l'inscription"
-   ],
-   "etapes": [
-    "Inscris-toi gratuitement à My Rituals sur rituals.com ou dans l'appli",
-    "Ajoute ta date de naissance dans ton profil",
-    "Le mois de ton anniversaire, passe dans une boutique Rituals avec ton compte et demande ton cadeau"
-   ],
-   "fin": null,
-   "finTxt": "Permanent (chaque année)",
-   "desc": "Les membres My Rituals (inscription gratuite) reçoivent un cadeau d'anniversaire en boutique. Le niveau Classic est prévu pour 0 à 2 achats, donc même sans avoir acheté.",
-   "lien": "https://www.rituals.com/fr-fr/happy-birthday.html",
-   "source": "https://www.rituals.com/fr-fr/happy-birthday.html",
-   "avis": "Un petit soin offert pour ton anniversaire juste en t'inscrivant. Le seul souci : il faut aller dans une boutique Rituals, donc à garder pour un jour où tu passes en ville.",
-   "fiabilite": "Page officielle Rituals, Vérifié le 27/11"
-  },
-  {
    "id": "carrefour-jouets-2plus1-bf",
    "acces": "condition",
    "rayon": "jouets",
@@ -9373,6 +9153,45 @@
    "livre": false
   },
   {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "",
+   "conditions": "",
+   "emoji": "🎂",
+   "id": "rituals-cadeau-anniversaire-classic",
+   "acces": "condition",
+   "livre": false,
+   "rayon": "beaute",
+   "type": "cadeau",
+   "titre": "Rituals : cadeau d'anniversaire en boutique avec My Rituals (même sans achat avant)",
+   "rarete": "rar",
+   "cout": "0 € (passage en boutique)",
+   "coutNum": 0,
+   "qty": "1 cadeau par an",
+   "contenu": [
+    "Cadeau d'anniversaire « Classic » pour les membres qui ont fait 0 à 2 achats",
+    "Cadeau plus beau (Premium / Deluxe) si tu as déjà acheté plusieurs fois"
+   ],
+   "pieges": [
+    "Le cadeau se récupère dans une boutique Rituals : il n'y en a pas partout, vérifie la plus proche (Narbonne, Perpignan, Montpellier, Toulouse…)",
+    "La page ne dit pas combien de temps le cadeau reste valable : passe vite après ton anniversaire",
+    "Renseigne bien ta date de naissance à l'inscription"
+   ],
+   "etapes": [
+    "Inscris-toi gratuitement à My Rituals sur rituals.com ou dans l'appli",
+    "Ajoute ta date de naissance dans ton profil",
+    "Le mois de ton anniversaire, passe dans une boutique Rituals avec ton compte et demande ton cadeau"
+   ],
+   "fin": null,
+   "finTxt": "Permanent (chaque année)",
+   "desc": "Les membres My Rituals (inscription gratuite) reçoivent un cadeau d'anniversaire en boutique. Le niveau Classic est prévu pour 0 à 2 achats, donc même sans avoir acheté.",
+   "lien": "https://www.rituals.com/fr-fr/happy-birthday.html",
+   "source": "https://www.rituals.com/fr-fr/happy-birthday.html",
+   "avis": "Un petit soin offert pour ton anniversaire juste en t'inscrivant. Le seul souci : il faut aller dans une boutique Rituals, donc à garder pour un jour où tu passes en ville.",
+   "fiabilite": "Page officielle Rituals, Vérifié le 27/11"
+  },
+  {
    "id": "la-boite-rose",
    "acces": "condition",
    "rayon": "bebe",
@@ -9492,7 +9311,42 @@
    "livre": false
   },
   {
-   "nouveau": true,
+   "contenu": [
+    "Warner TV (canal 170)",
+    "Science & Vie TV (canal 560)"
+   ],
+   "pieges": [
+    "Réservé aux abonnés Freebox"
+   ],
+   "etapes": [
+    "Allume ta Freebox",
+    "Va sur le canal 170 ou 560 : rien à activer"
+   ],
+   "conditions": "Abonnement Freebox requis",
+   "qty": "2 chaînes",
+   "gratuit": false,
+   "sansCarte": true,
+   "fin": "2026-11-30T23:59:00+01:00",
+   "id": "freebox-chaines",
+   "acces": "condition",
+   "rayon": "culture",
+   "type": "cadeau",
+   "titre": "Warner TV et Science & Vie TV gratuites (Freebox)",
+   "rarete": "com",
+   "cout": "0 € (si tu as une Freebox)",
+   "coutNum": 0,
+   "finTxt": "Jusqu'au 30 nov.",
+   "desc": "Deux chaînes normalement payantes ouvertes gratuitement, sans activation ni facturation automatique.",
+   "lien": "https://www.universfreebox.com/article601271.html",
+   "source": "https://www.universfreebox.com/article601271.html",
+   "avis": "Zéro risque : rien à résilier, ça s'arrête tout seul.",
+   "emoji": "📡",
+   "fiabilite": "Free",
+   "nouveau": false,
+   "livre": false
+  },
+  {
+   "nouveau": false,
    "gratuit": false,
    "sansCarte": true,
    "prix": "",
@@ -9532,7 +9386,7 @@
    "fiabilite": "Bons Plans Mania du 25/11 (communication Carrefour), page Carrefour non ouverte"
   },
   {
-   "nouveau": true,
+   "nouveau": false,
    "gratuit": false,
    "sansCarte": true,
    "prix": "",
@@ -9571,7 +9425,46 @@
    "fiabilite": "Pages officielles KIKO, Vérifié le 27/11"
   },
   {
-   "nouveau": true,
+   "livre": true,
+   "sansCarte": true,
+   "qty": "10 000 échantillons, 1 par foyer",
+   "contenu": [
+    "1 échantillon Décolor Stop",
+    "40 % remboursés sur une lessive Henkel éligible"
+   ],
+   "pieges": [
+    "Il faut acheter une lessive d'abord",
+    "Échantillon envoyé seulement après validation du dossier",
+    "Livraison jusqu'à 8 semaines"
+   ],
+   "etapes": [
+    "Achète une lessive éligible",
+    "Fais ta demande de remboursement sur La Belle Adresse",
+    "Coche la case pour l'échantillon"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 décembre 2026 (ou fin du stock)",
+   "prix": null,
+   "coutNum": null,
+   "gratuit": false,
+   "id": "labelleadresse-decolor-stop",
+   "acces": "condition",
+   "rayon": "maison",
+   "type": "ech",
+   "titre": "Échantillon Décolor Stop offert + 40 % remboursés sur une lessive",
+   "rarete": "com",
+   "cout": "Achat d'une lessive (40 % remboursés)",
+   "desc": "Sur La Belle Adresse (Henkel), achète une lessive, récupère 40 % et reçois un échantillon Décolor Stop.",
+   "conditions": "Majeur, France métropolitaine, compte La Belle Adresse, preuve d'achat.",
+   "lien": "https://www.labelleadresse.com/reglement-jeu",
+   "source": "https://bonsplansmania.fr/article/la-belle-adresse-lessive-40-rembourses-decolor-stop-offert-2026",
+   "avis": "Intéressant seulement si tu achètes déjà de la lessive.",
+   "emoji": "🧺",
+   "fiabilite": "règlement cité par l'article du 23/11, non relu directement",
+   "nouveau": false
+  },
+  {
+   "nouveau": false,
    "gratuit": false,
    "sansCarte": true,
    "prix": "",
@@ -9610,7 +9503,7 @@
    "fiabilite": "Page officielle Sephora, Vérifié le 27/11"
   },
   {
-   "nouveau": true,
+   "nouveau": false,
    "gratuit": false,
    "sansCarte": true,
    "prix": "",
@@ -9650,7 +9543,7 @@
    "fiabilite": "Milesopedia (catalogue au 8 oct. 2026) + fiche officielle de l'appli, Vérifié le 27/11"
   },
   {
-   "nouveau": true,
+   "nouveau": false,
    "gratuit": false,
    "sansCarte": true,
    "prix": "",
@@ -9691,7 +9584,7 @@
    "fiabilite": "Milesopedia + page codes Dealabs du 27/11, fiche officielle de l'appli"
   },
   {
-   "nouveau": true,
+   "nouveau": false,
    "gratuit": false,
    "sansCarte": true,
    "prix": "",
@@ -9730,7 +9623,7 @@
    "fiabilite": "Page codes promo Dealabs consultée le 27/11, page Nocibé non ouverte"
   },
   {
-   "nouveau": true,
+   "nouveau": false,
    "gratuit": false,
    "sansCarte": true,
    "prix": "",
@@ -9770,80 +9663,6 @@
    "source": "https://milesopedia.fr/programme-fidelite/starbucks-rewards",
    "avis": "Seulement si tu vas souvent chez Starbucks (Montpellier, Toulouse…). Pour Hugo dans l'Aude, c'est plutôt un bonus en voyage.",
    "fiabilite": "Page officielle Starbucks, Vérifié le 27/11"
-  },
-  {
-   "contenu": [
-    "Warner TV (canal 170)",
-    "Science & Vie TV (canal 560)"
-   ],
-   "pieges": [
-    "Réservé aux abonnés Freebox"
-   ],
-   "etapes": [
-    "Allume ta Freebox",
-    "Va sur le canal 170 ou 560 : rien à activer"
-   ],
-   "conditions": "Abonnement Freebox requis",
-   "qty": "2 chaînes",
-   "gratuit": false,
-   "sansCarte": true,
-   "fin": "2026-11-30T23:59:00+01:00",
-   "id": "freebox-chaines",
-   "acces": "condition",
-   "rayon": "culture",
-   "type": "cadeau",
-   "titre": "Warner TV et Science & Vie TV gratuites (Freebox)",
-   "rarete": "com",
-   "cout": "0 € (si tu as une Freebox)",
-   "coutNum": 0,
-   "finTxt": "Jusqu'au 30 nov.",
-   "desc": "Deux chaînes normalement payantes ouvertes gratuitement, sans activation ni facturation automatique.",
-   "lien": "https://www.universfreebox.com/article601271.html",
-   "source": "https://www.universfreebox.com/article601271.html",
-   "avis": "Zéro risque : rien à résilier, ça s'arrête tout seul.",
-   "emoji": "📡",
-   "fiabilite": "Free",
-   "nouveau": false,
-   "livre": false
-  },
-  {
-   "livre": true,
-   "sansCarte": true,
-   "qty": "10 000 échantillons, 1 par foyer",
-   "contenu": [
-    "1 échantillon Décolor Stop",
-    "40 % remboursés sur une lessive Henkel éligible"
-   ],
-   "pieges": [
-    "Il faut acheter une lessive d'abord",
-    "Échantillon envoyé seulement après validation du dossier",
-    "Livraison jusqu'à 8 semaines"
-   ],
-   "etapes": [
-    "Achète une lessive éligible",
-    "Fais ta demande de remboursement sur La Belle Adresse",
-    "Coche la case pour l'échantillon"
-   ],
-   "fin": "2026-12-31T23:59:00+01:00",
-   "finTxt": "Jusqu'au 31 décembre 2026 (ou fin du stock)",
-   "prix": null,
-   "coutNum": null,
-   "gratuit": false,
-   "id": "labelleadresse-decolor-stop",
-   "acces": "condition",
-   "rayon": "maison",
-   "type": "ech",
-   "titre": "Échantillon Décolor Stop offert + 40 % remboursés sur une lessive",
-   "rarete": "com",
-   "cout": "Achat d'une lessive (40 % remboursés)",
-   "desc": "Sur La Belle Adresse (Henkel), achète une lessive, récupère 40 % et reçois un échantillon Décolor Stop.",
-   "conditions": "Majeur, France métropolitaine, compte La Belle Adresse, preuve d'achat.",
-   "lien": "https://www.labelleadresse.com/reglement-jeu",
-   "source": "https://bonsplansmania.fr/article/la-belle-adresse-lessive-40-rembourses-decolor-stop-offert-2026",
-   "avis": "Intéressant seulement si tu achètes déjà de la lessive.",
-   "emoji": "🧺",
-   "fiabilite": "règlement cité par l'article du 23/11, non relu directement",
-   "nouveau": false
   },
   {
    "id": "bk-kingdom-bienvenue-anniv",
@@ -10310,48 +10129,6 @@
    "livre": true
   },
   {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "85 €",
-   "conditions": "",
-   "id": "modz-outlet-black-friday-90",
-   "acces": "pascher",
-   "livre": true,
-   "rayon": "vetements",
-   "type": "promo",
-   "titre": "Modz Outlet Black Friday : pantalons de marque jusqu'à -90 % (dès 8,50 €)",
-   "rarete": "rar",
-   "cout": "Dès 8,50 € + livraison",
-   "coutNum": 8.5,
-   "qty": "Pièces uniques (1 taille par article)",
-   "contenu": [
-    "Ex. pantalon slim Lee Cooper 8,50 € au lieu de 85 € (-90 %)",
-    "Slim stretch Lee Cooper 9,90 € au lieu de 99 €",
-    "Beaucoup de Lee Cooper à -80 % (15 à 21 €)",
-    "Chinos Tiffosi homme 18 € au lieu de 36 €"
-   ],
-   "pieges": [
-    "Pièces uniques : souvent une seule taille par article",
-    "Les -90 % sont surtout en femme ; en homme c'est plutôt -50 %",
-    "Livraison gratuite seulement dès 100 €, sinon frais en plus (prix non affiché)",
-    "« Dernières heures » du Black Friday : ça peut finir très vite"
-   ],
-   "etapes": [
-    "Ouvre la page Modz",
-    "Filtre par ta taille",
-    "Ajoute au panier et vérifie le total avec la livraison avant de payer"
-   ],
-   "fin": null,
-   "finTxt": "Dernières heures du Black Friday (fin non précisée)",
-   "desc": "Site outlet français qui vend des fins de séries de marques : le Black Friday pousse certains pantalons à -80 / -90 %.",
-   "lien": "https://modz.fr/marques/lee-cooper/vetements-femme/pantalons/pantalons-slim/",
-   "source": "https://modz.fr/marques/lee-cooper/vetements-femme/pantalons/pantalons-slim/",
-   "avis": "Un jean de marque à moins de 10 €, c'est imbattable, mais seulement si ta taille y est. Calcule la livraison : sur un seul article, elle peut manger l'économie.",
-   "emoji": "👖",
-   "fiabilite": "Page officielle Modz, vérifié le 27/11"
-  },
-  {
    "acces": "pascher",
    "rayon": "abo",
    "type": "essai",
@@ -10432,6 +10209,48 @@
    "id": "byou-prime-170go",
    "titre": "B&You 170 Go 5G + Amazon Prime inclus à 14,99 €/mois",
    "livre": false
+  },
+  {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "85 €",
+   "conditions": "",
+   "id": "modz-outlet-black-friday-90",
+   "acces": "pascher",
+   "livre": true,
+   "rayon": "vetements",
+   "type": "promo",
+   "titre": "Modz Outlet Black Friday : pantalons de marque jusqu'à -90 % (dès 8,50 €)",
+   "rarete": "rar",
+   "cout": "Dès 8,50 € + livraison",
+   "coutNum": 8.5,
+   "qty": "Pièces uniques (1 taille par article)",
+   "contenu": [
+    "Ex. pantalon slim Lee Cooper 8,50 € au lieu de 85 € (-90 %)",
+    "Slim stretch Lee Cooper 9,90 € au lieu de 99 €",
+    "Beaucoup de Lee Cooper à -80 % (15 à 21 €)",
+    "Chinos Tiffosi homme 18 € au lieu de 36 €"
+   ],
+   "pieges": [
+    "Pièces uniques : souvent une seule taille par article",
+    "Les -90 % sont surtout en femme ; en homme c'est plutôt -50 %",
+    "Livraison gratuite seulement dès 100 €, sinon frais en plus (prix non affiché)",
+    "« Dernières heures » du Black Friday : ça peut finir très vite"
+   ],
+   "etapes": [
+    "Ouvre la page Modz",
+    "Filtre par ta taille",
+    "Ajoute au panier et vérifie le total avec la livraison avant de payer"
+   ],
+   "fin": null,
+   "finTxt": "Dernières heures du Black Friday (fin non précisée)",
+   "desc": "Site outlet français qui vend des fins de séries de marques : le Black Friday pousse certains pantalons à -80 / -90 %.",
+   "lien": "https://modz.fr/marques/lee-cooper/vetements-femme/pantalons/pantalons-slim/",
+   "source": "https://modz.fr/marques/lee-cooper/vetements-femme/pantalons/pantalons-slim/",
+   "avis": "Un jean de marque à moins de 10 €, c'est imbattable, mais seulement si ta taille y est. Calcule la livraison : sur un seul article, elle peut manger l'économie.",
+   "emoji": "👖",
+   "fiabilite": "Page officielle Modz, vérifié le 27/11"
   },
   {
    "id": "lookfantastic-edition-black-friday-2026",
@@ -11338,44 +11157,6 @@
    "livre": true
   },
   {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "29 €",
-   "conditions": "",
-   "id": "auchan-bracelet-arbre-de-vie-750",
-   "acces": "pascher",
-   "livre": true,
-   "rayon": "accessoires",
-   "type": "promo",
-   "titre": "Bracelet arbre de vie SC Bohème à 7,50 € au lieu de 29 € (-74 %, Auchan)",
-   "rarete": "com",
-   "cout": "7,50 € + livraison",
-   "coutNum": 7.5,
-   "qty": "1 bracelet",
-   "contenu": [
-    "Bracelet arbre de vie SC Bohème"
-   ],
-   "pieges": [
-    "Frais de livraison en plus selon le mode choisi",
-    "Prix barré = prix de référence du vendeur",
-    "Livraison en 4-5 jours"
-   ],
-   "etapes": [
-    "Ouvre la page Black Friday Auchan",
-    "Cherche « SC Bohème bracelet arbre de vie »",
-    "Ajoute au panier et vérifie le total"
-   ],
-   "fin": null,
-   "finTxt": "Pendant le Black Friday Auchan (selon stock)",
-   "desc": "Petit bijou cadeau à -74 % dans la sélection Black Friday d'Auchan, livrable à domicile.",
-   "lien": "https://www.auchan.fr/black-friday/c-201811061408",
-   "source": "https://www.auchan.fr/black-friday/c-201811061408",
-   "avis": "Idée de petit cadeau de Noël pas cher. Prends-le avec d'autres courses ou en retrait magasin pour éviter que la livraison double le prix.",
-   "emoji": "📿",
-   "fiabilite": "Page officielle Auchan, vérifié le 27/11"
-  },
-  {
    "gratuit": false,
    "sansCarte": false,
    "nouveau": false,
@@ -11522,6 +11303,44 @@
    "fiabilite": "Officiel flixbus.fr vérifié le 23/11",
    "nouveau": false,
    "livre": false
+  },
+  {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "29 €",
+   "conditions": "",
+   "id": "auchan-bracelet-arbre-de-vie-750",
+   "acces": "pascher",
+   "livre": true,
+   "rayon": "accessoires",
+   "type": "promo",
+   "titre": "Bracelet arbre de vie SC Bohème à 7,50 € au lieu de 29 € (-74 %, Auchan)",
+   "rarete": "com",
+   "cout": "7,50 € + livraison",
+   "coutNum": 7.5,
+   "qty": "1 bracelet",
+   "contenu": [
+    "Bracelet arbre de vie SC Bohème"
+   ],
+   "pieges": [
+    "Frais de livraison en plus selon le mode choisi",
+    "Prix barré = prix de référence du vendeur",
+    "Livraison en 4-5 jours"
+   ],
+   "etapes": [
+    "Ouvre la page Black Friday Auchan",
+    "Cherche « SC Bohème bracelet arbre de vie »",
+    "Ajoute au panier et vérifie le total"
+   ],
+   "fin": null,
+   "finTxt": "Pendant le Black Friday Auchan (selon stock)",
+   "desc": "Petit bijou cadeau à -74 % dans la sélection Black Friday d'Auchan, livrable à domicile.",
+   "lien": "https://www.auchan.fr/black-friday/c-201811061408",
+   "source": "https://www.auchan.fr/black-friday/c-201811061408",
+   "avis": "Idée de petit cadeau de Noël pas cher. Prends-le avec d'autres courses ou en retrait magasin pour éviter que la livraison double le prix.",
+   "emoji": "📿",
+   "fiabilite": "Page officielle Auchan, vérifié le 27/11"
   },
   {
    "id": "phenix-paniers-antigaspi",
@@ -12211,7 +12030,7 @@
     "Ajoute au panier",
     "Paie : livraison estimée fin novembre"
    ],
-   "finTxt": "Commander avant le 26 nov. pour Noël",
+   "finTxt": "Box mensuelle (la date « commander avant le 26 nov. pour Noël » est passée)",
    "desc": "Grosse box découverte du Japon en achat unique : au moins 35 snacks (dont 2 KitKat) + un petit cadeau, livrée sans frais de douane.",
    "lien": "https://www.tokyosnackbox.com/en/products/discovery-box-snacks-japan",
    "source": "https://touteslesbox.fr/tokyo-snack-box/",
@@ -12981,81 +12800,6 @@
    "nouveau": false
   },
   {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "",
-   "conditions": "",
-   "id": "patyka-serum-bonne-mine-belle-au-naturel",
-   "acces": "selection",
-   "livre": true,
-   "rayon": "beaute",
-   "type": "test",
-   "titre": "20 sérums bonne mine bio Patyka à tester (Club des testeuses Belle au Naturel)",
-   "rarete": "rar",
-   "cout": "0 €",
-   "coutNum": 0,
-   "qty": "20 places",
-   "contenu": [
-    "1 sérum bonne mine bio Patyka, format complet"
-   ],
-   "pieges": [
-    "Seulement 20 places",
-    "Formulaire : nom, date de naissance, e-mail",
-    "Pas sûr d'être choisi, envoi selon stock"
-   ],
-   "etapes": [
-    "Ouvre la page du test",
-    "Clique sur « Candidater au test »",
-    "Remplis le formulaire du Club des testeuses"
-   ],
-   "fin": "2026-12-11T23:59:00+01:00",
-   "finTxt": "Jusqu'au 11 déc.",
-   "desc": "Patyka envoie un sérum bio en taille réelle (souvent 40 € et plus) à 20 testeurs choisis.",
-   "lien": "https://www.moins-depenser.com/echantillon/4238",
-   "source": "https://www.moins-depenser.com/echantillon/test-produit/4238-gratuitement-tester.html",
-   "avis": "Produit bio cher en vrai, et ça marche aussi pour un homme (teint fatigué). Peu de places, mais candidature gratuite.",
-   "emoji": "✨",
-   "fiabilite": "Moins-Dépenser (test ouvert depuis le 11/11), page de la marque non ouverte, vérifié le 27/11"
-  },
-  {
-   "id": "vista-pets-chats",
-   "acces": "selection",
-   "rayon": "animaux",
-   "type": "test",
-   "titre": "Étude Vista Pets : 2 croquettes pour chat offertes à comparer",
-   "rarete": "rar",
-   "gratuit": false,
-   "cout": "0 €",
-   "coutNum": 0,
-   "sansCarte": true,
-   "qty": "Places non précisées",
-   "contenu": [
-    "2 références de croquettes pour chat adulte (6 jours de test)"
-   ],
-   "pieges": [
-    "Chat de 1 à 10 ans en bonne santé",
-    "Il faut peser la gamelle à chaque repas",
-    "Formulaire Google : ne donne pas plus que nécessaire"
-   ],
-   "etapes": [
-    "Remplis le formulaire",
-    "Si retenu : envoi fin novembre",
-    "Note les quantités jusqu'à mi-décembre"
-   ],
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Jusqu'au 27 nov.",
-   "desc": "Étude de goût : croquettes offertes pour ton chat.",
-   "conditions": "Chat adulte en bonne santé, sans aliment thérapeutique.",
-   "lien": "https://docs.google.com/forms/d/e/1FAIpQLSdCp_poXDSFtiA_f8PY0XM2-gWaCNIvFXui8rqjnm18Lqrptg/viewform",
-   "source": "https://bonsplansmania.fr/article/test-vista-pets-croquettes-chats-adultes-novembre-2026",
-   "avis": "Seulement si tu as un chat ; un peu contraignant.",
-   "emoji": "🐱",
-   "fiabilite": "BonsPlansMania (article lu le 23/11) ; page officielle non ouverte (accès bloqué), lien = destination du lien de candidature",
-   "nouveau": false,
-   "livre": true
-  },
-  {
    "id": "consobaby-cybex-anoris",
    "acces": "selection",
    "rayon": "bebe",
@@ -13488,6 +13232,44 @@
    "nouveau": false
   },
   {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "",
+   "conditions": "",
+   "id": "patyka-serum-bonne-mine-belle-au-naturel",
+   "acces": "selection",
+   "livre": true,
+   "rayon": "beaute",
+   "type": "test",
+   "titre": "20 sérums bonne mine bio Patyka à tester (Club des testeuses Belle au Naturel)",
+   "rarete": "rar",
+   "cout": "0 €",
+   "coutNum": 0,
+   "qty": "20 places",
+   "contenu": [
+    "1 sérum bonne mine bio Patyka, format complet"
+   ],
+   "pieges": [
+    "Seulement 20 places",
+    "Formulaire : nom, date de naissance, e-mail",
+    "Pas sûr d'être choisi, envoi selon stock"
+   ],
+   "etapes": [
+    "Ouvre la page du test",
+    "Clique sur « Candidater au test »",
+    "Remplis le formulaire du Club des testeuses"
+   ],
+   "fin": "2026-12-11T23:59:00+01:00",
+   "finTxt": "Jusqu'au 11 déc.",
+   "desc": "Patyka envoie un sérum bio en taille réelle (souvent 40 € et plus) à 20 testeurs choisis.",
+   "lien": "https://www.moins-depenser.com/echantillon/4238",
+   "source": "https://www.moins-depenser.com/echantillon/test-produit/4238-gratuitement-tester.html",
+   "avis": "Produit bio cher en vrai, et ça marche aussi pour un homme (teint fatigué). Peu de places, mais candidature gratuite.",
+   "emoji": "✨",
+   "fiabilite": "Moins-Dépenser (test ouvert depuis le 11/11), page de la marque non ouverte, vérifié le 27/11"
+  },
+  {
    "id": "peggysage-ms",
    "acces": "selection",
    "rayon": "beaute",
@@ -13602,121 +13384,6 @@
    "avis": "Ça coûte rien de postuler, et un dentifrice bio c'est toujours utile. Mais rien n'est garanti.",
    "emoji": "🪥",
    "fiabilite": "Formulaire officiel Coslys (relevé via Testons Ensemble, page de la marque non chargée de mon côté)"
-  },
-  {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "",
-   "conditions": "",
-   "id": "mamadvisor-clementoni-calendrier-stylos",
-   "acces": "selection",
-   "livre": true,
-   "rayon": "jouets",
-   "type": "test",
-   "rarete": "com",
-   "cout": "0 €",
-   "coutNum": 0,
-   "fin": null,
-   "finTxt": "Date limite non affichée (vérifie dans ton espace)",
-   "titre": "Calendrier de l'Avent Clementoni « Crée tes stylos » à tester (Mam'Advisor)",
-   "qty": "Nombre de places non indiqué",
-   "contenu": [
-    "Calendrier de l'Avent Clementoni : 24 cases, 8 stylos à assembler, 100+ accessoires (dès 6 ans)"
-   ],
-   "pieges": [
-    "Il faut un compte Mam'Advisor (site de Magicmaman)",
-    "Pas sûr d'être choisi",
-    "Il faudra donner ton avis après le test",
-    "Livraison avant début décembre pas garantie"
-   ],
-   "etapes": [
-    "Ouvre la page du test",
-    "Connecte-toi ou crée un compte Mam'Advisor",
-    "Clique pour candidater et remplis le profil"
-   ],
-   "desc": "Mam'Advisor cherche des testeurs pour un calendrier de l'Avent créatif Clementoni, envoyé gratuitement aux sélectionnés.",
-   "lien": "https://bonsplansmania.fr/go/test-produit-calendrier-cree-tes-stylos-clementoni-mamadvisor-2026",
-   "source": "https://bonsplansmania.fr/article/test-produit-calendrier-cree-tes-stylos-clementoni-mamadvisor-2026",
-   "avis": "Si tu as un neveu ou une nièce, c'est un cadeau gratuit possible. Candidature rapide, mais sélection pas garantie.",
-   "emoji": "🖊️",
-   "fiabilite": "Article Bons Plans Mania du 25/11, page Mam'Advisor non ouverte, vérifié le 27/11"
-  },
-  {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "",
-   "conditions": "",
-   "id": "mamadvisor-elphee-donebydeer",
-   "acces": "selection",
-   "livre": true,
-   "rayon": "jouets",
-   "type": "test",
-   "rarete": "com",
-   "cout": "0 €",
-   "coutNum": 0,
-   "fin": null,
-   "finTxt": "Date limite non affichée (vérifie dans ton espace)",
-   "titre": "Jouet à tirer Elphee de Done by Deer à tester (Mam'Advisor)",
-   "qty": "Nombre de places non indiqué",
-   "contenu": [
-    "Elphee : éléphant en peluche détachable + chariot à roulettes (dès 12 mois)"
-   ],
-   "pieges": [
-    "Compte Mam'Advisor obligatoire",
-    "Pas sûr d'être choisi",
-    "Avis à donner après le test"
-   ],
-   "etapes": [
-    "Ouvre la page du test",
-    "Connecte-toi à Mam'Advisor",
-    "Candidate en remplissant le profil"
-   ],
-   "desc": "Test gratuit d'un jouet bébé design Done by Deer, envoyé aux familles sélectionnées.",
-   "lien": "https://bonsplansmania.fr/go/test-produit-elphee-done-by-deer-mamadvisor-2026",
-   "source": "https://bonsplansmania.fr/article/test-produit-elphee-done-by-deer-mamadvisor-2026",
-   "avis": "Seulement utile si tu as un bébé autour de toi (cadeau de naissance). Gratuit si tu es choisi.",
-   "emoji": "🐘",
-   "fiabilite": "Article Bons Plans Mania du 25/11, page Mam'Advisor non ouverte, vérifié le 27/11"
-  },
-  {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "",
-   "conditions": "",
-   "id": "mamadvisor-moodies-huggy-nathan",
-   "acces": "selection",
-   "livre": true,
-   "rayon": "jouets",
-   "type": "test",
-   "rarete": "com",
-   "cout": "0 €",
-   "coutNum": 0,
-   "fin": null,
-   "finTxt": "Date limite non affichée (vérifie dans ton espace)",
-   "titre": "Peluche interactive Moodies Huggy (Nathan) à tester (Mam'Advisor)",
-   "qty": "Nombre de places non indiqué",
-   "contenu": [
-    "Moodies Huggy : compagnon interactif en forme de cœur (dès 3 ans)"
-   ],
-   "pieges": [
-    "Il faut 3 piles AAA (non fournies)",
-    "Compte Mam'Advisor obligatoire",
-    "Pas sûr d'être choisi"
-   ],
-   "etapes": [
-    "Ouvre la page du test",
-    "Connecte-toi à Mam'Advisor",
-    "Candidate"
-   ],
-   "desc": "Nathan fait tester gratuitement son doudou interactif Moodies Huggy aux familles sélectionnées.",
-   "lien": "https://bonsplansmania.fr/go/test-produit-moodies-huggy-nathan-mamadvisor-2026",
-   "source": "https://bonsplansmania.fr/article/test-produit-moodies-huggy-nathan-mamadvisor-2026",
-   "avis": "Idée cadeau gratuite pour un petit de la famille si tu es pris. Prévois 3 piles.",
-   "emoji": "💗",
-   "fiabilite": "Article Bons Plans Mania du 25/11, page Mam'Advisor non ouverte, vérifié le 27/11"
   },
   {
    "id": "eno-enoliss-test",
@@ -13976,6 +13643,121 @@
    "fiabilite": "Lien officiel trnd relevé sur testons-ensemble le 25/11 ; date de fin vue sur moins-depenser ; page trnd non consultable",
    "prix": null,
    "nouveau": false
+  },
+  {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "",
+   "conditions": "",
+   "id": "mamadvisor-clementoni-calendrier-stylos",
+   "acces": "selection",
+   "livre": true,
+   "rayon": "jouets",
+   "type": "test",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "fin": null,
+   "finTxt": "Date limite non affichée (vérifie dans ton espace)",
+   "titre": "Calendrier de l'Avent Clementoni « Crée tes stylos » à tester (Mam'Advisor)",
+   "qty": "Nombre de places non indiqué",
+   "contenu": [
+    "Calendrier de l'Avent Clementoni : 24 cases, 8 stylos à assembler, 100+ accessoires (dès 6 ans)"
+   ],
+   "pieges": [
+    "Il faut un compte Mam'Advisor (site de Magicmaman)",
+    "Pas sûr d'être choisi",
+    "Il faudra donner ton avis après le test",
+    "Livraison avant début décembre pas garantie"
+   ],
+   "etapes": [
+    "Ouvre la page du test",
+    "Connecte-toi ou crée un compte Mam'Advisor",
+    "Clique pour candidater et remplis le profil"
+   ],
+   "desc": "Mam'Advisor cherche des testeurs pour un calendrier de l'Avent créatif Clementoni, envoyé gratuitement aux sélectionnés.",
+   "lien": "https://bonsplansmania.fr/go/test-produit-calendrier-cree-tes-stylos-clementoni-mamadvisor-2026",
+   "source": "https://bonsplansmania.fr/article/test-produit-calendrier-cree-tes-stylos-clementoni-mamadvisor-2026",
+   "avis": "Si tu as un neveu ou une nièce, c'est un cadeau gratuit possible. Candidature rapide, mais sélection pas garantie.",
+   "emoji": "🖊️",
+   "fiabilite": "Article Bons Plans Mania du 25/11, page Mam'Advisor non ouverte, vérifié le 27/11"
+  },
+  {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "",
+   "conditions": "",
+   "id": "mamadvisor-elphee-donebydeer",
+   "acces": "selection",
+   "livre": true,
+   "rayon": "jouets",
+   "type": "test",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "fin": null,
+   "finTxt": "Date limite non affichée (vérifie dans ton espace)",
+   "titre": "Jouet à tirer Elphee de Done by Deer à tester (Mam'Advisor)",
+   "qty": "Nombre de places non indiqué",
+   "contenu": [
+    "Elphee : éléphant en peluche détachable + chariot à roulettes (dès 12 mois)"
+   ],
+   "pieges": [
+    "Compte Mam'Advisor obligatoire",
+    "Pas sûr d'être choisi",
+    "Avis à donner après le test"
+   ],
+   "etapes": [
+    "Ouvre la page du test",
+    "Connecte-toi à Mam'Advisor",
+    "Candidate en remplissant le profil"
+   ],
+   "desc": "Test gratuit d'un jouet bébé design Done by Deer, envoyé aux familles sélectionnées.",
+   "lien": "https://bonsplansmania.fr/go/test-produit-elphee-done-by-deer-mamadvisor-2026",
+   "source": "https://bonsplansmania.fr/article/test-produit-elphee-done-by-deer-mamadvisor-2026",
+   "avis": "Seulement utile si tu as un bébé autour de toi (cadeau de naissance). Gratuit si tu es choisi.",
+   "emoji": "🐘",
+   "fiabilite": "Article Bons Plans Mania du 25/11, page Mam'Advisor non ouverte, vérifié le 27/11"
+  },
+  {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "",
+   "conditions": "",
+   "id": "mamadvisor-moodies-huggy-nathan",
+   "acces": "selection",
+   "livre": true,
+   "rayon": "jouets",
+   "type": "test",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "fin": null,
+   "finTxt": "Date limite non affichée (vérifie dans ton espace)",
+   "titre": "Peluche interactive Moodies Huggy (Nathan) à tester (Mam'Advisor)",
+   "qty": "Nombre de places non indiqué",
+   "contenu": [
+    "Moodies Huggy : compagnon interactif en forme de cœur (dès 3 ans)"
+   ],
+   "pieges": [
+    "Il faut 3 piles AAA (non fournies)",
+    "Compte Mam'Advisor obligatoire",
+    "Pas sûr d'être choisi"
+   ],
+   "etapes": [
+    "Ouvre la page du test",
+    "Connecte-toi à Mam'Advisor",
+    "Candidate"
+   ],
+   "desc": "Nathan fait tester gratuitement son doudou interactif Moodies Huggy aux familles sélectionnées.",
+   "lien": "https://bonsplansmania.fr/go/test-produit-moodies-huggy-nathan-mamadvisor-2026",
+   "source": "https://bonsplansmania.fr/article/test-produit-moodies-huggy-nathan-mamadvisor-2026",
+   "avis": "Idée cadeau gratuite pour un petit de la famille si tu es pris. Prévois 3 piles.",
+   "emoji": "💗",
+   "fiabilite": "Article Bons Plans Mania du 25/11, page Mam'Advisor non ouverte, vérifié le 27/11"
   },
   {
    "acces": "selection",
@@ -14507,50 +14289,6 @@
    "livre": true
   },
   {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "",
-   "conditions": "",
-   "id": "san-marco-venise-1002-lots",
-   "acces": "tirage",
-   "livre": true,
-   "rayon": "bouffe",
-   "type": "cadeau",
-   "titre": "San Marco : week-end à Venise + 1 002 lots café en instants gagnants",
-   "rarete": "rar",
-   "cout": "0 €",
-   "coutNum": 0,
-   "qty": "1 002 lots instants gagnants + 1 voyage",
-   "contenu": [
-    "800 bons de réduction San Marco",
-    "50 porte-capsules",
-    "60 paires de tasses Caffeini",
-    "15 supports téléphone",
-    "15 puzzles Venise",
-    "2 lots « un an de café »",
-    "Grand lot : 3 nuits à Venise pour 2 (hôtel 4*, vols, petits-déj)"
-   ],
-   "pieges": [
-    "La plupart des lots sont des bons de réduction, pas du café gratuit",
-    "1 participation par personne, 1 gain par foyer",
-    "Majeurs, France métropolitaine (Corse incluse)"
-   ],
-   "etapes": [
-    "Ouvre la page du jeu San Marco",
-    "Remplis le formulaire (sans achat)",
-    "Tu sais tout de suite si tu as gagné un lot instant gagnant"
-   ],
-   "fin": "2026-12-15T18:00:00+01:00",
-   "finTxt": "Jusqu'au 15 déc. 18 h",
-   "desc": "Jeu sans obligation d'achat : instants gagnants (bons, tasses, café pour un an) et un tirage final pour un week-end à Venise.",
-   "lien": "https://bonsplansmania.fr/go/san-marco-voyage-venise-concours-2026",
-   "source": "https://bonsplansmania.fr/article/san-marco-voyage-venise-concours-2026",
-   "avis": "Beaucoup de lots (plus de 1 000), donc de vraies chances d'au moins un petit truc. Ça prend 1 minute, aucun achat.",
-   "emoji": "☕",
-   "fiabilite": "Article Bons Plans Mania (règlement cité, jeu jusqu'au 15/12), page officielle non ouverte, vérifié le 27/11"
-  },
-  {
    "nouveau": false,
    "gratuit": false,
    "prix": "78 € + 6 mois de box",
@@ -14815,6 +14553,50 @@
    "sansCarte": true,
    "source": "https://bonsplansmania.fr/article/test-produit-gratuit-jeu-escape-game-clementoni-25-testeurs-2026",
    "livre": true
+  },
+  {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "",
+   "conditions": "",
+   "id": "san-marco-venise-1002-lots",
+   "acces": "tirage",
+   "livre": true,
+   "rayon": "bouffe",
+   "type": "cadeau",
+   "titre": "San Marco : week-end à Venise + 1 002 lots café en instants gagnants",
+   "rarete": "rar",
+   "cout": "0 €",
+   "coutNum": 0,
+   "qty": "1 002 lots instants gagnants + 1 voyage",
+   "contenu": [
+    "800 bons de réduction San Marco",
+    "50 porte-capsules",
+    "60 paires de tasses Caffeini",
+    "15 supports téléphone",
+    "15 puzzles Venise",
+    "2 lots « un an de café »",
+    "Grand lot : 3 nuits à Venise pour 2 (hôtel 4*, vols, petits-déj)"
+   ],
+   "pieges": [
+    "La plupart des lots sont des bons de réduction, pas du café gratuit",
+    "1 participation par personne, 1 gain par foyer",
+    "Majeurs, France métropolitaine (Corse incluse)"
+   ],
+   "etapes": [
+    "Ouvre la page du jeu San Marco",
+    "Remplis le formulaire (sans achat)",
+    "Tu sais tout de suite si tu as gagné un lot instant gagnant"
+   ],
+   "fin": "2026-12-15T18:00:00+01:00",
+   "finTxt": "Jusqu'au 15 déc. 18 h",
+   "desc": "Jeu sans obligation d'achat : instants gagnants (bons, tasses, café pour un an) et un tirage final pour un week-end à Venise.",
+   "lien": "https://bonsplansmania.fr/go/san-marco-voyage-venise-concours-2026",
+   "source": "https://bonsplansmania.fr/article/san-marco-voyage-venise-concours-2026",
+   "avis": "Beaucoup de lots (plus de 1 000), donc de vraies chances d'au moins un petit truc. Ça prend 1 minute, aucun achat.",
+   "emoji": "☕",
+   "fiabilite": "Article Bons Plans Mania (règlement cité, jeu jusqu'au 15/12), page officielle non ouverte, vérifié le 27/11"
   },
   {
    "acces": "tirage",
@@ -15608,82 +15390,6 @@
    "livre": true
   },
   {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "",
-   "conditions": "",
-   "id": "m6-furreal-gabby-tigre",
-   "acces": "tirage",
-   "livre": true,
-   "rayon": "jouets",
-   "type": "cadeau",
-   "titre": "M6+ : 2 peluches interactives FurReal Gabby le tigre à gagner",
-   "rarete": "com",
-   "cout": "0 €",
-   "coutNum": 0,
-   "qty": "2 peluches",
-   "contenu": [
-    "1 peluche FurReal Gabby le tigre"
-   ],
-   "pieges": [
-    "Seulement 2 gagnants",
-    "Il faut finir un jeu de mémoire (retrouver les paires)",
-    "3 mois minimum entre deux gains chez M6"
-   ],
-   "etapes": [
-    "Ouvre le jeu M6+",
-    "Retrouve toutes les paires du memory",
-    "Remplis le formulaire (partage Facebook facultatif)"
-   ],
-   "fin": "2026-12-13T23:59:00+01:00",
-   "finTxt": "Jusqu'au 13 déc.",
-   "desc": "Petit jeu memory gratuit de M6+ pour gagner une peluche interactive, sympa à offrir à Noël.",
-   "lien": "https://bonsplansmania.fr/go/concours-m6-furreal-gabby-tigre-13-decembre-2026",
-   "source": "https://bonsplansmania.fr/article/concours-m6-furreal-gabby-tigre-13-decembre-2026",
-   "avis": "Seulement 2 lots, donc peu de chances, mais ça se fait en 2 minutes. Idée cadeau pour un enfant de ta famille.",
-   "emoji": "🐯",
-   "fiabilite": "Article Bons Plans Mania du 24/11 (règlement M6 sur Qualifio), vérifié le 27/11"
-  },
-  {
-   "nouveau": true,
-   "gratuit": false,
-   "sansCarte": true,
-   "prix": "35,50 €",
-   "conditions": "",
-   "id": "detente-jardin-30-abonnements",
-   "acces": "tirage",
-   "livre": true,
-   "rayon": "culture",
-   "type": "cadeau",
-   "titre": "Détente Jardin : 30 abonnements d'un an au magazine à gagner",
-   "rarete": "com",
-   "cout": "0 €",
-   "coutNum": 0,
-   "qty": "30 abonnements (6 numéros + 2 hors-séries chacun)",
-   "contenu": [
-    "Abonnement 1 an Détente Jardin (35,50 €) livré chez toi"
-   ],
-   "pieges": [
-    "1 participation par foyer",
-    "Majeurs, France métropolitaine",
-    "Tu as 15 jours pour répondre au mail si tu gagnes"
-   ],
-   "etapes": [
-    "Ouvre la page du concours",
-    "Réponds à la question",
-    "Remplis le formulaire et valide"
-   ],
-   "fin": "2026-12-31T23:59:00+01:00",
-   "finTxt": "Jusqu'au 31 déc.",
-   "desc": "Tirage au sort gratuit : 30 abonnements d'un an au magazine de jardinage, livrés par la poste.",
-   "lien": "https://bonsplansmania.fr/go/concours-detente-jardin-30-abonnements-1-an-2026",
-   "source": "https://bonsplansmania.fr/article/concours-detente-jardin-30-abonnements-1-an-2026",
-   "avis": "30 gagnants, peu de monde connaît : bonnes chances. Utile seulement si tu aimes les plantes ou pour offrir.",
-   "emoji": "🌱",
-   "fiabilite": "Article Bons Plans Mania (règlement cité), page officielle non ouverte, vérifié le 27/11"
-  },
-  {
    "id": "pisse-dru-smartbox",
    "acces": "tirage",
    "rayon": "alcool",
@@ -16339,6 +16045,44 @@
    "livre": true
   },
   {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "",
+   "conditions": "",
+   "id": "m6-furreal-gabby-tigre",
+   "acces": "tirage",
+   "livre": true,
+   "rayon": "jouets",
+   "type": "cadeau",
+   "titre": "M6+ : 2 peluches interactives FurReal Gabby le tigre à gagner",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "qty": "2 peluches",
+   "contenu": [
+    "1 peluche FurReal Gabby le tigre"
+   ],
+   "pieges": [
+    "Seulement 2 gagnants",
+    "Il faut finir un jeu de mémoire (retrouver les paires)",
+    "3 mois minimum entre deux gains chez M6"
+   ],
+   "etapes": [
+    "Ouvre le jeu M6+",
+    "Retrouve toutes les paires du memory",
+    "Remplis le formulaire (partage Facebook facultatif)"
+   ],
+   "fin": "2026-12-13T23:59:00+01:00",
+   "finTxt": "Jusqu'au 13 déc.",
+   "desc": "Petit jeu memory gratuit de M6+ pour gagner une peluche interactive, sympa à offrir à Noël.",
+   "lien": "https://bonsplansmania.fr/go/concours-m6-furreal-gabby-tigre-13-decembre-2026",
+   "source": "https://bonsplansmania.fr/article/concours-m6-furreal-gabby-tigre-13-decembre-2026",
+   "avis": "Seulement 2 lots, donc peu de chances, mais ça se fait en 2 minutes. Idée cadeau pour un enfant de ta famille.",
+   "emoji": "🐯",
+   "fiabilite": "Article Bons Plans Mania du 24/11 (règlement M6 sur Qualifio), vérifié le 27/11"
+  },
+  {
    "acces": "tirage",
    "livre": true,
    "type": "cadeau",
@@ -16482,6 +16226,44 @@
    "fiabilite": "Radio locale officielle",
    "nouveau": false,
    "livre": false
+  },
+  {
+   "nouveau": false,
+   "gratuit": false,
+   "sansCarte": true,
+   "prix": "35,50 €",
+   "conditions": "",
+   "id": "detente-jardin-30-abonnements",
+   "acces": "tirage",
+   "livre": true,
+   "rayon": "culture",
+   "type": "cadeau",
+   "titre": "Détente Jardin : 30 abonnements d'un an au magazine à gagner",
+   "rarete": "com",
+   "cout": "0 €",
+   "coutNum": 0,
+   "qty": "30 abonnements (6 numéros + 2 hors-séries chacun)",
+   "contenu": [
+    "Abonnement 1 an Détente Jardin (35,50 €) livré chez toi"
+   ],
+   "pieges": [
+    "1 participation par foyer",
+    "Majeurs, France métropolitaine",
+    "Tu as 15 jours pour répondre au mail si tu gagnes"
+   ],
+   "etapes": [
+    "Ouvre la page du concours",
+    "Réponds à la question",
+    "Remplis le formulaire et valide"
+   ],
+   "fin": "2026-12-31T23:59:00+01:00",
+   "finTxt": "Jusqu'au 31 déc.",
+   "desc": "Tirage au sort gratuit : 30 abonnements d'un an au magazine de jardinage, livrés par la poste.",
+   "lien": "https://bonsplansmania.fr/go/concours-detente-jardin-30-abonnements-1-an-2026",
+   "source": "https://bonsplansmania.fr/article/concours-detente-jardin-30-abonnements-1-an-2026",
+   "avis": "30 gagnants, peu de monde connaît : bonnes chances. Utile seulement si tu aimes les plantes ou pour offrir.",
+   "emoji": "🌱",
+   "fiabilite": "Article Bons Plans Mania (règlement cité), page officielle non ouverte, vérifié le 27/11"
   },
   {
    "acces": "tirage",
