@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-27T13:45:00+01:00",
+ "maj": "2026-11-28T13:45:00+01:00",
  "offres": [
   {
    "id": "falloutnv",
@@ -32,6 +32,40 @@
     "Stock limité"
    ],
    "source": "https://www.ggrecon.com/articles/fallout-new-vegas-free-steam-lenovo/"
+  },
+  {
+   "id": "deadage2-gog",
+   "cat": "jeu",
+   "titre": "Dead Age 2",
+   "plateforme": "gog",
+   "via": "",
+   "genre": "RPG survie zombie",
+   "tags": [
+    "Solo",
+    "Survie",
+    "Black Friday"
+   ],
+   "acces": "direct",
+   "rarete": "epi",
+   "gratuit": true,
+   "prix": "16,99 €",
+   "fin": "2026-11-30T15:00:00+01:00",
+   "finTxt": "Jusqu'au 30 nov. 15h",
+   "nouveau": true,
+   "desc": "RPG de survie zombie au tour par tour, offert à garder sur GOG pour le Black Friday.",
+   "conditions": "Compte GOG gratuit.",
+   "pieges": [
+    "À récupérer depuis la bannière giveaway de la page d'accueil GOG avant la fin"
+   ],
+   "etapes": [
+    "Connecte-toi sur GOG.com",
+    "Sur la page d'accueil, clique sur « Add to library » dans la bannière Dead Age 2",
+    "Le jeu reste à toi (sans DRM)"
+   ],
+   "fiabilite": "Officiel (GOG)",
+   "lien": "https://www.gog.com/en/game/dead_age_2",
+   "source": "https://en.gamerpapers.com/dead-age-2-gog-free-november-30/",
+   "avis": "Pas un FPS, mais un vrai jeu payant gratuit à garder : à prendre, ça ne coûte rien."
   },
   {
    "id": "gigabash",
@@ -95,38 +129,6 @@
    "source": ""
   },
   {
-   "id": "starcitizen",
-   "cat": "essai",
-   "titre": "Star Citizen – Free Fly (IAE 2956)",
-   "plateforme": "autre",
-   "via": "",
-   "rarete": "epi",
-   "acces": "direct",
-   "gratuit": false,
-   "prix": "Pack dès ~45 $",
-   "fin": "2026-11-27T21:00:00+01:00",
-   "finTxt": "Dernier jour : jusqu'au 27 nov. au soir",
-   "nouveau": false,
-   "desc": "Le jeu spatial est jouable gratuitement pendant le salon IAE : vaisseaux à tester, combats spatiaux et FPS.",
-   "conditions": "",
-   "pieges": [],
-   "etapes": [
-    "Compte gratuit sur robertsspaceindustries.com",
-    "Dès 17h : lien Free Fly + RSI Launcher",
-    "Choisis New Babbage comme ville de départ"
-   ],
-   "fiabilite": "",
-   "lien": "https://robertsspaceindustries.com/",
-   "avis": "Gros jeu multijoueur, idéal pour voir s'il vaut le coup avant le Black Friday. Prévois ~100 Go et un bon PC.",
-   "emoji": "",
-   "genre": "Simu spatiale · FPS · MMO",
-   "tags": [
-    "Multijoueur",
-    "FPS"
-   ],
-   "source": "https://timesaver.gg/blog/star-citizen-iae-2956-schedule-free-fly-guide"
-  },
-  {
    "id": "soulframe",
    "cat": "beta",
    "titre": "Soulframe – Open Preludes",
@@ -186,6 +188,39 @@
     "Officiel"
    ],
    "source": ""
+  },
+  {
+   "id": "tinystickertale",
+   "cat": "jeu",
+   "titre": "A Tiny Sticker Tale (Android)",
+   "plateforme": "android",
+   "via": "",
+   "genre": "Aventure puzzle",
+   "tags": [
+    "Solo",
+    "Mobile"
+   ],
+   "acces": "direct",
+   "rarete": "rar",
+   "gratuit": true,
+   "prix": "3,99 $",
+   "fin": "2026-12-04T00:59:00+01:00",
+   "finTxt": "Jusqu'au 3 déc. 23h59 (heure UK)",
+   "nouveau": true,
+   "desc": "Jolie petite aventure où tu décolles et recolles des autocollants pour résoudre des énigmes, offerte sur mobile.",
+   "conditions": "",
+   "pieges": [
+    "Lien de recherche : prends bien le jeu d'Ogre Pixel affiché à 0 €"
+   ],
+   "etapes": [
+    "Ouvre le lien sur ton téléphone",
+    "Choisis A Tiny Sticker Tale",
+    "Installe-le tant qu'il est à 0 €"
+   ],
+   "fiabilite": "Vérifié (newsletter Burnt & Toast)",
+   "lien": "https://play.google.com/store/search?q=A%20Tiny%20Sticker%20Tale&c=apps",
+   "source": "https://buttondown.com/DealsBurntAndToast/archive/free-bread-and-fred-ends-thu-4pm-14-more/",
+   "avis": "Très bien noté, court et mignon : bon jeu de pause."
   },
   {
    "cat": "jeu",
@@ -567,39 +602,6 @@
    "plateforme": "android"
   },
   {
-   "cat": "beta",
-   "via": "",
-   "rarete": "rar",
-   "acces": "direct",
-   "gratuit": false,
-   "prix": "Gratuit",
-   "fin": null,
-   "finTxt": "Playtest en cours (fin non annoncée)",
-   "nouveau": true,
-   "desc": "FPS multijoueur indé free-to-play (mode battle royale en préparation) : le playtest est ouvert, bouton « Rejoindre le playtest » sur Steam.",
-   "conditions": "",
-   "pieges": [],
-   "etapes": [
-    "Ouvre la page Steam",
-    "Clique sur « Rejoindre le playtest »",
-    "Installe-le depuis ta bibliothèque"
-   ],
-   "fiabilite": "Officiel",
-   "lien": "https://store.steampowered.com/app/4624380",
-   "avis": "Nouveau FPS multi à tester gratuitement, pile ton genre.",
-   "emoji": "",
-   "genre": "FPS multijoueur",
-   "tags": [
-    "FPS",
-    "Multijoueur",
-    "Playtest"
-   ],
-   "source": "https://store.steampowered.com/app/4624380",
-   "plateforme": "steam",
-   "id": "slammer",
-   "titre": "Slammer – playtest Steam ouvert"
-  },
-  {
    "id": "arkheron",
    "cat": "avenir",
    "titre": "Arkheron – week-end gratuit de lancement",
@@ -758,6 +760,39 @@
     "Stock limité"
    ],
    "source": ""
+  },
+  {
+   "cat": "beta",
+   "via": "",
+   "rarete": "rar",
+   "acces": "direct",
+   "gratuit": false,
+   "prix": "Gratuit",
+   "fin": null,
+   "finTxt": "Playtest en cours (fin non annoncée)",
+   "nouveau": false,
+   "desc": "FPS multijoueur indé free-to-play (mode battle royale en préparation) : le playtest est ouvert, bouton « Rejoindre le playtest » sur Steam.",
+   "conditions": "",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page Steam",
+    "Clique sur « Rejoindre le playtest »",
+    "Installe-le depuis ta bibliothèque"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://store.steampowered.com/app/4624380",
+   "avis": "Nouveau FPS multi à tester gratuitement, pile ton genre.",
+   "emoji": "",
+   "genre": "FPS multijoueur",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Playtest"
+   ],
+   "source": "https://store.steampowered.com/app/4624380",
+   "plateforme": "steam",
+   "id": "slammer",
+   "titre": "Slammer – playtest Steam ouvert"
   },
   {
    "id": "pt-keys",
@@ -946,66 +981,37 @@
    "source": ""
   },
   {
-   "id": "sudokuclassic",
-   "cat": "jeu",
-   "titre": "Sudoku Classic (Android)",
-   "plateforme": "android",
-   "via": "",
-   "genre": "Réflexion",
+   "id": "gala-nov28",
+   "cat": "cle",
+   "titre": "IndieGala : My Darkest Witch, ANCIENT EVIL, Last Room",
+   "plateforme": "gala",
+   "via": "IndieGala",
+   "genre": "Indés (horreur, aventure)",
    "tags": [
-    "Mobile"
+    "Solo",
+    "Horreur"
    ],
    "acces": "direct",
    "rarete": "com",
    "gratuit": true,
-   "prix": "0,19 €",
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Jusqu'au 27 nov.",
-   "desc": "Sudoku classique, version payante offerte.",
-   "conditions": "",
-   "pieges": [],
-   "etapes": [
-    "Ouvre le Play Store",
-    "Installer"
-   ],
-   "fiabilite": "Fiable",
-   "lien": "https://play.google.com/store/apps/details?id=studio.manja.sudokuclassic",
-   "source": "Techbook (19/11/2026)",
-   "avis": "Valeur faible mais gratuit.",
-   "nouveau": false
-  },
-  {
-   "id": "soulevolve",
-   "cat": "jeu",
-   "titre": "Soul Evolve: Epic Fantasy Hero (Android)",
-   "plateforme": "android",
-   "via": "",
-   "rarete": "com",
-   "acces": "direct",
-   "gratuit": true,
-   "prix": "1,09 €",
-   "fin": "2026-11-27T23:59:00+01:00",
-   "finTxt": "Jusqu'au 27 nov.",
-   "nouveau": false,
-   "desc": "Jeu Android normalement payant (1,09 €), gratuit à garder sur le Play Store pour un temps limité.",
-   "conditions": "",
+   "prix": "jusqu'à 29,99 $",
+   "fin": null,
+   "finTxt": "Durée non précisée",
+   "nouveau": true,
+   "desc": "Trois nouveaux petits jeux à garder dans la page Freebies d'IndieGala.",
+   "conditions": "Compte IndieGala gratuit ; jeux dans le client/bibliothèque IndieGala.",
    "pieges": [
-    "Vérifie que le prix affiché est bien 0 € avant d'installer"
+    "Ce sont des jeux indés modestes"
    ],
    "etapes": [
-    "Page Play Store",
-    "« Installer » (affiché 0 €)"
+    "Ouvre freebies.indiegala.com",
+    "Connecte-toi",
+    "Clique sur le jeu puis « Add to library »"
    ],
-   "fiabilite": "Officiel",
-   "lien": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium",
-   "source": "https://www.techbook.de/mobile-lifestyle/apps/donnappstag-gratis-apps-android-kw47-2026",
-   "avis": "Prends-le sur ton téléphone : il reste dans ta bibliothèque Play Store même après.",
-   "emoji": "",
-   "genre": "RPG",
-   "tags": [
-    "Mobile",
-    "À garder"
-   ]
+   "fiabilite": "Vérifié (newsletter Burnt & Toast)",
+   "lien": "https://freebies.indiegala.com",
+   "source": "https://buttondown.com/DealsBurntAndToast/archive/free-bread-and-fred-ends-thu-4pm-14-more/",
+   "avis": "Last Room est le plus intéressant (valeur 29,99 $). À prendre en passant."
   },
   {
    "id": "watersort",
@@ -2694,6 +2700,37 @@
    "titre": "Packs cadeaux : Aniimo, Reverse: 1999, Arknights: Endfield, Neverwinter, Crystal Saga Nova"
   },
   {
+   "id": "steamf2pthanks",
+   "cat": "essai",
+   "titre": "+4 nouveaux gratuits Steam (Terminus: Day Zero, Might and Magic: The Card Game, Amber Eyes, Lavender's Potion Shop)",
+   "plateforme": "steam",
+   "via": "",
+   "genre": "Divers",
+   "tags": [
+    "Free-to-play"
+   ],
+   "acces": "direct",
+   "rarete": "com",
+   "gratuit": false,
+   "prix": "0 €",
+   "fin": null,
+   "finTxt": "Gratuits en permanence",
+   "nouveau": true,
+   "desc": "Quatre jeux sortis gratuitement sur Steam pour Thanksgiving, dont un jeu de cartes Ubisoft.",
+   "conditions": "Free-to-play (pas une promo à garder).",
+   "pieges": [
+    "Jeux gratuits en permanence, pas d'urgence"
+   ],
+   "etapes": [
+    "Cherche le jeu sur Steam",
+    "Clique sur « Jouer »"
+   ],
+   "fiabilite": "Article ScreenRant du 26 nov.",
+   "lien": "https://store.steampowered.com/search/?term=Terminus%20Day%20Zero",
+   "source": "https://screenrant.com/steam-4-free-games-thanksgiving-2026/",
+   "avis": "Rien d'indispensable ; Might and Magic: The Card Game si tu aimes les cartes."
+  },
+  {
    "cat": "pack",
    "via": "",
    "rarete": "com",
@@ -2702,7 +2739,7 @@
    "prix": "Gratuit",
    "fin": "2026-12-17T23:59:00+01:00",
    "finTxt": "Jusqu'au 17 déc.",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Événement gratuit en jeu : fais des missions en escouade pour débloquer des récompenses par paliers.",
    "conditions": "",
    "pieges": [],
@@ -2734,7 +2771,7 @@
    "prix": "Gratuit",
    "fin": null,
    "finTxt": "Fin non annoncée",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "50 Astrites, 2 potions de résonance, 2 inhalateurs, 2 sacs d'énergie et 10 000 crédits.",
    "conditions": "",
    "pieges": [],
@@ -4150,7 +4187,7 @@
    "prix": "Essai gratuit",
    "fin": "2026-11-29T23:59:00+01:00",
    "finTxt": "Jusqu'au 29 nov.",
-   "nouveau": true,
+   "nouveau": false,
    "desc": "Deux jeux jouables gratuitement ce week-end avec un Game Pass (pas de shooter cette semaine).",
    "conditions": "Game Pass Ultimate, Premium ou Essential",
    "pieges": [],
@@ -4172,39 +4209,6 @@
    "plateforme": "xbox",
    "id": "freeplaydays1126",
    "titre": "Free Play Days Xbox : Warhammer 40K Mechanicus + Little Rocket Lab"
-  },
-  {
-   "cat": "pack",
-   "via": "",
-   "rarete": "com",
-   "acces": "condition",
-   "gratuit": false,
-   "prix": "Inclus Game Pass PC / Ultimate",
-   "fin": "2026-11-30T23:59:00+01:00",
-   "finTxt": "Jusqu'au 30 nov.",
-   "nouveau": true,
-   "desc": "Charme d'arme doré offert aux abonnés EA Play.",
-   "conditions": "Game Pass PC/Ultimate ou EA Play",
-   "pieges": [],
-   "etapes": [
-    "Page Avantages en jeu Game Pass",
-    "Réclame l'avantage Apex",
-    "Récupère-le en jeu"
-   ],
-   "fiabilite": "Officiel",
-   "lien": "https://www.xbox.com/fr-FR/xbox-game-pass/in-game-benefits",
-   "avis": "Petit bonus si tu as déjà le Game Pass.",
-   "emoji": "",
-   "genre": "Battle royale FPS",
-   "tags": [
-    "FPS",
-    "Multijoueur",
-    "Game Pass"
-   ],
-   "source": "https://purexbox.com/guides/xbox-adds-more-perks-for-game-pass-members-november-2026",
-   "plateforme": "xbox",
-   "id": "apexcharmea",
-   "titre": "Apex Legends – charme d'arme « Hanging In There » (EA Play / Game Pass)"
   },
   {
    "cat": "pack",
@@ -4237,6 +4241,39 @@
    "id": "wotdrops",
    "titre": "World of Tanks – Twitch Drops Thanksgiving / Black Friday",
    "plateforme": "autre"
+  },
+  {
+   "cat": "pack",
+   "via": "",
+   "rarete": "com",
+   "acces": "condition",
+   "gratuit": false,
+   "prix": "Inclus Game Pass PC / Ultimate",
+   "fin": "2026-11-30T23:59:00+01:00",
+   "finTxt": "Jusqu'au 30 nov.",
+   "nouveau": false,
+   "desc": "Charme d'arme doré offert aux abonnés EA Play.",
+   "conditions": "Game Pass PC/Ultimate ou EA Play",
+   "pieges": [],
+   "etapes": [
+    "Page Avantages en jeu Game Pass",
+    "Réclame l'avantage Apex",
+    "Récupère-le en jeu"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.xbox.com/fr-FR/xbox-game-pass/in-game-benefits",
+   "avis": "Petit bonus si tu as déjà le Game Pass.",
+   "emoji": "",
+   "genre": "Battle royale FPS",
+   "tags": [
+    "FPS",
+    "Multijoueur",
+    "Game Pass"
+   ],
+   "source": "https://purexbox.com/guides/xbox-adds-more-perks-for-game-pass-members-november-2026",
+   "plateforme": "xbox",
+   "id": "apexcharmea",
+   "titre": "Apex Legends – charme d'arme « Hanging In There » (EA Play / Game Pass)"
   },
   {
    "id": "gpsar",
@@ -4669,97 +4706,6 @@
     "Coop",
     "Pas cher"
    ]
-  },
-  {
-   "cat": "jeu",
-   "via": "",
-   "rarete": "rar",
-   "acces": "pascher",
-   "gratuit": false,
-   "prix": "~3,30 € au lieu de 39,99 €",
-   "fin": null,
-   "finTxt": "Black Friday Fanatical (durée limitée)",
-   "nouveau": true,
-   "desc": "Édition Définitive avec tous les DLC, clé Steam.",
-   "conditions": "Payant (petit prix)",
-   "pieges": [],
-   "etapes": [
-    "Ouvre la page Fanatical",
-    "Ajoute au panier, paie, active la clé sur Steam"
-   ],
-   "fiabilite": "Officiel",
-   "lien": "https://www.fanatical.com/en/game/shadow-of-the-tomb-raider-definitive-edition",
-   "avis": "Gros jeu complet pour le prix d'un café.",
-   "emoji": "",
-   "genre": "Action-aventure",
-   "tags": [
-    "Solo"
-   ],
-   "source": "https://fanatical.com/en/black-friday",
-   "plateforme": "fanat",
-   "id": "sottr-fanat",
-   "titre": "Shadow of the Tomb Raider Definitive à -92 %"
-  },
-  {
-   "cat": "jeu",
-   "via": "",
-   "rarete": "rar",
-   "acces": "pascher",
-   "gratuit": false,
-   "prix": "~8,30 € au lieu de 57 €",
-   "fin": null,
-   "finTxt": "Black Friday Fanatical (durée limitée)",
-   "nouveau": true,
-   "desc": "Jeu de base + extension Iceborne, clé Steam, coop jusqu'à 4.",
-   "conditions": "Payant (petit prix)",
-   "pieges": [],
-   "etapes": [
-    "Ouvre la page Fanatical",
-    "Ajoute au panier, paie, active la clé sur Steam"
-   ],
-   "fiabilite": "Officiel",
-   "lien": "https://www.fanatical.com/en/game/monster-hunter-world-iceborne-master-edition",
-   "avis": "Des centaines d'heures de coop pour 8 €.",
-   "emoji": "",
-   "genre": "Action-RPG coop",
-   "tags": [
-    "Coop",
-    "Multijoueur"
-   ],
-   "source": "https://fanatical.com/en/black-friday",
-   "plateforme": "fanat",
-   "id": "mhwiceborne-fanat",
-   "titre": "Monster Hunter World: Iceborne Master Edition à -86 %"
-  },
-  {
-   "cat": "jeu",
-   "via": "",
-   "rarete": "rar",
-   "acces": "pascher",
-   "gratuit": false,
-   "prix": "~2 € au lieu de 23 €",
-   "fin": null,
-   "finTxt": "Black Friday Fanatical",
-   "nouveau": true,
-   "desc": "Clé Steam, édition complète.",
-   "conditions": "Payant (petit prix)",
-   "pieges": [],
-   "etapes": [
-    "Ouvre la page Fanatical",
-    "Paie, active sur Steam"
-   ],
-   "fiabilite": "Officiel",
-   "lien": "https://www.fanatical.com/en/game/rise-of-the-tomb-raider-20-year-celebration",
-   "avis": "2 € pour un gros jeu.",
-   "emoji": "",
-   "genre": "Action-aventure",
-   "tags": [
-    "Solo"
-   ],
-   "source": "https://fanatical.com/en/black-friday",
-   "plateforme": "fanat",
-   "id": "riseoftr-fanat2",
-   "titre": "Rise of the Tomb Raider 20 Year Celebration à -92 %"
   },
   {
    "cat": "jeu",
@@ -5222,6 +5168,97 @@
    "id": "fanatbday",
    "titre": "Fanatical Birthday Bonanza (avec Isonzo)",
    "plateforme": "fanat"
+  },
+  {
+   "cat": "jeu",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "~3,30 € au lieu de 39,99 €",
+   "fin": null,
+   "finTxt": "Black Friday Fanatical (durée limitée)",
+   "nouveau": false,
+   "desc": "Édition Définitive avec tous les DLC, clé Steam.",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page Fanatical",
+    "Ajoute au panier, paie, active la clé sur Steam"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.fanatical.com/en/game/shadow-of-the-tomb-raider-definitive-edition",
+   "avis": "Gros jeu complet pour le prix d'un café.",
+   "emoji": "",
+   "genre": "Action-aventure",
+   "tags": [
+    "Solo"
+   ],
+   "source": "https://fanatical.com/en/black-friday",
+   "plateforme": "fanat",
+   "id": "sottr-fanat",
+   "titre": "Shadow of the Tomb Raider Definitive à -92 %"
+  },
+  {
+   "cat": "jeu",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "~8,30 € au lieu de 57 €",
+   "fin": null,
+   "finTxt": "Black Friday Fanatical (durée limitée)",
+   "nouveau": false,
+   "desc": "Jeu de base + extension Iceborne, clé Steam, coop jusqu'à 4.",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page Fanatical",
+    "Ajoute au panier, paie, active la clé sur Steam"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.fanatical.com/en/game/monster-hunter-world-iceborne-master-edition",
+   "avis": "Des centaines d'heures de coop pour 8 €.",
+   "emoji": "",
+   "genre": "Action-RPG coop",
+   "tags": [
+    "Coop",
+    "Multijoueur"
+   ],
+   "source": "https://fanatical.com/en/black-friday",
+   "plateforme": "fanat",
+   "id": "mhwiceborne-fanat",
+   "titre": "Monster Hunter World: Iceborne Master Edition à -86 %"
+  },
+  {
+   "cat": "jeu",
+   "via": "",
+   "rarete": "rar",
+   "acces": "pascher",
+   "gratuit": false,
+   "prix": "~2 € au lieu de 23 €",
+   "fin": null,
+   "finTxt": "Black Friday Fanatical",
+   "nouveau": false,
+   "desc": "Clé Steam, édition complète.",
+   "conditions": "Payant (petit prix)",
+   "pieges": [],
+   "etapes": [
+    "Ouvre la page Fanatical",
+    "Paie, active sur Steam"
+   ],
+   "fiabilite": "Officiel",
+   "lien": "https://www.fanatical.com/en/game/rise-of-the-tomb-raider-20-year-celebration",
+   "avis": "2 € pour un gros jeu.",
+   "emoji": "",
+   "genre": "Action-aventure",
+   "tags": [
+    "Solo"
+   ],
+   "source": "https://fanatical.com/en/black-friday",
+   "plateforme": "fanat",
+   "id": "riseoftr-fanat2",
+   "titre": "Rise of the Tomb Raider 20 Year Celebration à -92 %"
   },
   {
    "cat": "jeu",
